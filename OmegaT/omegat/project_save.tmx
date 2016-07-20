@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changes the angular factor of the #Entity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T081709Z" creationid="MysticBoy" creationdate="20160720T081709Z">
+        <seg>改变#Entity的角度的系数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changes the console title to the specified string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T135203Z" creationid="oSilas" creationdate="20141124T135203Z">
@@ -1415,6 +1423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The angular factor vector.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T081617Z" creationid="MysticBoy" creationdate="20160720T081617Z">
+        <seg>角系数向量。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The background color is set with &lt;a0&gt;ConsoleColor()&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110924Z">
@@ -1571,6 +1587,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T033845Z" creationid="oSilas" creationdate="20141128T033845Z">
         <seg>图形原点不被调用此功能修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The entity to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T081729Z" creationid="MysticBoy" creationdate="20160720T081729Z">
+        <seg>使用该实体。</seg>
       </tuv>
     </tu>
     <tu>
