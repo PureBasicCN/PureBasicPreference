@@ -1142,6 +1142,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only one console can be opened at the same time in a PureBasic program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082346Z" creationid="MysticBoy" creationdate="20160720T082346Z">
+        <seg>只有一个控制台可以在一个的PureBasic程序同时被打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open a console window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082313Z" creationid="MysticBoy" creationdate="20160720T082313Z">
+        <seg>打开一个控制台窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overview</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T113211Z">
@@ -1194,6 +1210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082112Z" creationid="MysticBoy" creationdate="20160720T082112Z">
         <seg>如果调用Inkey()期间按下键返回一个字符串.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns a string containing the pressed character if it is a non-special key, and an empty string otherwise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082259Z" creationid="MysticBoy" creationdate="20160720T082259Z">
+        <seg>返回包含按压字符的字符串，如果它是一个非专用键，以及一个空字符串，否则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1907,6 +1931,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T042936Z" creationid="oSilas" creationdate="20150312T042936Z">
         <seg>此函数仅限高级程序员使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This function must be called before any other function of this library.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082337Z" creationid="MysticBoy" creationdate="20160720T082337Z">
+        <seg>该函数必须在这个库中的任何其他函数之前被调用。</seg>
       </tuv>
     </tu>
     <tu>
