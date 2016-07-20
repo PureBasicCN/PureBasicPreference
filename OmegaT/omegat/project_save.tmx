@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a2&gt;General Syntax Rules&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083245Z" creationid="MysticBoy" creationdate="20160720T083245Z">
+        <seg>&lt;a2&gt;常规语法规则&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a2&gt;Working with files&lt;/a2&gt;&lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151007T141440Z" creationid="oSilas" creationdate="20151007T141440Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040644Z" creationid="oSilas" creationdate="20151013T040644Z">
         <seg>设置背景色&lt;a4&gt;BackColor&lt;/a4&gt;&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a4&gt;Variables, Types and Operators&lt;/a4&gt;&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083252Z" creationid="MysticBoy" creationdate="20160720T083252Z">
+        <seg>&lt;a4&gt;变量，类型和运算符&lt;/a4&gt;&lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced Keywords</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083338Z" creationid="MysticBoy" creationdate="20160720T083338Z">
+        <seg>高级关键词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T111649Z">
@@ -802,6 +826,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T134818Z" creationid="oSilas" creationdate="20141124T134818Z">
         <seg>调用这个函数后，任何你要打印的字符都会从这个坐标开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrays, Lists &amp; Structures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083314Z" creationid="MysticBoy" creationdate="20160720T083314Z">
+        <seg>数组，列表与结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Keywords</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083303Z" creationid="MysticBoy" creationdate="20160720T083303Z">
+        <seg>基本关键词</seg>
       </tuv>
     </tu>
     <tu>
