@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3D Games &amp; Multimedia Libraries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083942Z" creationid="MysticBoy" creationdate="20160720T083942Z">
+        <seg>3D 游戏 与多媒体库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 - Red</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112419Z">
@@ -286,10 +294,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Commands Index&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083707Z" creationid="MysticBoy" creationdate="20160720T083707Z">
+        <seg>命令索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Console Index&lt;/a0&gt; - &lt;a1&gt;CloseConsole()&lt;/a1&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110829Z">
         <seg>&lt;a0&gt;Console 索引&lt;/a0&gt; - &lt;a1&gt;CloseConsole()&lt;/a1&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Define&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083419Z" creationid="MysticBoy" creationdate="20160720T083419Z">
+        <seg>&lt;a0&gt;定义&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,10 +334,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Joystick&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083823Z" creationid="MysticBoy" creationdate="20160720T083823Z">
+        <seg>&lt;a0&gt;操纵杆&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;PureBasic objects overview&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083444Z" creationid="MysticBoy" creationdate="20160720T083444Z">
+        <seg>&lt;a0&gt;PureBasic对象概述&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a10&gt;'Include' Functions&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083604Z" creationid="MysticBoy" creationdate="20160720T083604Z">
+        <seg>&lt;a10&gt;'Include' 功能&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a10&gt;BoxedGradient&lt;/a10&gt;&lt;br11&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040709Z" creationid="oSilas" creationdate="20151013T040709Z">
         <seg>矩形梯度&lt;a10&gt;BoxedGradient&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a10&gt;Clipboard&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084002Z" creationid="MysticBoy" creationdate="20160720T084002Z">
+        <seg>&lt;a10&gt;剪贴板&lt;/a10&gt;&lt;br11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +382,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a12&gt;Compiler Directives&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083552Z" creationid="MysticBoy" creationdate="20160720T083552Z">
+        <seg>&lt;a12&gt;编译器指令&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a12&gt;Console&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084009Z" creationid="MysticBoy" creationdate="20160720T084009Z">
+        <seg>&lt;a12&gt;控制台&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a12&gt;Sound&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083908Z" creationid="MysticBoy" creationdate="20160720T083908Z">
+        <seg>&lt;a12&gt;音频&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a14&gt;CircularGradient&lt;/a14&gt;&lt;br15&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040802Z" creationid="oSilas" creationdate="20151013T040802Z">
@@ -334,10 +414,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a14&gt;Compiler Functions&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083546Z" creationid="MysticBoy" creationdate="20160720T083546Z">
+        <seg>&lt;a14&gt;编译器功能&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a14&gt;Database&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084015Z" creationid="MysticBoy" creationdate="20160720T084015Z">
+        <seg>&lt;a14&gt;数据库&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a14&gt;SoundPlugin&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083913Z" creationid="MysticBoy" creationdate="20160720T083913Z">
+        <seg>&lt;a14&gt;音频插件&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a16&gt;ClipOutput&lt;/a16&gt;&lt;br17&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040825Z" creationid="oSilas" creationdate="20151013T040825Z">
         <seg>设置绘图区域&lt;a16&gt;ClipOutput&lt;/a16&gt;&lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a16&gt;Date&lt;/a16&gt;&lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084019Z" creationid="MysticBoy" creationdate="20160720T084019Z">
+        <seg>&lt;a16&gt;日期&lt;/a16&gt;&lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a18&gt;Building a DLL&lt;/a18&gt;&lt;br19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083537Z" creationid="MysticBoy" creationdate="20160720T083537Z">
+        <seg>&lt;a18&gt;构建一个DLL&lt;/a18&gt;&lt;br19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a18&gt;Debugger&lt;/a18&gt;&lt;br19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084026Z" creationid="MysticBoy" creationdate="20160720T084026Z">
+        <seg>&lt;a18&gt;调试器&lt;/a18&gt;&lt;br19&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,10 +502,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a26&gt;Several PureBasic versions at once&lt;/a26&gt;&lt;br27&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083628Z" creationid="MysticBoy" creationdate="20160720T083628Z">
+        <seg>&lt;a26&gt;同时多版本PureBasic&lt;/a26&gt;&lt;br27&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a28&gt;DrawRotatedText&lt;/a28&gt;&lt;br29&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040950Z" creationid="oSilas" creationdate="20151013T040950Z">
         <seg>绘制旋转文本&lt;a28&gt;DrawRotatedText&lt;/a28&gt;&lt;br29&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a28&gt;Migrating from an old version of PureBasic&lt;/a28&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083633Z" creationid="MysticBoy" creationdate="20160720T083633Z">
+        <seg>&lt;a28&gt;从旧版本的PureBasic的迁移&lt;/a28&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,10 +534,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a2&gt;Array&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083952Z" creationid="MysticBoy" creationdate="20160720T083952Z">
+        <seg>&lt;a2&gt;数组&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a2&gt;General Syntax Rules&lt;/a2&gt;&lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083245Z" creationid="MysticBoy" creationdate="20160720T083245Z">
         <seg>&lt;a2&gt;常规语法规则&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a2&gt;Handles and Numbers&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083459Z" creationid="MysticBoy" creationdate="20160720T083459Z">
+        <seg>&lt;a2&gt;句柄和数字&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a2&gt;Keyboard&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083839Z" creationid="MysticBoy" creationdate="20160720T083839Z">
+        <seg>&lt;a2&gt;键盘&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a2&gt;PureBasic Constants&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083714Z" creationid="MysticBoy" creationdate="20160720T083714Z">
+        <seg>&lt;a2&gt;PureBasic 常量&lt;/a2&gt;&lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,6 +670,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a4&gt;Mouse&lt;/a4&gt; &lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083830Z" creationid="MysticBoy" creationdate="20160720T083830Z">
+        <seg>&lt;a4&gt;鼠标&lt;/a4&gt; &lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a4&gt;Pointers and Memory access&lt;/a4&gt;&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083511Z" creationid="MysticBoy" creationdate="20160720T083511Z">
+        <seg>&lt;a4&gt;指针和内存访问&lt;/a4&gt;&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a4&gt;Variables, Types and Operators&lt;/a4&gt;&lt;br5&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083252Z" creationid="MysticBoy" creationdate="20160720T083252Z">
@@ -542,6 +734,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a6&gt;Data&lt;/a6&gt;&lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083519Z" creationid="MysticBoy" creationdate="20160720T083519Z">
+        <seg>&lt;a6&gt;数据&lt;/a6&gt;&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a6&gt;Music&lt;/a6&gt;&lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083844Z" creationid="MysticBoy" creationdate="20160720T083844Z">
+        <seg>&lt;a6&gt;音乐&lt;/a6&gt;&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a86&gt;SetOrigin&lt;/a86&gt;&lt;br87&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041345Z" creationid="oSilas" creationdate="20151013T041345Z">
@@ -562,6 +770,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040658Z" creationid="oSilas" creationdate="20151013T040658Z">
         <seg>绘制矩形&lt;a8&gt;Box&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a8&gt;Cipher&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083956Z" creationid="MysticBoy" creationdate="20160720T083956Z">
+        <seg>&lt;a8&gt;加密&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a8&gt;Debugger Commands&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083529Z" creationid="MysticBoy" creationdate="20160720T083529Z">
+        <seg>&lt;a8&gt;调试器命令&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a8&gt;Screen&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083848Z" creationid="MysticBoy" creationdate="20160720T083848Z">
+        <seg>&lt;a8&gt;屏幕&lt;/a8&gt;&lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1250,6 +1482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110938Z">
         <seg>参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Procedure Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083358Z" creationid="MysticBoy" creationdate="20160720T083358Z">
+        <seg>过程支持</seg>
       </tuv>
     </tu>
     <tu>
@@ -2163,6 +2403,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T135911Z" creationid="oSilas" creationdate="20141124T135911Z">
         <seg>在Windows下，控制台的标题现在启动栏和任务管理器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Various Topics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083431Z" creationid="MysticBoy" creationdate="20160720T083431Z">
+        <seg>各种主题</seg>
       </tuv>
     </tu>
     <tu>
