@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;Input()&lt;/a0&gt; - &lt;a1&gt;Console Index&lt;/a1&gt; - &lt;a2&gt;Print()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082711Z" creationid="MysticBoy" creationdate="20160720T082711Z">
+        <seg>&lt;- &lt;a0&gt;Input()&lt;/a0&gt; - &lt;a1&gt;Console 索引&lt;/a1&gt; - &lt;a2&gt;Print()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;2DDrawing Index&lt;/a0&gt; - &lt;a1&gt;AlphaBlend()&lt;/a1&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T140307Z">
@@ -1146,6 +1154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045455Z" creationid="oSilas" creationdate="20150312T045455Z">
         <seg>注： 这种模式不能与&lt;a2&gt;PrinterOutput()&lt;/a2&gt;同时工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Microsoft Windows, there are two different executable formats: Win32 and Console.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082721Z" creationid="MysticBoy" creationdate="20160720T082721Z">
+        <seg>在Microsoft Windows中，有两种不同的可执行文件格式：Win32和控制台。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2115,6 +2131,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041622Z" creationid="oSilas" creationdate="20151013T041622Z">
         <seg>是否使用alpha通道取决于 &lt;a2&gt;绘图模式&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With &lt;a3&gt;EnableGraphicalConsole()&lt;/a3&gt; the console can be switched between text and graphics mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082733Z" creationid="MysticBoy" creationdate="20160720T082733Z">
+        <seg>同&lt;a3&gt;EnableGraphicalConsole（）&lt;/a3&gt;控制台可以将文本和图形模式之间切换。</seg>
       </tuv>
     </tu>
     <tu>
