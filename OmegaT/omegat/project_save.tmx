@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;EnableManualEntityBoneControl()&lt;/a0&gt; - &lt;a1&gt;Entity Index&lt;/a1&gt; - &lt;a2&gt;EntityBonePitch()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T081358Z" creationid="MysticBoy" creationdate="20160720T081358Z">
+        <seg>&lt;- &lt;a0&gt;EnableManualEntityBoneControl()&lt;/a0&gt; - &lt;a1&gt;Entity 索引&lt;/a1&gt; - &lt;a2&gt;EntityBonePitch()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;2DDrawing Index&lt;/a0&gt; - &lt;a1&gt;AlphaBlend()&lt;/a1&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T140307Z">
