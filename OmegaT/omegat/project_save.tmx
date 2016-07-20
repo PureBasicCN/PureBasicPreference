@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If special keys (non-ASCII) have to be handled, &lt;a0&gt;RawKey()&lt;/a0&gt; should be called after Inkey().</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082235Z" creationid="MysticBoy" creationdate="20160720T082235Z">
+        <seg>如果特殊键（非ASCII）已进行处理， &lt;a0&gt;RawKey()&lt;/a0&gt;应在Inkey()之后调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If these parameters are not specified then the image will be drawn in its original size.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T050427Z" creationid="oSilas" creationdate="20151013T050427Z">
@@ -1042,6 +1050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044908Z" creationid="oSilas" creationdate="20150312T044908Z">
         <seg>它可以是下列标志的组合：&lt;br0&gt;&lt;/br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It doesn&amp;apos;t interrupt (halt) the program flow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082131Z" creationid="MysticBoy" creationdate="20160720T082131Z">
+        <seg>它不中断（停止）程序流程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1170,6 +1186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110643Z">
         <seg>返回值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns a character string if a key is pressed during the call of Inkey().</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082112Z" creationid="MysticBoy" creationdate="20160720T082112Z">
+        <seg>如果调用Inkey()期间按下键返回一个字符串.</seg>
       </tuv>
     </tu>
     <tu>
