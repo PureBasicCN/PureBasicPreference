@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If Result is 0, it has failed and all further call to console functions must be disabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082622Z" creationid="MysticBoy" creationdate="20160720T082622Z">
+        <seg>如果result 为0，表示已经失败并且必须禁止所有进一步调用到的控制台函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If special keys (non-ASCII) have to be handled, &lt;a0&gt;RawKey()&lt;/a0&gt; should be called after Inkey().</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082235Z" creationid="MysticBoy" creationdate="20160720T082235Z">
@@ -1058,6 +1066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082131Z" creationid="MysticBoy" creationdate="20160720T082131Z">
         <seg>它不中断（停止）程序流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has no effect on other OS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082446Z" creationid="MysticBoy" creationdate="20160720T082446Z">
+        <seg>它在其他操作系统中没有效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1130,6 +1146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045455Z" creationid="oSilas" creationdate="20150312T045455Z">
         <seg>注： 这种模式不能与&lt;a2&gt;PrinterOutput()&lt;/a2&gt;同时工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Windows, specifying a title allow the saving of custom console parameter, like font, color etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082420Z" creationid="MysticBoy" creationdate="20160720T082420Z">
+        <seg>在Windows中，指定一个标题允许自定义控制台参数的节能，如字体，颜色等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1591,6 +1615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The console can be closed using the &lt;a0&gt;CloseConsole()&lt;/a0&gt; function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082653Z" creationid="MysticBoy" creationdate="20160720T082653Z">
+        <seg>控制台关闭可以通过&lt;a0&gt;CloseConsole（）&lt;/a0&gt;函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The console has to be in graphical mode, see &lt;a1&gt;EnableGraphicalConsole()&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T111405Z">
@@ -1823,6 +1855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The title for the new console window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082413Z" creationid="MysticBoy" creationdate="20160720T082413Z">
+        <seg>新的控制台窗口的标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The vertical position in the console to move to (starting from 0)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T134911Z" creationid="oSilas" creationdate="20141124T134911Z">
@@ -2003,6 +2043,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T140607Z">
         <seg>光标高度值可以为0(针对隐藏鼠标)或者1至10之间。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title$ (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082358Z" creationid="MysticBoy" creationdate="20160720T082358Z">
+        <seg>Title$ (可选)</seg>
       </tuv>
     </tu>
     <tu>
