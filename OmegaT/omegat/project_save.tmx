@@ -478,10 +478,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a20&gt;Desktop&lt;/a20&gt;&lt;br21&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084115Z" creationid="MysticBoy" creationdate="20160720T084115Z">
+        <seg>&lt;a20&gt;桌面&lt;/a20&gt;&lt;br21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a22&gt;CustomGradient&lt;/a22&gt;&lt;br23&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040828Z" creationid="oSilas" creationdate="20151013T040828Z">
         <seg>自定义梯度&lt;a22&gt;CustomGradient&lt;/a22&gt;&lt;br23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a22&gt;Dialog&lt;/a22&gt;&lt;br23&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084123Z" creationid="MysticBoy" creationdate="20160720T084123Z">
+        <seg>&lt;a22&gt;对话框&lt;/a22&gt;&lt;br23&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a26&gt;File&lt;/a26&gt;&lt;br27&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084132Z" creationid="MysticBoy" creationdate="20160720T084132Z">
+        <seg>&lt;a26&gt;文件&lt;/a26&gt;&lt;br27&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a26&gt;Several PureBasic versions at once&lt;/a26&gt;&lt;br27&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083628Z" creationid="MysticBoy" creationdate="20160720T083628Z">
@@ -514,6 +538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040950Z" creationid="oSilas" creationdate="20151013T040950Z">
         <seg>绘制旋转文本&lt;a28&gt;DrawRotatedText&lt;/a28&gt;&lt;br29&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a28&gt;FileSystem&lt;/a28&gt;&lt;br29&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084139Z" creationid="MysticBoy" creationdate="20160720T084139Z">
+        <seg>&lt;a28&gt;文件系统&lt;/a28&gt;&lt;br29&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a32&gt;Font&lt;/a32&gt;&lt;br33&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084144Z" creationid="MysticBoy" creationdate="20160720T084144Z">
+        <seg>&lt;a32&gt;字体&lt;/a32&gt;&lt;br33&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a34&gt;DrawingBufferPitch&lt;/a34&gt;&lt;br35&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041010Z" creationid="oSilas" creationdate="20151013T041010Z">
@@ -606,10 +646,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a34&gt;Gadget&lt;/a34&gt;&lt;br35&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084152Z" creationid="MysticBoy" creationdate="20160720T084152Z">
+        <seg>&lt;a34&gt;控件&lt;/a34&gt;&lt;br35&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a36&gt;DrawingBufferPixelFormat&lt;/a36&gt;&lt;br37&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041019Z" creationid="oSilas" creationdate="20151013T041019Z">
         <seg>图形缓冲区像素格式&lt;a36&gt;DrawingBufferPixelFormat&lt;/a36&gt;&lt;br37&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a36&gt;Help&lt;/a36&gt;&lt;br37&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084159Z" creationid="MysticBoy" creationdate="20160720T084159Z">
+        <seg>&lt;a36&gt;帮助&lt;/a36&gt;&lt;br37&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1202,6 +1258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T041541Z" creationid="oSilas" creationdate="20141128T041541Z">
         <seg>绘制图像使用alpha混合当前绘图输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing features</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084247Z" creationid="MysticBoy" creationdate="20160720T084247Z">
+        <seg>编辑功能</seg>
       </tuv>
     </tu>
     <tu>
