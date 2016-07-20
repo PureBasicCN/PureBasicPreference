@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b23&gt;Help Tool&lt;/b23&gt; &lt;br24&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080423Z" creationid="Silas" creationdate="20160720T080423Z">
+        <seg>&lt;b23&gt;帮助工具&lt;/b23&gt; &lt;br24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b2&gt;Run only one Instance&lt;/b2&gt; &lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T051040Z" creationid="oSilas" creationdate="20151013T051040Z">
@@ -594,6 +602,14 @@
 &lt;f9&gt;      PrintN&lt;/f9&gt;("按回车键关闭控制台")
 &lt;f10&gt;      Input&lt;/f10&gt;()
 &lt;f11&gt;      CloseConsole&lt;/f11&gt;()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b6&gt;Automatically hide the Panel&lt;/b6&gt; &lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080457Z" creationid="Silas" creationdate="20160720T080457Z">
+        <seg>&lt;b6&gt;自动隐藏面板&lt;/b6&gt; &lt;br7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,6 +1002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T042332Z" creationid="oSilas" creationdate="20141122T042332Z">
         <seg>如果你的程序的目的是成为一个纯粹的控制台应用程序（即不是有时打开一个控制台的GUI应用程序），那么你一定要记得当你编译你的程序时设置可执行格式为“控制台”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import/Export</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080512Z" creationid="Silas" creationdate="20160720T080512Z">
+        <seg>导入/导出</seg>
       </tuv>
     </tu>
     <tu>
@@ -1923,6 +1947,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045420Z" creationid="oSilas" creationdate="20150312T045420Z">
         <seg>要使用的几种方式你一次，必须使用 ' |'(OR) 运算符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools panel - Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080440Z" creationid="Silas" creationdate="20160720T080440Z">
+        <seg>工具栏- 选项</seg>
       </tuv>
     </tu>
     <tu>
