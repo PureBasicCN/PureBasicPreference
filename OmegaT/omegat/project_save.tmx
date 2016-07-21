@@ -6,6 +6,38 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>- 486, Pentium, Core2, Core i7, Athlon, Phenom support&lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111154Z" creationid="MysticBoy" creationdate="20160721T111154Z">
+        <seg>-  支持486，奔腾，酷睿，酷睿i7，速龙，羿(Phenom)&lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Built-in arrays, linked lists, maps, complex structures, pointers and variable definitions&lt;br14&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111217Z" creationid="MysticBoy" creationdate="20160721T111217Z">
+        <seg>- 内置数组，链表，映射，复杂的结构，指针变量定义&lt;br14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Built-in string types (characters) and transparent unicode support&lt;br16&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111313Z" creationid="MysticBoy" creationdate="20160721T111313Z">
+        <seg>- 内置字符串类型（字符）和透明的Unicode支持&lt;br16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Supported types: Byte (8 bit), Word (16 bit), Long (32 bit), Float (32 bit), Quad (64 bit), Double (64 bit) and also user defined types (structures)&lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111252Z" creationid="MysticBoy" creationdate="20160721T111252Z">
+        <seg>- 支持类型: Byte (8 bit), Word (16 bit), Long (32 bit), Float (32 bit), Quad (64 bit), Double (64 bit) 并且也支持用户自定义类型 (结构)&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 - Blue</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112340Z">
@@ -906,6 +938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105259Z" creationid="MysticBoy" creationdate="20160721T105259Z">
         <seg>&lt;b0&gt;PureBasic 资源&lt;/b0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b10&gt;Technical Features&lt;/b10&gt;&lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111125Z" creationid="MysticBoy" creationdate="20160721T111125Z">
+        <seg>&lt;b10&gt;技术特点&lt;/b10&gt;&lt;br11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2412,6 +2452,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T110038Z" creationid="MysticBoy" creationdate="20160721T110038Z">
         <seg>经验丰富的程序员可以毫不费力的使用OS中的结构或API对象。&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The external libraries are very optimized, up to the assembler level when needed, which produces very fast and small commands.&lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111119Z" creationid="MysticBoy" creationdate="20160721T111119Z">
+        <seg>外部库经过充分的优化，在必要时达到了汇编的水平，生成非常快且更少的指令。&lt;br7&gt;</seg>
       </tuv>
     </tu>
     <tu>
