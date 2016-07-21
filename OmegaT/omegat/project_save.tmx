@@ -2632,6 +2632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are no bottlenecks like a virtual machine or a code translator: the generated code produces highly optimized executables regardless of the OS on which it is compiled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T110839Z" creationid="MysticBoy" creationdate="20160721T110839Z">
+        <seg>这样就没有类似虚拟机或者代码解释器之类的性能瓶颈，生成的代码都针对这个操作系统编译的高度优化后的可执行文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These functions are useful to perform &lt;a1&gt;Drawing operations&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T135003Z">
