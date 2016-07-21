@@ -1878,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic is a portable programming language which currently run on AmigaOS (680x0 and PowerPC) Windows (x86 and x64), Linux (x86 and x64) and MacOS X (x86 and PowerPC).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T110259Z" creationid="MysticBoy" creationdate="20160721T110259Z">
+        <seg>PureBasic是一个能够在 AmigaOS（680X0和PowerPC），Windows（x86和x64），Linux操作系统（x86和x64）和MacOS X（x86和PowerPC）上可便携式的编程语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic is a programming language based on established BASIC rules</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054204Z" creationid="MysticBoy" creationdate="20160721T054204Z">
@@ -2395,6 +2403,15 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T081729Z" creationid="MysticBoy" creationdate="20160720T081729Z">
         <seg>使用该实体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note> </note>
+      <tuv lang="EN-US">
+        <seg>The experienced coder will have no problem in gaining access to any of the legal OS structures or API objects.&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T110038Z" creationid="MysticBoy" creationdate="20160721T110038Z">
+        <seg>经验丰富的程序员可以毫不费力的使用OS中的结构或API对象。&lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
