@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054519Z" creationid="MysticBoy" creationdate="20160721T054519Z">
+        <seg>介绍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be a combination of the following flags: &lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044908Z" creationid="oSilas" creationdate="20150312T044908Z">
@@ -1562,6 +1570,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083358Z" creationid="MysticBoy" creationdate="20160720T083358Z">
         <seg>过程支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pure Basic : Introduction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054507Z" creationid="MysticBoy" creationdate="20160721T054507Z">
+        <seg>Pure Basic : 介绍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pure Basic : News</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054523Z" creationid="MysticBoy" creationdate="20160721T054523Z">
+        <seg>Pure Basic : 新闻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pure Basic : optimized basic compiler</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054455Z" creationid="MysticBoy" creationdate="20160721T054455Z">
+        <seg>Pure Basic : 已优化的BASIC编译器</seg>
       </tuv>
     </tu>
     <tu>
@@ -2539,6 +2571,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141438Z">
         <seg>向程序的标准错误输出中写入一个字符串(具有换行符)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>purebasic,PUREBASIC,pure basic,PURE BASIC,basic,BASIC,compiler,COMPILER,language,LANGUAGE,programming,PROGRAMMING,optimized,OPTIMIZED,easy,EASY,programming language,basic programming language,basic compiler,BASIC COMPILER,visual basic compiler,easy programming language,optimized programming language, games, applications, game, application, buy, ordering, order, Fantaisie Software,pic basic compiler,c compiler,c++ compiler,compilers,qbasic compiler,asm,computer programming,c programming,game programming,programming languages,c,c++,java,visual c++,linux,windows,nt,VisualC++,LccWin32,VisualBasic,visual basic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054424Z" creationid="MysticBoy" creationdate="20160721T054424Z">
+        <seg>purebasic,PUREBASIC,pure basic,PURE BASIC,basic,BASIC,compiler,COMPILER,language,LANGUAGE,programming,PROGRAMMING,optimized,OPTIMIZED,easy,EASY,programming language,basic编程语言,basic compiler,BASIC COMPILER,visual basic 比哪一期,简易编程语言,经过优化的贬称该语言, games, 应用程序, 游戏, 应用, buy, ordering, 订单, Fantaisie Software,pic basic 编译器,c 编译器,c++ 编译器,编译器,qbasic 编译器,asm,计算机 编程,c 编程,游戏编程,编程语言,c,c++,java,visual c++,linux,windows,nt,VisualC++,LccWin32,VisualBasic,visual basic</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
