@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ordering</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054904Z" creationid="MysticBoy" creationdate="20160721T054904Z">
+        <seg>订购</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overview</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T113211Z">
@@ -1654,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pure Basic : Ordering !</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054857Z" creationid="MysticBoy" creationdate="20160721T054857Z">
+        <seg>Pure Basic : 订购 !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pure Basic : Screenshots</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054603Z" creationid="MysticBoy" creationdate="20160721T054553Z">
@@ -1694,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pure Basic compiler : users opinions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054948Z" creationid="MysticBoy" creationdate="20160721T054948Z">
+        <seg>Pure Basic 编译器︰ 用户意见</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic - Feel The Pure Power.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T053730Z" creationid="MysticBoy" creationdate="20160721T053730Z">
@@ -1706,6 +1730,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T053643Z" creationid="MysticBoy" creationdate="20160721T053643Z">
         <seg>PureBasic︰ 本机编译器，简单且已游湖阿德 BASIC 编程语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic is a native 32-bit and 64-bit programming language based on established BASIC rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055010Z" creationid="MysticBoy" creationdate="20160721T055010Z">
+        <seg>PureBasic 是基于既定的BASIC规则本机 32 位和 64 位编程语言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2271,6 +2303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The key features of PureBasic are portability (Windows, Linux and MacOS X are currently supported), the production of very fast and highly optimized executables and, of course, the very simple BASIC syntax.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055114Z" creationid="MysticBoy" creationdate="20160721T055114Z">
+        <seg>PureBasic 的主要特点是可移植性 （Windows、 Linux 和 MacOS X 目前均支持），生成非常快速和高度优化的可执行文件，当然，BASIC也语法非常简单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The location at which to apply the current &lt;a0&gt;background color&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041759Z" creationid="oSilas" creationdate="20141122T041759Z">
@@ -2691,6 +2731,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054714Z" creationid="MysticBoy" creationdate="20160721T054714Z">
         <seg>BASIC编程网络语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optimized programming language</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054918Z" creationid="MysticBoy" creationdate="20160721T054918Z">
+        <seg>已优化的编程语言</seg>
       </tuv>
     </tu>
     <tu>
