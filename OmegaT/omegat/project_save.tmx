@@ -2767,6 +2767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This software has been developed for the Windows operating system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105415Z" creationid="MysticBoy" creationdate="20160721T105415Z">
+        <seg>这个软件已经开发了用于Windows操作系统版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This value can be zero (for an invisible cursor) or range from 1 to 10 for the height of the cursor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T140607Z">
@@ -2843,6 +2851,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083431Z" creationid="MysticBoy" creationdate="20160720T083431Z">
         <seg>各种主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have put a lot of effort into its realization to produce a fast, reliable and system friendly language.&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105534Z" creationid="MysticBoy" creationdate="20160721T105534Z">
+        <seg>我们投入大量的精力来研发快速、 可靠的系统友好语言及其实现。.&lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
