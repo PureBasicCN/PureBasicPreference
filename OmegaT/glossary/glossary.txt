@@ -6,3 +6,4 @@ Syntax	语法
 Inkey()	Inkey()
 BASIC	BASIC
 Team Blog	团队博客 
+Bug-fix 	BUG修复
