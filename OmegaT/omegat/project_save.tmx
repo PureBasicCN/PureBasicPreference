@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pure Basic compiler news</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104153Z" creationid="MysticBoy" creationdate="20160721T104153Z">
+        <seg>Pure BASIC 编译器新闻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic - Feel The Pure Power.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T053730Z" creationid="MysticBoy" creationdate="20160721T053730Z">
@@ -2859,6 +2867,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054539Z" creationid="MysticBoy" creationdate="20160721T054539Z">
         <seg>visual basic 编译器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  - Bug-fix release&lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104418Z" creationid="MysticBoy" creationdate="20160721T104349Z">
+        <seg>  - BUG修复发行版&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  - Fixed some compiler and libraries bugs&lt;b16&gt;   &lt;a17&gt;&lt;i18&gt;&lt;/a17&gt;&lt;/b16&gt;&lt;br19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104433Z" creationid="MysticBoy" creationdate="20160721T104433Z">
+        <seg> -  修正了一些编译器和库的bug&lt;b16&gt;&lt;a17&gt;&lt;i18&gt;&lt;/a17&gt;&lt;/b16&gt;&lt;br19&gt;</seg>
       </tuv>
     </tu>
     <tu>
