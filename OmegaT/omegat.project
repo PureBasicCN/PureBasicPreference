@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <omegat>
     <project version="1.0">
-        <source_dir>../help</source_dir>
-        <target_dir>../help_cn</target_dir>
+        <source_dir>../source_dir</source_dir>
+        <target_dir>../target_dir</target_dir>
         <tm_dir>__DEFAULT__</tm_dir>
         <glossary_dir>__DEFAULT__</glossary_dir>
         <glossary_file>__DEFAULT__</glossary_file>
