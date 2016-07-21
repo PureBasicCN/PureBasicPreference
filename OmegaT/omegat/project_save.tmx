@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By the same author, discover the new web client-side programming language&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054739Z" creationid="MysticBoy" creationdate="20160721T054739Z">
+        <seg>相同的作者, discover the new web client-side programming language&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the colors used by the text display.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112047Z">
@@ -1198,6 +1206,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cost per copy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054656Z" creationid="MysticBoy" creationdate="20160721T054656Z">
+        <seg>每个副本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Country</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054640Z" creationid="MysticBoy" creationdate="20160721T054640Z">
+        <seg>国家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Currently, 3 values are available:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T140641Z">
@@ -1226,6 +1250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110627Z">
         <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054544Z" creationid="MysticBoy" creationdate="20160721T054544Z">
+        <seg>下载</seg>
       </tuv>
     </tu>
     <tu>
@@ -1446,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Links</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054624Z" creationid="MysticBoy" creationdate="20160721T054624Z">
+        <seg>链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044829Z" creationid="oSilas" creationdate="20150312T044829Z">
@@ -1466,6 +1506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T134709Z" creationid="oSilas" creationdate="20141124T134709Z">
         <seg>使用字符坐标移动光标到指定的位置。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>News</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054532Z" creationid="MysticBoy" creationdate="20160721T054532Z">
+        <seg>新闻</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,10 +1622,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pure Basic : Download</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054549Z" creationid="MysticBoy" creationdate="20160721T054549Z">
+        <seg>Pure Basic : 下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pure Basic : Introduction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054507Z" creationid="MysticBoy" creationdate="20160721T054507Z">
         <seg>Pure Basic : 介绍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pure Basic : Links</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054635Z" creationid="MysticBoy" creationdate="20160721T054635Z">
+        <seg>Pure Basic : 链接</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,10 +1654,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pure Basic : Screenshots</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054603Z" creationid="MysticBoy" creationdate="20160721T054553Z">
+        <seg>Pure Basic : 截图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pure Basic : Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054607Z" creationid="MysticBoy" creationdate="20160721T054607Z">
+        <seg>Pure Basic : 支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pure Basic : optimized basic compiler</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054455Z" creationid="MysticBoy" creationdate="20160721T054455Z">
         <seg>Pure Basic : 已优化的BASIC编译器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pure Basic : support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054702Z" creationid="MysticBoy" creationdate="20160721T054702Z">
+        <seg>Pure Basic : 支持</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screenshots</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054558Z" creationid="MysticBoy" creationdate="20160721T054558Z">
+        <seg>截图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Also</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110759Z">
@@ -1818,6 +1914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040735Z" creationid="oSilas" creationdate="20141128T040735Z">
         <seg>指定将要求每个像素是在绘图操作的一部分回调&lt;f0&gt;＃PB_2DDrawing_CustomFilter&lt;/f0&gt;&lt;a1&gt;绘图模式&lt;/a1&gt;。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054613Z" creationid="MysticBoy" creationdate="20160721T054613Z">
+        <seg>支持</seg>
       </tuv>
     </tu>
     <tu>
@@ -2575,10 +2679,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>based on established BASIC rules on &lt;a1&gt;spiderbasic.com&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054811Z" creationid="MysticBoy" creationdate="20160721T054811Z">
+        <seg>基于BASIC准则 详情点击&lt;a1&gt;spiderbasic.com&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>basic programming web language</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054714Z" creationid="MysticBoy" creationdate="20160721T054714Z">
+        <seg>BASIC编程网络语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>purebasic,PUREBASIC,pure basic,PURE BASIC,basic,BASIC,compiler,COMPILER,language,LANGUAGE,programming,PROGRAMMING,optimized,OPTIMIZED,easy,EASY,programming language,basic programming language,basic compiler,BASIC COMPILER,visual basic compiler,easy programming language,optimized programming language, games, applications, game, application, buy, ordering, order, Fantaisie Software,pic basic compiler,c compiler,c++ compiler,compilers,qbasic compiler,asm,computer programming,c programming,game programming,programming languages,c,c++,java,visual c++,linux,windows,nt,VisualC++,LccWin32,VisualBasic,visual basic</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054424Z" creationid="MysticBoy" creationdate="20160721T054424Z">
         <seg>purebasic,PUREBASIC,pure basic,PURE BASIC,basic,BASIC,compiler,COMPILER,language,LANGUAGE,programming,PROGRAMMING,optimized,OPTIMIZED,easy,EASY,programming language,basic编程语言,basic compiler,BASIC COMPILER,visual basic 比哪一期,简易编程语言,经过优化的贬称该语言, games, 应用程序, 游戏, 应用, buy, ordering, 订单, Fantaisie Software,pic basic 编译器,c 编译器,c++ 编译器,编译器,qbasic 编译器,asm,计算机 编程,c 编程,游戏编程,编程语言,c,c++,java,visual c++,linux,windows,nt,VisualC++,LccWin32,VisualBasic,visual basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>visual basic compiler</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054539Z" creationid="MysticBoy" creationdate="20160721T054539Z">
+        <seg>visual basic 编译器</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
