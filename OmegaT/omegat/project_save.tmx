@@ -1302,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fantaisie Software Official WebSite.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T053654Z" creationid="MysticBoy" creationdate="20160721T053654Z">
+        <seg>Fantaisie Software 官方网站.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For an example of how the drawing buffer can be used to create a nice visual effect, take a look here:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043043Z" creationid="oSilas" creationdate="20150312T043043Z">
@@ -1562,6 +1570,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151007T141339Z" creationid="oSilas" creationdate="20151007T141339Z">
         <seg>Pure Basic 参考手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic - Feel The Pure Power.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T053730Z" creationid="MysticBoy" creationdate="20160721T053730Z">
+        <seg>PureBasic - 体验纯粹的强大.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic : Native compiler, easy &amp; optimized BASIC programming language</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T053643Z" creationid="MysticBoy" creationdate="20160721T053643Z">
+        <seg>PureBasic︰ 本机编译器，简单且已游湖阿德 BASIC 编程语言</seg>
       </tuv>
     </tu>
     <tu>
