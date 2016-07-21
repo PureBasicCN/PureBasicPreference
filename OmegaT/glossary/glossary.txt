@@ -4,3 +4,4 @@ current output	当前输出
 Syntax	语法
 2DDrawing Index	2DDrawing 目录
 Inkey()	Inkey()
+BASIC	BASIC
