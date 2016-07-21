@@ -1,0 +1,82 @@
+<html><head><title>NodeAnimation.pb</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;   PureBasic - NodeAnimation
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;    (c) Fantaisie Software
+</font><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;An example of using AnimationTracks To make a node smoothly 
+</font><font color="#3A3966">;follow a predefined path With spline interpolation.
+
+</font><b><font color="#3A3966">IncludeFile</font></b> <font color="#924B72">#PB_Compiler_Home</font> + &quot;examples/3d/Screen3DRequester.pb&quot;
+
+<b><font color="#3A3966">Declare</font></b> <font color="#3A3966">AddPath</font>(NodeAnimation)
+<b><font color="#3A3966">Define</font></b>.f Duration = 10000, Time = Duration / 4
+
+<b><font color="#3A3966">If</font></b> <font color="#3A3966">InitEngine3D</font>()
+  
+<font color="#3A3966">  InitSprite</font>()
+<font color="#3A3966">  InitKeyboard</font>()
+<font color="#3A3966">  InitMouse</font>()
+  
+  <b><font color="#3A3966">If</font></b> <font color="#3A3966">Screen3DRequester</font>()
+<font color="#3A3966">    Add3DArchive</font>(<font color="#924B72">#PB_Compiler_Home</font> + &quot;examples/3d/Data&quot;                , <font color="#924B72">#PB_3DArchive_FileSystem</font>)    
+<font color="#3A3966">    Add3DArchive</font>(<font color="#924B72">#PB_Compiler_Home</font> + &quot;examples/3d/Data/Textures&quot;        , <font color="#924B72">#PB_3DArchive_FileSystem</font>)
+<font color="#3A3966">    Add3DArchive</font>(<font color="#924B72">#PB_Compiler_Home</font> + &quot;examples/3d/Data/Models&quot;          , <font color="#924B72">#PB_3DArchive_FileSystem</font>)
+<font color="#3A3966">    Add3DArchive</font>(<font color="#924B72">#PB_Compiler_Home</font> + &quot;examples/3d/Data/Scripts&quot;         , <font color="#924B72">#PB_3DArchive_FileSystem</font>)
+<font color="#3A3966">    Add3DArchive</font>(<font color="#924B72">#PB_Compiler_Home</font> + &quot;examples/3d/Data/Packs/desert.zip&quot;, <font color="#924B72">#PB_3DArchive_Zip</font>)
+<font color="#3A3966">    Parse3DScripts</font>()
+    
+    <font color="#3A3966">;- Barrel
+</font><font color="#3A3966">    CreateEntity</font>(1,<font color="#3A3966"> LoadMesh</font>(1, &quot;Barrel.mesh&quot;), <font color="#924B72">#PB_Material_None</font>)
+<font color="#3A3966">    ScaleEntity</font>(1, 9, 9, 9)
+    
+    <font color="#3A3966">;- Camera
+</font><font color="#3A3966">    CreateCamera</font>(0, 0, 0, 100, 100)
+    
+    <font color="#3A3966">;- Node
+</font><font color="#3A3966">    CreateNode</font>(0)
+<font color="#3A3966">    AttachNodeObject</font>(0,<font color="#3A3966"> CameraID</font>(0))
+    
+    <font color="#3A3966">;- Light
+</font><font color="#3A3966">    AmbientColor</font>(<font color="#3A3966">RGB</font>(75, 75, 75))
+<font color="#3A3966">    CreateLight</font>(0,<font color="#3A3966"> RGB</font>(235, 253, 126), -750, 750, -750)
+    
+    <font color="#3A3966">;- SkyBox
+</font><font color="#3A3966">    SkyBox</font>(&quot;desert07.jpg&quot;)
+    
+    <font color="#3A3966">;- NodeAnimation 
+</font>    NodeAnimation =<font color="#3A3966"> CreateNodeAnimation</font>(<font color="#924B72">#PB_Any</font>,<font color="#3A3966"> NodeID</font>(0), Duration, <font color="#924B72">#PB_NodeAnimation_Spline</font>, <font color="#924B72">#PB_NodeAnimation_LinearRotation</font>)
+        
+<font color="#3A3966">    CreateNodeAnimationKeyFrame</font>(NodeAnimation, Time * 0,  200,   0,    0)<font color="#3A3966">; key 0
+</font><font color="#3A3966">    CreateNodeAnimationKeyFrame</font>(NodeAnimation, Time * 1,    0, -50,  100)<font color="#3A3966">; key 1
+</font><font color="#3A3966">    CreateNodeAnimationKeyFrame</font>(NodeAnimation, Time * 2, -500, 100,    0)<font color="#3A3966">; key 2
+</font><font color="#3A3966">    CreateNodeAnimationKeyFrame</font>(NodeAnimation, Time * 3,    0, 200, -300)<font color="#3A3966">; key 3
+</font><font color="#3A3966">    CreateNodeAnimationKeyFrame</font>(NodeAnimation, Time * 4,  200,   0,    0)<font color="#3A3966">; key 4
+</font>    
+<font color="#3A3966">    StartNodeAnimation</font>(NodeAnimation)
+    
+    <b><font color="#3A3966">Repeat</font></b>
+<font color="#3A3966">      Screen3DEvents</font>()
+      
+<font color="#3A3966">      ExamineKeyboard</font>()
+<font color="#3A3966">      AddNodeAnimationTime</font>(NodeAnimation, TimeSinceLastFrame)
+<font color="#3A3966">      CameraLookAt</font>(0,<font color="#3A3966"> EntityX</font>(1),<font color="#3A3966"> EntityY</font>(1),<font color="#3A3966"> EntityZ</font>(1))
+      
+      TimeSinceLastFrame =<font color="#3A3966"> RenderWorld</font>()
+<font color="#3A3966">      FlipBuffers</font>()
+      
+    <b><font color="#3A3966">Until</font></b> <font color="#3A3966">KeyboardPushed</font>(<font color="#924B72">#PB_Key_Escape</font>)   
+    
+    <b><font color="#3A3966">End</font></b> 
+    
+  <b><font color="#3A3966">EndIf</font></b> 
+<b><font color="#3A3966">Else</font></b>
+<font color="#3A3966">  MessageRequester</font>(&quot;Error&quot;,&quot;Can't initialize engine3D&quot;)
+<b><font color="#3A3966">EndIf</font></b> 
+</font></pre>
+</body></html>

@@ -1,0 +1,503 @@
+
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>PureBasic : Native compiler, easy & optimized BASIC programming language</TITLE>
+
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+
+  <meta name="google-site-verification" content="zti3YNYE1fvfAUZxJmB9tv_1gYEBNbl2fapbpBeJxa4" />
+
+        <META NAME="language" content="en">
+      <META HTTP-EQUIV="Content-Language" content="en">
+
+  <META NAME="Description" CONTENT="Fantaisie Software Official WebSite. PureBasic - Feel The Pure Power. PureBasic is a programming language based on established BASIC rules">
+  <META NAME="abstract" CONTENT="Fantaisie Software Official WebSite. PureBasic - Feel The Pure Power. PureBasic is a programming language based on established BASIC rules">
+  <META NAME="Keywords" CONTENT="purebasic,PUREBASIC,pure basic,PURE BASIC,basic,BASIC,compiler,COMPILER,language,LANGUAGE,programming,PROGRAMMING,optimized,OPTIMIZED,easy,EASY,programming language,basic programming language,basic compiler,BASIC COMPILER,visual basic compiler,easy programming language,optimized programming language, games, applications, game, application, buy, ordering, order, Fantaisie Software,pic basic compiler,c compiler,c++ compiler,compilers,qbasic compiler,asm,computer programming,c programming,game programming,programming languages,c,c++,java,visual c++,linux,windows,nt,VisualC++,LccWin32,VisualBasic,visual basic">
+  <META NAME="Identifier-URL" CONTENT="http://www.purebasic.com">
+  <META NAME="Robots" CONTENT="index,follow,all">
+  <META NAME="revisit-after" CONTENT="2 days">
+  <META NAME="Reply-to" CONTENT="webmaster@purebasic.com">
+  <META NAME="Author" CONTENT="purebasic (webmaster@purebasic.com), Frederic Laboureur, Frédéric Laboureur, Yann Vanlerberghe, Alphasnd, Alphasound, Fantaisie Software ">
+  <META NAME="publisher" content="Fantaisie Software">
+  <META NAME="copyright" content="Fantaisie Software">
+  <META NAME="rating" content="General">
+  <META NAME="distribution" content="global">
+  <META NAME="Category" CONTENT="software,computers,programming,compilers,languages,basic">
+  <META NAME="date-creation-yyyymmdd" content="20000909">
+
+  <STYLE type="text/css">
+
+    .pagebody
+    {
+      font-family: Verdana, sans-serif; font-size: 13px;
+      line-height: 1.5;
+      color: #000000;
+    }
+
+    .pagefooter
+    {
+      font-family: Verdana, sans-serif; font-size: 11px;
+      color: #FFFFFF;
+    }
+
+    .usercomments
+    {
+      font-family: Verdana, sans-serif; font-size: 13px;
+      line-height: 1.5;
+      color: #EFF1F0;
+    }
+
+    A.nav:link {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none }
+    A.nav:visited {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none}
+    A.nav:hover {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: underline}
+
+    A.nav_footer:link {font-family: Verdana, sans-serif; font-size: 11px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none }
+    A.nav_footer:visited {font-family: Verdana, sans-serif; font-size: 11px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none}
+    A.nav_footer:hover {font-family: Verdana, sans-serif; font-size: 11px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: underline}
+
+    
+    .keywords {font-size: 13px; font-weight: normal; font-family: Verdana, sans-serif; line-height: 1.5; }
+    .keywordsbold {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; }
+
+    INPUT
+    {
+      font: 10pt Verdana, Arial;
+      color : #000000;
+      background-color : #FFFFFF;
+    }
+
+    .textform
+    {
+      font-size: 10pt;
+      color: #000000;
+      font-family: Verdana, Arial;
+    }
+    
+    /* These 2 styles are needed to have a perfect rendering of tables border (solid color) on
+       IE and FireFox
+     */
+    table.MainTable
+    {
+      border:2px solid #5A6986;
+    }    
+
+    td.Tabs
+    {
+      border-bottom:2px solid #5A6986;
+    }
+
+    /* Here is our trick to remove a line of a TD
+     */
+    /*.topborder {
+    border-top: 1px solid #EFF1F0;
+    }*/
+
+    img.flagBorder {
+      border: 0px solid #CCCCCC;
+    }
+    
+    tr.ShadowBody
+    {
+      height:8px;
+      background: url(/images/shadow_bottom_body.png);
+      background-repeat: repeat-x;
+    }
+
+    tr.ShadowFooter
+    {
+      height:8px;
+      background: url(/images/shadow_bottom_footer.png);
+      background-repeat: repeat-x;
+    }
+
+  </STYLE>
+
+  
+  
+  
+</HEAD>
+
+<!-- HEADER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+<BODY bgColor="White">
+
+<table width="900" class="MainTable" border="0" cellspacing="0" cellpadding="0" align="center" id="language">
+    <TR bgColor="#999999" id="basic">
+        <td colspan="2" align="left" nowrap bgcolor="#5A6986" id="visual">
+            <table width=100% border="0" cellpadding="0" cellspacing="0" id="compiler">
+                <tr>
+                    <td rowspan="2" id="compiler">
+                      <IMG id="visual" name="basic" alt="Pure Basic : optimized basic compiler" border=0 height=68 src="images/logopb.gif" width=381>
+                    </td>
+
+                    <td valign="top" id="basic"><div align="right" id="compiler"><font class="pagebody" color="#FFFFFF">
+                      
+                      <table border="0" cellspacing="0" cellpadding="1">
+                        <tr>
+                          <!-- <td width=20 > <A class="nav" style="COLOR: #FFFFFF" href="/german/ordering.php"><img class="flagBorder" src=/images/de.png ></a></td> --> 
+                          <td> <A class="nav" style="COLOR: #FFFFFF" href="german/ordering.htm">Deutsch</a>&nbsp;&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <!-- <td width=20> <A class="nav" style="COLOR: #FFFFFF" href="/french/ordering.php"><img class="flagBorder" src=/images/fr.png ></a></td> --> 
+                          <td> <A class="nav" style="COLOR: #FFFFFF" href="french/ordering.htm">Francais</a>&nbsp;&nbsp;</td>
+                        </tr>
+                      </table>
+
+                    </font></div></td>
+                </tr>
+                <tr>
+                  <td width="100%" height="46"></td>
+                </tr>
+            </table>
+        </td>
+    </TR>
+    <TR>
+    <TD class="Tabs" colspan="2">
+         <TABLE width="100%" border="0" cellspacing="0" cellpadding="0" id="language">
+             <TR id="optimized">
+
+            <td width="15%" height="26" align="center" bgcolor= "#FFFFFF" id="easy"><A class="nav" href="index.htm" title="Pure Basic : Introduction">Introduction</a></td>
+            <td width="1" bgcolor="#999999" id="compiler"><IMG id="visual" name="basic" alt="visual basic compiler" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="basic"><A class="nav" href="news.htm" title="Pure Basic : News">News</a></td>
+            <td width="1" bgcolor="#999999" id="compiler"><IMG id="visual" name="basic" alt="visual basic compiler" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="optimized"><A class="nav" href="download.htm" title="Pure Basic : Download">Download</font></a></td>
+            <td width="1" bgcolor="#999999" id="visual"><IMG id="visual" name="basic" alt="visual basic compiler" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="basic"><A class="nav" href="screenshots.htm" title="Pure Basic : Screenshots">Screenshots</a></td>
+            <td width="1" bgcolor="#999999" id="optimized"><IMG id="programming" name="language" alt="optimized programming language" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#B6C0CE" id="basic"><A class="nav" href="ordering.htm" title="Pure Basic : Ordering !">Ordering</a></td>
+            <td width="1" bgcolor="#999999" id="compiler"><IMG id="basic" name="compiler" alt="visual basic compiler" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="compiler"><A class="nav" href="support.htm" title="Pure Basic : Support">Support</a></td>
+            <td width="1" bgcolor="#999999" id="language"><IMG id="programming" name="language" alt="visual basic compiler" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="10%" height="21" align="center" bgcolor= "#FFFFFF" id="optimized"><A class="nav" href="faq.htm" title="Pure Basic : FAQ">FAQ</a></td>
+            <td width="1" bgcolor="#999999" id="optimized"><IMG id="programming" name="language" alt="optimized programming language" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor = "#FFFFFF" id="basic"><A class="nav" href="links.htm" title="Pure Basic : Links">Links</a></td>
+
+                </TR>
+            </TABLE>
+        </TD>
+    </TR>
+
+    <tr class="ShadowBody"> <td colspan="2"></td> <tr>
+
+    <TR bgcolor="#EFF1F0">
+      <TD class="topborder" colspan="2" align="center" valign="top" id="visual">
+        <br>
+         <TABLE width="850" border="0" cellspacing="0" cellpadding="0" id="programming">
+            <TR id="basic">
+<!-- EOF HEADER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+
+
+<STYLE type="text/css">
+    A.nav:link {COLOR: #000000; TEXT-DECORATION: none}
+    A.nav:visited {COLOR: #000000; TEXT-DECORATION: none}
+    A.nav:hover {COLOR: #000000; TEXT-DECORATION: underline}
+</STYLE>
+
+
+
+
+<TD valign="top"  align="left"><font class="pagebody">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td height="25"><b><font class="pagebody">PureBasic License type</font></b></td>
+            <td>&nbsp;</td>
+            <td height="25"><b><font class="pagebody">Cost</font></b></td>
+        </tr>
+        <tr>
+            <td height="20"><font class="pagebody">&nbsp;&nbsp;1 single user license</font></td>
+            <td>&nbsp;</td>
+            <td height="20"><font class="pagebody">&nbsp;&nbsp;€ 79</font></td>
+        </tr>
+        <tr>
+            <td height="20"><font class="pagebody">&nbsp;&nbsp;1 educational license (for one room class, including teacher)</font></td>
+            <td>&nbsp;</td>
+            <td height="20"><font class="pagebody">&nbsp;&nbsp;€ 199</font></td>
+        </tr>
+        <tr>
+            <td height="20"><font class="pagebody">&nbsp;&nbsp;1 company site license (unlimited license for one company site)</font></td>
+            <td>&nbsp;</td>
+            <td height="20"><font class="pagebody">&nbsp;&nbsp;€ 499</font></td>
+        </tr>
+    </table>
+    <br>
+    Note: all licenses include lifetime unlimited updates, available freely on the online account.    <br>
+    <br>
+    <HR WIDTH="95%" ALIGN="center" color="#B6C0CE" size="1">
+    <br>
+    <b>Please complete the following form :</b><br>
+    <br><br>
+
+    <table width="630" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <table border="0" cellpadding="0" cellspacing="0">
+                   <form action="onlineordering2.htm" method="POST" name="form_rens" method="post" onsubmit="return ctrlrens()">
+                    <input type="Hidden" name="language" value="english">                    <tr>
+                        <td valign="middle"><font class="pagebody">&nbsp;&nbsp;PureBasic License type :&nbsp;</font></td>
+                        <td>&nbsp;</td>
+                        <td valign="middle"><font class="pagebody">
+                        
+                        <select name="licence_type">
+                          <option value="single_user">Single user (€ 79)</option>
+                          <option value="educational">Educational (€ 199)</option>
+                          <option value="company">Company site (€ 499)</option>
+                        </select>
+                    </tr>
+                    <tr>
+                        <td valign="middle"><font class="pagebody">&nbsp;&nbsp;How many licenses :&nbsp;</font></td>
+                        <td>&nbsp;</td>
+                        <td valign="middle"><font class="pagebody"><input type="Text" name="nb_purebasic" value="1" size="3" maxlength="3" class="textform" onFocus="this.style.background='FFFFFF';"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td valign="middle"><font class="pagebody">&nbsp;&nbsp;First name (empty if company) :&nbsp;</font></td>
+                        <td>&nbsp;</td>
+                        <td valign="middle"><font class="pagebody"><input type="Text" name="firstname" value="" size="20" maxlength="50" class="textform" onFocus="this.style.background='FFFFFF';" onBlur="this.style.background='EFF1F0';"></td>
+                    </tr>
+                    <tr>
+                        <td valign="middle"><font class="pagebody">&nbsp;&nbsp;Last name (or company name) :&nbsp;</font></td>
+                        <td>&nbsp;</td>
+                        <td valign="middle"><font class="pagebody"><input type="Text" name="lastname" value="" size="20" maxlength="50" class="textform" onFocus="this.style.background='FFFFFF';" onBlur="this.style.background='EFF1F0';"></td>
+                    </tr>                                        
+                    <tr>
+                        <td valign="middle"><font class="pagebody">&nbsp;&nbsp;Address :&nbsp;</font></td>
+                        <td>&nbsp;</td>
+                        <td valign="middle"><font class="pagebody"><input type="Text" name="address" value="" size="20" maxlength="50" class="textform" onFocus="this.style.background='FFFFFF';" onBlur="this.style.background='EFF1F0';"></td>
+                    </tr>
+                    <tr>
+                        <td valign="middle"><font class="pagebody">&nbsp;&nbsp;City :&nbsp;</font></td>
+                        <td>&nbsp;</td>
+                        <td valign="middle"><font class="pagebody"><input type="Text" name="city" value="" size="20" maxlength="50" class="textform" onFocus="this.style.background='FFFFFF';" onBlur="this.style.background='EFF1F0';"></td>
+                    </tr>                                                                                
+                    <tr>
+                        <td valign="middle"><font class="pagebody">&nbsp;&nbsp;Zip/Postal code :&nbsp;</font></td>
+                        <td>&nbsp;</td>
+                        <td valign="middle"><font class="pagebody"><input type="Text" name="postal_code" value="" size="20" maxlength="50" class="textform" onFocus="this.style.background='FFFFFF';" onBlur="this.style.background='EFF1F0';"></td>
+                    </tr>
+                    <tr>
+                        <td valign="middle"><font class="pagebody">&nbsp;&nbsp;Country :&nbsp;</font></td>
+                        <td>&nbsp;</td>
+                        <td valign="middle"><font class="pagebody"><input type="Text" name="country" value="" size="20" maxlength="50" class="textform" onFocus="this.style.background='FFFFFF';" onBlur="this.style.background='EFF1F0';"></td>
+                    </tr>
+                    <tr>
+                        <td valign="middle"><font class="pagebody">&nbsp;&nbsp;Email :&nbsp;</font></td>
+                        <td>&nbsp;</td>
+                        <td valign="middle"><font class="pagebody"><input type="Text" name="email" value="" size="20" maxlength="50" class="textform" onFocus="this.style.background='FFFFFF';" onBlur="this.style.background='EFF1F0';"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td valign="top"><font class="pagebody">&nbsp;&nbsp;Notes :&nbsp;</font></td>
+                        <td>&nbsp;</td>
+                        <td valign="middle"><font class="pagebody"><textarea name="notes" rows="8" cols="18" class="textform" onFocus="this.style.background='FFFFFF';" onBlur="this.style.background='EFF1F0';"></textarea></td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" align="right" valign="middle"><br><input type="Submit" value="Continue" onmouseover="this.style.background='FFFFFF';" onmouseout="this.style.background='EFF1F0';"></form></font></td>
+                    </tr></form>
+                </table>        
+            </td>
+            <td width="20">&nbsp;&nbsp;</td>
+            <td align="center" valign="top">
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td align="center" valign="middle"><br><br><img src="images/visa.gif" border="0" name="visa" alt="ordering with visa"></td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle"><br><br><img src="images/mc.gif" border="0" name="ordering" alt="buy it with mastercard"></td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle"><br><br><img src="images/cb.gif" border="0"  name="ordering" alt="order pure basic with CB"></td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle"><br><br><img src="images/paypal.gif" border="0"  name="ordering" alt="order pure basic with Paypal"></td>
+                    </tr>
+                </table>        
+            </td>
+        </tr>
+    </table>
+
+    </font>
+</TD>
+<script language="JavaScript">
+
+function isEmpty(s)    
+{
+    return (( s == null) || ( s.length == 0))
+}
+
+function mail(champ)
+{
+    var i = 1;
+    var s = champ.value;
+    var slength = s.length;
+    
+    while ((i < slength) && (s.charAt(i) != "@"))
+        i++;
+    if ((i >= slength) || (s.charAt(i) != "@"))
+    {
+        return false;
+    }
+    else
+        i+=2;
+    while ((i < slength) && (s.charAt(i) != "."))
+        i++;
+    if ((i >= slength - 1) || (s.charAt(i) != "."))
+    {
+        return false;
+    }
+    else
+    {
+        return true;
+    }
+}
+
+function validate_nb_purebasic(field)
+{
+    var valid = "0123456789";
+
+    for (var i=0; i < field.length; i++)
+    {
+        temp = "" + field.substring(i, i+1);
+        if (valid.indexOf(temp) == "-1")
+        {
+            alert("Invalid characters in the number of PureBasic copies. Please try again.");
+            return false;
+        }
+    }
+    return true;
+}
+
+function ctrlrens()
+{ 
+    /*if (isEmpty(document.form_rens.firstname.value))
+    {
+        alert ("You must enter your first name.")
+        document.form_rens.firstname.focus();
+        document.form_rens.firstname.select();
+        return false;
+    }*/
+
+    if (isEmpty(document.form_rens.lastname.value))
+    {
+        alert ("You must enter your last name.")
+        document.form_rens.lastname.focus();
+        document.form_rens.lastname.select();
+        return false;
+    }    
+
+    if (isEmpty(document.form_rens.address.value))
+    {
+        alert ("You must enter your address.")
+        document.form_rens.address.focus();
+        document.form_rens.address.select();
+        return false;
+    }
+
+    if (isEmpty(document.form_rens.city.value))
+    {
+        alert ("You must enter your city.")
+        document.form_rens.city.focus();
+        document.form_rens.city.select();
+        return false;
+    }
+
+    if (isEmpty(document.form_rens.postal_code.value))
+    {
+        alert ("You must enter your Zip/Postal code.")
+        document.form_rens.postal_code.focus();
+        document.form_rens.postal_code.select();
+        return false;
+    }
+
+    if (isEmpty(document.form_rens.country.value))
+    {
+        alert ("You must enter your country.")
+        document.form_rens.country.focus();
+        document.form_rens.country.select();
+        return false;
+    }
+    
+    if (isEmpty(document.form_rens.email.value))
+    {
+        alert ("You must enter your e-mail.")
+        document.form_rens.email.focus();
+        document.form_rens.email.select();
+        return false;
+    }                
+
+    if (!mail(document.form_rens.email))
+    {
+        alert ("The format of this email address seems wrong. Please recheck and enter it again...")
+        document.form_rens.email.focus();
+        document.form_rens.email.select();
+        return false; 
+    }
+
+    if (!validate_nb_purebasic(document.form_rens.nb_purebasic.value))
+    {
+        document.form_rens.nb_purebasic.focus();
+        document.form_rens.nb_purebasic.select();
+        return false;
+    }    
+}
+</script>
+
+<!-- FOOTER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+                </TR>
+            </TABLE>
+            <br>
+        </td>
+    </TR>
+    <TR height="28" id="easy">
+      <TD align="left" bgcolor="#5A6986" id="language">
+        <font class="pagefooter">&nbsp;&nbsp;Copyright © 2015 Fantaisie Software</font>
+      </TD>
+      <TD align="right" bgcolor="#5A6986" id="compiler">
+        <font class="pagefooter"><b><A class="nav_footer" href="mailto:support@purebasic.com" style="COLOR: #FFFFFF" title="Pure Basic : support">support@purebasic.com</A></b>&nbsp;&nbsp;</font>
+      </TD>
+    </TR>
+</TABLE>
+
+<table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr class="ShadowFooter"> <td colspan="2"></td> <tr>
+</table>
+
+
+<br>
+
+<table class="MainTable" id="language" align="center" border="0" cellpadding="0" cellspacing="0" width="900">
+	<tr bgcolor="#EFF1F0">
+		<td class="topborder" align="center" valign="top">
+			<br>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="850">
+				<tr>
+					<td bgcolor="#FFFFFF" valign="middle"><a title="basic programming web language" href="http://www.spiderbasic.com" target="_blank"><img src="logo-spiderbasic.png"></a></td>
+					<td bgcolor="#FFFFFF">
+						<div class="pagebody" align="center">
+							By the same author, discover the new web client-side programming language<br> based on established BASIC rules
+							on <a title="basic programming web language" href="http://www.spiderbasic.com" target="_blank">spiderbasic.com</a>
+						</div>
+					</td>
+				</tr>
+			</table>
+			<br>
+		</td>
+	</tr>
+	
+</table>
+<br>
+
+</BODY>
+</HTML>
+<!-- EOF FOOTER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->

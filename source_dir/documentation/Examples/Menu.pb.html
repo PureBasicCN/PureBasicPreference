@@ -1,0 +1,85 @@
+<html><head><title>Menu.pb</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;   PureBasic - Menu example file
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;    (c) Fantaisie Software
+</font><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font>
+<font color="#3A3966">;
+</font><font color="#3A3966">; We just have to open a window and see when an event happen on the menu
+</font><font color="#3A3966">;
+</font>
+<b><font color="#3A3966">If</font></b> <font color="#3A3966">OpenWindow</font>(0, 100, 150, 195, 260, &quot;PureBasic - Menu&quot;)
+
+  <font color="#3A3966">;
+</font>  <font color="#3A3966">; Create the menu. The indent is very important here for a good lisibility
+</font>  <font color="#3A3966">;
+</font>
+  <b><font color="#3A3966">If</font></b> <font color="#3A3966">CreateMenu</font>(0,<font color="#3A3966"> WindowID</font>(0))
+<font color="#3A3966">    MenuTitle</font>(&quot;File&quot;)
+<font color="#3A3966">      MenuItem</font>( 1, &quot;&amp;Load...&quot;)
+<font color="#3A3966">      MenuItem</font>( 2, &quot;Save&quot;)
+<font color="#3A3966">      MenuItem</font>( 3, &quot;Save As...&quot;)
+<font color="#3A3966">      MenuBar</font>()
+<font color="#3A3966">      OpenSubMenu</font>(&quot;Recents&quot;)
+<font color="#3A3966">        MenuItem</font>( 5, &quot;Pure.png&quot;)
+<font color="#3A3966">        MenuItem</font>( 6, &quot;Basic.jpg&quot;)
+<font color="#3A3966">        OpenSubMenu</font>(&quot;Even more !&quot;)
+<font color="#3A3966">          MenuItem</font>( 12, &quot;Yeah&quot;)
+<font color="#3A3966">        CloseSubMenu</font>()
+<font color="#3A3966">        MenuItem</font>( 13, &quot;Rocks.tga&quot;)
+<font color="#3A3966">      CloseSubMenu</font>()
+<font color="#3A3966">      MenuBar</font>()
+<font color="#3A3966">      MenuItem</font>( 7, &quot;&amp;Quit&quot;)
+
+<font color="#3A3966">    MenuTitle</font>(&quot;Edition&quot;)
+<font color="#3A3966">      MenuItem</font>( 8, &quot;Cut&quot;)
+<font color="#3A3966">      MenuItem</font>( 9, &quot;Copy&quot;)
+<font color="#3A3966">      MenuItem</font>(10, &quot;Paste&quot;)
+      
+<font color="#3A3966">    MenuTitle</font>(&quot;?&quot;)
+<font color="#3A3966">      MenuItem</font>(11, &quot;About&quot;)
+
+  <b><font color="#3A3966">EndIf</font></b>
+  
+<font color="#3A3966">  DisableMenuItem</font>(0, 3, 1)
+<font color="#3A3966">  DisableMenuItem</font>(0, 13, 1)
+  
+  <font color="#3A3966">;
+</font>  <font color="#3A3966">; This is the 'event loop'. All the user actions are processed here.
+</font>  <font color="#3A3966">; It's very easy to understand: when an action occurs, the Event
+</font>  <font color="#3A3966">; isn't 0 and we just have to see what have happened...
+</font>  <font color="#3A3966">;
+</font>  
+  <b><font color="#3A3966">Repeat</font></b>
+
+    <b><font color="#3A3966">Select</font></b> <font color="#3A3966">WaitWindowEvent</font>()
+
+      <b><font color="#3A3966">Case</font></b> <font color="#924B72">#PB_Event_Menu</font>
+
+        <b><font color="#3A3966">Select</font></b> <font color="#3A3966">EventMenu</font>()  <font color="#3A3966">; To see which menu has been selected
+</font>
+          <b><font color="#3A3966">Case</font></b> 11 <font color="#3A3966">; About
+</font><font color="#3A3966">            MessageRequester</font>(&quot;About&quot;, &quot;Cool Menu example&quot;, 0)
+            
+          <b><font color="#3A3966">Default</font></b>
+<font color="#3A3966">            MessageRequester</font>(&quot;Info&quot;, &quot;MenuItem: &quot;+<font color="#3A3966">Str</font>(<font color="#3A3966">EventMenu</font>()), 0)
+
+        <b><font color="#3A3966">EndSelect</font></b>
+
+      <b><font color="#3A3966">Case</font></b> <font color="#924B72">#PB_Event_CloseWindow</font>
+        Quit = 1
+
+    <b><font color="#3A3966">EndSelect</font></b>
+
+  <b><font color="#3A3966">Until</font></b> Quit = 1
+
+<b><font color="#3A3966">EndIf</font></b>
+
+<b><font color="#3A3966">End</font></b>  </font></pre>
+</body></html>

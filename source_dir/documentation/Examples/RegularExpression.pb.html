@@ -1,0 +1,31 @@
+<html><head><title>RegularExpression.pb</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;   PureBasic - RegularExpression example file
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;    (c) Fantaisie Software
+</font><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font>
+<font color="#3A3966">; Will match every word of 3 letters, lowercase with a 'b' as middle letter
+</font><font color="#3A3966">;
+</font><b><font color="#3A3966">If</font></b> <font color="#3A3966">CreateRegularExpression</font>(0, &quot;[a-z]b[a-z]&quot;)
+
+  <b><font color="#3A3966">Dim</font></b> <font color="#3A3966">Result$</font>(0)
+  
+  a =<font color="#3A3966"> ExtractRegularExpression</font>(0, &quot; abc it won't match abz&quot;,<font color="#3A3966"> result$</font>())
+  
+<font color="#3A3966">  MessageRequester</font>(&quot;Info&quot;, &quot;Nb strings found: &quot;+<font color="#3A3966">Str</font>(a))
+  
+  <b><font color="#3A3966">For</font></b> k=0 <b><font color="#3A3966">To</font></b> a-1
+<font color="#3A3966">    MessageRequester</font>(&quot;Info&quot;,<font color="#3A3966"> Result$</font>(k))
+  <b><font color="#3A3966">Next</font></b>
+
+<b><font color="#3A3966">Else</font></b>
+<font color="#3A3966">  MessageRequester</font>(&quot;Error&quot;,<font color="#3A3966"> RegularExpressionError</font>())
+<b><font color="#3A3966">EndIf</font></b>
+</font></pre>
+</body></html>

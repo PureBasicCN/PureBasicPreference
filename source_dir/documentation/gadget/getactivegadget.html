@@ -1,0 +1,39 @@
+<html><head><title>GetActiveGadget</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">GetActiveGadget()</font></b></p>
+<p><b>Syntax</b></p><blockquote>
+Result = <font color="#3A3966"><b>GetActiveGadget</b></font>()</blockquote>
+
+</blockquote>
+<b>Description</b><br><blockquote>
+
+Returns the gadget number of the Gadget that currently has the keyboard focus. 
+
+</blockquote><p><b>Parameters</b></p><blockquote>
+None.
+
+
+</blockquote><p><b>Return value</b></p><blockquote>
+
+Returns the #Gadget number of the Gadget with the focus. 
+If no Gadget has the focus, -1 is returned. 
+
+</blockquote><p><b>Example</b></p><blockquote>
+
+<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">If</font></b> <font color="#3A3966">OpenWindow</font>(0, 0, 0, 270, 70, &quot;GetActiveGadget&quot;, <font color="#924B72">#PB_Window_SystemMenu</font> | <font color="#924B72">#PB_Window_ScreenCentered</font>)
+<font color="#3A3966">    StringGadget  </font>(0, 10, 10, 250, 20, &quot;Press escape...&quot;)
+<font color="#3A3966">    StringGadget  </font>(1, 10, 40, 250, 20, &quot;Press escape...&quot;)
+<font color="#3A3966">    AddKeyboardShortcut</font>(0, <font color="#924B72">#PB_Shortcut_Escape</font>, 1)
+<font color="#3A3966">    SetActiveGadget</font>(0)
+    <b><font color="#3A3966">Repeat</font></b>
+      Event =<font color="#3A3966"> WaitWindowEvent</font>()
+      <b><font color="#3A3966">If</font></b> Event = <font color="#924B72">#PB_Event_Menu</font> <b><font color="#3A3966">And</font></b> <font color="#3A3966">EventMenu</font>() = 1
+<font color="#3A3966">        MessageRequester</font>(&quot;Test&quot;, &quot;Escape pressed in Gadget &quot; +<font color="#3A3966"> Str</font>(<font color="#3A3966">GetActiveGadget</font>()))
+      <b><font color="#3A3966">EndIf</font></b>
+    <b><font color="#3A3966">Until</font></b> Event = <font color="#924B72">#PB_Event_CloseWindow</font>
+  <b><font color="#3A3966">EndIf</font></b>
+</font></pre>
+
+</Blockquote><p><b>Supported OS </b><Blockquote>All</Blockquote></p><center><- <a href=gadgety.html>GadgetY()</a> - <a href="index.html">Gadget Index</a> - <a href="getgadgetattribute.html">GetGadgetAttribute()</a> -><br><br>
+
+</body></html>

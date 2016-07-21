@@ -1,0 +1,30 @@
+<html><head><title>Ftp.pb</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;   PureBasic - Ftp example file
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;    (c) Fantaisie Software
+</font><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font>
+<font color="#3A3966">InitNetwork</font>()
+
+<b><font color="#3A3966">If</font></b> <font color="#3A3966">OpenFTP</font>(0, &quot;127.0.0.1&quot;, &quot;test&quot;, &quot;test&quot;, 0)
+
+  Result =<font color="#3A3966"> SendFTPFile</font>(0,<font color="#3A3966"> OpenFileRequester</font>(&quot;Choose a file to send&quot;, &quot;&quot;, &quot;*.*&quot;, 0), &quot;purebasic_sent.file&quot;, 1)
+  
+  <b><font color="#3A3966">Repeat</font></b>
+    <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">FTPProgress</font>(0)
+<font color="#3A3966">    Delay</font>(300)
+  <b><font color="#3A3966">Until</font></b> <font color="#3A3966">FTPProgress</font>(0) = -3 <b><font color="#3A3966">Or</font></b> <font color="#3A3966">FTPProgress</font>(0) = -2
+
+  <b><font color="#3A3966">Debug</font></b> &quot;finished&quot;
+  
+<b><font color="#3A3966">Else</font></b>
+<font color="#3A3966">  MessageRequester</font>(&quot;Error&quot;, &quot;Can't connect to the FTP server&quot;)
+<b><font color="#3A3966">EndIf</font></b>
+</font></pre>
+</body></html>

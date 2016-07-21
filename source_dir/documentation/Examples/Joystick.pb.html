@@ -1,0 +1,61 @@
+<html><head><title>Joystick.pb</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;   PureBasic - Joystick example file
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;    (c) Fantaisie Software
+</font><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font>
+NbJoysticks =<font color="#3A3966"> InitJoystick</font>() 
+
+<b><font color="#3A3966">If</font></b> NbJoysticks = 0
+<font color="#3A3966">  MessageRequester</font>(&quot;Error&quot;, &quot;No joysticks are availables.&quot;, 0)
+  <b><font color="#3A3966">End</font></b>
+<b><font color="#3A3966">EndIf</font></b>
+
+<b><font color="#3A3966">If</font></b> <font color="#3A3966">OpenWindow</font>(0, 100, 100, 300, 260, &quot;PureBasic - Joystick Demo&quot;)
+
+<font color="#3A3966">  MessageRequester</font>(&quot;Information&quot;, &quot;This will test the joystick in a window.&quot;, 0)
+
+  x =<font color="#3A3966"> WindowWidth</font>(0)/2
+  y =<font color="#3A3966"> WindowHeight</font>(0)/2-20
+
+  <b><font color="#3A3966">Repeat</font></b>
+  
+    <b><font color="#3A3966">Repeat</font></b>
+      Event =<font color="#3A3966"> WindowEvent</font>()
+      <b><font color="#3A3966">If</font></b> Event = <font color="#924B72">#PB_Event_CloseWindow</font> : Quit = 1 : <b><font color="#3A3966">EndIf</font></b>
+    <b><font color="#3A3966">Until</font></b> Event = 0
+
+<font color="#3A3966">    Delay</font>(20) <font color="#3A3966">; a little delay (20 milli seconds -&gt; 50 fps)
+</font>  
+    <b><font color="#3A3966">If</font></b> <font color="#3A3966">ExamineJoystick</font>(0)
+      x+<font color="#3A3966">JoystickAxisX</font>(0)
+      y+<font color="#3A3966">JoystickAxisY</font>(0)
+     
+      <b><font color="#3A3966">If</font></b> <font color="#3A3966">JoystickButton</font>(0, 1)
+<font color="#3A3966">        MessageRequester</font>(&quot;Info&quot;, &quot;Button 1 has been pressed&quot;, 0)
+      <b><font color="#3A3966">EndIf</font></b>
+      
+      <b><font color="#3A3966">If</font></b> <font color="#3A3966">JoystickButton</font>(0, 2)
+<font color="#3A3966">        MessageRequester</font>(&quot;Info&quot;, &quot;Button 2 has been pressed&quot;, 0)
+      <b><font color="#3A3966">EndIf</font></b>
+    
+      <b><font color="#3A3966">If</font></b> <font color="#3A3966">StartDrawing</font>(<font color="#3A3966">WindowOutput</font>(0)) <font color="#3A3966">; Set the drawing output to our window
+</font><font color="#3A3966">        FrontColor</font>(<font color="#3A3966">RGB</font>(255,0,0))      <font color="#3A3966">; Use the RED colour
+</font><font color="#3A3966">        Box</font>(x, y, 10, 10)         <font color="#3A3966">; Draw a little box
+</font><font color="#3A3966">        StopDrawing</font>()             <font color="#3A3966">;
+</font>      <b><font color="#3A3966">EndIf</font></b>
+    <b><font color="#3A3966">EndIf</font></b>
+
+  <b><font color="#3A3966">Until</font></b> Quit = 1
+
+<b><font color="#3A3966">EndIf</font></b>
+
+<b><font color="#3A3966">End</font></b>
+</font></pre>
+</body></html>

@@ -1,0 +1,39 @@
+<html><head><title>DatabaseError</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">DatabaseError()</font></b></p>
+<p><b>Syntax</b></p><blockquote>
+Error$ = <font color="#3A3966"><b>DatabaseError</b></font>()</blockquote>
+
+</blockquote>
+<b>Description</b><br><blockquote>
+
+Returns a description of the last database error in text format. This is especially useful with the following 
+functions: <a href="opendatabase.html">OpenDatabase()</a>, <a href="databasequery.html">DatabaseQuery()</a> and <a href="databaseupdate.html">DatabaseUpdate()</a>. 
+
+</blockquote><p><b>Parameters</b></p><blockquote>
+None.
+
+
+</blockquote><p><b>Return value</b></p><blockquote>
+
+Returns the error description. 
+
+</blockquote><p><b>Example</b></p><blockquote>
+
+<pre><font face="Courier New, Courier, mono"size="2">  <font color="#3A3966">; First, connect to a database with an employee table</font>
+  <font color="#3A3966">;</font>
+  <b><font color="#3A3966">If</font></b> <font color="#3A3966">DatabaseQuery</font>(<font color="#924B72">#Database</font>, &quot;SELECT * FROM employee&quot;) <font color="#3A3966">; Get all the records in the 'employee' table</font>
+    <font color="#3A3966">; ...</font>
+<font color="#3A3966">    FinishDatabaseQuery</font>(<font color="#924B72">#Database</font>)
+  <b><font color="#3A3966">Else</font></b>
+<font color="#3A3966">    MessageRequester</font>(&quot;Error&quot;, &quot;Can't execute the query: &quot;+<font color="#3A3966">DatabaseError</font>())
+  <b><font color="#3A3966">EndIf</font></b>
+</font></pre>
+
+</blockquote><p><b>See Also</b></p><blockquote>
+
+<a href="databasequery.html">DatabaseQuery()</a>, <a href="databaseupdate.html">DatabaseUpdate()</a> 
+
+</Blockquote><p><b>Supported OS </b><Blockquote>All</Blockquote></p><center><- <a href=databasedrivername.html>DatabaseDriverName()</a> - <a href="index.html">Database Index</a> - <a href="databaseid.html">DatabaseID()</a> -><br><br>
+
+</body></html>

@@ -1,0 +1,41 @@
+<html><head><title>CountCGIParameters</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">CountCGIParameters()</font></b></p>
+<p><b>Syntax</b></p><blockquote>
+Result = <font color="#3A3966"><b>CountCGIParameters</b></font>()</blockquote>
+
+</blockquote>
+<b>Description</b><br><blockquote>
+
+Returns the number of available parameters from GET or POST requests. 
+
+</blockquote><p><b>Parameters</b></p><blockquote>
+None.
+
+
+</blockquote><p><b>Return value</b></p><blockquote>
+
+Returns the number of available parameters from GET or POST requests. Parameter information can be get with 
+<a href="cgiparametername.html">CGIParameterName()</a>, <a href="cgiparametervalue.html">CGIParameterValue()</a> and <a href="cgiparametertype.html">CGIParameterType()</a>. 
+
+</blockquote><p><b>Example</b></p><blockquote>
+
+<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">If</font></b> <b><font color="#3A3966">Not</font></b> <font color="#3A3966">InitCGI</font>() <b><font color="#3A3966">Or</font></b> <b><font color="#3A3966">Not</font></b> <font color="#3A3966">ReadCGI</font>()
+    <b><font color="#3A3966">End</font></b>
+  <b><font color="#3A3966">EndIf</font></b>
+  
+<font color="#3A3966">  WriteCGIHeader</font>(<font color="#924B72">#PB_CGI_HeaderContentType</font>, &quot;text/html&quot;, <font color="#924B72">#PB_CGI_LastHeader</font>) <font color="#3A3966">; Write the headers to inform the browser of the content format</font>
+  
+<font color="#3A3966">  WriteCGIString</font>(&quot;&lt;html&gt;&lt;title&gt;PureBasic - parameters&lt;/title&gt;&lt;body&gt;&quot; +
+                 &quot;NbParameters: &quot; +<font color="#3A3966"> CountCGIParameters</font>() + &quot;&lt;br&gt;&lt;br&gt;&quot;)
+
+<font color="#3A3966">  WriteCGIString</font>(&quot;&lt;/body&gt;&lt;/html&gt;&quot;)
+</font></pre>
+
+</blockquote><p><b>See Also</b></p><blockquote>
+
+<a href="cgiparametername.html">CGIParameterName()</a>, <a href="cgiparametervalue.html">CGIParameterValue()</a>, <a href="cgiparametertype.html">CGIParameterType()</a>, <a href="cgiparameterdata.html">CGIParameterData()</a> 
+
+</Blockquote><p><b>Supported OS </b><Blockquote>All</Blockquote></p><center><- <a href=countcgicookies.html>CountCGICookies()</a> - <a href="index.html">CGI Index</a> - <a href="finishfastcgirequest.html">FinishFastCGIRequest()</a> -><br><br>
+
+</body></html>

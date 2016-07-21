@@ -1,0 +1,90 @@
+<html><head><title>Import : EndImport</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">Import : EndImport</font></b></p>
+
+<br><b>Syntax</b><blockquote><pre><font face="Courier New, Courier, mono"size="2"><b><font color="#3A3966">Import</font></b> &quot;Filename&quot;
+  FunctionName.&lt;type&gt;(&lt;parameter&gt;, [, &lt;parameter&gt; [= DefaultValue]...]) [As &quot;SymbolName&quot;]
+  ...
+  VariableName.&lt;type&gt; [As &quot;SymbolName&quot;]
+<b><font color="#3A3966">EndImport</font></b>
+</font></pre></blockquote>
+<b>Description</b><br><blockquote>
+
+
+For advanced programmers. <b><font color="#3A3966">Import</font></b> : <b><font color="#3A3966">EndImport</font></b> allows to easy declare external functions and variables from 
+a library (.lib) or an object (.obj) file. 
+<br>
+<br>
+Once declared, the imported functions are directly available 
+for use in the program, like any other commands. The compiler doesn't check if the functions really exists 
+in the imported file, so if an error occurs, it will be reported by the linker. 
+<br>
+<br>
+This feature can replace the <a href="../library/openlibrary.html">OpenLibrary()</a>/<a href="../library/callfunction.html">CallFunction()</a> 
+sequence as it has some advantages: type checking is done, number of 
+parameters is validated. Unlike CallFunction(), it can deal with double, float and quad 
+without any problem. 
+<br>
+<br>
+The last parameters can have a default value (need to be a constant 
+expression), so if these parameters are omitted when the function is called, the default value will be used. 
+<br>
+<br>
+By default the imported function symbol is 'decorated' in the following way: _FunctionName@callsize. That 
+should work for most of the functions which use the standard call convention (stdcall). If the library is a C one, and 
+the function are not stdcall, the <b><font color="#3A3966">ImportC</font></b> variant should be used instead. In this case, the default function 
+symbol is decorated like: _FunctionName. 
+<br>
+<br>
+The <a href="pseudotypes.html">pseudotypes</a> can be used for the parameters, but not for the returned 
+value. 
+</blockquote><p><b>Remarks</b></p><blockquote>
+
+On x64, there is only one calling convention, so <b><font color="#3A3966">ImportC</font></b> will behave the sames as <b><font color="#3A3966">Import</font></b>. 
+
+</blockquote><p><b>Example</b></p><blockquote>
+
+
+<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Import</font></b> &quot;User32.lib&quot;
+   
+    <font color="#3A3966">; No need to use 'As' as PureBasic decorates the function correctly</font>
+    <font color="#3A3966">; We also define the 'Flags' as optional, with a default value of 0 (when omitted)</font>
+    <font color="#3A3966">;</font>
+<font color="#3A3966">    MessageBoxA</font>(Window.i, Body$, Title$, Flags.i = 0)
+    
+    <font color="#3A3966">; This time PureBasic can't find it alone as the function </font>
+    <font color="#3A3966">; name isn't the same than the one used by the symbol</font>
+    <font color="#3A3966">;</font>
+<font color="#3A3966">    MsgBox</font>(Window.i, Body$, Title$, Flags.i) <b><font color="#3A3966">As</font></b> &quot;_MessageBoxA@16&quot;
+                                                   
+  <b><font color="#3A3966">EndImport</font></b>
+  
+<font color="#3A3966">  MessageBoxA</font>(0, &quot;Hello&quot;, &quot;World&quot;) <font color="#3A3966">; We don't specify the flags</font>
+<font color="#3A3966">  MsgBox</font>(0, &quot;Hello&quot;, &quot;World 2&quot;, 0)
+    
+</font></pre>
+
+
+</blockquote><p><b>Example:</b> With pseudotypes</p><blockquote>
+
+
+<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Import</font></b> &quot;User32.lib&quot;
+   
+    <font color="#3A3966">; We use the 'p-unicode' pseudotype for the string parameters, as</font>
+    <font color="#3A3966">; MessageBoxW() is an unicode only function. The compiler will </font>
+    <font color="#3A3966">; automatically converts the strings to unicode when needed.</font>
+    <font color="#3A3966">;</font>
+<font color="#3A3966">    MessageBoxW</font>(Window.l, Body.p-unicode, Title.p-unicode, Flags.l = 0)
+                                                  
+  <b><font color="#3A3966">EndImport</font></b>
+  
+  <font color="#3A3966">; It will work correctly in ascii and in unicode mode, even if the API is unicode</font>
+  <font color="#3A3966">; only as the compiler will take care of the conversion itself.</font>
+  <font color="#3A3966">;</font>
+<font color="#3A3966">  MessageBoxW</font>(0, &quot;Hello&quot;, &quot;World&quot;)
+    
+</font></pre>
+
+
+
+</body></html>

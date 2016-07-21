@@ -1,0 +1,60 @@
+<html><head><title>FormatDate</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">FormatDate()</font></b></p>
+<p><b>Syntax</b></p><blockquote>
+Text$ = <font color="#3A3966"><b>FormatDate</b></font>(Mask$, Date)</blockquote>
+
+</blockquote>
+<b>Description</b><br><blockquote>
+
+Returns a string representation of the given Date. 
+
+</blockquote><p><b>Parameters</b></p><blockquote>
+<style type="text/css">
+table.parameters { border-spacing: 0px; border-style: none; border-collapse: collapse; }
+table.parameters td { border-width: 1px; padding: 6px; border-style: solid; border-color: gray; vertical-align: top; font-family:Arial; font-size:10pt; }
+</style>
+<table width="90%" class="parameters">
+<tr><td width="10%"><i>Mask$</i></td>
+<td width="90%"> 
+The mask used to format the date. The following tokens in the mask string will be replaced according to the given date: 
+<pre><font face="Courier New, Courier, mono"size="2">  %yyyy: Will be replaced by the year value, on 4 digits.
+  %yy: Will be replaced by the year value, on 2 digits.
+  %mm: Will be replaced by the month value, on 2 digits.
+  %dd: Will be replaced by the day value, on 2 digits.
+  %hh: Will be replaced by the hour value, on 2 digits.
+  %ii: Will be replaced by the minute value, on 2 digits.
+  %ss: Will be replaced by the second value, on 2 digits.
+</font></pre>
+
+</td></tr>
+<tr><td><i>Date</i></td>
+<td> 
+The date value to use. 
+
+</td></tr>
+</table>
+</blockquote><p><b>Return value</b></p><blockquote>
+
+Returns the mask string with all tokens replaced by the date values. 
+
+</blockquote><p><b>Example</b></p><blockquote>
+
+<pre><font face="Courier New, Courier, mono"size="2">
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">FormatDate</font>(&quot;Y=%yyyy, M= %mm, D=%dd&quot;,<font color="#3A3966"> Date</font>()) <font color="#3A3966">; Will display the actual date with</font>
+                                                     <font color="#3A3966">; the form &quot;Y=2010, M=01, D=07&quot;</font>
+
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">FormatDate</font>(&quot;%mm/%dd/%yyyy&quot;,<font color="#3A3966"> Date</font>()) <font color="#3A3966">; Will display the actual date with</font>
+                                            <font color="#3A3966">; the form &quot;01/07/2010&quot;</font>
+
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">FormatDate</font>(&quot;%hh:%ii:%ss&quot;,<font color="#3A3966"> Date</font>())   <font color="#3A3966">; Will display the time using the 00:00:00 format</font>
+
+</font></pre>
+
+</blockquote><p><b>See Also</b></p><blockquote>
+
+<a href="date.html">Date()</a>, <a href="parsedate.html">ParseDate()</a> 
+
+</Blockquote><p><b>Supported OS </b><Blockquote>All</Blockquote></p><center><- <a href=dayofyear.html>DayOfYear()</a> - <a href="index.html">Date Index</a> - <a href="hour.html">Hour()</a> -><br><br>
+
+</body></html>

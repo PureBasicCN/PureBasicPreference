@@ -1,0 +1,894 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>PureBasic : Native compiler, easy & optimized BASIC programming language</TITLE>
+
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+
+  <meta name="google-site-verification" content="zti3YNYE1fvfAUZxJmB9tv_1gYEBNbl2fapbpBeJxa4" />
+
+        <META NAME="language" content="en">
+      <META HTTP-EQUIV="Content-Language" content="en">
+
+  <META NAME="Description" CONTENT="Fantaisie Software Official WebSite. PureBasic - Feel The Pure Power. PureBasic is a programming language based on established BASIC rules">
+  <META NAME="abstract" CONTENT="Fantaisie Software Official WebSite. PureBasic - Feel The Pure Power. PureBasic is a programming language based on established BASIC rules">
+  <META NAME="Keywords" CONTENT="purebasic,PUREBASIC,pure basic,PURE BASIC,basic,BASIC,compiler,COMPILER,language,LANGUAGE,programming,PROGRAMMING,optimized,OPTIMIZED,easy,EASY,programming language,basic programming language,basic compiler,BASIC COMPILER,visual basic compiler,easy programming language,optimized programming language, games, applications, game, application, buy, ordering, order, Fantaisie Software,pic basic compiler,c compiler,c++ compiler,compilers,qbasic compiler,asm,computer programming,c programming,game programming,programming languages,c,c++,java,visual c++,linux,windows,nt,VisualC++,LccWin32,VisualBasic,visual basic">
+  <META NAME="Identifier-URL" CONTENT="http://www.purebasic.com">
+  <META NAME="Robots" CONTENT="index,follow,all">
+  <META NAME="revisit-after" CONTENT="2 days">
+  <META NAME="Reply-to" CONTENT="webmaster@purebasic.com">
+  <META NAME="Author" CONTENT="purebasic (webmaster@purebasic.com), Frederic Laboureur, Frédéric Laboureur, Yann Vanlerberghe, Alphasnd, Alphasound, Fantaisie Software ">
+  <META NAME="publisher" content="Fantaisie Software">
+  <META NAME="copyright" content="Fantaisie Software">
+  <META NAME="rating" content="General">
+  <META NAME="distribution" content="global">
+  <META NAME="Category" CONTENT="software,computers,programming,compilers,languages,basic">
+  <META NAME="date-creation-yyyymmdd" content="20000909">
+
+  <STYLE type="text/css">
+
+    .pagebody
+    {
+      font-family: Verdana, sans-serif; font-size: 13px;
+      line-height: 1.5;
+      color: #000000;
+    }
+
+    .pagefooter
+    {
+      font-family: Verdana, sans-serif; font-size: 11px;
+      color: #FFFFFF;
+    }
+
+    .usercomments
+    {
+      font-family: Verdana, sans-serif; font-size: 13px;
+      line-height: 1.5;
+      color: #EFF1F0;
+    }
+
+    A.nav:link {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none }
+    A.nav:visited {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none}
+    A.nav:hover {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: underline}
+
+    A.nav_footer:link {font-family: Verdana, sans-serif; font-size: 11px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none }
+    A.nav_footer:visited {font-family: Verdana, sans-serif; font-size: 11px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none}
+    A.nav_footer:hover {font-family: Verdana, sans-serif; font-size: 11px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: underline}
+
+    
+    .keywords {font-size: 13px; font-weight: normal; font-family: Verdana, sans-serif; line-height: 1.5; }
+    .keywordsbold {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; }
+
+    INPUT
+    {
+      font: 10pt Verdana, Arial;
+      color : #000000;
+      background-color : #FFFFFF;
+    }
+
+    .textform
+    {
+      font-size: 10pt;
+      color: #000000;
+      font-family: Verdana, Arial;
+    }
+    
+    /* These 2 styles are needed to have a perfect rendering of tables border (solid color) on
+       IE and FireFox
+     */
+    table.MainTable
+    {
+      border:2px solid #5A6986;
+    }    
+
+    td.Tabs
+    {
+      border-bottom:2px solid #5A6986;
+    }
+
+    /* Here is our trick to remove a line of a TD
+     */
+    /*.topborder {
+    border-top: 1px solid #EFF1F0;
+    }*/
+
+    img.flagBorder {
+      border: 0px solid #CCCCCC;
+    }
+    
+    tr.ShadowBody
+    {
+      height:8px;
+      background: url(/images/shadow_bottom_body.png);
+      background-repeat: repeat-x;
+    }
+
+    tr.ShadowFooter
+    {
+      height:8px;
+      background: url(/images/shadow_bottom_footer.png);
+      background-repeat: repeat-x;
+    }
+
+  </STYLE>
+
+  
+  
+  
+</HEAD>
+
+<!-- HEADER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+<BODY bgColor="White">
+
+<table width="900" class="MainTable" border="0" cellspacing="0" cellpadding="0" align="center" id="language">
+    <TR bgColor="#999999" id="basic">
+        <td colspan="2" align="left" nowrap bgcolor="#5A6986" id="visual">
+            <table width=100% border="0" cellpadding="0" cellspacing="0" id="compiler">
+                <tr>
+                    <td rowspan="2" id="compiler">
+                      <IMG id="visual" name="basic" alt="Pure Basic : optimized basic compiler" border=0 height=68 src="images/logopb.gif" width=381>
+                    </td>
+
+                    <td valign="top" id="basic"><div align="right" id="compiler"><font class="pagebody" color="#FFFFFF">
+                      
+                      <table border="0" cellspacing="0" cellpadding="1">
+                        <tr>
+                          <!-- <td width=20 > <A class="nav" style="COLOR: #FFFFFF" href="/german/changes.php"><img class="flagBorder" src=/images/de.png ></a></td> --> 
+                          <td> <A class="nav" style="COLOR: #FFFFFF" href="german/changes.htm">Deutsch</a>&nbsp;&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <!-- <td width=20> <A class="nav" style="COLOR: #FFFFFF" href="/french/changes.php"><img class="flagBorder" src=/images/fr.png ></a></td> --> 
+                          <td> <A class="nav" style="COLOR: #FFFFFF" href="french/changes.htm">Francais</a>&nbsp;&nbsp;</td>
+                        </tr>
+                      </table>
+
+                    </font></div></td>
+                </tr>
+                <tr>
+                  <td width="100%" height="46"></td>
+                </tr>
+            </table>
+        </td>
+    </TR>
+    <TR>
+    <TD class="Tabs" colspan="2">
+         <TABLE width="100%" border="0" cellspacing="0" cellpadding="0" id="language">
+             <TR id="optimized">
+
+            <td width="15%" height="26" align="center" bgcolor= "#FFFFFF" id="easy"><A class="nav" href="index.htm" title="Pure Basic : Introduction">Introduction</a></td>
+            <td width="1" bgcolor="#999999" id="compiler"><IMG id="visual" name="basic" alt="visual basic compiler" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="basic"><A class="nav" href="news.htm" title="Pure Basic : News">News</a></td>
+            <td width="1" bgcolor="#999999" id="compiler"><IMG id="visual" name="basic" alt="visual basic compiler" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="optimized"><A class="nav" href="download.htm" title="Pure Basic : Download">Download</font></a></td>
+            <td width="1" bgcolor="#999999" id="visual"><IMG id="visual" name="basic" alt="visual basic compiler" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="basic"><A class="nav" href="screenshots.htm" title="Pure Basic : Screenshots">Screenshots</a></td>
+            <td width="1" bgcolor="#999999" id="optimized"><IMG id="programming" name="language" alt="optimized programming language" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="basic"><A class="nav" href="ordering.htm" title="Pure Basic : Ordering !">Ordering</a></td>
+            <td width="1" bgcolor="#999999" id="compiler"><IMG id="basic" name="compiler" alt="visual basic compiler" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="compiler"><A class="nav" href="support.htm" title="Pure Basic : Support">Support</a></td>
+            <td width="1" bgcolor="#999999" id="language"><IMG id="programming" name="language" alt="visual basic compiler" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="10%" height="21" align="center" bgcolor= "#FFFFFF" id="optimized"><A class="nav" href="faq.htm" title="Pure Basic : FAQ">FAQ</a></td>
+            <td width="1" bgcolor="#999999" id="optimized"><IMG id="programming" name="language" alt="optimized programming language" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor = "#FFFFFF" id="basic"><A class="nav" href="links.htm" title="Pure Basic : Links">Links</a></td>
+
+                </TR>
+            </TABLE>
+        </TD>
+    </TR>
+
+    <tr class="ShadowBody"> <td colspan="2"></td> <tr>
+
+    <TR bgcolor="#EFF1F0">
+      <TD class="topborder" colspan="2" align="center" valign="top" id="visual">
+        <br>
+         <TABLE width="850" border="0" cellspacing="0" cellpadding="0" id="programming">
+            <TR id="basic">
+<!-- EOF HEADER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+
+<TD valign="top" id="easy"><font class="pagebody">
+  <div align="left" id="language">
+    
+Changes by libraries from v3.94 to v4.00 
+
+<p><b>Image</b></p><blockquote>
+
+
+- removed : UseImage() - change UseImage(#Image) to ImageID(#Image) where just the ID is needed. <br>
+<br>
+- added: CreateImage(#Image, Width, Height [, Depth]) - New Parameter <br>
+- added: LoadImage(#Image, FileName$ [, Flags]) - New Parameter <br>
+
+- added: CatchImage(#Image, FileName$ [, Length [, Flags]]) - New Parameters <br>
+<br>
+- changed: ImageDepth(#Image)        - new parameter <br>
+- changed: ImageHeight(#Image)       - new parameter <br>
+- changed: ImageWidth(#Image)        - new parameter <br>
+- changed: ImageID(#Image)           - new parameter <br>
+- changed: ImageOutput(#Image)       - new parameter <br>
+
+
+</blockquote>
+<p><b>String</b></p><blockquote>
+
+
+- added: StrD(Number [, NbDecimals]) <br>
+- added: StrQ() <br>
+- added: HexQ() <br>
+- added: BinQ() <br>
+- added: StrU(): added a #PB_Quad flag <br>
+- added: ValD(), ValQ() <br>
+
+
+</blockquote>
+
+<p><b>Thread</b></p><blockquote>
+
+
+added: IsThread(Thread)    - test if thread (still) exists. <br>
+added: CreateMutex()       - create a mutex onject <br>
+added: FreeMutex(Mutex)    - destroy the object <br>
+added: LockMutex(Mutex)    - wait until mutex is available and lock it <br>
+added: TryLockMutex(Mutex) - lock mutex if available, otherwise return 0 immediately <br>
+added: UnlockMutex(Mutex)  - unlock the mutex so other threads can lock it <br>
+
+</blockquote>
+<p><b>Process (New)</b></p><blockquote>
+
+
+added: GetEnvironmentVariable(Name$)         - get value of an en var <br>
+added: SetEnvironmentVariable(Name$, Value$) - set the value <br>
+added: RemoveEnvironmentVariable(Name$)      - delete environment variable <br>
+added: ExamineEnvironmentVariables()         - examine the currently set env variables <br>
+added: NextEnvironmentVariable()             - get the next variable <br>
+added: EnvironmentVariableName()             - get the variable name <br>
+
+added: EnvironmentVariableValue()            - get the variable value <br>
+added: ProgramName()               - get full path to executable <br>
+added: CountProgramParameters()    - get parameters count <br>
+added: IsProgram(Program)          - check if Program is a valid program created with RunProgram <br>
+added: ProgramID(Program)          - get the ProcessID of the program <br>
+added: ProgramRunning(Program)     - returns 1 if the program is still running <br>
+added: WaitProgram(Program [, Timeout])  - waits for the program to quit (with optional timeout) returns 1 if the program has ended <br>
+added: KillProgram(Program)        - forcibly terminates the program <br>
+added: ProgramExitCode(Program)    - get the exitcode of the program (only valid after program has ended) <br>
+
+added: CloseProgram(Program)       - close the interaction with the program <br>
+added: AvailableProgramOutput(Program)         - returns the number of bytes available for reading <br>
+added: ReadProgramString(Program)              - read a string from the program output <br>
+added: ReadProgramData(Program, *Buffer, size) - read data from the output <br>
+added: ReadProgramError(Program)               - read a message from STDERR <br>
+added: WriteProgramString(Program, String$)    - write to the programs input (string) <br>
+added: WriteProgramData(Program, *Buffer, size)- write datat to the programs input <br>
+<br>
+changed: ProgramParameter([Index])   - get next (or at position index) parameter <br>
+changed: RunProgram() 
+
+
+</blockquote>
+<p><b>File</b></p><blockquote>
+
+
+added: FileBuffersSize(#File, Size) - Change the size of the buffers for the specified file. <br>
+added: FileID(#File) - Returns the unique ID which identifies the file in the operating system. <br>
+added: FlushFileBuffers(#File) - Ensure than all buffered operations are written to disk. <br>
+
+added: ReadChar(#File) <br>
+added: ReadQuad(#File) <br>
+added: ReadDouble(#File) <br>
+added: WriteChar(#File, Value) <br>
+added: WriteQuad(#File, Value) <br>
+added: WriteDouble(#File, Value) <br>
+<br>
+changed: FileSeek(#File, NewPosition)   - new parameter <br>
+changed: WriteData(#File)               - new parameter <br>
+
+changed: ReadData(#File)                - new parameter <br>
+changed: Lof(#File)                     - new parameter <br>
+changed: Loc(#File)                     - new parameter <br>
+changed: ReadByte(#File)                - new parameter <br>
+changed: ReadWord(#File)                - new parameter <br>
+changed: ReadLong(#File)                - new parameter <br>
+changed: ReadFloat(#File)               - new parameter <br>
+changed: ReadString(#File [,Format])    - new parameter <br>
+changed: ReadData(#File)                - new parameter <br>
+
+changed: WriteByte(#File, Data)         - new parameter <br>
+changed: WriteWord(#File, Data)         - new parameter <br>
+changed: WriteLong(#File, Data)         - new parameter <br>
+changed: WriteFloat(#File, Data)        - new parameter <br>
+changed: WriteString(#File, Data [,Format])       - new parameter <br>
+changed: WriteStringN(#File, Data [,Format])      - new parameter <br>
+changed: WriteData(#File, Data, Length) - new parameter <br>
+<br>
+removed : UseFile()                - change UseFile(#File) to FileID(#File) where just the ID is needed. <br>
+
+
+</blockquote>
+<p><b>2DDrawing</b></p><blockquote>
+
+
+added: DrawAlphaImage() <br>
+added: TextHeight(Text$)     - returns the height required for the string with the current drawing font/output <br>
+added: FillArea(x, y, BorderColor [, Color]) - if BorderColor = -1, it fills the area with the same color as on (x,y) <br>
+<br>
+changed: FrontColor(Color)     - joined the red, green, blue to only one color value. (add RGB() for a quick adjustion of old code) <br>
+changed: BackColor(Color)      - joined the red, green, blue to only one color value. <br>
+
+changed: NewX = DrawText(x, y, Text$ [, FrontColor [, BackColor]]) - added x/y coordinates and optional color values <br>
+changed: TextLength(Text$) -&#062; TextWidth(Text$) - renamed <br>
+<br>
+removed: Locate(x, y)   - no longer usefull. 
+
+
+</blockquote>
+<p><b>Palette</b></p><blockquote>
+
+
+removed: UsePalette() <br>
+<br>
+changed: GetPaletteColor(#Palette, Index)        - new Parameter <br>
+
+changed: SetPaletteColor(#Palette, Index, Color) - new Parameter 
+
+
+</blockquote>
+<p><b>Module</b></p><blockquote>
+
+
+changed: SetModulePosition(#Module, Position)    - new Parameter <br>
+changed: GetModulePosition(#Module)    - new Parameter <br>
+changed: GetModuleRow(#Module)    - new Parameter <br>
+changed: StopModule(#Module)    - new Parameter and -1 = stop all the modules 
+
+
+</blockquote>
+<p><b>Database</b></p><blockquote>
+
+changed: FirstDatabaseRow(#Database)    - new Parameter <br>
+changed: PreviousDatabaseRow(#Database) - new Parameter <br>
+changed: NextDatabaseRow(#Database)     - new Parameter <br>
+changed: GetDatabaseLong(#Database)     - new Parameter <br>
+changed: GetDatabaseFloat(#Database)    - new Parameter <br>
+changed: GetDatabaseString(#Database)   - new Parameter <br>
+changed: DatabaseUpdate(#Database, Query$) - new Parameter <br>
+changed: DatabaseQuery(#Database, Query$) - new Parameter <br>
+
+changed: DatabaseColumnType(#Database, Column) - new Parameter <br>
+changed: DatabaseColumns(#Database) - new Parameter <br>
+changed: DatabaseColumnName(#Database, Column) - new Parameter <br>
+<br>
+removed: UseDatabase() <br>
+
+
+</blockquote>
+<p><b>Movie</b></p><blockquote>
+
+
+changed: MovieAudio(#Movie)        - new Parameter <br>
+
+changed: MovieHeight(#Movie)       - new Parameter <br>
+changed: MovieWidth(#Movie)        - new Parameter <br>
+changed: MovieInfo(#Movie)         - new Parameter <br>
+changed: MovieLength(#Movie)       - new Parameter <br>
+changed: RenderMovieFrame(#Movie)  - new Parameter <br>
+changed: ResizeMovie(#Movie, x, y, Width, Height) - new Parameter <br>
+changed: ResumeMovie(#Movie)       - new Parameter <br>
+changed: PauseMovie(#Movie)        - new Parameter <br>
+changed: StopMovie(#Movie)         - new Parameter <br>
+
+changed: MovieSeek(#Movie, Position) - new Parameter <br>
+changed: MovieStatus(#Movie)       - new Parameter <br>
+<br>
+removed: UseMovie() 
+
+
+
+</blockquote>
+<p><b>FileSystem</b></p><blockquote>
+
+
+added: FinishDirectory(#Directory) <br>
+added: DirectoryEntryType(#Directory) <br>
+added: DirectoryEntryDate(#Directory, DateType) - #PB_Date_Created, #PB_Date_Accessed, #PB_Date_Modified <br>
+
+added: GetFileDate(Filename$, DataType) <br>
+added: SetFileDate(Filename$, DataType) <br>
+<br>
+changed: NextDirectoryEntry(#Directory)  - new Parameter <br>
+changed: DirectoryEntryName(#Directory)  - new Parameter <br>
+changed: DirectoryEntryAttributes(#Directory) - new Parameter <br>
+changed: DirectoryEntrySize(#Directory)       - new Parameter <br>
+changed: IsFilename() to CheckFilename()      - function name changed <br>
+<br>
+removed: UseDirectory() <br>
+
+<br>
+Important notes: NextDirectoryEntry() no longer returns the type of entry (file/type). To be consistent 
+with other Examine...()/Next...() functions in PB, it now only returns 0 or 1 (0 means no more objects) 
+Use DirectoryEntryType() to find out the type of entry like you did before with the result of NextDirectoryEntry(). 
+FinishDirectory() has to be called after each ExamineDirectory(). 
+
+
+</blockquote>
+<p><b>Menu</b></p><blockquote>
+
+
+added: GetMenuItemText(#Menu, ItemID) <br>
+added: GetMenuTitleText(#Menu, ItemID) <br>
+added: SetMenuItemText(#Menu, ItemID, Text$) <br>
+added: SetMenuTitleText(#Menu, ItemID, Text$) <br>
+<br>
+changed: DisableMenuItem(#Menu, ItemID, State)  - new Parameter <br>
+
+changed: MenuID(#Menu)  - new Parameter 
+
+
+</blockquote>
+<p><b>Console</b></p><blockquote>
+
+
+added: EnableGraphicalConsole(State) <br>
+added: RawKey() <br>
+added: Redirection and standard output support <br>
+<br>
+changed: Inkey()  - now returns only 1 char or nothing (instead of always 2), use RawKey() for the extra character <br>
+<br>
+Note: the old console lib used a graphical console mode, which did not output to stdout correctly. 
+(you could not call it from commandline like: myprogram.exe &#062; test.txt) 
+Now you have the choise with EnableGraphicalConsole(State), and if you do 
+not explicitly set the graphical mode, the printed stuff should be properly sent to stdout, enabling 
+you to write better console tools. This also applies to stdin and the Input() command. 
+
+
+
+</blockquote>
+<p><b>AudioCD</b></p><blockquote>
+
+
+changed: all function name from 'CDAudio' to 'AudioCD' (less french-english..) 
+
+
+</blockquote>
+<p><b>Toolbar</b></p><blockquote>
+
+
+added: ToolBarHeight(#ToolBar) <br>
+added: ToolBarID(#ToolBar) <br>
+<br>
+changed: ToolBarTooltip(#ToolBar, Button, Text$) - New parameter <br>
+
+changed: DisableToolBarButton(#ToolBar, Button, State) - New parameter 
+
+
+</blockquote>
+<p><b>Statusbar</b></p><blockquote>
+
+
+added: StatusBarHeight(#StatusBar) <br>
+added: StatusBarID(#StatusBar) 
+
+
+</blockquote>
+<p><b>Font</b></p><blockquote>
+
+
+changed: FontID(#Font) - New parameter <br>
+changed: CloseFont() to FreeFont() <br>
+
+<br>
+removed: UseFont() 
+
+</blockquote>
+<p><b>Preferences</b></p><blockquote>
+
+
+added: ability to add/change/delete keys to existing prefs files. <br>
+added: RemovePreferenceKey(Name$) <br>
+added: RemovePreferenceGroup(Name$) <br>
+added: ExaminePreferenceGroups() - get all the group names in the file <br>
+added: NextPreferenceGroup()     - go to the next group name. (the group will be set as the current one) <br>
+
+added: PreferenceGroupName()     - get the goup name.  <br>
+added: ExaminePreferenceKeys()   - get all key names in the current group <br>
+added: NextPreferenceKey()       - go to the next key. <br>
+added: PreferenceKeyName()       - get key name <br>
+added: ReadPreferenceQuad(Key$, Default) <br>
+added: ReadPreferenceDouble(Key$, Default) <br>
+added: WritePreferenceQuad(Key$, Value) <br>
+added: WritePreferenceDouble(Key$, Value) 
+
+
+
+</blockquote>
+<p><b>Sprite</b></p><blockquote>
+
+
+added: SpriteID(#Sprite) <br>
+added: FlipBuffer() - added a flag, to have a CPU optimized synchro in fullscreen mode <br>
+<br>
+renamed: DisplayTranslucideSprite() to DisplayTranslucentSprite() <br>
+<br>
+changed: TransparentSpriteColor(#Sprite, R, G, B) to TransparentSpriteColor(#Sprite, Color) <br>
+changed: ClearScreen(R, G, B) to ClearScreen(Color) 
+
+
+</blockquote>
+<p><b>Library</b></p><blockquote>
+
+renamed: IsFunction() -&#062; GetFunction() 
+
+
+
+</blockquote>
+<p><b>Network</b></p><blockquote>
+
+
+added: UDP support trough the flags #PB_Network_UDP and #PB_Network_TCP <br>
+added: GetClientIP() <br>
+added: GetClientPort() <br>
+added: EventServerNumber() <br>
+
+<br>
+renamed: NetworkClientID() -&#062; EventClient() 
+
+
+</blockquote>
+<p><b>Keyboard</b></p><blockquote>
+
+
+added: #PB_Keyboard_International and #PB_Keyboard_AllowSystemKeys flags to KeyboardMode() 
+
+
+</blockquote>
+<p><b>Clipboard</b></p><blockquote>
+
+
+changed: GetClipboardData(Type) to GetClipboardImage(#Image) <br>
+
+changed: SetClipboardData(Type, Data) to SetClipboardImage(#Image) 
+
+
+</blockquote>
+<p><b>Memory</b></p><blockquote>
+
+
+added: Unicode conversion support to PeekS() and PokeS() between ascii, UTF8 and UTF16 <br>
+added: PeekC(), PeekD(), PeekQ() <br>
+added: PokeC(), PokeD(), PokeQ() <br>
+added: MemorySize() - return size of a memory block <br>
+added: MoveMemory() <br>
+added: CompareMemoryString(*Text1, *Test2 [Mode [, MaxLength [, Flags]]]) - New flags parameter for UTF16/UTF8/Ascii compare <br>
+
+added: MemoryStringLength() - New flags parameter for UTF16/UTF8/Ascii support <br>
+<br>
+Note: The PeekS, PokeS, CompareMemoryString, MemoryStringLength now have a parameter that specifies the string format. 
+Possible options are: #PB_Ascii, #PB_Unicode or #PB_UTF8. This allows you do work with strings in memory 
+independant of the actual String mode the executable was compiled with (unicode or not). 
+
+
+</blockquote>
+<p><b>Engine3D</b></p><blockquote>
+
+
+changed: CreateMesh(#Mesh,MaximumVertex) - new parameter <br>
+changed: MaterialAmbientColor(#Matrix1,-1) - -1 new parameter <br>
+<br>
+added: EntityRenderMode() <br>
+added: WorldShadows(#PB_Shadow_Additive)  <br>
+
+added: ParticleEmitterDirection() <br>
+added: GetEntityMass <br>
+added: SetEntityMass <br>
+added: GetEntityFriction <br>
+added: SetEntityFriction <br>
+added: EntityPhysicBody <br>
+added: ExamineWorldCollisions <br>
+added: NextWorldCollision <br>
+added: CheckWorldCollisionEntity <br>
+
+added: FirstWorldCollisionEntity <br>
+added: SecondWorldCollisionEntity <br>
+added: WorldGravity <br>
+added: EnableWorldCollision <br>
+added: EnableWorldPhysics <br>
+added: Parse3DScripts <br>
+<br>
+removed: RotateParticleEmitter() (was useless for now) <br>
+
+
+</blockquote>
+<p><b>Window</b></p><blockquote>
+
+
+changed: WaitWindowEvent([Timeout])                  - added optional timeout value <br>
+changed: ResizeWindow(#Window, x, y, width, height)  - '-1' parameters must be changed to #PB_Ignore <br>
+changed: SetWindowCallback(@procesure()[, #Window]) - added optional window parameter (to set callback for 1 window only) <br>
+changed: ResizeWindow(#Window, x, y, Width, Height) - now same as ResizeGadget() <br>
+changed: WindowID(#Window)       - parameter no longer optional <br>
+changed: WindowHeight(#Window)   - new parameter <br>
+
+changed: WindowWidth(#Window)    - new parameter <br>
+changed: WindowX(#Window)        - new parameter <br>
+changed: WindowY(#Window)        - new parameter <br>
+changed: WindowMouseX(#Window)   - new parameter <br>
+changed: WindowMouseY(#Window)   - new parameter <br>
+changed: WindowOutput(#Window)   - new parameter <br>
+<br>
+renamed: EventWindowID() to EventWindow() <br>
+renamed: EventGadgetID() to EventGadget() <br>
+
+renamed: EventMenuID()   to EventMenu() <br>
+renamed: ActivateWindow() to SetActiveWindow(#Window) <br>
+<br>
+removed: MoveWindow() <br>
+removed: DetachMenu() <br>
+removed: UseWindow() <br>
+removed: Compatibility constants like #PB_EventCloseWindow (use the documented #PB_Event_CloseWindow instead) <br>
+<br>
+added: GetActiveWindow()       - returns the Window with the focus <br>
+added: DisableWindow(#Window, State) - disable user input to a window <br>
+
+added: GetWindowState(#Window)       - get minimized/maximized state <br>
+added: SetWindowState(#Window, State)- set minimized/maximized state <br>
+added: StickyWindow(#Window, State)  - make the window stay on top of all others even if disabled <br>
+added: SetWindowColor(#Window, Color)- set background color of the window <br>
+added: GetWindowColor(#Window)       - get the current background color of the window <br>
+added: SmartWindowRefresh(#Window, State) - enable or disable the smart refresh feature 
+
+
+</blockquote>
+<p><b>Gadget</b></p><blockquote>
+
+
+added: GetActiveGadget()      - returns the currently active Gadget <br>
+
+added: GadgetType(#Gadget) - returns a constant that identifies what kind of Gadget this is <br>
+added: SetGadgetData(#Gadget, Value) - associate a value with the Gadget (works for all Gadgets.) <br>
+added: GetGadgetData(#Gadget)        - read the associated value <br>
+added: SetGadgetItemData(#Gadget, Item, Value) - associate value with gadget item (works for specific gadgets only) <br>
+added: GetGadgetItemData(#Gadget, Item) <br>
+added: SetGadgetColor(#Gadget, ColorType, Color) <br>
+added: GetGadgetColor(#Gadget, ColorType) <br>
+added: SetGadgetItemColor(#Gadget, Item, ColorType, color [, Column]) <br>
+added: GetGadgetItemColor(#Gadget, Item, ColorType [, Column]) <br>
+
+<br>
+changed: ActivateGadget(#Gadget) is now SetActiveGadget(#Gadget) <br>
+changed: ResizeGadget(#Gadget, x, y, width, height), -1 should now be changed to #PB_Ignore <br>
+<br>
+removed: #PB_String_MultiLine 
+<br>
+<br>
+Individual Gadget changes: <br>
+<br>
+StringGadget: <br>
+- supports SetGadgetColor() for front and backcolor <br>
+<br>
+
+TextGadget: <br>
+- Supports SetGadgetColor() for front and backcolor <br>
+<br>
+ListViewGadget: <br>
+- Supports SetGadgetColor() for front and backcolor (not for individual items) <br>
+- Supprots SetGadgetItemData() <br>
+- new Flags: <br>
+#PB_ListView_Multiselect - allow multi selection <br>
+#PB_ListView_ClickSelect - multiselect + clicking and item selects/deselects it <br>
+
+<br>
+ComboBoxGadget() <br>
+- Supports SetGadgetItemData() <br>
+<br>
+ListIconGadget() <br>
+- Supports SetGadgetColor() for front and backcolor and #PB_Gadget_LineColor (for #PB_ListIcon_GridLines) <br>
+- Supports SetGadgetItemColor() for front and backcolor (can be set for each cell individually) <br>
+- Supports SetGadgetItemData() <br>
+- The event to detected a checkbox change is now #PB_EventType_Change <br>
+- Supports GetGadgetItemAttribute(#Gadget, 0, #PB_ListIcon_ColumnWidth, 2) ; return width of column 2 <br>
+
+- Supports SetGadgetItemAttribute(#Gadget, 0, #PB_ListIcon_ColumnWidth, 100, 2) ; set width of column 2 to 100 <br>
+- Supports GetGadgetItemText(#Gadget, -1, 2)             ; return header text for column 2 <br>
+- Supports SetGadgetItemText(#Gadget, -1, "New Text", 2) ; change header text for column 2 <br>
+<br>
+
+HyperLinkGadget() <br>
+- Supports SetGadgetColor() for frontcolor (background is always transparent) <br>
+- new Flag: #PB_Hyperlink_Underline - draw a line under the text (without the need for an underlined font) <br>
+<br>
+ContainerGadget() <br>
+
+- supports SetGadgetColor() for backcolor <br>
+<br>
+ProgressBarGadget() <br>
+- supports SetGadgetColor() for front & backcolor  (not working with XP skins) <br>
+- supports SetGadgetAttribute() with #PB_ProgressBar_Minimum, #PB_ProgressBar_Maximum <br>
+<br>
+ScrollBarGadget() <br>
+- Supports SetGadgetAttribute() with #PB_ScrollBar_Minimum, #PB_ScrollBar_Maximum, #PB_ScrollBar_PageLength <br>
+<br>
+ScrollAreaGadget() <br>
+
+- supports SetGadgetColor() for backcolor <br>
+- new Flag: #PB_ScrollArea_Center - when the inner size is smaller than the outer, the inner area will be centered automatically <br>
+- new options for SetGadgetAttribute() #PB_ScrollArea_X/#PB_ScrollArea_Y to read/set the current scroll pos. <br>
+- now generates an event when being scrolled <br>
+<br>
+CalendarGadget() <br>
+- supports SetGadgetColor() with the following <br>
+#PB_Gadget_BackColor       - background <br>
+#PB_Gadget_FrontColor      - text to display days <br>
+
+#PB_Gadget_TitleBackColor  - background of month title <br>
+#PB_Gadget_TitleFrontColor - text color of month title <br>
+#PB_Gadget_GreyTextColor   - color for days not of the current month <br>
+<br>
+DateGadget() <br>
+- supports SetGadgetColor() with the same values as CalendarGadget to color the drop-down calendar <br>
+- the input area can not be colored at this time <br>
+<br>
+EditorGadget() <br>
+- supports SetGadgetColor for front & backcolor <br>
+
+- new Flag: #PB_Editor_ReadOnly  <br>
+- supports SetGadgetrAttribute() with #PB_Editor_ReadOnly to get/set the readonly flag <br>
+<br>
+TrackBarGadget() <br>
+- supports SetGadgetAttribute() with #PB_TrackBar_Minimum, #PB_TrackBar_Maximum <br>
+<br>
+SpinGadget() <br>
+- supports SetGadgetColor for front & backcolor (to color the edit area) <br>
+- supports SetGadgetAttribute() with #PB_Spin_Minimum, #PB_Spin_Maximum <br>
+
+- New Flags: <br>
+#PB_Spin_ReadOnly - The StringGadget is not editable, the number is only changeable by the arrows <br>
+#PB_Spin_Numeric  - The SpinGadget will automatically update the text with value of the state, so SetGadgetText is not needed. <br>
+- EventType values: <br>
+1 - the up button was pressed <br>
+-1 - the down button was pressed <br>
+#PB_EventType_Change - the text in the edit box was changed <br>
+<br>
+
+TreeGadget() <br>
+
+- Supports SetGadgetColor() for front & backcolor & #PB_Gadget_LineColor <br>
+- Supports SetGadgetItemColor() for front & backcolor <br>
+- changed management of items completly. There are no longer any nodes, 
+just a continuous list where each item has a "sublevel". The sublevels 
+of all items define the tree structure like this: 
+<pre><font face="Courier New, Courier, mono"size="2">   + sublevel 0
+   +-+ sublevel 1
+   | | sublevel 1
+   | +-+ sublevel 2
+   | | sublevel 1
+   | sublevel 0              
+</font></pre>
+- new parameter to AddGadgetItem: AddGadgetItem(#Gadget, Position, Text$ [, ImageID [, Flags]]) 
+The "Flags" parameter is always required for TReeGadget and specifies the 
+Sublevel in which to put this item. <br>
+<br>
+To create the above three, you do this: 
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#006666">   AddGadgetItem</font>(<font color="#924B72">#TreeGadget</font>, -1, "sublevel 0", 0, 0)
+
+<font color="#006666">   AddGadgetItem</font>(<font color="#924B72">#TreeGadget</font>, -1, "sublevel 1", 0, 1)
+<font color="#006666">   AddGadgetItem</font>(<font color="#924B72">#TreeGadget</font>, -1, "sublevel 1", 0, 1)
+<font color="#006666">   AddGadgetItem</font>(<font color="#924B72">#TreeGadget</font>, -1, "sublevel 2", 0, 2)
+<font color="#006666">   AddGadgetItem</font>(<font color="#924B72">#TreeGadget</font>, -1, "sublevel 1", 0, 1)
+
+<font color="#006666">   AddGadgetItem</font>(<font color="#924B72">#TreeGadget</font>, -1, "sublevel 0", 0, 0)    
+</font></pre>
+- new GetGadgetItemAttribute() with #PB_Tree_SubLevel (readonly) to get the sublevel of any item <br>
+- removed: OpenTreeGadgetNode() <br>
+- removed: CloseTreeGadgetNode() <br>
+- removed: TreeGadgetItemNumber()     - can be easily emulated by GadgetItemID()+a run trough the item list <br>
+- removed: CountTreeGadgetNodeItems() - can be easily emulated by comparing the sublevel of the items <br>
+<br>
+
+PanelGadget() <br>
+- added GetGadgetAttribute() with #PB_Panel_ItemWidth, #PB_Panel_ItemHeight (readonly) 
+(there must be at least 1 tab in the panel for this to work) <br>
+<br>
+SplitterGadget() <br>
+- new flags for Get/SetGadgetAttribute(): #PB_Splitter_FirstGadget, #PB_Splitter_SecondGadget 
+With GetGadgetAttribute(), they return the #Gadget Number of the stored Gadget 
+With SetGadgetAttribute(), you can place a new Gadget in the Splitter. <br>
+<br>
+Note: The Old Gadget will not be automatically freed! (it will be put out of the splitter and on the same window as the splitter) 
+So if you do not want the old gadget to remain, remove it with FreeGadget() 
+This allows you to switch Gadgets in a splitter without the need to re-create any of them. <br>
+<br>
+Note: You cannot have a Gadget in 2 Splitters at once, so to move a Gadget from one splitter to another, 
+Replace it in the first splitter first, and then put it in the second one. <br>
+<br>
+MDIGadget() <br>
+
+- The child windows of the MDIGadget are no longae "GadgetItems", but real PB Windows. 
+This means that you can use ANY command from the WindowLib with them (except StickyWindow()). This makes some of the MDIGadget 
+features obsolete, therefore there are some changes: <br>
+- The Gadget no longer sends any events: all close, resize, activate events are received as Window events <br>
+- GetGadgetAttribute(), Get/SetGadgetItemAttribute, Get/SetGadgetItemState(), Get/SetGadgetItemText 
+are all no longer supported. All this can be easily done through the Window lib commands. <br>
+- RemoveGadgetItem() no longer supported.. use CloseWindow() <br>
+<br>
+The Commands useable with MDIGadget now are only these: (+ the whole windowlib!) <br>
+- ClearGadgetItemList() : closes all child windows <br>
+- CountGadgetItems()    : get the number of child windows in the gadget <br>
+- GetGadgetState()      : get the WindowID of the Window currently in the foreground of the gadget <br>
+
+- SetGadgetState()      : get a specific window to the foreground or arrange the child windows (All like the old MDIGadget) <br>
+- AddGadgetItem()       : create an MDI Child<br>
+Note: you must now call CreateGadgetList() to add items to a MDI child, just like with normal windows. <br>
+<br>
+- SetGadgetColor()     can be used with #PB_Gadget_BackColor to set the MDI backcolor <br>
+- SetGadgetAttribute() can be used with #PB_MDI_Image to set a background image, #PB_MDI_TileImage can set the tile mode of the image on or off <br>
+<br>
+ExplorerListGadget() <br>
+
+- supports SetGadgetColor() for front & backcolor & #PB_Gadget_LineColor <br>
+- Supports GetGadgetItemAttribute(#Gadget, 0, #PB_Explorer_ColumnWidth, 2) ; return width of column 2 <br>
+- Supports SetGadgetItemAttribute(#Gadget, 0, #PB_Explorer_ColumnWidth, 100, 2) ; set width of column 2 to 100 <br>
+- Supports GetGadgetItemText(#Gadget, -1, 2)             ; return header text for column 2 <br>
+- Supports SetGadgetItemText(#Gadget, -1, "New Text", 2) ; change header text for column 2 <br>
+<br>
+ExplorerTreeGadget() <br>
+- supports SetGadgetColor() for front & backcolor & #PB_Gadget_LineColor 
+
+
+  </div>
+</TD>
+
+<!-- FOOTER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+                </TR>
+            </TABLE>
+            <br>
+        </td>
+    </TR>
+    <TR height="28" id="easy">
+      <TD align="left" bgcolor="#5A6986" id="language">
+        <font class="pagefooter">&nbsp;&nbsp;Copyright © 2015 Fantaisie Software</font>
+      </TD>
+      <TD align="right" bgcolor="#5A6986" id="compiler">
+        <font class="pagefooter"><b><A class="nav_footer" href="mailto:support@purebasic.com" style="COLOR: #FFFFFF" title="Pure Basic : support">support@purebasic.com</A></b>&nbsp;&nbsp;</font>
+      </TD>
+    </TR>
+</TABLE>
+
+<table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr class="ShadowFooter"> <td colspan="2"></td> <tr>
+</table>
+
+
+<br>
+
+<table class="MainTable" id="language" align="center" border="0" cellpadding="0" cellspacing="0" width="900">
+	<tr bgcolor="#EFF1F0">
+		<td class="topborder" align="center" valign="top">
+			<br>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="850">
+				<tr>
+					<td bgcolor="#FFFFFF" valign="middle"><a title="basic programming web language" href="http://www.spiderbasic.com" target="_blank"><img src="logo-spiderbasic.png"></a></td>
+					<td bgcolor="#FFFFFF">
+						<div class="pagebody" align="center">
+							By the same author, discover the new web client-side programming language<br> based on established BASIC rules
+							on <a title="basic programming web language" href="http://www.spiderbasic.com" target="_blank">spiderbasic.com</a>
+						</div>
+					</td>
+				</tr>
+			</table>
+			<br>
+		</td>
+	</tr>
+	
+</table>
+<br>
+
+</BODY>
+</HTML>
+<!-- EOF FOOTER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+    

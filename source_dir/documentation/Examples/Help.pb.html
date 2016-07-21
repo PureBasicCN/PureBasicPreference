@@ -1,0 +1,20 @@
+<html><head><title>Help.pb</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;   PureBasic - Help example file
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;    (c) Fantaisie Software
+</font><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font>
+<font color="#3A3966">OpenHelp</font>(<font color="#924B72">#PB_Compiler_Home</font> + &quot;PureBasic.chm&quot;, &quot;MainGuide\history.html&quot;)
+
+<font color="#3A3966">MessageRequester</font>(&quot;Information&quot;, &quot;Click to close the PureBasic help and open another old .hlp file&quot;, 0)
+<font color="#3A3966">CloseHelp</font>()
+
+<font color="#3A3966">OpenHelp</font>(<font color="#3A3966">OpenFileRequester</font>(&quot;Choose an .hlp file&quot;, &quot;&quot;, &quot;WinHelp files (*.hlp)|*.hlp&quot;, 0), &quot;&quot;)
+</font></pre>
+</body></html>

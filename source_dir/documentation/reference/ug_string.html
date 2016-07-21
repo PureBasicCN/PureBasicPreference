@@ -1,0 +1,117 @@
+<html><head><title>UserGuide - String Manipulation</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">UserGuide - String Manipulation</font></b></p>
+
+The following example shows step by step the different commands of the <a href="../string/index.html">string</a> 
+library - their purpose and their correct use. 
+
+<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Define</font></b>.s String1, String2, String3
+  
+  String1 = &quot;The quick brown fox jumps over the lazy dog.&quot;
+  
+  <font color="#3A3966">; Left returns a number of characters from the left hand end of a string.</font>
+  <font color="#3A3966">; Mid returns a number of characters from the given start location in the middle of a string.</font>
+  <font color="#3A3966">; Right returns a number of characters from the right hand end of a string.</font>
+  <font color="#3A3966">; Space returns the specified number of space characters as a string.</font>
+  <font color="#3A3966">; Shows &quot;The brown dog.&quot;</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;* Left, Mid and Right&quot;
+  String2 =<font color="#3A3966"> Left</font>(String1, 3) +<font color="#3A3966"> Space</font>(1) +<font color="#3A3966"> Mid</font>(String1, 11, 5) +<font color="#3A3966"> Space</font>(1) +<font color="#3A3966"> Right</font>(String1, 4)
+  <b><font color="#3A3966">Debug</font></b> String2
+  
+  <font color="#3A3966">; CountString returns the number of instances of the second string in the first string, it is case sensitive.</font>
+  <font color="#3A3966">; Shows 1.</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;* CountString&quot;
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">CountString</font>(String1, &quot;the&quot;)
+  
+  <font color="#3A3966">; However the LCase (and UCase) functions can be used to switch a string to all lower (or upper) case</font>
+  <font color="#3A3966">; Shows 2</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;* CountString and LCase&quot;
+  String2 =<font color="#3A3966"> LCase</font>(String1)
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">CountString</font>(String2, &quot;the&quot;)
+  
+  <font color="#3A3966">; FindString can be used to find the location of one string within another.</font>
+  <font color="#3A3966">; Shows 17.</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;* FindString&quot;
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">FindString</font>(String1, &quot;fox&quot;)
+  
+  <font color="#3A3966">; RemoveString can be used to remove one string from within another.</font>
+  <font color="#3A3966">; Shows The quick fox jumps over the lazy dog.</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;* RemoveString&quot;
+  String2 =<font color="#3A3966"> RemoveString</font>(String1, &quot; brown&quot;)
+  <b><font color="#3A3966">Debug</font></b> String2
+  
+  <font color="#3A3966">; ReplaceString can be used to change the occurrence of a substring within another string.</font>
+  <font color="#3A3966">; Shows The quick brown fox jumps over the sleeping dog.</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;* ReplaceString&quot;
+  String2 =<font color="#3A3966"> ReplaceString</font>(String1, &quot;lazy&quot;, &quot;sleeping&quot;)
+  <b><font color="#3A3966">Debug</font></b> String2
+  
+  <font color="#3A3966">; StringByteLength returns the length of a string in bytes in the specified format, or the current default</font>
+  <font color="#3A3966">; if one is not specified (excluding the terminating null).</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;* StringByteLength&quot;
+  <font color="#3A3966">; Shows 44.</font>
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">StringByteLength</font>(String1, <font color="#924B72">#PB_Ascii</font>)
+  <font color="#3A3966">; Shows 88.</font>
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">StringByteLength</font>(String1, <font color="#924B72">#PB_Unicode</font>)
+  
+  <font color="#3A3966">; StringField can be used to obtain an indexed substring from a target string. </font>
+  <font color="#3A3966">; Useful for converting strings to lists for example.</font>
+  <font color="#3A3966">; StringField will work with space as a delimiter too </font>
+  <font color="#3A3966">; but hopefully this example makes the functions behaviour more apparent.</font>
+  <font color="#3A3966">; Shows jumps.</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;* StringField&quot;
+  String2 =<font color="#3A3966"> ReplaceString</font>(String1, &quot; &quot;, &quot;\&quot;)
+  <b><font color="#3A3966">Debug</font></b> String2
+  String3 =<font color="#3A3966"> StringField</font>(String2, 5, &quot;\&quot;)
+  <b><font color="#3A3966">Debug</font></b> String3
+  
+  <font color="#3A3966">; Trim removes white space characters from the start and end of a given string.</font>
+  <font color="#3A3966">; Similarly, LTrim acts on the left hand end (start) of a string and RTrim the right hand end.</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;* Trim, LTrim and RTrim&quot;
+  String2 =<font color="#3A3966"> Space</font>(10) + String1 +<font color="#3A3966"> Space</font>(8)
+  <b><font color="#3A3966">Debug</font></b> <font color="#924B72">#DQUOTE$</font> + String2 + <font color="#924B72">#DQUOTE$</font>
+  String3 =<font color="#3A3966"> Trim</font>(String2)
+  <b><font color="#3A3966">Debug</font></b> <font color="#924B72">#DQUOTE$</font> + String3 + <font color="#924B72">#DQUOTE$</font>
+  String3 =<font color="#3A3966"> LTrim</font>(String2)
+  <b><font color="#3A3966">Debug</font></b> <font color="#924B72">#DQUOTE$</font> + String3 + <font color="#924B72">#DQUOTE$</font>
+  String3 =<font color="#3A3966"> RTrim</font>(String2)
+  <b><font color="#3A3966">Debug</font></b> <font color="#924B72">#DQUOTE$</font> + String3 + <font color="#924B72">#DQUOTE$</font>
+  
+  <font color="#3A3966">; LSet sets a string to be a specific length from the left hand end, padding with spaces, </font>
+  <font color="#3A3966">; or other specified character, as necessary.</font>
+  <font color="#3A3966">; If the string is already longer than the specified length it will be truncated.</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;*LSet&quot;
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">LSet</font>(&quot;Abc&quot;, 10, &quot;*&quot;)
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">LSet</font>(&quot;Abcd&quot;, 10, &quot;*&quot;)
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">LSet</font>(&quot;Abcde&quot;, 10, &quot;*&quot;)
+  
+  <font color="#3A3966">; Similarly RSet pads a string from its right hand end.</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;* RSet&quot;
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">RSet</font>(&quot;1.23&quot;, 10, &quot;0&quot;)
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">RSet</font>(&quot;10.23&quot;, 10, &quot;0&quot;)
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">RSet</font>(&quot;100.23&quot;, 10, &quot;0&quot;)
+  
+  <font color="#3A3966">; Str converts a signed quad value to a string, similarly StrF converts floats, </font>
+  <font color="#3A3966">; StrD converts doubles and StrU converts unsigned values, these two function have an optional </font>
+  <font color="#3A3966">; parameter to specify the number of decimal places to show.</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;* Str, StrF and StrD&quot;
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Str</font>(100)
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">StrF</font>(1.234, 3)
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">StrD</font>(123456.789, 3)
+  
+  <font color="#3A3966">; Val will convert a string value into its numeric (quad) equivalent.</font>
+  <font color="#3A3966">; ValD and ValF perform the same function for floats and doubles.</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;* Val&quot;
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Val</font>(&quot;123&quot;)
+  
+  <font color="#3A3966">; Bin will convert a numeric value into its binary equivalent.</font>
+  <font color="#3A3966">; Hex will convert one into its hexadecimal equivalent.</font>
+  <b><font color="#3A3966">Debug</font></b> &quot;* Bin and Hex&quot;
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Bin</font>(19)
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Hex</font>(19)
+</font></pre>
+
+<p><b>UserGuide Navigation</b></p><blockquote>
+
+<a href="ug_loops.html">< Previous: Loops</a> | <a href="ug_overview.html">Overview</a> | <a href="ug_data.html">Next: Storing data in memory ></a> 
+</body></html>

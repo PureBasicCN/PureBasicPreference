@@ -1,0 +1,62 @@
+<html><head><title>ArraySize</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">ArraySize()</font></b></p>
+<p><b>Syntax</b></p><blockquote>
+Result = <font color="#3A3966"><b>ArraySize</b></font>(Array() [, Dimension])</blockquote>
+
+<b>Description</b><br><blockquote>
+
+Returns the size of the array, as specified with <b><font color="#3A3966">Dim</font></b> or <b><font color="#3A3966">ReDim</font></b>. 
+
+</blockquote><p><b>Parameters</b></p><blockquote>
+<style type="text/css">
+table.parameters { border-spacing: 0px; border-style: none; border-collapse: collapse; }
+table.parameters td { border-width: 1px; padding: 6px; border-style: solid; border-color: gray; vertical-align: top; font-family:Arial; font-size:10pt; }
+</style>
+<table width="90%" class="parameters">
+<tr><td width="10%"><i>Array()</i></td>
+<td width="90%"> 
+The array to get the size from. 
+
+</td></tr>
+<tr><td><i>Dimension (optional)</i></td>
+<td> 
+For multidimensional arrays, this parameter can be specified to get a specific dimension size. 
+The first dimension starts from 1. 
+
+</td></tr>
+</table>
+</blockquote><p><b>Return value</b></p><blockquote>
+
+Returns the size of the array dimension. 
+If the array isn't yet declared (or its allocation has failed), it will return -1. 
+
+</blockquote><p><b>Example</b></p><blockquote>
+
+
+<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Dim</font></b> <font color="#3A3966">MyArray</font>.l(10)
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">ArraySize</font>(<font color="#3A3966">MyArray</font>()) <font color="#3A3966">; will print '10'</font>
+
+  <b><font color="#3A3966">Dim</font></b> <font color="#3A3966">MultiArray</font>.l(10, 20, 30)
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">ArraySize</font>(<font color="#3A3966">MultiArray</font>(), 2) <font color="#3A3966">; will print '20'</font>
+</font></pre>
+
+</blockquote><p><b>Example</b></p><blockquote>
+
+
+<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Dim</font></b> <font color="#3A3966">Test</font>.q(99999999999999999)
+  
+  <b><font color="#3A3966">If</font></b> <font color="#3A3966">ArraySize</font>(<font color="#3A3966">Test</font>()) &lt;&gt; -1
+<font color="#3A3966">    Test</font>(12345) = 123  <font color="#3A3966">; everything fine</font>
+  <b><font color="#3A3966">Else</font></b>
+    <b><font color="#3A3966">Debug</font></b> &quot;Array 'Test()' couldn't be initialized.&quot;
+  <b><font color="#3A3966">EndIf</font></b>
+</font></pre>
+
+</blockquote><p><b>See Also</b></p><blockquote>
+
+<a href="../list/listsize.html">ListSize()</a>, <a href="../map/mapsize.html">MapSize()</a> 
+
+</Blockquote><p><b>Supported OS </b><Blockquote>All</Blockquote></p><center><a href="index.html">Array Index</a> - <a href="copyarray.html">CopyArray()</a> -><br><br>
+
+</body></html>

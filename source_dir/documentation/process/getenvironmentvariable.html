@@ -1,0 +1,42 @@
+<html><head><title>GetEnvironmentVariable</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">GetEnvironmentVariable()</font></b></p>
+<p><b>Syntax</b></p><blockquote>
+Result$ = <font color="#3A3966"><b>GetEnvironmentVariable</b></font>(Name$)</blockquote>
+
+</blockquote>
+<b>Description</b><br><blockquote>
+
+Returns the content of the specified environment variable from the programs environment block. 
+
+</blockquote><p><b>Parameters</b></p><blockquote>
+<style type="text/css">
+table.parameters { border-spacing: 0px; border-style: none; border-collapse: collapse; }
+table.parameters td { border-width: 1px; padding: 6px; border-style: solid; border-color: gray; vertical-align: top; font-family:Arial; font-size:10pt; }
+</style>
+<table width="90%" class="parameters">
+<tr><td width="10%"><i>Name$</i></td>
+<td width="90%"> 
+The name of the environment variable to get. 
+
+</td></tr>
+</table>
+</blockquote><p><b>Return value</b></p><blockquote>
+
+The environment variable value, or an empty string if the environment variable does not exist. 
+
+</blockquote><p><b>Example</b></p><blockquote>
+
+<pre><font face="Courier New, Courier, mono"size="2">  <font color="#3A3966">; Display the content of the &quot;PATH&quot; environment variable</font>
+  <font color="#3A3966">;</font>
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">GetEnvironmentVariable</font>(&quot;PATH&quot;)
+</font></pre>
+
+</blockquote><p><b>See Also</b></p><blockquote>
+
+<a href="setenvironmentvariable.html">SetEnvironmentVariable()</a> 
+
+</Blockquote><p><b>Supported OS </b><Blockquote>All</Blockquote></p><center><- <a href=examineenvironmentvariables.html>ExamineEnvironmentVariables()</a> - <a href="index.html">Process Index</a> - <a href="isprogram.html">IsProgram()</a> -><br><br>
+
+
+</body></html>

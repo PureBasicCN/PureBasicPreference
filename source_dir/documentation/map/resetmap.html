@@ -1,0 +1,49 @@
+<html><head><title>ResetMap</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">ResetMap()</font></b></p>
+<p><b>Syntax</b></p><blockquote>
+<font color="#3A3966"><b>ResetMap</b></font>(Map()) </blockquote>
+
+</blockquote>
+<b>Description</b><br><blockquote>
+
+Resets the current element of the specified map to be before the first element. This means no more current element. 
+However, this is very useful to process all the elements by using <a href="nextmapelement.html">NextMapElement()</a>. 
+
+</blockquote><p><b>Parameters</b></p><blockquote>
+<style type="text/css">
+table.parameters { border-spacing: 0px; border-style: none; border-collapse: collapse; }
+table.parameters td { border-width: 1px; padding: 6px; border-style: solid; border-color: gray; vertical-align: top; font-family:Arial; font-size:10pt; }
+</style>
+<table width="90%" class="parameters">
+<tr><td width="10%"><i>Map()</i></td>
+<td width="90%"> 
+The map to use. 
+
+</td></tr>
+</table>
+</blockquote><p><b>Return value</b></p><blockquote>
+None.
+
+
+</blockquote><p><b>Example</b></p><blockquote>
+
+<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">NewMap</font></b> <font color="#3A3966">Country</font>.s()
+
+<font color="#3A3966">  Country</font>(&quot;US&quot;) = &quot;United States&quot;
+<font color="#3A3966">  Country</font>(&quot;FR&quot;) = &quot;France&quot;
+<font color="#3A3966">  Country</font>(&quot;GE&quot;) = &quot;Germany&quot;
+
+<font color="#3A3966">  ResetMap</font>(<font color="#3A3966">Country</font>())
+  <b><font color="#3A3966">While</font></b> <font color="#3A3966">NextMapElement</font>(<font color="#3A3966">Country</font>())
+    <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Country</font>()
+  <b><font color="#3A3966">Wend</font></b>
+</font></pre>
+
+</blockquote><p><b>See Also</b></p><blockquote>
+
+<a href="nextmapelement.html">NextMapElement()</a> 
+
+</Blockquote><p><b>Supported OS </b><Blockquote>All</Blockquote></p><center><- <a href=pushmapposition.html>PushMapPosition()</a> - <a href="index.html">Map Index</a><br><br>
+
+</body></html>

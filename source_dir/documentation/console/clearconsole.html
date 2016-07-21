@@ -1,0 +1,39 @@
+<html><head><title>ClearConsole</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">ClearConsole()</font></b></p>
+<p><b>Syntax</b></p><blockquote>
+<font color="#3A3966"><b>ClearConsole</b></font>()</blockquote>
+
+<b>Description</b><br><blockquote>
+
+Clears the whole console content using the current background color. The background color is set 
+with <a href="consolecolor.html">ConsoleColor()</a>. The console has to be in graphical mode, see 
+<a href="enablegraphicalconsole.html">EnableGraphicalConsole()</a>. 
+
+</blockquote><p><b>Parameters</b></p><blockquote>
+None.
+
+</blockquote><p><b>Return value</b></p><blockquote>
+None.
+
+
+</blockquote><p><b>Example</b></p><blockquote>
+
+<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">If</font></b> <font color="#3A3966">OpenConsole</font>()
+<font color="#3A3966">    EnableGraphicalConsole</font>(1)
+  
+<font color="#3A3966">    PrintN</font>(&quot;You will never see me&quot;)
+<font color="#3A3966">    ClearConsole</font>()
+    
+<font color="#3A3966">    PrintN</font>(&quot;Press return to exit&quot;)
+<font color="#3A3966">    Input</font>()
+  <b><font color="#3A3966">EndIf</font></b>
+</font></pre>
+
+</blockquote><p><b>See Also</b></p><blockquote>
+
+<a href="enablegraphicalconsole.html">EnableGraphicalConsole()</a>, <a href="consolecolor.html">ConsoleColor()</a> 
+
+</Blockquote><p><b>Supported OS </b><Blockquote>Windows</Blockquote></p><center><a href="index.html">Console Index</a> - <a href="closeconsole.html">CloseConsole()</a> -><br><br>
+
+</body></html>
