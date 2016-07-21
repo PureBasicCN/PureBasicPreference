@@ -910,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b41&gt;Do you want to know what users think about PureBasic ?&lt;/b41&gt; &lt;br42&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055409Z" creationid="MysticBoy" creationdate="20160721T055409Z">
+        <seg>&lt;b41&gt;你想知道用户如何看待 PureBasic？&lt;/b41&gt;&lt;br42&gt;&lt;/br42&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b4&gt;&lt;f5&gt;If&lt;/f5&gt;&lt;/b4&gt; &lt;f6&gt;OpenConsole&lt;/f6&gt;()
 &lt;f7&gt;      PrintN&lt;/f7&gt;("This is console #"+&lt;f8&gt;Str&lt;/f8&gt;(i))
 &lt;f9&gt;      PrintN&lt;/f9&gt;("Press return to close console")
@@ -2795,6 +2803,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055331Z" creationid="MysticBoy" creationdate="20160721T055331Z">
         <seg>   - 完整的 unicode 支持&lt;br14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>      &lt;a44&gt;&lt;i45&gt;&lt;/a44&gt;  &lt;a46&gt;User comments&lt;/a46&gt;&lt;br47&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055341Z" creationid="MysticBoy" creationdate="20160721T055341Z">
+        <seg>&lt;a44&gt;&lt;i45&gt;&lt;/i45&gt;&lt;/a44&gt;&lt;a46&gt;用户评论&lt;/a46&gt;&lt;br47&gt;&lt;/br47&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
