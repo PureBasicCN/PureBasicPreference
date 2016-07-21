@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Constants, binary and hexadecimal numbers supported&lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111321Z" creationid="MysticBoy" creationdate="20160721T111321Z">
+        <seg>- 常量，二进制和十六进制数的支持&lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Supported types: Byte (8 bit), Word (16 bit), Long (32 bit), Float (32 bit), Quad (64 bit), Double (64 bit) and also user defined types (structures)&lt;br15&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111252Z" creationid="MysticBoy" creationdate="20160721T111252Z">
