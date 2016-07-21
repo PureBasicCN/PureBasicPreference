@@ -2871,6 +2871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>  - Added Module, Dialog, Runtime and many more&lt;b104&gt;   &lt;a105&gt;&lt;i106&gt;&lt;/a105&gt;&lt;/b104&gt;&lt;br107&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104904Z" creationid="MysticBoy" creationdate="20160721T104904Z">
+        <seg>- 增加模块，对话框，运行时以及更多&lt;b104&gt;&lt;a105&gt;&lt;i106&gt;&lt;/a105&gt;&lt;/b104&gt;&lt;br107&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>  - Added VectorDrawing, CGI, HTTPS and much more&lt;b27&gt;   &lt;a28&gt;&lt;i29&gt;&lt;/a28&gt;&lt;/b27&gt;&lt;br30&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104500Z" creationid="MysticBoy" creationdate="20160721T104500Z">
@@ -2879,10 +2887,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>  - Bug-fix release&lt;br114&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104957Z" creationid="MysticBoy" creationdate="20160721T104957Z">
+        <seg>- 错误修复版本&lt;br114&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  - Bug-fix release&lt;br147&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105037Z" creationid="MysticBoy" creationdate="20160721T105037Z">
+        <seg>- 错误修复版本&lt;br147&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>  - Bug-fix release&lt;br15&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104728Z" creationid="MysticBoy" creationdate="20160721T104349Z">
         <seg>  - BUG修复版本&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  - Bug-fix release&lt;br169&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105053Z" creationid="MysticBoy" creationdate="20160721T105053Z">
+        <seg>- 错误修复版本&lt;br169&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2905,24 +2937,24 @@
       <tuv lang="EN-US">
         <seg>  - Bug-fix release&lt;br59&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104718Z" creationid="MysticBoy" creationdate="20160721T104718Z">
-        <seg> - BUG修复版本</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105014Z" creationid="MysticBoy" creationdate="20160721T104718Z">
+        <seg>- 错误修复版本&lt;br59&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>  - Bug-fix release&lt;br81&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104825Z" creationid="MysticBoy" creationdate="20160721T104825Z">
-        <seg> - BUG修复版本</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105010Z" creationid="MysticBoy" creationdate="20160721T104825Z">
+        <seg>- 错误修复版本&lt;br81&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>  - Bug-fix release&lt;br92&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104831Z" creationid="MysticBoy" creationdate="20160721T104831Z">
-        <seg> - BUG修复版本</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105004Z" creationid="MysticBoy" creationdate="20160721T104831Z">
+        <seg>- 错误修复版本&lt;br92&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2943,10 +2975,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>  - Major release&lt;br103&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104854Z" creationid="MysticBoy" creationdate="20160721T104854Z">
+        <seg> - 主要发布&lt;br103&gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  - Major release&lt;br125&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104950Z" creationid="MysticBoy" creationdate="20160721T104909Z">
+        <seg>- 主要发布&lt;br125&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  - Major release&lt;br136&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104947Z" creationid="MysticBoy" creationdate="20160721T104947Z">
+        <seg>- 主要发布&lt;br136&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  - Major release&lt;br158&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105045Z" creationid="MysticBoy" creationdate="20160721T105045Z">
+        <seg>- 主要发布&lt;br158&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  - Major release&lt;br180&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105057Z" creationid="MysticBoy" creationdate="20160721T105057Z">
+        <seg>- 主要发布&lt;br180&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>  - Major release&lt;br26&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104445Z" creationid="MysticBoy" creationdate="20160721T104445Z">
-        <seg> - 主要发布&lt;br26&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105021Z" creationid="MysticBoy" creationdate="20160721T104445Z">
+        <seg>- 主要发布&lt;br26&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2955,6 +3027,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104756Z" creationid="MysticBoy" creationdate="20160721T104756Z">
         <seg> - 主要发布&lt;br26&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  - Many new commands, integrated form designer, and much more...&lt;b126&gt;   &lt;a127&gt;&lt;i128&gt;&lt;/a127&gt;&lt;/b126&gt;&lt;br129&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104927Z" creationid="MysticBoy" creationdate="20160721T104927Z">
+        <seg>- 许多新的命令，集成窗体设计器，以及更多...&lt;b126&gt;&lt;a127&gt;&lt;i128&gt;&lt;/a127&gt;&lt;/b126&gt;&lt;br129&gt;</seg>
       </tuv>
     </tu>
     <tu>
