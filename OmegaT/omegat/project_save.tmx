@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b6&gt;The main features of PureBasic&lt;/b6&gt; &lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055231Z" creationid="MysticBoy" creationdate="20160721T055231Z">
+        <seg>&lt;b6&gt;PureBasic 主要特点&lt;/b6&gt;&lt;br7&gt;&lt;/br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_PixelFormat_8Bits&lt;/f0&gt;      : 1 byte per pixel, palletised</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043528Z" creationid="oSilas" creationdate="20150312T043528Z">
@@ -1730,6 +1738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T053643Z" creationid="MysticBoy" creationdate="20160721T053643Z">
         <seg>PureBasic︰ 本机编译器，简单且已游湖阿德 BASIC 编程语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic has been created for the beginner and expert alike.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055207Z" creationid="MysticBoy" creationdate="20160721T055207Z">
+        <seg>PureBasic 针对初学者创建并且专业人士也非常喜欢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2687,6 +2703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We have put a lot of effort into its realization to produce a fast, reliable system friendly language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055216Z" creationid="MysticBoy" creationdate="20160721T055216Z">
+        <seg>我们有大量的精力投入，形成快速、 可靠的系统友好语言及其实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whether or not the alpha channel is used depends on the &lt;a2&gt;drawing mode&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041622Z" creationid="oSilas" creationdate="20151013T041622Z">
@@ -2755,6 +2779,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054539Z" creationid="MysticBoy" creationdate="20160721T054539Z">
         <seg>visual basic 编译器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>   - All BASIC keywords are supported&lt;br10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055302Z" creationid="MysticBoy" creationdate="20160721T055302Z">
+        <seg>   - 所有 BASIC关键词都支持&lt;br10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>   - Full unicode support&lt;br14&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055331Z" creationid="MysticBoy" creationdate="20160721T055331Z">
+        <seg>   - 完整的 unicode 支持&lt;br14&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
