@@ -2583,6 +2583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The syntax is simple but the possibilities are endless with PureBasic's advanced features, such as pointers, structures, procedures, dynamically linked lists and much more.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105844Z" creationid="MysticBoy" creationdate="20160721T105844Z">
+        <seg>语法很简单，但具有无限可能的PureBasic的高级功能，如指针，结构，程序，动态链接列表等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The title for the new console window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082413Z" creationid="MysticBoy" creationdate="20160720T082413Z">
