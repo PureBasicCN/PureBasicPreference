@@ -894,6 +894,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;PureBasic Chat&lt;/b0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105152Z" creationid="MysticBoy" creationdate="20160721T105152Z">
+        <seg>&lt;b0&gt;PureBasic 聊天&lt;/b0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;PureBasic Resources&lt;/b0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105259Z" creationid="MysticBoy" creationdate="20160721T105259Z">
+        <seg>&lt;b0&gt;PureBasic 资源&lt;/b0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b17&gt;Variable Viewer&lt;/b17&gt; &lt;br18&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080349Z" creationid="Silas" creationdate="20160720T080349Z">
@@ -1230,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compilation time is really fast.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105352Z" creationid="MysticBoy" creationdate="20160721T105352Z">
+        <seg>编译时间真的很快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cost per copy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054656Z" creationid="MysticBoy" creationdate="20160721T054656Z">
@@ -1518,10 +1542,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learning PureBasic is very easy!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105345Z" creationid="MysticBoy" creationdate="20160721T105345Z">
+        <seg>学习 PureBasic 非常容易!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Links</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054624Z" creationid="MysticBoy" creationdate="20160721T054624Z">
         <seg>链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Windows API support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105249Z" creationid="MysticBoy" creationdate="20160721T105249Z">
+        <seg>Microsoft Windows API 支持</seg>
       </tuv>
     </tu>
     <tu>
@@ -1594,6 +1634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045455Z" creationid="oSilas" creationdate="20150312T045455Z">
         <seg>注： 这种模式不能与&lt;a2&gt;PrinterOutput()&lt;/a2&gt;同时工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Official PureBasic blog</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105231Z" creationid="MysticBoy" creationdate="20160721T105231Z">
+        <seg>官方PureBasic博客</seg>
       </tuv>
     </tu>
     <tu>
@@ -1762,6 +1810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104153Z" creationid="MysticBoy" creationdate="20160721T104153Z">
         <seg>Pure BASIC 编译器新闻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pure Basic support site</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105242Z" creationid="MysticBoy" creationdate="20160721T105242Z">
+        <seg>Pure BASIC 支持网站</seg>
       </tuv>
     </tu>
     <tu>
@@ -3055,10 +3111,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>       Channel: purebasic   (english)&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105123Z" creationid="MysticBoy" creationdate="20160721T105123Z">
+        <seg>       频道: purebasic   (英文)&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>       Channel: purebasic.de   (german)&lt;br6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105140Z" creationid="MysticBoy" creationdate="20160721T105140Z">
+        <seg>       频道: purebasic.de   (德语)&lt;br6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>       Servername: irc.freenode.net&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105146Z" creationid="MysticBoy" creationdate="20160721T105146Z">
+        <seg>       服务器名称: irc.freenode.net&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>      &lt;a11&gt;&lt;i12&gt;&lt;/a11&gt;  &lt;a13&gt;French forum&lt;/a13&gt;&lt;br14&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105222Z" creationid="MysticBoy" creationdate="20160721T105222Z">
+        <seg>      &lt;a11&gt;&lt;i12&gt;&lt;/a11&gt;  &lt;a13&gt;法语论坛&lt;/a13&gt;&lt;br14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>      &lt;a11&gt;&lt;i12&gt;&lt;/a11&gt;  &lt;a13&gt;Microsoft Windows API support&lt;/a13&gt;&lt;br14&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105325Z" creationid="MysticBoy" creationdate="20160721T105325Z">
+        <seg>      &lt;a11&gt;&lt;i12&gt;&lt;/a11&gt;  &lt;a13&gt;Microsoft Windows API 支持&lt;/a13&gt;&lt;br14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>      &lt;a3&gt;&lt;i4&gt;&lt;/a3&gt;  &lt;a5&gt;Official forum&lt;/a5&gt; (english)&lt;br6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105202Z" creationid="MysticBoy" creationdate="20160721T105202Z">
+        <seg>      &lt;a3&gt;&lt;i4&gt;&lt;/a3&gt;  &lt;a5&gt;官方论坛 &lt;/a5&gt; (英文)&lt;br6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>      &lt;a44&gt;&lt;i45&gt;&lt;/a44&gt;  &lt;a46&gt;User comments&lt;/a46&gt;&lt;br47&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055341Z" creationid="MysticBoy" creationdate="20160721T055341Z">
         <seg>&lt;a44&gt;&lt;i45&gt;&lt;/i45&gt;&lt;/a44&gt;&lt;a46&gt;用户评论&lt;/a46&gt;&lt;br47&gt;&lt;/br47&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>      &lt;a7&gt;&lt;i8&gt;&lt;/a7&gt;  &lt;a9&gt;German forum&lt;/a9&gt;&lt;br10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105207Z" creationid="MysticBoy" creationdate="20160721T105207Z">
+        <seg>&lt;a7&gt;&lt;i8&gt;&lt;/a7&gt;&lt;a9&gt;德国论坛&lt;/a9&gt;&lt;br10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>      &lt;a7&gt;&lt;i8&gt;&lt;/a7&gt;  &lt;a9&gt;PureArea.net&lt;/a9&gt; (PureBasic support site)&lt;br10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105307Z" creationid="MysticBoy" creationdate="20160721T105307Z">
+        <seg>      &lt;a7&gt;&lt;i8&gt;&lt;/a7&gt;  &lt;a9&gt;PureArea.net&lt;/a9&gt; (PureBasic 支持网站)&lt;br10&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
