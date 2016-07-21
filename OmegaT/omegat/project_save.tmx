@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic is a programming language based on established BASIC rules</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054204Z" creationid="MysticBoy" creationdate="20160721T054204Z">
+        <seg>PureBasic 是一个基于BASIC规定的编程语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reference Manual - Index</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T143920Z">
