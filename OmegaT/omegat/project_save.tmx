@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic Team Blog | random thoughts on PureBasic development</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101339Z" creationid="MysticBoy" creationdate="20160721T101339Z">
+        <seg>PureBasic 团队博客  | PureBasic 开发随感</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic has been created for the beginner and expert alike.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055207Z" creationid="MysticBoy" creationdate="20160721T055207Z">
