@@ -2375,6 +2375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The gradient ranges from the current &lt;a0&gt;background color&lt;/a0&gt; at the center of the box to the current &lt;a1&gt;front color&lt;/a1&gt; at the edges of the box.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101942Z" creationid="MysticBoy" creationdate="20160721T101942Z">
+        <seg>梯度从当前范围&lt;a0&gt;背景色&lt;/a0&gt;在框的中心为当前&lt;a1&gt;前景色&lt;/a1&gt;在框的边缘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The gradient starts with the current &lt;a0&gt;background color&lt;/a0&gt; at the given angle and then changes towards the current &lt;a1&gt;front color&lt;/a1&gt; counterclockwise until the angle is reached again.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T034955Z" creationid="oSilas" creationdate="20141128T034955Z">
