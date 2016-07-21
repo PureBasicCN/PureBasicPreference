@@ -1,0 +1,167 @@
+<html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>DrawingMode</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">DrawingMode()</font></b></p>
+<p><b>语法</b></p><blockquote>
+<font color="#3A3966"><b>DrawingMode</b></font>(Mode)</blockquote>
+
+</blockquote>
+<b>概要</b><br><blockquote>
+
+
+
+Change the drawing mode for text and graphics output. 
+
+ 
+
+</blockquote><p><b>参数</b></p><blockquote>
+<style type="text/css">
+table.parameters { border-spacing: 0px; border-style: none; border-collapse: collapse; }
+table.parameters td { border-width: 1px; padding: 6px; border-style: solid; border-color: gray; vertical-align: top; font-family:Arial; font-size:10pt; }
+</style>
+<table width="90%" class="parameters">
+<tr><td width="10%"><i>模式</i></td>
+<td width="90%"> 
+为进一步绘图操作行为。它可以是下列标志的组合：<br>&lt;/br0&gt;<br><font color="#924B72">#PB_2DDrawing_Default</font> 
+<blockquote>
+
+当绘图开始时使用默认的绘图模式。与具有纯背景显示文本和填充图形形状的。If the current output has an alpha channel, the drawing operations will only modify the color components and leave the alpha channel unchanged. 
+<br>
+<p><img src="../HelpPictures/PB_2DDrawing_Default.png"></p>
+</blockquote>
+
+
+<font color="#924B72">#PB_2DDrawing_Transparent</font> 
+<blockquote>
+
+如果设置了此标志<a href="drawtext.html">DrawText()</a>函数输出的背景将透明 
+<br>
+<p><img src="../HelpPictures/PB_2DDrawing_Transparent.png"></p>
+</blockquote>
+
+
+<font color="#924B72">#PB_2DDrawing_XOr</font> 
+<blockquote>
+
+启用 XOR 模式。所有的图形将 XOR'ed 与当前的背景。这种模式不能结合下列 alpha 通道模式。<br><br>注： 这种模式不能与<a href="../printer/printeroutput.html">PrinterOutput()</a>同时工作。<br>
+<p><img src="../HelpPictures/PB_2DDrawing_XOr.png"></p>
+</blockquote>
+
+
+<font color="#924B72">#PB_2DDrawing_Outlined</font> 
+<blockquote>
+
+
+
+If this flag is set then shapes will be drawn as outlines only and not filled. This applies to commands 
+such as <a href="circle.html">Circle</a>, <a href="box.html">Box</a>, etc. 
+ 
+<br>
+<p><img src="../HelpPictures/PB_2DDrawing_Outlined.png"></p>
+</blockquote>
+
+
+<b>Note:</b> The following modes only work with <a href="../image/imageoutput.html">ImageOutput()</a> and <a href="../gadget/canvasoutput.html">CanvasOutput()</a>. They are ignored for all other outputs: 
+<br>
+<br>
+
+<font color="#924B72">#PB_2DDrawing_AlphaBlend</font> 
+<blockquote>
+
+
+
+The drawing operations will be alpha-blended onto the background. The <a href="rgba.html">RGBA()</a> command can be used 
+to specify colors with alpha transparency in commands like <a href="frontcolor.html">FrontColor()</a>, <a href="box.html">Box()</a>, 
+<a href="drawtext.html">DrawText()</a> etc. 
+ 
+<br>
+<p><img src="../HelpPictures/PB_2DDrawing_AlphaBlend.png"></p>
+</blockquote>
+
+
+<font color="#924B72">#PB_2DDrawing_AlphaClip</font> 
+<blockquote>
+
+
+
+The drawing operations will be alpha-blended onto the background like with the <font color="#924B72">#PB_2DDrawing_AlphaBlend</font> mode, 
+with the addition that the alpha channel of the drawing output acts as a mask. This means that areas of the output that are 
+transparent before the blending will also remain transparent afterwards. If the drawing output has no alpha channel then this 
+mode acts just like the <font color="#924B72">#PB_2DDrawing_AlphaBlend</font> mode. 
+ 
+</blockquote>
+
+
+<font color="#924B72">#PB_2DDrawing_AlphaChannel</font> 
+<blockquote>
+
+
+
+The drawing operations will only modify the alpha channel of the drawing output. All color information is ignored. 
+For example drawing a <a href="circle.html">circle</a> with a color value of <a href="rgba.html">RGBA</a>(0, 0, 0, 0) will "cut" a hole 
+into the drawing output by making the circle area fully transparent. If the drawing output has no alpha channel then no drawing 
+will have an effect in this mode. 
+ 
+</blockquote>
+
+
+<font color="#924B72">#PB_2DDrawing_AllChannels</font> 
+<blockquote>
+
+
+
+The drawing operations will modify the color channels and the alpha channel of the drawing output. The content of the 
+channels is replaced by the drawing operation without any blending. Drawing in this mode has the same effect as drawing 
+first using the <font color="#924B72">#PB_2DDrawing_Default</font> mode and then drawing the same operation using the 
+<font color="#924B72">#PB_2DDrawing_AlphaChannel</font> mode. If the drawing output has no alpha channel then this mode is 
+equivalent to the <font color="#924B72">#PB_2DDrawing_Default</font> mode. 
+ 
+<br>
+<p><img src="../HelpPictures/AlphaBlending.png"></p>
+</blockquote>
+
+
+<font color="#924B72">#PB_2DDrawing_Gradient</font> 
+<blockquote>
+
+
+
+This mode allows drawing with a gradient instead of a solid color. The gradient shape can be defined with commands such as 
+<a href="lineargradient.html">LinearGradient()</a>, <a href="circulargradient.html">CircularGradient()</a> etc. and the colors used in the 
+gradient can be set with <a href="gradientcolor.html">GradientColor()</a>. The color parameters given to the individual drawing commands 
+will be ignored in this mode. This mode can be combined with the above alpha channel modes to have gradients with semitransparent 
+colors. 
+ 
+<br>
+<p><img src="../HelpPictures/PB_2DDrawing_Gradient.png"></p>
+</blockquote>
+
+
+<font color="#924B72">#PB_2DDrawing_CustomFilter</font> 
+<blockquote>
+
+In this mode, the drawing of the pixels can be defined by a custom procedure with the <a href="customfiltercallback.html">CustomFilterCallback()</a> command. 这允许执行自定义绘制效果同时仍然使用默认功能做实际的绘图。 
+<br>
+<p><img src="../HelpPictures/customfilter.png"></p>
+</blockquote>
+
+
+</td></tr>
+</table>
+</blockquote><p><b>返回值</b></p><blockquote>
+无.
+
+
+</blockquote><p><b>备注</b></p><blockquote>
+
+要使用的几种方式你一次，必须使用 ' |'(OR) 运算符。以下是一个示例，因为 XOR'ed 空心形状： 
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">  DrawingMode</font>(<font color="#924B72">#PB_2DDrawing_Outlined</font> | <font color="#924B72">#PB_2DDrawing_XOr</font>)
+</font></pre>
+
+</blockquote><p><b>参阅</b></p><blockquote>
+
+<a href="frontcolor.html">FrontColor()</a>, <a href="backcolor.html">BackColor()</a> 
+
+</Blockquote><p><b>已支持操作系统 </b><Blockquote>所有</Blockquote></p><center>&lt;- <a href=drawingfont.html>DrawingFont()</a> - <a href="index.html">2DDrawing 目录</a> - <a href="ellipse.html">Ellipse()</a> -&gt;<br><br>
+
+</body></html>

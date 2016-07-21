@@ -1,0 +1,71 @@
+<html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Library.pb</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;   PureBasic - Library
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;    (c) Fantaisie Software
+</font><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font>
+<b><font color="#3A3966">CompilerSelect</font></b> <font color="#924B72">#PB_Compiler_OS</font>
+ 
+  <b><font color="#3A3966">CompilerCase</font></b> <font color="#924B72">#PB_OS_Windows</font>
+
+      <b><font color="#3A3966">If</font></b> <font color="#3A3966">OpenLibrary</font>(0, "USER32.DLL")
+        
+        <b><font color="#3A3966">CompilerIf</font></b> <font color="#924B72">#PB_Compiler_Unicode</font>
+          *MessageBox =<font color="#3A3966"> GetFunction</font>(0, "MessageBoxW")
+        <b><font color="#3A3966">CompilerElse</font></b>
+          *MessageBox =<font color="#3A3966"> GetFunction</font>(0, "MessageBoxA")
+        <b><font color="#3A3966">CompilerEndIf</font></b>
+        <b><font color="#3A3966">If</font></b> *MessageBox
+<font color="#3A3966">          CallFunctionFast</font>(*MessageBox, 0, @"Body", @"Title", 0)
+        <b><font color="#3A3966">EndIf</font></b>
+       
+<font color="#3A3966">        CloseLibrary</font>(0)
+      <b><font color="#3A3966">EndIf</font></b>
+
+
+  <b><font color="#3A3966">CompilerCase</font></b> <font color="#924B72">#PB_OS_Linux</font>
+
+      <b><font color="#3A3966">If</font></b> <font color="#3A3966">OpenLibrary</font>(0, "libc.so")
+     
+        *MAlloc =<font color="#3A3966"> GetFunction</font>(0, "malloc")
+        <b><font color="#3A3966">If</font></b> *MAlloc
+          *Buffer =<font color="#3A3966"> CallCFunctionFast</font>(*MAlloc, 128)
+          <b><font color="#3A3966">If</font></b> *Buffer
+            <b><font color="#3A3966">Debug</font></b> "Buffer allocated"
+
+<font color="#3A3966">            CallCFunction</font>(0, "free", *Buffer)
+
+          <b><font color="#3A3966">EndIf</font></b>
+        <b><font color="#3A3966">EndIf</font></b>
+     
+<font color="#3A3966">        CloseLibrary</font>(0)
+      <b><font color="#3A3966">EndIf</font></b>
+
+  <b><font color="#3A3966">CompilerCase</font></b> <font color="#924B72">#PB_OS_MacOS</font>
+
+      <b><font color="#3A3966">If</font></b> <font color="#3A3966">OpenLibrary</font>(0, "libc.dylib")
+     
+        *MAlloc =<font color="#3A3966"> GetFunction</font>(0, "malloc")
+        <b><font color="#3A3966">If</font></b> *MAlloc
+          *Buffer =<font color="#3A3966"> CallCFunctionFast</font>(*MAlloc, 128)
+          <b><font color="#3A3966">If</font></b> *Buffer
+            <b><font color="#3A3966">Debug</font></b> "Buffer allocated"
+
+<font color="#3A3966">            CallCFunction</font>(0, "free", *Buffer)
+
+          <b><font color="#3A3966">EndIf</font></b>
+        <b><font color="#3A3966">EndIf</font></b>
+     
+<font color="#3A3966">        CloseLibrary</font>(0)
+      <b><font color="#3A3966">EndIf</font></b>
+
+<b><font color="#3A3966">CompilerEndSelect</font></b>
+</font></pre>
+</body></html>

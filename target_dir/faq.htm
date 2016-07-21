@@ -1,0 +1,338 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>PureBasic︰ 本机编译器，简单且已游湖阿德 BASIC 编程语言</TITLE>
+
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+  <meta name="google-site-verification" content="zti3YNYE1fvfAUZxJmB9tv_1gYEBNbl2fapbpBeJxa4" />
+
+        <META NAME="language" content="en">
+      <META HTTP-EQUIV="Content-Language" content="en">
+
+  <META NAME="Description" CONTENT="Fantaisie Software 官方网站. PureBasic - 体验纯粹的强大. PureBasic 是一个基于BASIC规定的编程语言">
+  <META NAME="abstract" CONTENT="Fantaisie Software 官方网站. PureBasic - 体验纯粹的强大. PureBasic 是一个基于BASIC规定的编程语言">
+  <META NAME="Keywords" CONTENT="purebasic,PUREBASIC,pure basic,PURE BASIC,basic,BASIC,compiler,COMPILER,language,LANGUAGE,programming,PROGRAMMING,optimized,OPTIMIZED,easy,EASY,programming language,basic编程语言,basic compiler,BASIC COMPILER,visual basic 比哪一期,简易编程语言,经过优化的贬称该语言, games, 应用程序, 游戏, 应用, buy, ordering, 订单, Fantaisie Software,pic basic 编译器,c 编译器,c++ 编译器,编译器,qbasic 编译器,asm,计算机 编程,c 编程,游戏编程,编程语言,c,c++,java,visual c++,linux,windows,nt,VisualC++,LccWin32,VisualBasic,visual basic">
+  <META NAME="Identifier-URL" CONTENT="http://www.purebasic.com">
+  <META NAME="Robots" CONTENT="index,follow,all">
+  <META NAME="revisit-after" CONTENT="2 days">
+  <META NAME="Reply-to" CONTENT="webmaster@purebasic.com">
+  <META NAME="Author" CONTENT="purebasic (webmaster@purebasic.com), Frederic Laboureur, Frédéric Laboureur, Yann Vanlerberghe, Alphasnd, Alphasound, Fantaisie Software ">
+  <META NAME="publisher" content="Fantaisie Software">
+  <META NAME="copyright" content="Fantaisie Software">
+  <META NAME="rating" content="常规">
+  <META NAME="distribution" content="global">
+  <META NAME="Category" CONTENT="software,computers,programming,compilers,languages,basic">
+  <META NAME="date-creation-yyyymmdd" content="20000909">
+
+  <STYLE type="text/css">
+
+    .pagebody
+    {
+      font-family: Verdana, sans-serif; font-size: 13px;
+      line-height: 1.5;
+      color: #000000;
+    }
+
+    .pagefooter
+    {
+      font-family: Verdana, sans-serif; font-size: 11px;
+      color: #FFFFFF;
+    }
+
+    .usercomments
+    {
+      font-family: Verdana, sans-serif; font-size: 13px;
+      line-height: 1.5;
+      color: #EFF1F0;
+    }
+
+    A.nav:link {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none }
+    A.nav:visited {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none}
+    A.nav:hover {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: underline}
+
+    A.nav_footer:link {font-family: Verdana, sans-serif; font-size: 11px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none }
+    A.nav_footer:visited {font-family: Verdana, sans-serif; font-size: 11px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none}
+    A.nav_footer:hover {font-family: Verdana, sans-serif; font-size: 11px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: underline}
+
+    
+    .keywords {font-size: 13px; font-weight: normal; font-family: Verdana, sans-serif; line-height: 1.5; }
+    .keywordsbold {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; }
+
+    INPUT
+    {
+      font: 10pt Verdana, Arial;
+      color : #000000;
+      background-color : #FFFFFF;
+    }
+
+    .textform
+    {
+      font-size: 10pt;
+      color: #000000;
+      font-family: Verdana, Arial;
+    }
+    
+    /* These 2 styles are needed to have a perfect rendering of tables border (solid color) on
+       IE and FireFox
+     */
+    table.MainTable
+    {
+      border:2px solid #5A6986;
+    }    
+
+    td.Tabs
+    {
+      border-bottom:2px solid #5A6986;
+    }
+
+    /* Here is our trick to remove a line of a TD
+     */
+    /*.topborder {
+    border-top: 1px solid #EFF1F0;
+    }*/
+
+    img.flagBorder {
+      border: 0px solid #CCCCCC;
+    }
+    
+    tr.ShadowBody
+    {
+      height:8px;
+      background: url(/images/shadow_bottom_body.png);
+      background-repeat: repeat-x;
+    }
+
+    tr.ShadowFooter
+    {
+      height:8px;
+      background: url(/images/shadow_bottom_footer.png);
+      background-repeat: repeat-x;
+    }
+
+  </STYLE>
+
+  
+  
+  
+</HEAD><!-- HEADER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+
+
+<BODY bgColor="White">
+
+<table width="900" class="MainTable" border="0" cellspacing="0" cellpadding="0" align="center" id="language">
+    <TR bgColor="#999999" id="basic">
+        <td colspan="2" align="left" nowrap bgcolor="#5A6986" id="visual">
+            <table width=100% border="0" cellpadding="0" cellspacing="0" id="compiler">
+                <tr>
+                    <td rowspan="2" id="compiler">
+                      <IMG id="visual" name="basic" alt="Pure Basic : 已优化的BASIC编译器" border=0 height=68 src="images/logopb.gif" width=381>
+                    </td>
+
+                    <td valign="top" id="basic"><div align="right" id="compiler"><font class="pagebody" color="#FFFFFF">
+                      
+                      <table border="0" cellspacing="0" cellpadding="1">
+                        <tr><!-- <td width=20 > <A class="nav" style="COLOR: #FFFFFF" href="/german/faq.php"><img class="flagBorder" src=/images/de.png ></a></td> -->
+                           
+                          <td> <A class="nav" style="COLOR: #FFFFFF" href="german/faq.htm">Deutsch</a>&nbsp;&nbsp;</td>
+                        </tr>
+                        <tr><!-- <td width=20> <A class="nav" style="COLOR: #FFFFFF" href="/french/faq.php"><img class="flagBorder" src=/images/fr.png ></a></td> -->
+                           
+                          <td> <A class="nav" style="COLOR: #FFFFFF" href="french/faq.htm">Francais</a>&nbsp;&nbsp;</td>
+                        </tr>
+                      </table>
+
+                    </font></div></td>
+                </tr>
+                <tr>
+                  <td width="100%" height="46"></td>
+                </tr>
+            </table>
+        </td>
+    </TR>
+    <TR>
+    <TD class="Tabs" colspan="2">
+         <TABLE width="100%" border="0" cellspacing="0" cellpadding="0" id="language">
+             <TR id="optimized">
+
+            <td width="15%" height="26" align="center" bgcolor= "#FFFFFF" id="easy"><A class="nav" href="index.htm" title="Pure Basic : 介绍">介绍</a></td>
+            <td width="1" bgcolor="#999999" id="compiler"><IMG id="visual" name="basic" alt="visual basic 编译器" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="basic"><A class="nav" href="news.htm" title="Pure Basic : 新闻">新闻</a></td>
+            <td width="1" bgcolor="#999999" id="compiler"><IMG id="visual" name="basic" alt="visual basic 编译器" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="optimized"><A class="nav" href="download.htm" title="Pure Basic : 下载">下载</font></a></td>
+            <td width="1" bgcolor="#999999" id="visual"><IMG id="visual" name="basic" alt="visual basic 编译器" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="basic"><A class="nav" href="screenshots.htm" title="Pure Basic : 截图">截图</a></td>
+            <td width="1" bgcolor="#999999" id="optimized"><IMG id="programming" name="language" alt="已优化的编程语言" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="basic"><A class="nav" href="ordering.htm" title="Pure Basic : 订购 !">订购</a></td>
+            <td width="1" bgcolor="#999999" id="compiler"><IMG id="basic" name="compiler" alt="visual basic 编译器" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="compiler"><A class="nav" href="support.htm" title="Pure Basic : 支持">支持</a></td>
+            <td width="1" bgcolor="#999999" id="language"><IMG id="programming" name="language" alt="visual basic 编译器" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="10%" height="21" align="center" bgcolor= "#B6C0CE" id="optimized"><A class="nav" href="faq.htm" title="Pure Basic : FAQ">FAQ</a></td>
+            <td width="1" bgcolor="#999999" id="optimized"><IMG id="programming" name="language" alt="已优化的编程语言" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor = "#FFFFFF" id="basic"><A class="nav" href="links.htm" title="Pure Basic : 链接">链接</a></td>
+
+                </TR>
+            </TABLE>
+        </TD>
+    </TR>
+
+    <tr class="ShadowBody"> <td colspan="2"></td> </tr><tr>
+
+    </tr><TR bgcolor="#EFF1F0">
+      <TD class="topborder" colspan="2" align="center" valign="top" id="visual">
+        <br>
+         <TABLE width="850" border="0" cellspacing="0" cellpadding="0" id="programming">
+            <TR id="basic"><!-- EOF HEADER purebasic : an easy programming language, an optimized programming language, a visual basic compiler --><!-- FAQ purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+
+
+
+
+  <TD valign="top" id="visual"><font class="pagebody">
+    <div align="justify">
+    <b id="easy">Is PureBasic really small and fast ?</b><br id="programming">
+    <blockquote id="languages">
+    
+    Yes. All has been  optimized to give maximum speed and compactness to the programs created 
+    with PureBasic. The execution speed match almost any professional compiler like Visual C++ 
+    and the executable size is smaller, without the need for any runtime (small programmes 
+    are typically between 5 kb and 10 kb). 
+     
+    </blockquote>
+    
+    <b>Does PureBasic have a visual editor ?</b><br>
+    <blockquote>
+    
+    Yes. A powerful Visual  Designer is included in the PureBasic package, and allows to build 
+    easily any kind of applications. It supports all PureBasic gadgets, includes a visual menu 
+    bar editor, status bar support, multi-language facilities, mutli-window, realtime properties 
+    updates and more... 
+     
+    </blockquote>
+
+    <b>When I buy PureBasic, will I get all the future updates for free ?</b><br id="programming">
+    <blockquote id="language">
+    
+    Yes. The very first PureBasic user (which has registered in 1998) still has free access to new
+    updates and this is not going to change (it only applies if registered on this web site, not for boxed version of PureBasic).
+    
+    </blockquote>
+
+    <b id="optimized">Is the PureBasic licence valid for all OS ?</b><br id="programming">
+    <blockquote id="language">
+    
+    Yes. The PureBasic licence is an user-based licence, which means you can install your full version on
+    all of your computers without the need to buy another licence for each. PureBasic currently runs on
+    four different operating systems (Windows, Linux, MacOS X and AmigaOS) and a single licence cover them all.
+    
+    </blockquote>
+    
+    <b id="visual">Can I create commercial applications with PureBasic ?</b><br id="basic">
+    <blockquote id="compiler">
+    
+    Yes. Once you get PureBasic, you can do any kind of program (freeware, shareware and even commercial
+    applications) without have to pay any extra costs to Fantaisie Software. 
+     
+    </blockquote>
+    
+    <b id="basic">Is it allowed to use DLLs made with PureBasic in other projects ?</b><br id="compiler">
+    <blockquote id="easy">
+    
+    Generally yes. You can make DLLs including PureBasic commands for your own projects without 
+    any restrictions. But it's not allowed to release simple "wrapper" Dlls to include PureBasic 
+    commands in other programming languages.
+    
+    </blockquote>
+
+    <b id="programming">Are all the versions always up-to-date ?</b><br id="language">
+    <blockquote id="visual">
+      
+      Except AmigaOS which is deprecated, all other versions are released in sync, with the same features.
+    
+    </blockquote>
+    
+    <b id="easy">Why the Windows API description isn't included in the PureBasic documentation ?</b><br id="programming">
+    <blockquote id="language">
+    
+    Even if PureBasic supports natively nearly all of the Windows API functions, it's impossible
+    to include all their descriptions as it's more than 1 GB of data. You can get all the
+    needed informations on the <a class="nav" href="http://msdn.microsoft.com" id="visual" name="basic" title="MSDN web-site">Microsoft site</a>.
+    
+    </blockquote>
+
+    <b id="visual">Are there different PureBasic packages available and where can I buy them ?</b><br id="basic">
+    <blockquote id="compiler">
+    
+    No. PureBasic is currently only available in a download version 
+    directly on this site. 
+    Earlier, there was boxed versions, which were not freely updatetable. If you are interested
+    you can upgrade to the full version for a special price. Look in the order section for more details.
+    
+    </blockquote>
+
+    <b id="basic">How fast do i get the package delivered after ordering ?</b><br id="compiler">
+    <blockquote id="optimized">
+    
+    After you've paid the registration fee you will get your package in about 20
+    minutes as all is processed automatically. Be sure to check your spam folder as well, sometimes the automatic
+    mail does end in it !
+    
+    </blockquote>
+    </div>
+</TD><!-- EOF FAQ purebasic : an easy programming language, an optimized programming language, a visual basic compiler --><!-- FOOTER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+
+
+
+
+                </TR>
+            </TABLE>
+            <br>
+        </td>
+    </TR>
+    <TR height="28" id="easy">
+      <TD align="left" bgcolor="#5A6986" id="language">
+        <font class="pagefooter">&nbsp;&nbsp;Copyright © 2015 Fantaisie Software</font>
+      </TD>
+      <TD align="right" bgcolor="#5A6986" id="compiler">
+        <font class="pagefooter"><b><A class="nav_footer" href="mailto:support@purebasic.com" style="COLOR: #FFFFFF" title="Pure Basic : 支持">support@purebasic.com</A></b>&nbsp;&nbsp;</font>
+      </TD>
+    </TR>
+</TABLE>
+
+<table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr class="ShadowFooter"> <td colspan="2"></td> </tr><tr>
+</tr></table>
+
+
+<br>
+
+<table class="MainTable" id="language" align="center" border="0" cellpadding="0" cellspacing="0" width="900">
+	<tr bgcolor="#EFF1F0">
+		<td class="topborder" align="center" valign="top">
+			<br>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="850">
+				<tr>
+					<td bgcolor="#FFFFFF" valign="middle"><a title="BASIC编程网络语言" href="http://www.spiderbasic.com" target="_blank"><img src="logo-spiderbasic.png"></a></td>
+					<td bgcolor="#FFFFFF">
+						<div class="pagebody" align="center">
+							相同的作者, discover the new web client-side programming language<br>基于BASIC准则 详情点击<a title="BASIC编程网络语言" href="http://www.spiderbasic.com" target="_blank">spiderbasic.com</a>
+						</div>
+					</td>
+				</tr>
+			</table>
+			<br>
+		</td>
+	</tr>
+	
+</table>
+<br>
+
+</BODY>
+</HTML><!-- EOF FOOTER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+

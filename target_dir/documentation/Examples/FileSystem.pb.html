@@ -1,0 +1,53 @@
+<html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>FileSystem.pb</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;   PureBasic - FileSystem example file
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;    (c) Fantaisie Software
+</font><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font>
+<b><font color="#3A3966">If</font></b> <font color="#3A3966">OpenWindow</font>(0, 100, 200, 290, 200, "PureBasic - FileSystem Example")
+
+<font color="#3A3966">  StringGadget  </font>(0,  10, 10, 202, 24,<font color="#3A3966"> GetHomeDirectory</font>())
+<font color="#3A3966">  ButtonGadget  </font>(1, 220, 10, 60 , 24, "List")
+<font color="#3A3966">  ListViewGadget</font>(2,  10, 40, 270, 150)
+
+  <b><font color="#3A3966">Repeat</font></b>
+    Event =<font color="#3A3966"> WaitWindowEvent</font>()
+
+    <b><font color="#3A3966">If</font></b> Event = <font color="#924B72">#PB_Event_Gadget</font>
+      <b><font color="#3A3966">If</font></b> <font color="#3A3966">EventGadget</font>() = 1 <font color="#3A3966">; Read
+</font>
+<font color="#3A3966">        ClearGadgetItems</font>(2)  <font color="#3A3966">; Clear all the items found in the ListView
+</font>
+        <b><font color="#3A3966">If</font></b> <font color="#3A3966">ExamineDirectory</font>(0,<font color="#3A3966"> GetGadgetText</font>(0), "*.*")
+
+          <b><font color="#3A3966">While</font></b> <font color="#3A3966">NextDirectoryEntry</font>(0)
+
+            FileName$ =<font color="#3A3966"> DirectoryEntryName</font>(0)
+            <b><font color="#3A3966">If</font></b> <font color="#3A3966">DirectoryEntryType</font>(0) = <font color="#924B72">#PB_DirectoryEntry_Directory</font>
+              FileName$ = "[DIR] "+FileName$
+            <b><font color="#3A3966">EndIf</font></b>
+            
+<font color="#3A3966">            AddGadgetItem</font>(2, -1, FileName$)
+            
+          <b><font color="#3A3966">Wend</font></b>
+          
+        <b><font color="#3A3966">Else</font></b>
+<font color="#3A3966">          MessageRequester</font>("Error","Can't examine this directory: "+<font color="#3A3966">GetGadgetText</font>(0),0)
+        <b><font color="#3A3966">EndIf</font></b>
+
+      <b><font color="#3A3966">EndIf</font></b>
+    <b><font color="#3A3966">EndIf</font></b>
+
+  <b><font color="#3A3966">Until</font></b> Event = <font color="#924B72">#PB_Event_CloseWindow</font>
+
+<b><font color="#3A3966">EndIf</font></b>
+
+<b><font color="#3A3966">End</font></b> ‹</font></pre>
+</body></html>

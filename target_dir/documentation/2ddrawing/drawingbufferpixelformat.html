@@ -1,0 +1,61 @@
+<html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>DrawingBufferPixelFormat</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">DrawingBufferPixelFormat()</font></b></p>
+<p><b>语法</b></p><blockquote>
+
+Result = <font color="#3A3966"><b>DrawingBufferPixelFormat</b></font>()</blockquote>
+
+</blockquote>
+<b>概要</b><br><blockquote>
+
+返回当前输出的像素格式。 
+
+</blockquote><p><b>参数</b></p><blockquote>
+无.
+
+
+</blockquote><p><b>返回值</b></p><blockquote>
+
+结果可以是组合 （与按位或） 以下标志： 
+
+<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_PixelFormat_8Bits</font> ： 1 个字节每个像素
+  <font color="#924B72">#PB_PixelFormat_15Bits</font> ： 2 个字节每个像素
+  <font color="#924B72">#PB_PixelFormat_16Bits</font> ： 2 个字节，每个像素
+  <font color="#924B72">#PB_PixelFormat_24Bits_RGB</font> ： 3 个字节，每个像素 （RRGGBB）
+  <font color="#924B72">#PB_PixelFormat_24Bits_BGR</font> ： 3 个字节，每个像素 （BBGGRR）
+  <font color="#924B72">#PB_PixelFormat_32Bits_RGB</font> ： 4 个字节，每个像素 （RRGGBB）
+  <font color="#924B72">#PB_PixelFormat_32Bits_BGR</font> ： 4 个字节，每个像素 （BBGGRR）
+  <font color="#924B72">#PB_PixelFormat_ReversedY</font> ： Y 坐标输出的颠倒 （底部行先存储） 在内存中。
+</font></pre>
+
+</blockquote><p><b>备注</b></p><blockquote>
+
+<a href="drawingbuffer.html">DrawingBuffer()</a>必须在使用此函数之前调用。 
+
+
+</blockquote><p><b>示例</b></p><blockquote>
+
+下面的示例演示如何处理结果： 
+
+<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">If</font></b> <font color="#3A3966">DrawingBufferPixelFormat</font>() = <font color="#924B72">#PB_PixelFormat_32Bits_RGB</font> | <font color="#924B72">#PB_PixelFormat_ReversedY</font>
+    <font color="#3A3966">;32 位 RGB 颠倒 Y 坐标</font>
+  <b><font color="#3A3966">EndIf</font></b>
+  
+  <b><font color="#3A3966">If</font></b> <font color="#3A3966">DrawingBufferPixelFormat</font>() = <font color="#924B72">#PB_PixelFormat_32Bits_RGB</font>
+    <font color="#3A3966">;32 位 RGB 不颠倒Y 坐标</font>
+  <b><font color="#3A3966">EndIf</font></b>
+  
+  <b><font color="#3A3966">If</font></b> <font color="#3A3966">DrawingBufferPixelFormat</font>() &amp; <font color="#924B72">#PB_PixelFormat_32Bits_RGB</font>
+    <font color="#3A3966">;32 位 RGB，有或无颠倒的 Y 坐标</font>
+  <b><font color="#3A3966">EndIf</font></b>
+  
+</font></pre>
+
+</blockquote><p><b>参阅</b></p><blockquote>
+
+<a href="startdrawing.html">StartDrawing()</a>, <a href="drawingbufferpitch.html">DrawingBufferPitch()</a> 
+
+</Blockquote><p><b>已支持操作系统 </b><Blockquote>所有</Blockquote></p><center>&lt;- <a href=drawingbufferpitch.html>DrawingBufferPitch()</a> - <a href="index.html">2DDrawing 目录</a> - <a href="drawingfont.html">DrawingFont()</a> -&gt;<br><br>
+
+</body></html>

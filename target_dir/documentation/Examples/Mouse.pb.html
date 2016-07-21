@@ -1,0 +1,64 @@
+<html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Mouse.pb</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;   PureBasic - Mouse example file
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;    (c) Fantaisie Software
+</font><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font>
+<b><font color="#3A3966">If</font></b> <font color="#3A3966">InitMouse</font>() = 0 <b><font color="#3A3966">Or</font></b> <font color="#3A3966">InitSprite</font>() = 0 <b><font color="#3A3966">Or</font></b> <font color="#3A3966">InitKeyboard</font>() = 0
+<font color="#3A3966">  MessageRequester</font>("Error", "Can't open DirectX", 0)
+  <b><font color="#3A3966">End</font></b>
+<b><font color="#3A3966">EndIf</font></b>
+
+<font color="#3A3966">;
+</font><font color="#3A3966">;-------- MessageReq and OpenScreen --------
+</font><font color="#3A3966">;
+</font>
+<font color="#3A3966">MessageRequester</font>("Information", "This will test the fast mouse access..."+<font color="#3A3966">Chr</font>(10)+"Press any mouse button to quit!", 0)
+
+<b><font color="#3A3966">If</font></b> <font color="#3A3966">OpenScreen</font>(800, 600, 32, "Mouse") = 0
+<font color="#3A3966">  MessageRequester</font>("Error", "Impossible to open a 800*600 32-bit screen",0)
+  <b><font color="#3A3966">End</font></b>
+<b><font color="#3A3966">EndIf</font></b>
+
+<font color="#3A3966">;
+</font><font color="#3A3966">;-------- Init and Load Stuff --------
+</font><font color="#3A3966">;
+</font>
+x = 100
+y = 100
+
+<font color="#3A3966">LoadSprite</font>(0, <font color="#924B72">#PB_Compiler_Home</font> + "examples/sources/Data/PureBasic.bmp")   <font color="#3A3966">; Load nice small Logo
+</font>
+<font color="#3A3966">;
+</font><font color="#3A3966">;-------- MainLoop --------
+</font><font color="#3A3966">;
+</font>
+<b><font color="#3A3966">Repeat</font></b>
+<font color="#3A3966">  FlipBuffers</font>()                        <font color="#3A3966">; Flip for DoubleBuffering
+</font><font color="#3A3966">  ClearScreen</font>(<font color="#3A3966">RGB</font>(0,0,0))                   <font color="#3A3966">; CleanScreen, black
+</font>
+<font color="#3A3966">  ExamineKeyboard</font>()
+<font color="#3A3966">  ExamineMouse</font>()
+          
+  x =<font color="#3A3966"> MouseX</font>()                         <font color="#3A3966">; Returns actual x pos of our mouse
+</font>  y =<font color="#3A3966"> MouseY</font>()                         <font color="#3A3966">; Returns actual y pos of our mouse
+</font>
+  x+<font color="#3A3966">MouseWheel</font>()*10
+  
+  <b><font color="#3A3966">If</font></b> <font color="#3A3966">MouseButton</font>(<font color="#924B72">#PB_MouseButton_Middle</font>)
+<font color="#3A3966">    MouseLocate</font>(400, 300)
+  <b><font color="#3A3966">EndIf</font></b>
+
+<font color="#3A3966">  DisplaySprite</font>(0, x-<font color="#3A3966">SpriteWidth</font>(0)/2, y-<font color="#3A3966">SpriteHeight</font>(0)/2)
+
+<b><font color="#3A3966">Until</font></b> <font color="#3A3966">MouseButton</font>(<font color="#924B72">#PB_MouseButton_Left</font>) <b><font color="#3A3966">Or</font></b> <font color="#3A3966">MouseButton</font>(<font color="#924B72">#PB_MouseButton_Right</font>)
+
+<b><font color="#3A3966">End</font></b>    ¦</font></pre>
+</body></html>

@@ -1,0 +1,87 @@
+<html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>WebBrowser.pb</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;   PureBasic - MiniBrowser
+</font><font color="#3A3966">;
+</font><font color="#3A3966">;    (c) Fantaisie Software
+</font><font color="#3A3966">;
+</font><font color="#3A3966">; ------------------------------------------------------------
+</font><font color="#3A3966">;
+</font>
+<b><font color="#3A3966">Procedure</font></b> <font color="#3A3966">ResizeWebWindow</font>()
+<font color="#3A3966">  ResizeGadget</font>(10, <font color="#924B72">#PB_Ignore</font>, <font color="#924B72">#PB_Ignore</font>,<font color="#3A3966"> WindowWidth</font>(0),<font color="#3A3966"> WindowHeight</font>(0)-52)
+<font color="#3A3966">  ResizeGadget</font>(4, <font color="#924B72">#PB_Ignore</font>, <font color="#924B72">#PB_Ignore</font>,<font color="#3A3966"> WindowWidth</font>(0)-185, <font color="#924B72">#PB_Ignore</font>)
+<font color="#3A3966">  ResizeGadget</font>(5,<font color="#3A3966"> WindowWidth</font>(0)-25, <font color="#924B72">#PB_Ignore</font>, <font color="#924B72">#PB_Ignore</font>, <font color="#924B72">#PB_Ignore</font>)
+<font color="#3A3966">  ResizeGadget</font>(6, <font color="#924B72">#PB_Ignore</font>, <font color="#924B72">#PB_Ignore</font>,<font color="#3A3966"> WindowWidth</font>(0), <font color="#924B72">#PB_Ignore</font>)
+<b><font color="#3A3966">EndProcedure</font></b>
+
+
+<b><font color="#3A3966">If</font></b> <font color="#3A3966">OpenWindow</font>(0, 100, 200, 500, 300, "PureBasic MiniBrowser v1.0", <font color="#924B72">#PB_Window_MinimizeGadget</font> | <font color="#924B72">#PB_Window_MaximizeGadget</font> | <font color="#924B72">#PB_Window_SizeGadget</font>)
+
+<font color="#3A3966">  CreateStatusBar</font>(0,<font color="#3A3966"> WindowID</font>(0))
+<font color="#3A3966">    AddStatusBarField</font>(<font color="#924B72">#PB_Ignore</font>)
+<font color="#3A3966">    StatusBarText</font>(0, 0, "Welcome to the world's smallest Browser !:)", 0)
+      
+<font color="#3A3966">  ButtonGadget</font>(1,   0, 0, 50, 25, "Back")
+<font color="#3A3966">  ButtonGadget</font>(2,  50, 0, 50, 25, "Next")
+<font color="#3A3966">  ButtonGadget</font>(3, 100, 0, 50, 25, "Stop")
+
+<font color="#3A3966">  StringGadget</font>(4, 155, 5, 0, 20, "http://www.purebasic.com")
+  
+<font color="#3A3966">  ButtonGadget</font>(5, 0, 0, 25, 25, "Go")
+  
+<font color="#3A3966">  FrameGadget</font>(6, 0, 30, 0, 2, "", 2) <font color="#3A3966">; Nice little separator
+</font>
+  <b><font color="#3A3966">If</font></b> <font color="#3A3966">WebGadget</font>(10, 0, 31, 0, 0, "http://www.purebasic.com") = 0
+    
+    <b><font color="#3A3966">CompilerIf</font></b> <font color="#924B72">#PB_Compiler_OS</font> = <font color="#924B72">#PB_OS_Windows</font>
+<font color="#3A3966">      MessageRequester</font>("Error", "ATL.dll not found", 0)
+      
+    <b><font color="#3A3966">CompilerElse</font></b> <font color="#3A3966">; Linux and OX uses Webkit
+</font><font color="#3A3966">      MessageRequester</font>("Error", "Webkit library not found", 0)
+    <b><font color="#3A3966">CompilerEndIf</font></b>
+    
+    <b><font color="#3A3966">End</font></b> <font color="#3A3966">; Quit
+</font>  <b><font color="#3A3966">EndIf</font></b>
+  
+<font color="#3A3966">  AddKeyboardShortcut</font>(0, <font color="#924B72">#PB_Shortcut_Return</font>, 0)
+  
+<font color="#3A3966">  ResizeWebWindow</font>()
+  
+  <b><font color="#3A3966">Repeat</font></b>
+    Event =<font color="#3A3966"> WaitWindowEvent</font>()
+    
+    <b><font color="#3A3966">Select</font></b> Event
+      <b><font color="#3A3966">Case</font></b> <font color="#924B72">#PB_Event_Gadget</font>
+      
+        <b><font color="#3A3966">Select</font></b> <font color="#3A3966">EventGadget</font>()
+          <b><font color="#3A3966">Case</font></b> 1
+<font color="#3A3966">            SetGadgetState</font>(10, <font color="#924B72">#PB_Web_Back</font>)
+          
+          <b><font color="#3A3966">Case</font></b> 2
+<font color="#3A3966">            SetGadgetState</font>(10, <font color="#924B72">#PB_Web_Forward</font>)
+          
+          <b><font color="#3A3966">Case</font></b> 3
+<font color="#3A3966">            SetGadgetState</font>(10, <font color="#924B72">#PB_Web_Stop</font>)
+          
+          <b><font color="#3A3966">Case</font></b> 5
+<font color="#3A3966">            SetGadgetText</font>(10,<font color="#3A3966"> GetGadgetText</font>(4))
+            
+        <b><font color="#3A3966">EndSelect</font></b>
+      
+      <b><font color="#3A3966">Case</font></b> <font color="#924B72">#PB_Event_Menu</font> <font color="#3A3966">; We only have one shortcut
+</font><font color="#3A3966">        SetGadgetText</font>(10,<font color="#3A3966"> GetGadgetText</font>(4))
+
+      <b><font color="#3A3966">Case</font></b> <font color="#924B72">#PB_Event_SizeWindow</font>
+<font color="#3A3966">        ResizeWebWindow</font>()
+      
+    <b><font color="#3A3966">EndSelect</font></b>
+      
+  <b><font color="#3A3966">Until</font></b> Event = <font color="#924B72">#PB_Event_CloseWindow</font>
+   
+<b><font color="#3A3966">EndIf</font></b>
+</font></pre>
+</body></html>

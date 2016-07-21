@@ -1,0 +1,495 @@
+<!DOCTYPE html><!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]--><!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]--><!--[if !(IE 7) & !(IE 8)]><!-->
+
+
+
+<html lang="en-US"><!--<![endif]-->
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>PureBasic Team Blog | random thoughts on PureBasic development</title><!--[if lt IE 9]>
+<script src="http://www.purebasic.fr/blog/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.purebasic.fr/blog/xmlrpc.php" />
+
+<link rel="alternate" type="application/rss+xml" title="PureBasic Team Blog » Feed" href="http://www.purebasic.fr/blog/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="PureBasic Team Blog » Comments Feed" href="http://www.purebasic.fr/blog/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.purebasic.fr\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.4"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style><!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.purebasic.fr/blog/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.purebasic.fr/blog/wp-content/themes/twentytwelve/style.css?ver=4.4.4' type='text/css' media='all' />
+
+<script type='text/javascript' src='http://www.purebasic.fr/blog/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.purebasic.fr/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel='https://api.w.org/' href='http://www.purebasic.fr/blog/?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.purebasic.fr/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.purebasic.fr/blog/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.4" />
+</head>
+
+<body class="home blog custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="http://www.purebasic.fr/blog/blog.html" title="PureBasic Team Blog" rel="home">PureBasic Team Blog</a></h1>
+			<h2 class="site-description">random thoughts on PureBasic development</h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle">Menu</button>
+			<a class="assistive-text" href="http://www.purebasic.fr/blog/blog.html#content" title="Skip to content">Skip to content</a>
+			<div class="nav-menu"><ul><li class="current_page_item"><a href="http://www.purebasic.fr/blog/blog.html">Home</a></li></ul></div><!-- #site-navigation --><!-- #masthead -->
+		</nav>
+
+			</header>
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+		
+										
+	<article id="post-463" class="post-463 post type-post status-publish format-standard hentry category-coding category-compiler category-ide category-libraries category-linux category-macosx category-windows tag-freak tag-fred tag-interview tag-purearea tag-purebasic tag-spiderbasic tag-timo">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://www.purebasic.fr/blog/?p=463" rel="bookmark">New PureArea.net Interview with Fred and freak released</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.purebasic.fr/blog/?p=463#comments">1 Reply</a>				</div><!-- .comments-link --><!-- .entry-header -->
+					</header>
+
+				<div class="entry-content">
+			<p>Hi folks, Happy New Year 2016!</p>
+<p>I’m proudly presenting a new interview I made with the main PureBasic coders Frederic ‘alphaSND’ Laboureur and Timo ‘freak’ Harter.</p>
+<p>You can read it on my website <a href="http://www.purearea.net" target="_blank">www.PureArea.net</a>, just go to the ‘News’ section of 4th January 2016.</p>
+<p>I hope you enjoy the reading of this (like I find) interesting interview!</p>
+<p><em>(Direct link to the <a href="http://www.purearea.net/pb/english/interview_2015.htm" target="_blank">interview</a>)</em></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+			This entry was posted in <a href="http://www.purebasic.fr/blog/?cat=13" rel="category">Coding</a>, <a href="http://www.purebasic.fr/blog/?cat=4" rel="category">Compiler</a>, <a href="http://www.purebasic.fr/blog/?cat=6" rel="category">IDE</a>, <a href="http://www.purebasic.fr/blog/?cat=10" rel="category">Libraries</a>, <a href="http://www.purebasic.fr/blog/?cat=7" rel="category">Linux</a>, <a href="http://www.purebasic.fr/blog/?cat=9" rel="category">Mac OSX</a>, <a href="http://www.purebasic.fr/blog/?cat=8" rel="category">Windows</a> and tagged <a href="http://www.purebasic.fr/blog/?tag=freak" rel="tag">freak</a>, <a href="http://www.purebasic.fr/blog/?tag=fred" rel="tag">Fred</a>, <a href="http://www.purebasic.fr/blog/?tag=interview" rel="tag">Interview</a>, <a href="http://www.purebasic.fr/blog/?tag=purearea" rel="tag">PureArea</a>, <a href="http://www.purebasic.fr/blog/?tag=purebasic" rel="tag">PureBasic</a>, <a href="http://www.purebasic.fr/blog/?tag=spiderbasic" rel="tag">SpiderBasic</a>, <a href="http://www.purebasic.fr/blog/?tag=timo" rel="tag">Timo</a> on <a href="http://www.purebasic.fr/blog/?p=463" title="1:26 am" rel="bookmark"><time class="entry-date" datetime="2016-01-05T01:26:55+00:00">January 5, 2016</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.purebasic.fr/blog/?author=34" title="View all posts by Andre" rel="author">Andre</a></span></span>.																</footer><!-- .entry-meta --><!-- #post -->
+	</article>
+							
+	<article id="post-457" class="post-457 post type-post status-publish format-standard hentry category-coding category-libraries category-linux">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://www.purebasic.fr/blog/?p=457" rel="bookmark">Enter GTK3</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.purebasic.fr/blog/?p=457#comments">1 Reply</a>				</div><!-- .comments-link --><!-- .entry-header -->
+					</header>
+
+				<div class="entry-content">
+			<p>Since PureBasic 5.40 LTS, GTK3 is the default GUI toolkit used by PureBasic on Linux. It seems like a no brainer update for our users, but the fact is than GTK3 doesn’t fit well the PureBasic GUI library and we have several bad hacks here and here to make it work at all. We decided from the start in PureBasic to handle pixel perfect sizing of the GUI elements to allow maximum flexibity.  For example, we added a <a href="http://www.purebasic.fr/blog/documentation/dialog/index.html" target="_blank">Dialog</a> library on top of it, which adds automatic layout depending of the font size, and allow to design complex resizable windows. It’s nice, but not mandatory, and depending of your needs, you will or will not use it. Up to GTK2, it was the same: you could define pixel perfect size and the toolkit would honor it. Now, it’s a different story: the toolkit can decide if the size you gave programmatically is too small or not. It’s a big change, as you could end up with a deformed GUI and more important, the running program doesn’t reflect the code entered by the programmer. You may wonder why such change has been implemented ? My guess is to force use of layout for everything, so the toolkit can support themes more efficiently and without change from the programmer. It may be true, but it’s one of the first toolkit to do so and forcing the programmer hand isn’t always a great thing, especially when it removes flexibility: you can write a layout engine using pixel perfect sizing, but you can’t do pixel perfect sizing with a layout engine. And for some specific apps, running on proprietary OS, it can be an issue as theming is irrelevant.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+			This entry was posted in <a href="http://www.purebasic.fr/blog/?cat=13" rel="category">Coding</a>, <a href="http://www.purebasic.fr/blog/?cat=10" rel="category">Libraries</a>, <a href="http://www.purebasic.fr/blog/?cat=7" rel="category">Linux</a> on <a href="http://www.purebasic.fr/blog/?p=457" title="3:42 pm" rel="bookmark"><time class="entry-date" datetime="2015-12-24T15:42:56+00:00">December 24, 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.purebasic.fr/blog/?author=3" title="View all posts by Fred" rel="author">Fred</a></span></span>.																</footer><!-- .entry-meta --><!-- #post -->
+	</article>
+							
+	<article id="post-452" class="post-452 post type-post status-publish format-standard hentry category-compiler">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://www.purebasic.fr/blog/?p=452" rel="bookmark">Support for Ascii compilation ends after the next LTS cycle</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.purebasic.fr/blog/?p=452#comments">2 Replies</a>				</div><!-- .comments-link --><!-- .entry-header -->
+					</header>
+
+				<div class="entry-content">
+			<p>As Fred has explained <a class="postlink" href="http://www.purebasic.fr/english/viewtopic.php?f=14&amp;t=60171">here</a>, supporting both the creation of ascii and unicode executables in the compiler is becoming a burden and we would like to end support for ascii compilation in order to streamline the library code and make it easier to maintain the PureBasic package in the future. However, the above thread has shown that people wish for a longer transition period, and we would like to honor this wish.</p>
+<p><strong>So we decided to remove the ability to compile in ascii mode in the PB version that follows after the next LTS version</strong> (that is, the LTS version coming after the 5.2x LTS cycle ends).</p>
+<p>There are no exact dates for the releases, but the timeline looks like this:</p>
+<ul>
+<li>The current 5.2x LTS version will be supported until at least 09/17/2015</li>
+<li>After that date, a new LTS version will be released with support for 2 years. This version will still have full ascii compilation support.</li>
+<li>The first non-LTS version released after the next LTS cycle starts will have no ascii compilation support</li>
+</ul>
+<p>This means that the first non-LTS version without ascii support will be released in about a year. By staying with LTS releases, you have the ability to use an ascii mode compiler with a fully supported PB version for <span style="text-decoration: underline;">at least another 3 years</span> starting from today. This should give enough time for a smooth transition.</p>
+<p>No changes will be made to the language or data types (The .c, .a and .u as well as the pseudo-types and library commands will remain as they are). The only difference is that the “compile in unicode mode” switch in the compiler will be permanently set to “on”.</p>
+<p>Please understand that we do listen to the concerns voiced in the discussion thread and that we do not make this decision lightly. I think we have a quite good track record of supporting older technology as is evidenced by the very long support for Windows 9x which just recently ended and by the fact that we still support Windows XP even after MS dropped all support for it. However, in order for us to be able to introduce new technologies (like x64 compilation in the past, or now support for the web with <a href="http://www.spiderbasic.com" target="_blank">Spiderbasic</a>), we simply cannot support old stuff indefinitely. In order to move forward into the future, we have to leave some stuff behind from time to time. We hope you can understand that.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+			This entry was posted in <a href="http://www.purebasic.fr/blog/?cat=4" rel="category">Compiler</a> on <a href="http://www.purebasic.fr/blog/?p=452" title="12:48 pm" rel="bookmark"><time class="entry-date" datetime="2014-08-09T12:48:30+00:00">August 9, 2014</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.purebasic.fr/blog/?author=2" title="View all posts by freak" rel="author">freak</a></span></span>.																</footer><!-- .entry-meta --><!-- #post -->
+	</article>
+							
+	<article id="post-447" class="post-447 post type-post status-publish format-standard hentry category-uncategorized">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://www.purebasic.fr/blog/?p=447" rel="bookmark">PureBasic 5.30 is out !</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.purebasic.fr/blog/?p=447#comments">1 Reply</a>				</div><!-- .comments-link --><!-- .entry-header -->
+					</header>
+
+				<div class="entry-content">
+			<p>That’s it, PureBasic 5.30 final version is out ! The beta phase was longer than usual and even if it’s holiday and summer time, it’s not a valid excuse ;). So let’s jump a bit in PureBasic development internals, so you can better understand why.</p>
+<p>First of all, the IDE is now fully unicode. It looks like a no brainer as in PureBasic it’s more or less a checkbox to enable to have your program working in unicode, right ? Well, not this time. The (new) IDE is around for almost 10 years now (09/21/2005) and it grew out of proportion by including tons of features. We heavily use raw pointers to process string buffers quickly, and when switching to unicode, all the strings went to UCS-2 (16-bit character). The stuff here is Scintilla is working internally in UTF-8, so all our comparisons between PB strings and Scintilla internal<br />
+didn’t work anymore as one side was UTF-8 and the other UCS-2. Also, all the Scintilla commands which needed a buffer as parameter needed to be changed as we mostly used a pointer to a PB string for this. We also had API calls here and here which required some adaptation work, and there was no compiling error or runtime warning, so usually a nice crash was awaiting us when missing one and reaching this code section. To be honest, it was quite a bit depressing to see a solid IDE get back to a shacky shape. This looks brighter now, and the unicode switch allowed us to fix long standing IDE issues which is cool. It was a needed update, especially for the internal debugger which can now handle unicode programs. There is will be probably some quicks left but it should be ironed out in future versions.</p>
+<p>We also made important internal compiler changes to enable runtime serialization trough the XML and new JSON lib. It doesn’t seem like a big deal from the user point of view, but actually it is. What is runtime serialization ? In a nutshell: you have your nice linked list of complex structured elements (which can contain dynamic map, array etc.) and you want to save it, so when you quit your program, you wont loose these data. To do that, you had mostly only one way until now: walk the list, write all the fields of your structure to either a file or a database. It can be time consumming to write this, and if you add a new field in your structure, you have to update both your load and save routines. With 5.30 serialization functions, you can do that with only one command. The compiler will flag your structure as a runtime one so it gets all needed information (like fieldname, fieldtype etc.) and build special information table to allow full recursive analysing and dumping of the structure data. We made this change generic in the compiler, so any command (even user libs) can use this feature. To allow this, we needed to support ‘shadow parameters’ in PB function call. Basically, when we declare a command parameter as “Runtime Structure” like in InsertJSONStructure(), one hidden parameter is added to the function call to add more information to the structure. The same is done to when a runtime list, map or array is need like in InsertJSONList/Map/Array(). Adding such a core feature in the compiler is always tricky and can creates new hard to track issues (like stack mis-aligment), and that’s why the IDE didn’t started anymore on some Windows x64 computers.</p>
+<p>And finally, a word about LTS (Long Time Support). The 5.30 is the first version which is released in parallel than an LTS version. That means than we had to update our build servers and deployment tools to handle 2 concurrents versions (when building and when releasing). The website also needed some update to handle this properly. It’s small things but it does add-up and it in the end, it takes time to get everything right and properly working.</p>
+<p>As a side note, all the doc are now updated to the new format in every languages and I would like to thank Andre and Mesa for the huge work done on this. A programming langage without a good doc is not a good programming langage.</p>
+<p>I hope you didn’t fell asleep when reading this, enjoy the new version !</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+			This entry was posted in <a href="http://www.purebasic.fr/blog/?cat=1" rel="category">Uncategorized</a> on <a href="http://www.purebasic.fr/blog/?p=447" title="3:17 pm" rel="bookmark"><time class="entry-date" datetime="2014-08-06T15:17:28+00:00">August 6, 2014</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.purebasic.fr/blog/?author=3" title="View all posts by Fred" rel="author">Fred</a></span></span>.																</footer><!-- .entry-meta --><!-- #post -->
+	</article>
+							
+	<article id="post-442" class="post-442 post type-post status-publish format-standard hentry category-releases">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://www.purebasic.fr/blog/?p=442" rel="bookmark">PureBasic 5.30 beta 1 released</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.purebasic.fr/blog/?p=442#comments">1 Reply</a>				</div><!-- .comments-link --><!-- .entry-header -->
+					</header>
+
+				<div class="entry-content">
+			<p>The first public beta version of the upcoming PureBasic version is available for download on your download account.</p>
+<p>Some notable new features include:</p>
+<ul>
+<li>&nbsp;A new JSON library including functions to serialize complex data structures directly from PB code to JSON and back. The same functionality has also been added to the XML library.</li>
+<li>New functions for the 3D engine.</li>
+<li>The IDE and debugger are now full unicode programs</li>
+<li>Improvements for the IDE such as a “plain-text” editing mode, the highlighting of repeated occurrences of the current selection, a new ‘Issues’ tool to track TODOs in the source code and more.</li>
+<li>A new /PREPROCESS compiler flag which will generate a PB code with all compiler directives and macros resolved.</li>
+<li>… and much more!</li>
+</ul>
+<p>The english documentation is already up to date for the new features, so you can find a description and examples there.</p>
+<p>This version also includes some changes that may break compatibility with existing code:</p>
+<ul>
+<li>The (X)IncludeFile and IncludeBinary have changed their behavior for relative paths.</li>
+<li>The #PB_Event_SizeWindow and #PB_Event_MoveWindow events are no longer reported in realtime in the main event loop. This is to reduce problems with flickering on resize. To get realtime events you have to use the BindEvent() function and a callback in the future.</li>
+<li>CreateXMLNode() has a new mandatory parameter.[/list]</li>
+</ul>
+<p>This is regular release which means it brings new features and will have the regular support cycle. The 5.2x LTS release will continue to be maintained and a 5.23 LTS release is planned for shortly after this release becomes final.</p>
+<p>Here is the full list of changes:</p>
+<pre>Added: New "Issue" tool for IDE to build todo/issue lists easily from comments.
+Added: JSON library
+Added: ParseXML(), ComposeXML(), InsertXMLArray/List/Map/Structure(), ExtractXMLArray/List/Map/Structure() to XML lib
+Added: OpenGLGadget() with native opengl commands ande constants support for Windows, OSX and Linux
+Added: ExamineRegularExpression() and related commands to process regex matches step by step (with group support)
+Added: ClipOutput(), UnclipOutput(), SetOrigin(), GetOriginX(), GetOriginY()
+Added: GetWindowData(), SetWindowData()
+Added: AllocateStructure(), FreeStructure()
+Added: #PB_Default support to WindowsBound() to reset min/max size
+Added: 'Format' parameter to Read/WriteProgramString(), WriteProgramStringN() and ReadProgramError()
+Added: /PREPROCESS compiler flag to create a big single source with all macros, compilerif and file include resolved. Can be combined with /COMMENTED to get the original source with comments as well.
+Added: optional '#Server' parameter to NetworkServerEvent() to check events only on a specific server
+Added: #PB_String_NoZero flag support to PokeS() to avoid writting the ending null character
+Added: #PB_Enumeration support for Defined()
+Added: Optional 'Type' parameter to CreateBillboardGroup()
+Added: BillboardGroupCommonDirection(), BillboardGroupCommonUpVector()
+Added: #PB_Entity_MinVelocity and #PB_Entity_ForceVelocity to SetEntityAttribute()
+Added: SetMaterialAttribute() with #PB_Material_DepthCheck and #PB_Material_DepthWrite constants
+Added: #PB_Material_DepthCheck support for GetMaterialAttribute().
+Added: Engine3DStatus() with these constants: #PB_Engine3D_NbRenderedTriangles, #PB_Engine3D_NbRenderedBatches
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #PB_Engine3D_CurrentFPS, #PB_Engine3D_MaximumFPS, #PB_Engine3D_MinimumFPS, #PB_Engine3D_AverageFPS, #PB_Engine3D_ResetFPS
+Added: #PB_Absolute / #PB_Relative support to CameraDirectionX/Y/Z(), CameraX/Y/Z(), EntityX/Y/Z(), LightX/Y/Z(), LightDirectionX/Y/Z()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BillBoardGroupX/Y/Z(), NodeX/Y/Z(), ParticleEmitterX/Y/Z() and FetchOrientation()
+Added: ParticleSpeedFactor(), DisableParticleEmitter()
+Added: GetEntityCollisionMask(), GetEntityCollisionGroup(), SetEntityCollisionFilter()
+Added: WaterHeight(), FreeWater()
+Added: Fully unicode IDE
+Added: Highlighting of repeated occurrences of the currently selected word in the IDE
+Added: Plain-text editing mode to edit non-PB files in the IDE
+Added: 'Issues' IDE tool to collect and display TODO/FIXME markers inside the code
+Added: Ctrl+E and Ctrl+Shift+E shortcut to align/shift comments in a selected code block
+Added: Ctrl+M and Ctrl+Shift+M shortcut to select the current code block (repeated presses select the next code block)
+Added: PopupMenu to IDE error log for clear/copy operation
+Added: %HOME and %PROJECT to IDE tool commandline options, added PB_TOOL_Project to available env vars
+Added: Automatic code indentation can align comments at the end of code lines in the IDE
+Added: AutoComplete remembers last selection for Structure/Module AutoComplete
+Added: Context sensitivity for current module/procedure for variable display and expression eval in the debugger
+
+Changed: FormatXML() with #PB_XML_ReFormat no longer adds newlines inside single-line elements for a more readable output
+Changed: DeleteElement() now returns the data pointer to the new current element (if any)
+Changed: SetXMLAttribute() to accept newline characters in attributes (will be encoded as character entities)
+Changed: Added a mandatory "name" parameter to CreateXMLNode() as some parser needs it at node creation time
+Changed: The way (X)IncludeFile and IncludeBinary works: it's now relative to the file which contains these statements (which is easier to handle)
+Changed: #PB_Event_SizeWindow and #PB_Event_MoveWindow are no more realtime on Windows, use BindEvent() to get real time update. It should fixes ugly flickering when realtime resizing on Windows.
+Changed: DataSection label within Procedure are now local labels.
+Changed: ASM local label prefix has been changed from "l_" to "ll_" ("ll" for local label), to avoid possible clash with main labels.
+Changed: #PB_LinkedList constant has been renamed to #PB_List for better consistancy
+Changed: Removed the "Billboard" parameter from AddBillboard() as it was not used. Now returns the new billboard index.
+Changed: Updated Scintilla to version 3.4.2
+
+Removed: MaterialDepthWrite() (replaced by SetMaterialAttribute())
+Removed: CountRenderedTriangles() and Engine3DFrameRate(), replaced by Engine3DStatus()</pre>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+			This entry was posted in <a href="http://www.purebasic.fr/blog/?cat=12" rel="category">Releases</a> on <a href="http://www.purebasic.fr/blog/?p=442" title="5:01 pm" rel="bookmark"><time class="entry-date" datetime="2014-05-30T17:01:10+00:00">May 30, 2014</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.purebasic.fr/blog/?author=2" title="View all posts by freak" rel="author">freak</a></span></span>.																</footer><!-- .entry-meta --><!-- #post -->
+	</article>
+							
+	<article id="post-437" class="post-437 post type-post status-publish format-standard hentry category-uncategorized">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://www.purebasic.fr/blog/?p=437" rel="bookmark">LTS</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.purebasic.fr/blog/?p=437#comments">2 Replies</a>				</div><!-- .comments-link --><!-- .entry-header -->
+					</header>
+
+				<div class="entry-content">
+			<p>Since PureBasic 5.20, we introduced a new LTS suffix after the version name. Some of you wondered what it means, and what was the purpose of it. Basically, a LTS (Long Term Support) version will be supported for 2 years trough bug fixes release without any command or compiler modification. If you need stability in your development, you can choose to stick to an LTS version and then when the support is over go to the next one. We will provide clear migration path when going from one LTS version to another one. The advantage here is you don’t have to worry about code adpation when developping and still have stabilisation releases to have a rock solid development enviromnent. The disadvantage is you don’t get the new features of new major release until the next LTS version is out. That’s a balance to find and a decision to make, but now the choice is yours !</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+			This entry was posted in <a href="http://www.purebasic.fr/blog/?cat=1" rel="category">Uncategorized</a> on <a href="http://www.purebasic.fr/blog/?p=437" title="12:32 pm" rel="bookmark"><time class="entry-date" datetime="2013-11-07T12:32:42+00:00">November 7, 2013</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.purebasic.fr/blog/?author=3" title="View all posts by Fred" rel="author">Fred</a></span></span>.																</footer><!-- .entry-meta --><!-- #post -->
+	</article>
+							
+	<article id="post-431" class="post-431 post type-post status-publish format-standard hentry category-uncategorized">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://www.purebasic.fr/blog/?p=431" rel="bookmark">Following API changes</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.purebasic.fr/blog/?p=431#comments">3 Replies</a>				</div><!-- .comments-link --><!-- .entry-header -->
+					</header>
+
+				<div class="entry-content">
+			<p>PureBasic uses a commandset built on top of the OS API, using generic commands to abstract it from you, the developer. One of the most daunting (and boring) task for us is to follow underlying API changes. A famous example was Cocoa support replacing old Carbon API on PureBasic for OS X. Another one is the DirectX11 support for the Sprite/Screen library on Windows. Linux isn’t left behind, with the recent GTK3 support for the whole commandset. All this requiers a lot of work, new knownledge to learn, and tons of testing, just to provide functionnalities which already work in the current API. From the PureBasic developer point of view, there is nothing fancy as the commands works as usual, only the implementation under the hood has been completely reworked. That’s one of the great strength of PureBasic: you can upgrade your program without worrying it about the technology used behind by just using a new version. OK, you will probably have some adjustements to do here and here, but it’s really nothing compared to migrate a whole program from one API to another.  </p>
+<p>Which brings us to a somewhat recurrent issue with PureBasic upgrade: commands are sometimes renamed, changed, or even removed. It often makes the developer angry as a working code needs to be modified to run again with the new version, and we don’t like to change working code. Agreed. But I would like to explain why it happens, and why it is important for PureBasic future. One important thing to understand: we don’t change the commandset unless it’s really necessary. It’s not our goal to mixup the whole stuff only to bother you. That said, the technology is always evolving and an high level programming language like PureBasic needs to follow the evolution as well. If not, it will be left behind, and a new language, using more modern API will take over. Let me use the sprite library as an example to illustrate my thoughs:</p>
+<p>– API designed on Amiga in 1998 with no 3D acceleration. Was quite simple: sprite only, no zoom, no rotation, and many software only routines.<br />
+– Later, with DirectX7 on Windows, we got some 3D accelerated functions for some cards, so we added the ‘sprite3d’ library to support it. It was optional, as it didn’t work everywhere. That made the sprite lib a bit more hard to use, as you had to create 3D sprite using a real sprite with texture mode. DirectX7 mainly worked with 2D acceleration using DirectDraw, so we couldn’t switch to full 3D<br />
+– Nowaday DirectX9/DirectX11/OpenGL offers much better support for 3D only sprites, and 2D acceleration is not supported anymore. So all the sprites are now natively in 3D, even if we use it in 2D mode. What the purpose of having a ‘sprite3d’ lib as regular sprites are 3d anyway ? This one was obsolete, so we had to remove it to cleanup the library and have easier sprite handling, for you and for newcomers.</p>
+<p>A new language won’t even think about separating sprite in 2 libs as it makes no sens: all is 3D now, even cheap phones handle its GUI in 3D mode. That was legacy and if we want to have PureBasic around in the future, we have to think ‘new’, and adapt the current commandset to new technology, even if it slightly breaks code. If we stick with older functionalities/design for compatibility sake, we will be slowing dying. Indeed, old PureBasic versions are available in the museum section of your online account, if you just need to do maintainance on a software.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+			This entry was posted in <a href="http://www.purebasic.fr/blog/?cat=1" rel="category">Uncategorized</a> on <a href="http://www.purebasic.fr/blog/?p=431" title="3:06 pm" rel="bookmark"><time class="entry-date" datetime="2013-08-14T15:06:59+00:00">August 14, 2013</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.purebasic.fr/blog/?author=3" title="View all posts by Fred" rel="author">Fred</a></span></span>.																</footer><!-- .entry-meta --><!-- #post -->
+	</article>
+							
+	<article id="post-417" class="post-417 post type-post status-publish format-standard hentry category-coding category-ide">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://www.purebasic.fr/blog/?p=417" rel="bookmark">Getting the best out of the IDE when using Modules</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.purebasic.fr/blog/?p=417#respond"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link --><!-- .entry-header -->
+					</header>
+
+				<div class="entry-content">
+			<p>Since the last beta version (5.20 beta8) the IDE finally has support for Modules as well (AutoComplete, QuickHelp, ProcedureBrowser etc). Please test these features well, as it was quite a change in the IDE to implement this. Now, to get the best experience when using the IDE and Modules together, there are some simple rules that have to be followed. I will explain them below. But first, let me explain why these limitations exist.</p>
+<p>As the AutoComplete feature became smarter and more helpful in past versions, it had to grow from a simple scanning of the source for strings into a full grown analysis of the source code. This is especially required for modules, because the IDE needs to know what procedures/constants/structures are exposed from each module in order to present the correct choices in AutoComplete. So the IDE in essence needs to understand your code. The best way to fully understand code is to compile it. The IDE does not actually compile the code for the following reasons:</p>
+<ul>
+<li>Speed: The AutoComplete feature cannot introduce delays because that would make it unusable. So compiling the entire code from beginning to end is not an option.</li>
+<li>The code is usually not compilable anyway: Remember, the purpose of the IDE is to edit code. While you edit a line, it will be in a state that cannot be compiled most of the time. In fact, if you look at all characters typed in a source code, the instances in which that typed character puts the source in a compilable state are rather rare compared to those that put it in a state with errors (from a compiler perspective).</li>
+<li>There are IDEs that actually have a builtin compiler that can tolerate this and still compile the code. Eclipse is such an example. However, writing something like that is quite complex and is actually harder for PB because of features such as macros and compiler directives.</li>
+</ul>
+<p>Instead, the IDE tries its best to (quickly) understand the code without a full compilation. For that, it parses the code and extracts all information that can be understood without context (from a single line of code) into an indexed form for fast search. This organization has the benefit that if a line of code is changed, only this line needs to be parsed again and not the rest of the code which is quite fast. Then when the type of a variable is needed or something like that, the IDE searches through this indexed data to put it in the proper context to answer the question. So it is not a full compilation, but rather a “fuzzy” analysis of the code. In essence, the IDE collects the information it can understand, and stuff that only a compiler would know (like what an expanded macro would look like) is ignored.</p>
+<p>So how does this affect Modules? One thing that the IDE does not do is resolve which source file is included where in the final program. It only looks at each source file individually. This was no big limitation before modules existed, but with modules it means you have to follow some rules so the IDE understands where a module begins and ends and what it contains.</p>
+<p>These are the rules:</p>
+<ol>
+<li>The entire <strong><span style="color: #008000;">DeclareModule</span></strong>/<strong><span style="color: #008000;">EndDeclareModule</span> </strong>block should be in the same source file.</li>
+<li>The entire <strong><span style="color: #008000;">Module</span></strong>/<strong><span style="color: #008000;">EndModule</span> </strong>is best also written in a single file, but it does not have to be the same one as the one that contains the <strong><span style="color: #008000;">DeclareModule</span></strong></li>
+<li>At least the file containing the <strong><span style="color: #008000;">DeclareModule</span> </strong>block should be included in the Project and scanned for AutoComplete. You don’t have to include the actual module implementation since the stuff in there is not visible on the outside anyway.</li>
+<li>If you use <strong><span style="color: #008000;">UseModule</span></strong>, all modules that are open within a source file should be opened within that source file. The best was is simply to have the <strong><span style="color: #008000;">UseModule</span> </strong>calls right at the top.</li>
+<li>Don’t hide the essential module commands behind macros. The IDE does not expand macros so it will not know that the keywords are in there.</li>
+</ol>
+<p>The explanation is rather simple. Consider this code:</p>
+<blockquote>
+<pre><span style="color: #008000;"><strong>DeclareModule </strong></span>Foo
+&nbsp; <span style="color: #008000;"><strong>XIncludeFile </strong></span><span style="color: #3366ff;">"FooDeclaration.pb"</span>
+<span style="color: #008000;"><strong>EndDeclareModule</strong></span></pre>
+</blockquote>
+<p>Since the IDE only looks at each source file individually, it does not know that the contents of FooDeclaration.pb are part of the module declaration. So the IDE sees an empty Foo module, plus a file FooDeclaration.pb with stuff that is outside of any module.</p>
+<p>In the same way, if you have a <strong><span style="color: #008000;">UseModule</span> </strong>call outside of the current source file, the IDE does not know that stuff from the opened module is available while you edit your file and therefore cannot help you with AutoComplete in this case.</p>
+<p>Other languages enforce such rules on the compiler level (one class per file etc). We chose to not limit the compiler in this way so you can organize your code as you like. And you don’t have to follow these rules to use the IDE. It just cannot be as helpful as it could be if you don’t. Anyway, in my opinion these rules also make sense from a code organization standpoint so i don’t think it is that hard to follow them.</p>
+<p>&nbsp;</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+			This entry was posted in <a href="http://www.purebasic.fr/blog/?cat=13" rel="category">Coding</a>, <a href="http://www.purebasic.fr/blog/?cat=6" rel="category">IDE</a> on <a href="http://www.purebasic.fr/blog/?p=417" title="2:23 pm" rel="bookmark"><time class="entry-date" datetime="2013-08-01T14:23:04+00:00">August 1, 2013</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.purebasic.fr/blog/?author=2" title="View all posts by freak" rel="author">freak</a></span></span>.																</footer><!-- .entry-meta --><!-- #post -->
+	</article>
+							
+	<article id="post-410" class="post-410 post type-post status-publish format-standard hentry category-uncategorized">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://www.purebasic.fr/blog/?p=410" rel="bookmark">Anti-virus plague</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.purebasic.fr/blog/?p=410#comments">2 Replies</a>				</div><!-- .comments-link --><!-- .entry-header -->
+					</header>
+
+				<div class="entry-content">
+			<p>Ironic isn’t it ? Nowaday, anti-virus are becoming more and more intrusives, and ‘thanks’ to heuristic approaches, the false positives raise a lot, while eradication or real virus are less and less common. When was your last real virus detection ? Mine was may be 5-6 years ago. Since then, i got many alerts, but all were just dumbs. Microsoft has made giant progress to counter virus spreading and execution with modern iterations of Windows (see ASLR, DEP, user mode, etc.).  </p>
+<p>My concern about anti-viruses is the famous heuristic approach which often flag legit PureBasic programs as contamined. I don’t know exactly how works an anti-virus, but I bet it builds a database with some code patterns found in real virus, and if this code pattern is found in an executable it will raise an alert. And here is really the problem: if PureBasic is used to make a trojan or a virus, then chances are high than the code pattern will be actually a purelibrary command, meaning than every other PureBasic program using this command will be flaged as well. It’s really a poor detection mechanism and I can’t understand why anti-virus maker don’t try to find other methods to detect threats. Since several years now, PureBasic programs (and even the official IDE) are regulary flagged as virus with no reasons, and such threads often popup on officials forums. I can imagine the face of a potential customer wanting install the demo version of PureBasic when a big alert saying ‘Warning Trojan.bigvirus.1337’ popup.</p>
+<p>So what to do ? Actually a very few things can be done:<br />
+– always send false positives to the your anti-virus maker. The more they get, bigger are the chances they will improve their detection routines.<br />
+– change your anti-virus. well, some are better than other. If it doesn’t work with PureBasic, you can consider it as a bad one  <img src="http://www.purebasic.fr/blog/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>I hope it will change, somewhen. Ha, dreams…</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+			This entry was posted in <a href="http://www.purebasic.fr/blog/?cat=1" rel="category">Uncategorized</a> on <a href="http://www.purebasic.fr/blog/?p=410" title="4:01 pm" rel="bookmark"><time class="entry-date" datetime="2013-02-13T16:01:53+00:00">February 13, 2013</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.purebasic.fr/blog/?author=3" title="View all posts by Fred" rel="author">Fred</a></span></span>.																</footer><!-- .entry-meta --><!-- #post -->
+	</article>
+							
+	<article id="post-398" class="post-398 post type-post status-publish format-standard hentry category-releases category-uncategorized tag-purebasic-history-future">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://www.purebasic.fr/blog/?p=398" rel="bookmark">Big Christmas Interview with Fred…</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.purebasic.fr/blog/?p=398#respond"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link --><!-- .entry-header -->
+					</header>
+
+				<div class="entry-content">
+			<p>“Surprise!” – yes, after a long time I have done a new interview with Fred. And this has become really huge (around 80 Q &amp; A!), in which Fred tell us more about himself, but above all about the history, current situation and future development of PureBasic. I was able to elicit some things from him, which will be included in the forthcoming (as beta) version 5.10…<a href="http://www.purebasic.fr/blog/wp-content/uploads/2012/12/Fred_2012_3.jpg"><img class="alignright size-full wp-image-401" title="Fred 2012" src="http://www.purebasic.fr/blog/wp-content/uploads/2012/12/Fred_2012_3.jpg" alt="" width="108" height="150" /></a></p>
+<p>Read more in the <strong>News</strong> on <strong><a href="http://www.purearea.net/pb/english/index.htm" target="_blank">PureArea.net</a></strong></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			
+			This entry was posted in <a href="http://www.purebasic.fr/blog/?cat=12" rel="category">Releases</a>, <a href="http://www.purebasic.fr/blog/?cat=1" rel="category">Uncategorized</a> and tagged <a href="http://www.purebasic.fr/blog/?tag=purebasic-history-future" rel="tag">PureBasic History Future</a> on <a href="http://www.purebasic.fr/blog/?p=398" title="2:06 am" rel="bookmark"><time class="entry-date" datetime="2012-12-17T02:06:32+00:00">December 17, 2012</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.purebasic.fr/blog/?author=34" title="View all posts by Andre" rel="author">Andre</a></span></span>.																</footer><!-- .entry-meta --><!-- #post -->
+	</article>
+			
+					<nav id="nav-below" class="navigation" role="navigation">
+			<h3 class="assistive-text">Post navigation</h3>
+			<div class="nav-previous"><a href="http://www.purebasic.fr/blog/?paged=2" ><span class="meta-nav">←</span> Older posts</a></div>
+			<div class="nav-next"></div><!-- .navigation -->
+		</nav>
+	
+		
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.purebasic.fr/blog/blog.html">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></aside><aside id="categories-207219941" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-13"><a href="http://www.purebasic.fr/blog/?cat=13" title="Coding in PureBasic itself">Coding</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.purebasic.fr/blog/?cat=4" title="Compiler related articles">Compiler</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.purebasic.fr/blog/?cat=5" title="Debugger related articles">Debugger</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.purebasic.fr/blog/?cat=6" title="IDE related articles">IDE</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.purebasic.fr/blog/?cat=10" title="Library development">Libraries</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.purebasic.fr/blog/?cat=7" title="anything specific to PureBasic for Linux">Linux</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.purebasic.fr/blog/?cat=9" title="anything specific to PureBasic for Mac OSX">Mac OSX</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.purebasic.fr/blog/?cat=12" title="Announcement of new PureBasic releases">Releases</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.purebasic.fr/blog/?cat=11" title="Anything about the other tools included in the PB package">Tools</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.purebasic.fr/blog/?cat=1" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.purebasic.fr/blog/?cat=8" title="anything specific to PureBasic for Windows">Windows</a>
+</li>
+		</ul>
+</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='http://www.purebasic.fr/blog/?m=201601'>January 2016</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201512'>December 2015</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201408'>August 2014</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201405'>May 2014</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201311'>November 2013</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201308'>August 2013</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201302'>February 2013</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201212'>December 2012</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201205'>May 2012</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201202'>February 2012</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201108'>August 2011</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201104'>April 2011</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201012'>December 2010</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201009'>September 2010</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201007'>July 2010</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201006'>June 2010</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201004'>April 2010</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201003'>March 2010</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=201001'>January 2010</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=200912'>December 2009</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=200909'>September 2009</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=200908'>August 2009</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=200906'>June 2009</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=200905'>May 2009</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=200903'>March 2009</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=200902'>February 2009</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=200901'>January 2009</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=200812'>December 2008</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=200811'>November 2008</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=200810'>October 2008</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=200809'>September 2008</a></li>
+	<li><a href='http://www.purebasic.fr/blog/?m=200808'>August 2008</a></li>
+		</ul>
+		</aside><aside id="linkcat-2" class="widget widget_links"><h3 class="widget-title">链接</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.purebasic.fr/french/" title="French specking PureBasic forums">French forums</a></li>
+<li><a href="http://www.purebasic.fr/german/" title="German speaking PureBasic forums">German forums</a></li>
+<li><a href="http://www.purebasic.fr/english/" title="International (english speaking) PureBasic forums">International forums</a></li>
+<li><a href="http://www.purearea.net" title="No. 1 Support site around PureBasic programming">PureArea site</a></li>
+<li><a href="http://www.purebasic.fr/blog/www_purebasic_default.html" title="Main PureBasic site">PureBasic site</a></li>
+
+	</ul>
+</aside>
+<aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+			<li><a href="http://www.purebasic.fr/blog/wp-login.php?action=register">Register</a></li>			<li><a href="http://www.purebasic.fr/blog/wp-login.php">Log in</a></li>
+			<li><a href="http://www.purebasic.fr/blog/?feed=rss2">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.purebasic.fr/blog/?feed=comments-rss2">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+						<a href="https://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+		</div><!-- .site-info --><!-- #colophon -->
+	</footer>
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.purebasic.fr/blog/wp-content/themes/twentytwelve/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://www.purebasic.fr/blog/wp-includes/js/wp-embed.min.js?ver=4.4.4'></script>
+</body>
+</html>

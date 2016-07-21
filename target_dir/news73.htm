@@ -1,0 +1,325 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>PureBasic︰ 本机编译器，简单且已游湖阿德 BASIC 编程语言</TITLE>
+
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+  <meta name="google-site-verification" content="zti3YNYE1fvfAUZxJmB9tv_1gYEBNbl2fapbpBeJxa4" />
+
+        <META NAME="language" content="en">
+      <META HTTP-EQUIV="Content-Language" content="en">
+
+  <META NAME="Description" CONTENT="Fantaisie Software 官方网站. PureBasic - 体验纯粹的强大. PureBasic 是一个基于BASIC规定的编程语言">
+  <META NAME="abstract" CONTENT="Fantaisie Software 官方网站. PureBasic - 体验纯粹的强大. PureBasic 是一个基于BASIC规定的编程语言">
+  <META NAME="Keywords" CONTENT="purebasic,PUREBASIC,pure basic,PURE BASIC,basic,BASIC,compiler,COMPILER,language,LANGUAGE,programming,PROGRAMMING,optimized,OPTIMIZED,easy,EASY,programming language,basic编程语言,basic compiler,BASIC COMPILER,visual basic 比哪一期,简易编程语言,经过优化的贬称该语言, games, 应用程序, 游戏, 应用, buy, ordering, 订单, Fantaisie Software,pic basic 编译器,c 编译器,c++ 编译器,编译器,qbasic 编译器,asm,计算机 编程,c 编程,游戏编程,编程语言,c,c++,java,visual c++,linux,windows,nt,VisualC++,LccWin32,VisualBasic,visual basic">
+  <META NAME="Identifier-URL" CONTENT="http://www.purebasic.com">
+  <META NAME="Robots" CONTENT="index,follow,all">
+  <META NAME="revisit-after" CONTENT="2 days">
+  <META NAME="Reply-to" CONTENT="webmaster@purebasic.com">
+  <META NAME="Author" CONTENT="purebasic (webmaster@purebasic.com), Frederic Laboureur, Frédéric Laboureur, Yann Vanlerberghe, Alphasnd, Alphasound, Fantaisie Software ">
+  <META NAME="publisher" content="Fantaisie Software">
+  <META NAME="copyright" content="Fantaisie Software">
+  <META NAME="rating" content="常规">
+  <META NAME="distribution" content="global">
+  <META NAME="Category" CONTENT="software,computers,programming,compilers,languages,basic">
+  <META NAME="date-creation-yyyymmdd" content="20000909">
+
+  <STYLE type="text/css">
+
+    .pagebody
+    {
+      font-family: Verdana, sans-serif; font-size: 13px;
+      line-height: 1.5;
+      color: #000000;
+    }
+
+    .pagefooter
+    {
+      font-family: Verdana, sans-serif; font-size: 11px;
+      color: #FFFFFF;
+    }
+
+    .usercomments
+    {
+      font-family: Verdana, sans-serif; font-size: 13px;
+      line-height: 1.5;
+      color: #EFF1F0;
+    }
+
+    A.nav:link {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none }
+    A.nav:visited {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none}
+    A.nav:hover {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: underline}
+
+    A.nav_footer:link {font-family: Verdana, sans-serif; font-size: 11px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none }
+    A.nav_footer:visited {font-family: Verdana, sans-serif; font-size: 11px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: none}
+    A.nav_footer:hover {font-family: Verdana, sans-serif; font-size: 11px; line-height: 1.5; COLOR: #000000; TEXT-DECORATION: underline}
+
+    
+    .keywords {font-size: 13px; font-weight: normal; font-family: Verdana, sans-serif; line-height: 1.5; }
+    .keywordsbold {font-family: Verdana, sans-serif; font-size: 13px; line-height: 1.5; }
+
+    INPUT
+    {
+      font: 10pt Verdana, Arial;
+      color : #000000;
+      background-color : #FFFFFF;
+    }
+
+    .textform
+    {
+      font-size: 10pt;
+      color: #000000;
+      font-family: Verdana, Arial;
+    }
+    
+    /* These 2 styles are needed to have a perfect rendering of tables border (solid color) on
+       IE and FireFox
+     */
+    table.MainTable
+    {
+      border:2px solid #5A6986;
+    }    
+
+    td.Tabs
+    {
+      border-bottom:2px solid #5A6986;
+    }
+
+    /* Here is our trick to remove a line of a TD
+     */
+    /*.topborder {
+    border-top: 1px solid #EFF1F0;
+    }*/
+
+    img.flagBorder {
+      border: 0px solid #CCCCCC;
+    }
+    
+    tr.ShadowBody
+    {
+      height:8px;
+      background: url(/images/shadow_bottom_body.png);
+      background-repeat: repeat-x;
+    }
+
+    tr.ShadowFooter
+    {
+      height:8px;
+      background: url(/images/shadow_bottom_footer.png);
+      background-repeat: repeat-x;
+    }
+
+  </STYLE>
+
+  
+  
+  
+</HEAD><!-- HEADER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+
+
+<BODY bgColor="White">
+
+<table width="900" class="MainTable" border="0" cellspacing="0" cellpadding="0" align="center" id="language">
+    <TR bgColor="#999999" id="basic">
+        <td colspan="2" align="left" nowrap bgcolor="#5A6986" id="visual">
+            <table width=100% border="0" cellpadding="0" cellspacing="0" id="compiler">
+                <tr>
+                    <td rowspan="2" id="compiler">
+                      <IMG id="visual" name="basic" alt="Pure Basic : 已优化的BASIC编译器" border=0 height=68 src="images/logopb.gif" width=381>
+                    </td>
+
+                    <td valign="top" id="basic"><div align="right" id="compiler"><font class="pagebody" color="#FFFFFF">
+                      
+                      <table border="0" cellspacing="0" cellpadding="1">
+                        <tr><!-- <td width=20 > <A class="nav" style="COLOR: #FFFFFF" href="/german/news73.php"><img class="flagBorder" src=/images/de.png ></a></td> -->
+                           
+                          <td> <A class="nav" style="COLOR: #FFFFFF" href="german/news73.htm">Deutsch</a>&nbsp;&nbsp;</td>
+                        </tr>
+                        <tr><!-- <td width=20> <A class="nav" style="COLOR: #FFFFFF" href="/french/news73.php"><img class="flagBorder" src=/images/fr.png ></a></td> -->
+                           
+                          <td> <A class="nav" style="COLOR: #FFFFFF" href="french/news73.htm">Francais</a>&nbsp;&nbsp;</td>
+                        </tr>
+                      </table>
+
+                    </font></div></td>
+                </tr>
+                <tr>
+                  <td width="100%" height="46"></td>
+                </tr>
+            </table>
+        </td>
+    </TR>
+    <TR>
+    <TD class="Tabs" colspan="2">
+         <TABLE width="100%" border="0" cellspacing="0" cellpadding="0" id="language">
+             <TR id="optimized">
+
+            <td width="15%" height="26" align="center" bgcolor= "#FFFFFF" id="easy"><A class="nav" href="index.htm" title="Pure Basic : 介绍">介绍</a></td>
+            <td width="1" bgcolor="#999999" id="compiler"><IMG id="visual" name="basic" alt="visual basic 编译器" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#B6C0CE" id="basic"><A class="nav" href="news.htm" title="Pure Basic : 新闻">新闻</a></td>
+            <td width="1" bgcolor="#999999" id="compiler"><IMG id="visual" name="basic" alt="visual basic 编译器" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="optimized"><A class="nav" href="download.htm" title="Pure Basic : 下载">下载</font></a></td>
+            <td width="1" bgcolor="#999999" id="visual"><IMG id="visual" name="basic" alt="visual basic 编译器" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="basic"><A class="nav" href="screenshots.htm" title="Pure Basic : 截图">截图</a></td>
+            <td width="1" bgcolor="#999999" id="optimized"><IMG id="programming" name="language" alt="已优化的编程语言" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="basic"><A class="nav" href="ordering.htm" title="Pure Basic : 订购 !">订购</a></td>
+            <td width="1" bgcolor="#999999" id="compiler"><IMG id="basic" name="compiler" alt="visual basic 编译器" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor= "#FFFFFF" id="compiler"><A class="nav" href="support.htm" title="Pure Basic : 支持">支持</a></td>
+            <td width="1" bgcolor="#999999" id="language"><IMG id="programming" name="language" alt="visual basic 编译器" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="10%" height="21" align="center" bgcolor= "#FFFFFF" id="optimized"><A class="nav" href="faq.htm" title="Pure Basic : FAQ">FAQ</a></td>
+            <td width="1" bgcolor="#999999" id="optimized"><IMG id="programming" name="language" alt="已优化的编程语言" height=1 src="images/spacer.gif" width=1></td>
+
+            <td width="13%" height="21" align="center" bgcolor = "#FFFFFF" id="basic"><A class="nav" href="links.htm" title="Pure Basic : 链接">链接</a></td>
+
+                </TR>
+            </TABLE>
+        </TD>
+    </TR>
+
+    <tr class="ShadowBody"> <td colspan="2"></td> </tr><tr>
+
+    </tr><TR bgcolor="#EFF1F0">
+      <TD class="topborder" colspan="2" align="center" valign="top" id="visual">
+        <br>
+         <TABLE width="850" border="0" cellspacing="0" cellpadding="0" id="programming">
+            <TR id="basic"><!-- EOF HEADER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+
+
+<TD valign="top" id="easy"><font class="pagebody">
+  <div align="left" id="language">
+    
+  <b id="optimized">16th October 2015</b><br id="programming">
+  <br id="language">
+  <br id="visual">
+  <b id="basic">PureBasic 5.40 LTS (all OS)</b>
+  <br id="compilers">
+  <br>
+
+- Added: new Vector 2D library <br>
+- Added: new CGI library with standard and FastCGI support <br>
+- Added: Literal string escape support with the '~' operator (ex: a$ = ~"Hello\nWorld\n") <br>
+- Added: EscapeString()/UnescapeString() function to allow escaping operation on any strings (variables etc.) <br>
+- Added: EnumerationBinary to create bitmask enumeration automatically <br>
+- Added: database parameter binding to ease request construction <br>
+- Added: SetDatabaseBlob(), SetDatabaseFloat(), SetDatabaseDouble(), SetDatabaseLong() <br>
+- Added: SetDatabaseQuad(), SetDatabaseString(), SetDatabaseNull() <br>
+- Added: SHA2 and SHA3 (224/256/384/512-bit) support to Cipher library <br>
+- Added: StringFingerprint() <br>
+- Added: CRC32 support for StartFingerprint() <br>
+- Added: ReceiveHTTPMemory(), IsJoint() <br>
+- Added: RefreshDialog() to recalc dimension after a text change or similar <br>
+- Added: "group" XML attribute for 'option' dialog gadget, to specify explicitly a group <br>
+- Added: HTTPS and simple auth support for ReceiveHTTPFile() and GetHTTPHeaders() <br>
+- Added: Auto redirect support for ReceiveHTTPFile() and ReceiveHTTPMemory() <br>
+- Added: ASynchronous mode for ReceiveHTTPFile() and ReceiveHTTPMemory() <br>
+- Added: HTTPProgress(), AbortHTTP() and FinishHTTP() to control async mode <br>
+- Added: HTTPS/TLS support for SendMail() <br>
+- Added: FlushPreferenceBuffers() <br>
+- Added: CopyDebugOutput() to copy the debug output to the clipboard from code <br>
+- Added: 7z archive creation <br>
+- Added: tar (gz and bzip2) archive support for creation and decompression <br>
+- Added: Full path in IDE recent files menu <br>
+- Added: #PB_ProgressBar_Unknown for SetGadgetState() to indicate unknown progress <br>
+- Added: #PB_UTF8/Ascii/Unicode support to ReadCharacter() and WriteCharacter() <br>
+- Added: #PB_UTF8 support to URLEncoder() and URLDecoder (now the default mode) <br>
+- Added: Windows 8.1/10 and OS X 10.9/10/11 support to OSVersion() <br>
+- Added: #PB_Editor_xxx constants when using the 'Version' info on Windows <br>
+- Added: #PB_Program_Ascii/Unicode/UTF8 support to RunProgram() <br>
+- Added: linux/osx style flags for the commandline compiler on Windows to ease cross-platform scripts <br>
+- Added: #PB_File_SharedWrite support to ReadFile() and CreateFile() <br>
+- Added: 'IMPORTLIST' compiler interface to get all the predefined API functions <br>
+- Added: #Null$ special string constant to affect a real null value to a string (to free it completely). It can be
+used as well for API function which sometimes accept NULL instead of a string address. <br>
+- Added: #Empty$ constant <br>
+- Added: #PB_ByteLength support to MemoryStringLength() <br>
+- Added: #PB_Ascii, #PB_UTF8 and #PB_Unicode support to Create/Open/ReadFile() to set the default write/read mode <br>
+- Added: #PB_ByteLength flag for PeekS() and #PB_UTF8 (only) <br>
+- Added: CreateCone(), CameraCustomParameter(), ResizeCamera() <br>
+- Added: #PB_Entity_DisableContactResponse and #PB_Entity_EnableContactResponse for SetEntityAttribute() <br>
+- Added: #PB_Entity_ConeBody, #PB_Entity_PlaneBody <br>
+- Added: FreeEntityBody(), FreeTerrainBody() <br>
+- Added: ApplyEntityTorque(), ApplyEntityTorqueImpulse() <br>
+- Added: Added 'CollisionGroup' and 'CollisionMask' parameter for RayCollide() <br>
+- Added: Migration help page, to have a step by step migration guide between old on new PureBasic. <br>
+- Added: User guide in german (thanks to Andre and Vera) <br>
+<br>
+- Updated: the Linux printer lib to use native GtkPrint instead of GnomePrint <br>
+- Updated: the Windows compiler to VC++ 2013 for better code generation <br>
+- Updated: SQLite to 3.8.10.2 <br>
+<br>
+- Fixed: Zip archive support <br>
+- Fixed: send mail and http request issues <br>
+- Fixed: 'CONSTANTLIST' compiler interface, now string constants are returned as escaped strings. <br>
+<br>
+- Changed: The default GTK version is now GTK3 on Linux. A gtk2 subsystem has been added for backward compatibility. <br>
+- Changed: The default string format for RunProgram() read/writestring is not UTF8 instead of Unicode <br>
+- Changed: the Cipher lib to be modular (now UseMD5Fingerprint() and such commands needs to be used) <br>
+- Changed: ExamineFingerprint() to StartFingerprint() <br>
+- Changed: NextFingerprint() to AddFingerprintBuffer() <br>
+- Changed: EntityPhysicBody() to CreateEntityBody() <br>
+- Changed: TerrainPhysicBody() to CreateTerrainBody() <br>
+- Changed: the SendMail() 'Asynchronous' parameter has been replaced by the #PB_Mail_Asynchronous flag. <br>
+- Changed: DLLImporter has been removed and .pbl files are no more supported. New 'import library' files can be
+created using the '/IMPORT' switch of the pbcompiler. <br>
+<br>
+- Removed: RemovePackFile() <br>
+- Removed: #PB_Packer_CompressedSize support for ZIP and 7z archives with PackerEntrySize() <br>
+- Removed: AvailableScreenMemory() <br>
+  </div>
+</TD><!-- FOOTER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+
+
+                </TR>
+            </TABLE>
+            <br>
+        </td>
+    </TR>
+    <TR height="28" id="easy">
+      <TD align="left" bgcolor="#5A6986" id="language">
+        <font class="pagefooter">&nbsp;&nbsp;Copyright © 2015 Fantaisie Software</font>
+      </TD>
+      <TD align="right" bgcolor="#5A6986" id="compiler">
+        <font class="pagefooter"><b><A class="nav_footer" href="mailto:support@purebasic.com" style="COLOR: #FFFFFF" title="Pure Basic : 支持">support@purebasic.com</A></b>&nbsp;&nbsp;</font>
+      </TD>
+    </TR>
+</TABLE>
+
+<table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr class="ShadowFooter"> <td colspan="2"></td> </tr><tr>
+</tr></table>
+
+
+<br>
+
+<table class="MainTable" id="language" align="center" border="0" cellpadding="0" cellspacing="0" width="900">
+	<tr bgcolor="#EFF1F0">
+		<td class="topborder" align="center" valign="top">
+			<br>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="850">
+				<tr>
+					<td bgcolor="#FFFFFF" valign="middle"><a title="BASIC编程网络语言" href="http://www.spiderbasic.com" target="_blank"><img src="logo-spiderbasic.png"></a></td>
+					<td bgcolor="#FFFFFF">
+						<div class="pagebody" align="center">
+							相同的作者, discover the new web client-side programming language<br>基于BASIC准则 详情点击<a title="BASIC编程网络语言" href="http://www.spiderbasic.com" target="_blank">spiderbasic.com</a>
+						</div>
+					</td>
+				</tr>
+			</table>
+			<br>
+		</td>
+	</tr>
+	
+</table>
+<br>
+
+</BODY>
+</HTML><!-- EOF FOOTER purebasic : an easy programming language, an optimized programming language, a visual basic compiler -->
+
+    

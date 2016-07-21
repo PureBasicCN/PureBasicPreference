@@ -1,0 +1,65 @@
+<html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Box</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">Box()</font></b></p>
+<p><b>语法</b></p><blockquote>
+<font color="#3A3966"><b>Box</b></font>(x, y, Width, Height [, Color])</blockquote>
+
+</blockquote>
+<b>概要</b><br><blockquote>
+
+向当前输出中绘制一个指定大小的方框。使用 <a href="drawingmode.html">DrawingMode()</a>函数设置填充模式。开始绘制前使用 <a href="startdrawing.html">StartDrawing()</a>设置当前输出。 
+
+</blockquote><p><b>参数</b></p><blockquote>
+<style type="text/css">
+table.parameters { border-spacing: 0px; border-style: none; border-collapse: collapse; }
+table.parameters td { border-width: 1px; padding: 6px; border-style: solid; border-color: gray; vertical-align: top; font-family:Arial; font-size:10pt; }
+</style>
+<table width="90%" class="parameters">
+<tr><td width="10%"><i>x, y, Width, Height</i></td>
+<td width="90%"> 
+方框在当前绘制输出中的位置和大小。 
+
+</td></tr>
+<tr><td><i>Color (optional)</i></td>
+<td> 
+用于方框的颜色。如果未指定此参数，将使用与<a href="frontcolor.html">FrontColor()</a>设置的默认颜色。这种颜色可以使用<a href="rgb.html">RGB</a>或<a href="rgba.html">RGBA</a>格式。 
+
+</td></tr>
+</table>
+</blockquote><p><b>返回值</b></p><blockquote>
+无.
+
+
+</blockquote><p><b>示例</b></p><blockquote>
+
+<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">If</font></b> <font color="#3A3966">OpenWindow</font>(0, 0, 0, 200, 200, "2DDrawing Example", <font color="#924B72">#PB_Window_SystemMenu</font> | <font color="#924B72">#PB_Window_ScreenCentered</font>)
+    <b><font color="#3A3966">If</font></b> <font color="#3A3966">CreateImage</font>(0, 200, 200) <b><font color="#3A3966">And</font></b> <font color="#3A3966">StartDrawing</font>(<font color="#3A3966">ImageOutput</font>(0))
+      y = 0
+      <b><font color="#3A3966">For</font></b> x = 0 <b><font color="#3A3966">To</font></b> 95 <b><font color="#3A3966">Step</font></b> 10
+<font color="#3A3966">        Box</font>(x, y, 200-2*x, 200-2*y,<font color="#3A3966"> RGB</font>(<font color="#3A3966">Random</font>(255),<font color="#3A3966"> Random</font>(255),<font color="#3A3966"> Random</font>(255)))
+        y + 10        <font color="#3A3966">; the same as y = y + 10</font>
+      <b><font color="#3A3966">Next</font></b> x
+<font color="#3A3966">      StopDrawing</font>() 
+<font color="#3A3966">      ImageGadget</font>(0, 0, 0, 200, 200,<font color="#3A3966"> ImageID</font>(0))
+    <b><font color="#3A3966">EndIf</font></b>
+    
+    <b><font color="#3A3966">Repeat</font></b>
+      Event =<font color="#3A3966"> WaitWindowEvent</font>()
+    <b><font color="#3A3966">Until</font></b> Event = <font color="#924B72">#PB_Event_CloseWindow</font>
+  <b><font color="#3A3966">EndIf</font></b>
+</font></pre>
+
+<br>
+<p><img src="../HelpPictures/box.png"></p>
+
+</blockquote><p><b>参阅</b></p><blockquote>
+
+<a href="roundbox.html">RoundBox()</a>, <a href="line.html">Line()</a>, <a href="circle.html">Circle()</a>, <a href="ellipse.html">Ellipse()</a> 
+<a href="frontcolor.html">FrontColor()</a>, <a href="rgb.html">RGB()</a>, <a href="rgba.html">RGBA()</a>, <a href="drawingmode.html">DrawingMode()</a> 
+
+
+</Blockquote><p><b>已支持操作系统 </b><Blockquote>所有</Blockquote></p><center>&lt;- <a href=blue.html>Blue()</a> - <a href="index.html">2DDrawing 索引</a> - <a href="boxedgradient.html">BoxedGradient()</a> -&gt;<br><br>
+
+
+</body></html>

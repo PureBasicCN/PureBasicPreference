@@ -1,0 +1,47 @@
+<html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>OpenConsole</title></head>
+<body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">OpenConsole()</font></b></p>
+<p><b>语法</b></p><blockquote>
+
+Result = <font color="#3A3966"><b>OpenConsole</b></font>([Title$])</blockquote>
+
+</blockquote>
+<b>概要</b><br><blockquote>
+
+打开一个控制台窗口。该函数必须在这个库中的任何其他函数之前被调用。只有一个控制台可以在一个的PureBasic程序同时被打开。 
+
+</blockquote><p><b>参数</b></p><blockquote>
+<style type="text/css">
+table.parameters { border-spacing: 0px; border-style: none; border-collapse: collapse; }
+table.parameters td { border-width: 1px; padding: 6px; border-style: solid; border-color: gray; vertical-align: top; font-family:Arial; font-size:10pt; }
+</style>
+<table width="90%" class="parameters">
+<tr><td width="10%"><i>Title$ (可选)</i></td>
+<td width="90%"> 
+新的控制台窗口的标题。在Windows中，指定一个标题允许自定义控制台参数的节能，如字体，颜色等。它在其他操作系统中没有效果。 
+
+</td></tr>
+</table>
+</blockquote><p><b>返回值</b></p><blockquote>
+
+如果result 为0，表示已经失败并且必须禁止所有进一步调用到的控制台函数。 
+
+</blockquote><p><b>备注</b></p><blockquote>
+
+控制台关闭可以通过<a href="closeconsole.html">CloseConsole（）</a>函数<br><br>同<a href="enablegraphicalconsole.html">EnableGraphicalConsole（）</a>控制台可以将文本和图形模式之间切换。<br><br>在Microsoft Windows中，有两种不同的可执行文件格式：Win32和控制台。If you want to create a standard console application, like 'dir', 'del' etc. you must compile the executable using the 'Console' format (<a href="../reference/ide_compiler.html">Compiler Option</a> menu in the PureBasic IDE). On Linux and OS X, there is no special Console format however setting the Compiler option to 'Console' will launch a terminal window automatically when you run your program from the IDE. 
+
+</blockquote><p><b>示例</b></p><blockquote>
+
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">  OpenConsole</font>()
+<font color="#3A3966">  PrintN</font>("Waiting 5 secs before quit...")
+<font color="#3A3966">  Delay</font>(5000)
+</font></pre>
+
+</blockquote><p><b>参阅</b></p><blockquote>
+
+<a href="closeconsole.html">CloseConsole()</a>, <a href="enablegraphicalconsole.html">EnableGraphicalConsole()</a> 
+
+</Blockquote><p><b>已支持操作系统 </b><Blockquote>所有</Blockquote></p><center>&lt;- <a href=input.html>Input()</a> - <a href="index.html">Console 索引</a> - <a href="print.html">Print()</a> -&gt;<br><br>
+
+</body></html>
