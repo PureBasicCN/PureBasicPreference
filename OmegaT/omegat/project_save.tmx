@@ -38,10 +38,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Expression reducer and optimizer (grouping constants and explicit numbers together)&lt;br18&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111746Z" creationid="MysticBoy" creationdate="20160721T111746Z">
+        <seg>- 表达式reducer和优化（分组常量和显示的数字加在一起）&lt;br18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Standard arithmetic support in respect of sign priority and parenthesis: +, -, /, *, and, or, lsl, asl, lsr, asr&lt;br19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111805Z" creationid="MysticBoy" creationdate="20160721T111805Z">
+        <seg>- 关于优先标志和括号的标准算法的支持： - ，/，*，与，或，LSL，ASL，LSR，ASR  ，&lt;br19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Supported types: Byte (8 bit), Word (16 bit), Long (32 bit), Float (32 bit), Quad (64 bit), Double (64 bit) and also user defined types (structures)&lt;br15&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111252Z" creationid="MysticBoy" creationdate="20160721T111252Z">
         <seg>- 支持类型: Byte (8 bit), Word (16 bit), Long (32 bit), Float (32 bit), Quad (64 bit), Double (64 bit) 并且也支持用户自定义类型 (结构)&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Very fast compilation&lt;br20&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111836Z" creationid="MysticBoy" creationdate="20160721T111836Z">
+        <seg>- 非常快速的编译&lt;br20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2235,6 +2259,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151007T141326Z" creationid="oSilas" creationdate="20151007T141326Z">
         <seg> PureBasic IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The PureBasic source code has been programmed in a very modular fashion and can support any processor or operating system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111852Z" creationid="MysticBoy" creationdate="20160721T111852Z">
+        <seg>所述的PureBasic源代码已经被编程以非常模块化的方式，可以支持任何处理器或操作系统。</seg>
       </tuv>
     </tu>
     <tu>
