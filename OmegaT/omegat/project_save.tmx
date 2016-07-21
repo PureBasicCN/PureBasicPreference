@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Menu&lt;/b0&gt; &lt;a1&gt;Skip to content&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101639Z" creationid="MysticBoy" creationdate="20160721T101639Z">
+        <seg>&lt;b0&gt;菜单&lt;/b0&gt;&lt;a1&gt;跳至内容&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b17&gt;Variable Viewer&lt;/b17&gt; &lt;br18&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080349Z" creationid="Silas" creationdate="20160720T080349Z">
@@ -1398,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101700Z" creationid="MysticBoy" creationdate="20160721T101700Z">
+        <seg>首页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Result is 0, it has failed and all further call to console functions must be disabled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082622Z" creationid="MysticBoy" creationdate="20160720T082622Z">
@@ -1482,6 +1498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082446Z" creationid="MysticBoy" creationdate="20160720T082446Z">
         <seg>它在其他操作系统中没有效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is blended on to 'Color2'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101813Z" creationid="MysticBoy" creationdate="20160721T101813Z">
+        <seg>它被混合到“Color2”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1782,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic Team Blog » Comments Feed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101556Z" creationid="MysticBoy" creationdate="20160721T101441Z">
+        <seg>PureBasic团队博客»评论Feed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic Team Blog » Feed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101413Z" creationid="MysticBoy" creationdate="20160721T101413Z">
+        <seg>PureBasic 团队博客  » Feed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic has been created for the beginner and expert alike.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055207Z" creationid="MysticBoy" creationdate="20160721T055207Z">
@@ -1974,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skip to content</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101624Z" creationid="MysticBoy" creationdate="20160721T101624Z">
+        <seg>跳至内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specifies a callback that will be called for every pixel that is part of a drawing operation in &lt;f0&gt;#PB_2DDrawing_CustomFilter&lt;/f0&gt; &lt;a1&gt;drawing mode&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040735Z" creationid="oSilas" creationdate="20141128T040735Z">
@@ -2027,6 +2075,14 @@
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151007T084813Z" creationid="oSilas" creationdate="20151007T084643Z">
         <seg>2D绘图库包含了所有在视觉区域执行2D渲染操作.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;a0&gt;RGBA()&lt;/a0&gt; function can be used to create 32-bit colors with alpha transparency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101833Z" creationid="MysticBoy" creationdate="20160721T101833Z">
+        <seg>&lt;a0&gt;RGBA（）&lt;/a0&gt;函数可用于创建32位的色与Alpha透明度。</seg>
       </tuv>
     </tu>
     <tu>
