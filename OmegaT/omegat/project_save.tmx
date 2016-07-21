@@ -2760,6 +2760,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means that the same code can be compiled natively for all systems and still use the full power of each.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T110535Z" creationid="MysticBoy" creationdate="20160721T110535Z">
+        <seg>这意味着，相同的代码可以在所有系统中本地编译并仍然能使用每个系统下的全部功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This mode cannot be combined with the below alpha channel modes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045336Z" creationid="oSilas" creationdate="20150312T045336Z">
