@@ -2871,6 +2871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>  - Added VectorDrawing, CGI, HTTPS and much more&lt;b27&gt;   &lt;a28&gt;&lt;i29&gt;&lt;/a28&gt;&lt;/b27&gt;&lt;br30&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104500Z" creationid="MysticBoy" creationdate="20160721T104500Z">
+        <seg>  - 已添加 VectorDrawing, CGI, HTTPS 和更多&lt;b27&gt;   &lt;a28&gt;&lt;i29&gt;&lt;/a28&gt;&lt;/b27&gt;&lt;br30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>  - Bug-fix release&lt;br15&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104418Z" creationid="MysticBoy" creationdate="20160721T104349Z">
@@ -2879,10 +2887,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>  - Bug-fix release&lt;br37&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104538Z" creationid="MysticBoy" creationdate="20160721T104538Z">
+        <seg> - BUG修复版本&lt;br37&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>  - Fixed some compiler and libraries bugs&lt;b16&gt;   &lt;a17&gt;&lt;i18&gt;&lt;/a17&gt;&lt;/b16&gt;&lt;br19&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104433Z" creationid="MysticBoy" creationdate="20160721T104433Z">
         <seg> -  修正了一些编译器和库的bug&lt;b16&gt;&lt;a17&gt;&lt;i18&gt;&lt;/a17&gt;&lt;/b16&gt;&lt;br19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  - Major release&lt;br26&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104445Z" creationid="MysticBoy" creationdate="20160721T104445Z">
+        <seg> - 主要发布&lt;br26&gt;</seg>
       </tuv>
     </tu>
     <tu>
