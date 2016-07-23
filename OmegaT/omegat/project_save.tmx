@@ -2006,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic Team Blog</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20160723T165444Z" creationid="Administrator" creationdate="20160723T165444Z">
+        <seg>PureBasic团队博客 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic Team Blog | random thoughts on PureBasic development</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101339Z" creationid="MysticBoy" creationdate="20160721T101339Z">
