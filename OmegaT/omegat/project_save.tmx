@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135243Z" creationid="MysticBoy" creationdate="20160723T135243Z">
+        <seg>Color (可选)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Command Index</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151007T140838Z" creationid="oSilas" creationdate="20151007T140838Z">
@@ -2584,10 +2592,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The location of the endpoint of the line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135236Z" creationid="MysticBoy" creationdate="20160723T135236Z">
+        <seg>线的终点的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The location of the gradient box.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T040622Z" creationid="oSilas" creationdate="20141122T040622Z">
         <seg>渐变框位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The location of the startpoint of the line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135218Z" creationid="MysticBoy" creationdate="20160723T135218Z">
+        <seg>线的起点的位置。</seg>
       </tuv>
     </tu>
     <tu>
