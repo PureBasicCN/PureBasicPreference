@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checks if the content of the specified database column is null.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T170846Z" creationid="MysticBoy" creationdate="20160723T170846Z">
+        <seg>检查指定的数据库列的内容是否为空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clears the whole console content using the current background color.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110927Z">
@@ -1794,6 +1802,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041846Z" creationid="oSilas" creationdate="20141122T041846Z">
         <seg>注：此命令只能与&lt;a3&gt;ImageOutput（）&lt;/a3&gt;和&lt;a4&gt;CanvasOutput（）一起使用才有效果。&lt;/a4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: This function can be called only once for each column.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T171057Z" creationid="MysticBoy" creationdate="20160723T171057Z">
+        <seg>注意︰ 每列此函数可以是只调用一次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2575,6 +2591,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The column to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T170938Z" creationid="MysticBoy" creationdate="20160723T170938Z">
+        <seg>要使用的列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The console can be closed using the &lt;a0&gt;CloseConsole()&lt;/a0&gt; function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082653Z" creationid="MysticBoy" creationdate="20160720T082653Z">
@@ -2936,6 +2960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore if this value needs to be used more than once, the data has to be stored in a variable, since all subsequent calls will return the wrong value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T171113Z" creationid="MysticBoy" creationdate="20160723T171113Z">
+        <seg>因此如果需要超过一次使用此值，数据必须存储在变量中，因为所有的后续调用将返回错误值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These functions are useful to perform &lt;a1&gt;Drawing operations&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T135003Z">
@@ -2996,6 +3028,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T151514Z">
         <seg>这种颜色可以使用&lt;a1&gt;RGB&lt;/a1&gt;或&lt;a2&gt;RGBA&lt;/a2&gt;格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This command is only valid after a successful &lt;a0&gt;FirstDatabaseRow()&lt;/a0&gt;, &lt;a1&gt;PreviousDatabaseRow()&lt;/a1&gt; or &lt;a2&gt;NextDatabaseRow()&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T170923Z" creationid="MysticBoy" creationdate="20160723T170923Z">
+        <seg>此命令只有在&lt;a0&gt;FirstDatabaseRow()&lt;/a0&gt;、 &lt;a1&gt;PreviousDatabaseRow()&lt;/a1&gt;或&lt;a2&gt;NextDatabaseRow()&lt;/a2&gt;等函数调用成功后才有效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3148,6 +3188,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T134905Z">
         <seg>要结合红、绿、蓝和Alpha值的顺序创建一个32位颜色，那么轻使用 &lt;a0&gt;RGBA()&lt;/a0&gt; 函数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To determine the type of a column, &lt;a0&gt;DatabaseColumnType()&lt;/a0&gt; can be used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T171024Z" creationid="MysticBoy" creationdate="20160723T171024Z">
+        <seg>若要确定列的类型，可以使用&lt;a0&gt;DatabaseColumnType()&lt;/a0&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
