@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f15&gt;&lt;b16&gt;PureBasic&lt;/b16&gt;&lt;/f15&gt; has been created for the beginner and expert alike.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174514Z" creationid="MysticBoy" creationdate="20160723T174514Z">
+        <seg>&lt;f15&gt;&lt;b16&gt;PureBasic&lt;/b16&gt;&lt;/f15&gt; 针对初学者创建，同时也针对专业人士。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f19&gt;; 32-bit RGB, with or without reversed Y coordinate&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043805Z" creationid="oSilas" creationdate="20150312T043805Z">
@@ -1154,6 +1162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043551Z" creationid="oSilas" creationdate="20150312T043551Z">
         <seg>&lt;f3&gt;#PB_PixelFormat_24Bits_RGB&lt;/f3&gt; ： 3 个字节，每个像素 （RRGGBB）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f3&gt;&lt;b4&gt;PureBasic&lt;/b4&gt;&lt;/f3&gt; is a new "high level" &lt;f5&gt;&lt;b6&gt;programming language&lt;/b6&gt;&lt;/f5&gt; based on established &lt;f7&gt;&lt;b8&gt;BASIC&lt;/b8&gt;&lt;/f7&gt; rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174419Z" creationid="MysticBoy" creationdate="20160723T174419Z">
+        <seg>&lt;f3&gt;&lt;b4&gt;PureBasic&lt;/b4&gt;&lt;/f3&gt;是一个新的"高级" &lt;f5&gt;&lt;b6&gt;编程语言&lt;/b6&gt;&lt;/f5&gt; ,它基于已建立的&lt;f7&gt;&lt;b8&gt;BASIC&lt;/b8&gt;&lt;/f7&gt; 规则.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learning &lt;f11&gt;&lt;b12&gt;PureBasic is very &lt;f13&gt;&lt;b14&gt;easy&lt;/b14&gt;&lt;/f13&gt;!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174434Z" creationid="MysticBoy" creationdate="20160723T174434Z">
+        <seg>学习 &lt;f11&gt;&lt;b12&gt;PureBasic 非常的 &lt;f13&gt;&lt;b14&gt;容易&lt;/b14&gt;&lt;/f13&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learning PureBasic is very easy!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105345Z" creationid="MysticBoy" creationdate="20160721T105345Z">
@@ -1802,6 +1826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054532Z" creationid="MysticBoy" creationdate="20160721T054532Z">
         <seg>新闻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174240Z" creationid="MysticBoy" creationdate="20160723T174240Z">
+        <seg>否.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3340,6 +3372,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141438Z">
         <seg>向程序的标准错误输出中写入一个字符串(具有换行符)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174229Z" creationid="MysticBoy" creationdate="20160723T174229Z">
+        <seg>是.</seg>
       </tuv>
     </tu>
     <tu>
