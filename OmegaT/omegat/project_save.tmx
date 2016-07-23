@@ -1263,6 +1263,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b72&gt;Product information&lt;/b72&gt;&lt;br73&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175541Z" creationid="MysticBoy" creationdate="20160723T175541Z">
+        <seg>&lt;b72&gt;产品信息 &lt;/b72&gt;&lt;br73&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b75&gt;Product information&lt;/b75&gt;&lt;br76&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174542Z" creationid="MysticBoy" creationdate="20160723T174542Z">
