@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;DatabaseError()&lt;/a0&gt; - &lt;a1&gt;Database Index&lt;/a1&gt; - &lt;a2&gt;DatabaseQuery()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T170811Z" creationid="MysticBoy" creationdate="20160723T170811Z">
+        <seg>&lt;- &lt;a0&gt;DatabaseError()&lt;/a0&gt; - &lt;a1&gt;Database 索引&lt;/a1&gt; - &lt;a2&gt;DatabaseQuery()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;DrawAlphaImage()&lt;/a0&gt; - &lt;a1&gt;2DDrawing Index&lt;/a1&gt; - &lt;a2&gt;DrawRotatedText()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T163553Z" creationid="MysticBoy" creationdate="20160723T163553Z">
