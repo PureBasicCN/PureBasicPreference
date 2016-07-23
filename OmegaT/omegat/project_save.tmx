@@ -1032,8 +1032,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b41&gt;Do you want to know what users think about PureBasic ?&lt;/b41&gt; &lt;br42&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055409Z" creationid="MysticBoy" creationdate="20160721T055409Z">
-        <seg>&lt;b41&gt;你想知道用户如何看待 PureBasic？&lt;/b41&gt;&lt;br42&gt;&lt;/br42&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173117Z" creationid="MysticBoy" creationdate="20160721T055409Z">
+        <seg>&lt;b41&gt;你想知道用户如何看待 PureBasic？&lt;/b41&gt;&lt;br42&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1080,8 +1080,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b6&gt;The main features of PureBasic&lt;/b6&gt; &lt;br7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055231Z" creationid="MysticBoy" creationdate="20160721T055231Z">
-        <seg>&lt;b6&gt;PureBasic 主要特点&lt;/b6&gt;&lt;br7&gt;&lt;/br7&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173104Z" creationid="MysticBoy" creationdate="20160721T055231Z">
+        <seg>&lt;b6&gt;PureBasic 主要特点&lt;/b6&gt;&lt;br7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3594,8 +3594,8 @@
       <tuv lang="EN-US">
         <seg>      &lt;a44&gt;&lt;i45&gt;&lt;/a44&gt;  &lt;a46&gt;User comments&lt;/a46&gt;&lt;br47&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055341Z" creationid="MysticBoy" creationdate="20160721T055341Z">
-        <seg>&lt;a44&gt;&lt;i45&gt;&lt;/i45&gt;&lt;/a44&gt;&lt;a46&gt;用户评论&lt;/a46&gt;&lt;br47&gt;&lt;/br47&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173139Z" creationid="MysticBoy" creationdate="20160721T055341Z">
+        <seg>&lt;a44&gt;&lt;i45&gt;&lt;/i45&gt;&lt;/a44&gt;&lt;a46&gt;用户评论&lt;/a46&gt;&lt;br47&gt;</seg>
       </tuv>
     </tu>
     <tu>
