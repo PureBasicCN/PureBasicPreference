@@ -3256,6 +3256,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>random thoughts on PureBasic development</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20160723T165618Z" creationid="Administrator" creationdate="20160723T165618Z">
+        <seg>PureBasic开发随感</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>visual basic compiler</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054539Z" creationid="MysticBoy" creationdate="20160721T054539Z">
