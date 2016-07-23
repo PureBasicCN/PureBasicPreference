@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Getting Started</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135748Z" creationid="MysticBoy" creationdate="20160723T135748Z">
+        <seg>入门指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Home</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101700Z" creationid="MysticBoy" creationdate="20160721T101700Z">
@@ -2267,6 +2275,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151007T141326Z" creationid="oSilas" creationdate="20151007T141326Z">
         <seg> PureBasic IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The PureBasic IDE allows you to create and edit your PureBasic source codes, as well as run them, debug them and create the final executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135929Z" creationid="MysticBoy" creationdate="20160723T135929Z">
+        <seg> PureBasic IDE 允许你创建和编辑您的 PureBasic 源代码，以及允许他们，调试他们并且创建最终的可执行文件。</seg>
       </tuv>
     </tu>
     <tu>
