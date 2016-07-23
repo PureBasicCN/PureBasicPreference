@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;DrawAlphaImage()&lt;/a0&gt; - &lt;a1&gt;2DDrawing Index&lt;/a1&gt; - &lt;a2&gt;DrawRotatedText()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T163553Z" creationid="MysticBoy" creationdate="20160723T163553Z">
+        <seg>&lt;- &lt;a0&gt;DrawAlphaImage()&lt;/a0&gt; - &lt;a1&gt;2DDrawing 目录&lt;/a1&gt; - &lt;a2&gt;DrawRotatedText()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;DrawText()&lt;/a0&gt; - &lt;a1&gt;2DDrawing Index&lt;/a1&gt; - &lt;a2&gt;DrawingBufferPitch()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043150Z" creationid="oSilas" creationdate="20150312T043150Z">
