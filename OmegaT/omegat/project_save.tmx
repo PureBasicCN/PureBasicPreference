@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Powerful native IDE and debuggers&lt;br63&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175504Z" creationid="MysticBoy" creationdate="20160723T175504Z">
+        <seg>- 强大的原生 IDE 和调试器&lt;br63&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Standard arithmetic support in respect of sign priority and parenthesis: +, -, /, *, and, or, lsl, asl, lsr, asr&lt;br19&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111805Z" creationid="MysticBoy" creationdate="20160721T111805Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175250Z" creationid="MysticBoy" creationdate="20160723T175250Z">
         <seg>- 支持类型有: Byte (8-bit), Word (16-bit), Long (32-bit), Float (32-bit), Quad (64-bit), Double (64-bit) 和用户自定义类型 (结构)&lt;br38&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- System friendly, &lt;f60&gt;&lt;b61&gt;easy&lt;/b61&gt;&lt;/f60&gt; to install and use&lt;br62&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175448Z" creationid="MysticBoy" creationdate="20160723T175448Z">
+        <seg>- 友好的系统,安装和使用都很&lt;f60&gt;&lt;b61&gt;简单&lt;/b61&gt;&lt;/f60&gt;&lt;br62&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1202,6 +1218,15 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140515Z" creationid="MysticBoy" creationdate="20160723T140515Z">
         <seg>&lt;b4&gt;工具面板&lt;/b4&gt; （默认情况下在右侧） &lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>系统</note>
+      <tuv lang="EN-US">
+        <seg>&lt;b65&gt;Requirements&lt;/b65&gt;&lt;br66&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175526Z" creationid="MysticBoy" creationdate="20160723T175526Z">
+        <seg>&lt;b65&gt;系统必备&lt;/b65&gt;&lt;br66&gt;</seg>
       </tuv>
     </tu>
     <tu>
