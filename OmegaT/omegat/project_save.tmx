@@ -1462,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Download the PureBasic compiler for Windows (x86 - 32 bits)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174044Z" creationid="MysticBoy" creationdate="20160723T174044Z">
+        <seg>下载PureBasic  Windows (x86 - 32 位)的编译器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw a box of given dimensions on the current output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T151229Z">
@@ -2048,8 +2056,8 @@
       <tuv lang="EN-US">
         <seg>PureBasic : Native compiler, easy &amp; optimized BASIC programming language</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T053643Z" creationid="MysticBoy" creationdate="20160721T053643Z">
-        <seg>PureBasic︰ 本机编译器，简单且已游湖阿德 BASIC 编程语言</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174117Z" creationid="MysticBoy" creationdate="20160721T053643Z">
+        <seg>PureBasic︰ 本机编译器，简单且已优化的BASIC 编程语言</seg>
       </tuv>
     </tu>
     <tu>
@@ -3388,6 +3396,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173928Z" creationid="MysticBoy" creationdate="20160723T173928Z">
         <seg>http://www.purebasic.cn/securedownload/Login.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>software,computers,programming,compilers,languages,basic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174208Z" creationid="MysticBoy" creationdate="20160723T174208Z">
+        <seg>软件,计算机,编程,编译器,语言,basic</seg>
       </tuv>
     </tu>
     <tu>
