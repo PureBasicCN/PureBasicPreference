@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>- 486, Pentium (Pro, II, III) support&lt;br39&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174634Z" creationid="MysticBoy" creationdate="20160723T174634Z">
+        <seg>- 支持 486, Pentium (Pro, II, III) &lt;br39&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- 486, Pentium, Core2, Core i7, Athlon, Phenom support&lt;br13&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111154Z" creationid="MysticBoy" creationdate="20160721T111154Z">
@@ -30,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Configurable CLI &lt;f60&gt;&lt;b61&gt;compiler&lt;br62&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174729Z" creationid="MysticBoy" creationdate="20160723T174729Z">
+        <seg>- 可配置的 CLI &lt;f60&gt;&lt;b61&gt;编译器&lt;br62&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Constants, binary and hexadecimal numbers supported&lt;br17&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111321Z" creationid="MysticBoy" creationdate="20160721T111321Z">
@@ -38,10 +54,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Constants, binary and hexadecimal numbers supported&lt;br43&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174703Z" creationid="MysticBoy" creationdate="20160723T174703Z">
+        <seg>- 常量,二进制和十六进制数字支持&lt;br43&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Expression reducer and optimizer (grouping constants and explicit numbers together)&lt;br18&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111746Z" creationid="MysticBoy" creationdate="20160721T111746Z">
         <seg>- 表达式reducer和优化（分组常量和显示的数字加在一起）&lt;br18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Inline assembler&lt;br58&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174721Z" creationid="MysticBoy" creationdate="20160723T174721Z">
+        <seg>- 行内嵌汇编&lt;br58&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +90,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111252Z" creationid="MysticBoy" creationdate="20160721T111252Z">
         <seg>- 支持类型: Byte (8 bit), Word (16 bit), Long (32 bit), Float (32 bit), Quad (64 bit), Double (64 bit) 并且也支持用户自定义类型 (结构)&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- System friendly, &lt;f63&gt;&lt;b64&gt;easy&lt;/b64&gt;&lt;/f63&gt; to install and use&lt;br65&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174816Z" creationid="MysticBoy" creationdate="20160723T174816Z">
+        <seg>- 系统友好 ,安装和使用 &lt;f63&gt;&lt;b64&gt;简单&lt;/b64&gt;&lt;/f63&gt; &lt;br65&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b36&gt;Technical Features&lt;/b36&gt;&lt;br37&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174625Z" creationid="MysticBoy" creationdate="20160723T174625Z">
+        <seg>&lt;b36&gt;技术特点&lt;/b36&gt;&lt;br37&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b41&gt;Do you want to know what users think about PureBasic ?&lt;/b41&gt; &lt;br42&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173614Z" creationid="MysticBoy" creationdate="20160721T055409Z">
@@ -1078,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b68&gt;Requirements&lt;/b68&gt;&lt;br69&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174531Z" creationid="MysticBoy" creationdate="20160723T174531Z">
+        <seg>&lt;b68&gt;系统必备&lt;/b68&gt;&lt;br69&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b6&gt;Automatically hide the Panel&lt;/b6&gt; &lt;br7&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080457Z" creationid="Silas" creationdate="20160720T080457Z">
@@ -1098,6 +1154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173104Z" creationid="MysticBoy" creationdate="20160721T055231Z">
         <seg>&lt;b6&gt;PureBasic 主要特点&lt;/b6&gt;&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b75&gt;Product information&lt;/b75&gt;&lt;br76&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174542Z" creationid="MysticBoy" creationdate="20160723T174542Z">
+        <seg>&lt;b75&gt;产品信息 &lt;/b75&gt;&lt;br76&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1330,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045312Z" creationid="oSilas" creationdate="20150312T045312Z">
         <seg>所有的图形将 XOR'ed 与当前的背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All tools are provided in the full package.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174614Z" creationid="MysticBoy" creationdate="20160723T174614Z">
+        <seg>完整包中提供了所有的工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1882,6 +1954,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045455Z" creationid="oSilas" creationdate="20150312T045455Z">
         <seg>注： 这种模式不能与&lt;a2&gt;PrinterOutput()&lt;/a2&gt;同时工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: any user can develop their own libraries.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174559Z" creationid="MysticBoy" creationdate="20160723T174559Z">
+        <seg>注意:任何用户可以开发他们自己的库.</seg>
       </tuv>
     </tu>
     <tu>
