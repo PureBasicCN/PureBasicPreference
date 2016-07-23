@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be fully customized.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162623Z" creationid="MysticBoy" creationdate="20160723T162623Z">
+        <seg>它可以完全自定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It doesn&amp;apos;t interrupt (halt) the program flow.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082131Z" creationid="MysticBoy" creationdate="20160720T082131Z">
@@ -1674,6 +1682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T035040Z" creationid="oSilas" creationdate="20141128T035040Z">
         <seg>必须要具备以下形式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It shows the corresponding menu command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162640Z" creationid="MysticBoy" creationdate="20160723T162640Z">
+        <seg>它显示相应的菜单命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1826,6 +1842,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054904Z" creationid="MysticBoy" creationdate="20160721T054904Z">
         <seg>订购</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other then that, there is the main menu and the toolbar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162607Z" creationid="MysticBoy" creationdate="20160723T162607Z">
+        <seg>其他的在主菜单和工具栏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2704,6 +2728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The menu commands are explained in the other sections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162632Z" creationid="MysticBoy" creationdate="20160723T162632Z">
+        <seg>菜单命令在其他章节中解释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The new color to be used as the background color.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041535Z" creationid="oSilas" creationdate="20151013T041535Z">
@@ -2812,6 +2844,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082413Z" creationid="MysticBoy" creationdate="20160720T082413Z">
         <seg>新的控制台窗口的标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The toolbar simply provides shortcuts to menu features.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162541Z" creationid="MysticBoy" creationdate="20160723T162541Z">
+        <seg>工具栏只是提供菜单功能的快捷方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3052,6 +3092,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T134905Z">
         <seg>要结合红、绿、蓝和Alpha值的顺序创建一个32位颜色，那么轻使用 &lt;a0&gt;RGBA()&lt;/a0&gt; 函数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To find out what each button does, move your mouse over it and wait until a small tool-tip appears.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162648Z" creationid="MysticBoy" creationdate="20160723T162648Z">
+        <seg>若要找出每个按钮的功能，将鼠标移动到它和等待，直到小工具提示出现。</seg>
       </tuv>
     </tu>
     <tu>
