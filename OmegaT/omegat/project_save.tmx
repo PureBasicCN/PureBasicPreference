@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b9&gt;The error log&lt;/b9&gt; (located below the editing area) &lt;br10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140815Z" creationid="MysticBoy" creationdate="20160723T140815Z">
+        <seg>&lt;b9&gt;错误日志&lt;/b9&gt; （位于编辑区域的下方） &lt;br10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_PixelFormat_8Bits&lt;/f0&gt;      : 1 byte per pixel, palletised</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043528Z" creationid="oSilas" creationdate="20150312T043528Z">
@@ -1614,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this area, the compiler errors and debugger messages are logged.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140916Z" creationid="MysticBoy" creationdate="20160723T140916Z">
+        <seg>在此区域显示编译器错误和调试消息的日志。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054519Z" creationid="MysticBoy" creationdate="20160721T054519Z">
@@ -2146,6 +2162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054558Z" creationid="MysticBoy" creationdate="20160721T054558Z">
         <seg>截图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See &lt;a6&gt;Customizing the IDE&lt;/a6&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140808Z" creationid="MysticBoy" creationdate="20160723T140808Z">
+        <seg>查看&lt;a6&gt;自定义IDE&lt;/a6&gt;了解更多信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2788,6 +2812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082413Z" creationid="MysticBoy" creationdate="20160720T082413Z">
         <seg>新的控制台窗口的标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tools displayed here can be configured, and it can even be completely removed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140753Z" creationid="MysticBoy" creationdate="20160723T140753Z">
+        <seg>此处显示的工具可以被配置，并且它甚至可以完全移除。</seg>
       </tuv>
     </tu>
     <tu>
