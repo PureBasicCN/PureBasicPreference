@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b24&gt;Specific features depending on the OS&lt;/b24&gt; &lt;br25&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173604Z" creationid="MysticBoy" creationdate="20160723T173604Z">
+        <seg>&lt;b24&gt;取决于操作系统的特定功能&lt;/b24&gt;&lt;br25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b2&gt;Run only one Instance&lt;/b2&gt; &lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T051040Z" creationid="oSilas" creationdate="20151013T051040Z">
@@ -1032,8 +1040,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b41&gt;Do you want to know what users think about PureBasic ?&lt;/b41&gt; &lt;br42&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173117Z" creationid="MysticBoy" creationdate="20160721T055409Z">
-        <seg>&lt;b41&gt;你想知道用户如何看待 PureBasic？&lt;/b41&gt;&lt;br42&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173614Z" creationid="MysticBoy" creationdate="20160721T055409Z">
+        <seg>&lt;b41&gt;你想知道用户如何评价 PureBasic？&lt;/b41&gt;&lt;br42&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3536,10 +3544,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>   - Dedicated editor and development environment&lt;br20&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173510Z" creationid="MysticBoy" creationdate="20160723T173510Z">
+        <seg>  - 专用的编辑器和开发环境&lt;br20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>   - Full unicode support&lt;br14&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055331Z" creationid="MysticBoy" creationdate="20160721T055331Z">
         <seg>   - 完整的 unicode 支持&lt;br14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>   - Powerful integrated debugger and profiler to easily trace and analyze code&lt;br21&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173539Z" creationid="MysticBoy" creationdate="20160723T173539Z">
+        <seg>  -  强大的集成的调试器和探查器轻松地跟踪和分析代码&lt;br21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>   - Source code is portable between Windows, MacOS X and Linux&lt;br19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173424Z" creationid="MysticBoy" creationdate="20160723T173424Z">
+        <seg>   - 源代码在 Linux、 Windows 和 MacOS X 上通用&lt;br19&gt;</seg>
       </tuv>
     </tu>
     <tu>
