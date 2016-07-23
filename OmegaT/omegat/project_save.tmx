@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;The code editing area&lt;/b0&gt; (below the toolbar) &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140422Z" creationid="MysticBoy" creationdate="20160723T140422Z">
+        <seg>&lt;b0&gt;代码编辑区域&lt;/b0&gt; (在工具栏下面) &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b10&gt;Technical Features&lt;/b10&gt;&lt;br11&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111125Z" creationid="MysticBoy" creationdate="20160721T111125Z">
@@ -1026,6 +1034,14 @@
 &lt;f9&gt;      PrintN&lt;/f9&gt;("按回车键关闭控制台")
 &lt;f10&gt;      Input&lt;/f10&gt;()
 &lt;f11&gt;      CloseConsole&lt;/f11&gt;()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b4&gt;The tools panel&lt;/b4&gt; (on the right side by default) &lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140515Z" creationid="MysticBoy" creationdate="20160723T140515Z">
+        <seg>&lt;b4&gt;工具面板&lt;/b4&gt; （默认情况下在右侧） &lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1514,6 +1530,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135748Z" creationid="MysticBoy" creationdate="20160723T135748Z">
         <seg>入门指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here all the source codes are displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140440Z" creationid="MysticBoy" creationdate="20160723T140440Z">
+        <seg>这里显示了所有的源代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you have several tools to make coding easier and increase productivity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140550Z" creationid="MysticBoy" creationdate="20160723T140550Z">
+        <seg>在这里，你有几个工具可以使编码更容易并且提高生产效率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2267,6 +2299,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T041605Z" creationid="oSilas" creationdate="20141128T041605Z">
         <seg>用来绘制的图像ID。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE main window contains of 3 major parts: &lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140350Z" creationid="MysticBoy" creationdate="20160723T140350Z">
+        <seg> IDE主窗口包括三个主要部分: &lt;br4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3076,6 +3116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141438Z">
         <seg>向程序的标准错误输出中写入一个字符串(具有换行符)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can switch between them with the tabs located right above it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140458Z" creationid="MysticBoy" creationdate="20160723T140458Z">
+        <seg>您可以与位于正上方的选项卡之间进行切换。</seg>
       </tuv>
     </tu>
     <tu>
