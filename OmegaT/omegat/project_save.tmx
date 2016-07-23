@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- All Standard &lt;f47&gt;&lt;b48&gt;BASIC keywords: If-Else-EndIf, Repeat-Until, etc.&lt;br49&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175356Z" creationid="MysticBoy" creationdate="20160723T175356Z">
+        <seg>- 所有标准 &lt;f47&gt;&lt;b48&gt;BASIC 关键词: If-Else-EndIf, Repeat-Until, 等等....&lt;br49&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Built-in arrays, dynamically linked lists, complex structures, pointers and variable definitions&lt;br37&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175228Z" creationid="MysticBoy" creationdate="20160723T175228Z">
+        <seg>- 内置数组，动态链表，复杂结构，指针和变量自定义&lt;br37&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Built-in arrays, linked lists, maps, complex structures, pointers and variable definitions&lt;br14&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111217Z" creationid="MysticBoy" creationdate="20160721T111217Z">
@@ -38,6 +54,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Built-in string types (characters)&lt;br39&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175304Z" creationid="MysticBoy" creationdate="20160723T175304Z">
+        <seg>- 内置字符串类型 (字符)&lt;br39&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Configurable CLI &lt;f57&gt;&lt;b58&gt;compiler&lt;br59&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175410Z" creationid="MysticBoy" creationdate="20160723T175410Z">
+        <seg>- 可配置的 CLI &lt;f57&gt;&lt;b58&gt;编译器&lt;br59&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Configurable CLI &lt;f60&gt;&lt;b61&gt;compiler&lt;br62&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174729Z" creationid="MysticBoy" creationdate="20160723T174729Z">
@@ -50,6 +82,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111321Z" creationid="MysticBoy" creationdate="20160721T111321Z">
         <seg>- 常量，二进制和十六进制数的支持&lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Constants, binary and hexadecimal numbers supported&lt;br40&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175320Z" creationid="MysticBoy" creationdate="20160723T175320Z">
+        <seg>- 常量,二进制和十六进制数字支持&lt;br40&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Intel (x86 and x64) support&lt;br36&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175202Z" creationid="MysticBoy" creationdate="20160723T175202Z">
+        <seg>- 支持Intel (x86 and x64) &lt;br36&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Standard arithmetic support in respect of sign priority and parenthesis: +, -, /, *, and, or, lsl, asl, lsr, asr&lt;br19&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111805Z" creationid="MysticBoy" creationdate="20160721T111805Z">
@@ -94,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Supported types: Byte (8-bit), Word (16-bit), Long (32-bit), Float (32-bit), Quad (64-bit), Double (64-bit) and user defined types (structures)&lt;br38&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175250Z" creationid="MysticBoy" creationdate="20160723T175250Z">
+        <seg>- 支持类型有: Byte (8-bit), Word (16-bit), Long (32-bit), Float (32-bit), Quad (64-bit), Double (64-bit) 和用户自定义类型 (结构)&lt;br38&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- System friendly, &lt;f63&gt;&lt;b64&gt;easy&lt;/b64&gt;&lt;/f63&gt; to install and use&lt;br65&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174816Z" creationid="MysticBoy" creationdate="20160723T174816Z">
@@ -106,6 +162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111836Z" creationid="MysticBoy" creationdate="20160721T111836Z">
         <seg>- 非常快速的编译&lt;br20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Very fast compilation&lt;br43&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175332Z" creationid="MysticBoy" creationdate="20160723T175332Z">
+        <seg>- 编译速度超快&lt;br43&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1090,6 +1154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T051040Z" creationid="oSilas" creationdate="20151013T051040Z">
         <seg>&lt;b2&gt;只允许一个实例&lt;/b2&gt; &lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b33&gt;Technical Features&lt;/b33&gt;&lt;br34&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175156Z" creationid="MysticBoy" creationdate="20160723T175156Z">
+        <seg>&lt;b33&gt;技术特点&lt;/b33&gt;&lt;br34&gt;</seg>
       </tuv>
     </tu>
     <tu>
