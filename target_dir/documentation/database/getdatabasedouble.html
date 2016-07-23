@@ -9,12 +9,7 @@ Result.d = <font color="#3A3966"><b>GetDatabaseDouble</b></font>(#Database, Colu
 </blockquote>
 <b>概要</b><br><blockquote>
 
-
-
-Returns the content of the specified database column as a double precision floating-point number. This command 
-is only valid after a successful <a href="firstdatabaserow.html">FirstDatabaseRow()</a>, <a href="previousdatabaserow.html">PreviousDatabaseRow()</a> or <a href="nextdatabaserow.html">NextDatabaseRow()</a>. 
-
- 
+Returns the content of the specified database column as a double precision floating-point number. 此命令只有在<a href="firstdatabaserow.html">FirstDatabaseRow()</a>、 <a href="previousdatabaserow.html">PreviousDatabaseRow()</a>或<a href="nextdatabaserow.html">NextDatabaseRow()</a>等函数调用成功后才有效。 
 
 </blockquote><p><b>参数</b></p><blockquote>
 <style type="text/css">
@@ -24,18 +19,12 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <table width="90%" class="parameters">
 <tr><td width="10%"><i>#Database</i></td>
 <td width="90%"> 
- 
-The database to use. 
-
- 
+要使用的数据库。 
 
 </td></tr>
 <tr><td><i>Column</i></td>
 <td> 
- 
-The column to use. <a href="databasecolumnindex.html">DatabaseColumnIndex()</a> is available to get the index of a named column. 
-
- 
+要使用的列。<a href="databasecolumnindex.html">DatabaseColumnIndex()</a> is available to get the index of a named column. 
 
 </td></tr>
 </table>
@@ -49,16 +38,7 @@ Returns a double precision floating-point value.
 
 </blockquote><p><b>备注</b></p><blockquote>
 
-
-
-To determine the type of a column, <a href="databasecolumntype.html">DatabaseColumnType()</a> can be used. 
-<br>
-<br>
-Note: This function can be called only once for each column. Therefore if this value needs 
-to be used more than once, the data has to be stored in a variable, since all subsequent 
-calls will return the wrong value. This is an ODBC limitation. 
-
- 
+若要确定列的类型，可以使用<a href="databasecolumntype.html">DatabaseColumnType()</a> 。<br><br>注意︰ 每列此函数可以是只调用一次。因此如果需要超过一次使用此值，数据必须存储在变量中，因为所有的后续调用将返回错误值。This is an ODBC limitation. 
 
 </blockquote><p><b>参阅</b></p><blockquote>
 
