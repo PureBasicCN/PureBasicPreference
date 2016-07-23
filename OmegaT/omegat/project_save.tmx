@@ -2407,6 +2407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The color to be used for the line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135652Z" creationid="MysticBoy" creationdate="20160723T135652Z">
+        <seg>要用于该行的颜色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The color value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T135028Z">
