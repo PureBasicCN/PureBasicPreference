@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;PureBasic Forums&lt;/b0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175002Z" creationid="MysticBoy" creationdate="20160723T175002Z">
+        <seg>&lt;b0&gt;PureBasic 论坛&lt;/b0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;PureBasic Resources&lt;/b0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105259Z" creationid="MysticBoy" creationdate="20160721T105259Z">
@@ -1646,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>French Pure Basic forum</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174955Z" creationid="MysticBoy" creationdate="20160723T174955Z">
+        <seg>法语 Pure BASIC 论坛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T051017Z" creationid="oSilas" creationdate="20151013T051017Z">
@@ -1674,6 +1690,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T052104Z" creationid="oSilas" creationdate="20151013T052104Z">
         <seg>常规 - 主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>German Pure Basic forum</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175008Z" creationid="MysticBoy" creationdate="20160723T174944Z">
+        <seg>德语 Pure BASIC 论坛</seg>
       </tuv>
     </tu>
     <tu>
@@ -1962,6 +1986,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174559Z" creationid="MysticBoy" creationdate="20160723T174559Z">
         <seg>注意:任何用户可以开发他们自己的库.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Official Pure Basic forum</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174925Z" creationid="MysticBoy" creationdate="20160723T174925Z">
+        <seg>官方 Pure BASIC 论坛</seg>
       </tuv>
     </tu>
     <tu>
@@ -3826,8 +3858,8 @@
       <tuv lang="EN-US">
         <seg>      &lt;a7&gt;&lt;i8&gt;&lt;/a7&gt;  &lt;a9&gt;German forum&lt;/a9&gt;&lt;br10&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105207Z" creationid="MysticBoy" creationdate="20160721T105207Z">
-        <seg>&lt;a7&gt;&lt;i8&gt;&lt;/a7&gt;&lt;a9&gt;德国论坛&lt;/a9&gt;&lt;br10&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175047Z" creationid="MysticBoy" creationdate="20160721T105207Z">
+        <seg>      &lt;a7&gt;&lt;i8&gt;&lt;/a7&gt;&lt;a9&gt;德语论坛&lt;/a9&gt;&lt;br10&gt;</seg>
       </tuv>
     </tu>
     <tu>
