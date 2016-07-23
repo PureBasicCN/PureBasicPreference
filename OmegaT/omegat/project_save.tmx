@@ -2110,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the ID for this database connection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T170145Z" creationid="MysticBoy" creationdate="20160723T170145Z">
+        <seg>返回此数据库连接的 ID。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the MemoryAddress of the drawing buffer for direct pixel manipulation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T042331Z" creationid="oSilas" creationdate="20150312T042331Z">
@@ -2202,6 +2210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054558Z" creationid="MysticBoy" creationdate="20160721T054558Z">
         <seg>截图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T170032Z" creationid="MysticBoy" creationdate="20160723T170032Z">
+        <seg>搜索</seg>
       </tuv>
     </tu>
     <tu>
@@ -2607,6 +2623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The database to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T170137Z" creationid="MysticBoy" creationdate="20160723T170137Z">
+        <seg>要使用的数据库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The drawing origin is not modified by a call to this function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T033845Z" creationid="oSilas" creationdate="20141128T033845Z">
@@ -2996,6 +3020,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T042936Z" creationid="oSilas" creationdate="20150312T042936Z">
         <seg>此函数仅限高级程序员使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This function is useful when another library needs a database reference.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T170127Z" creationid="MysticBoy" creationdate="20160723T170127Z">
+        <seg>当另一个库需要数据库引用时，此功能非常有用。</seg>
       </tuv>
     </tu>
     <tu>
