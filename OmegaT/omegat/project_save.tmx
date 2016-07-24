@@ -518,10 +518,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Deutsch&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154344Z" creationid="MysticBoy" creationdate="20160724T154344Z">
+        <seg>&lt;a0&gt;德语&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;DrawingBuffer()&lt;/a0&gt; must be called before using this function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043657Z" creationid="oSilas" creationdate="20150312T043657Z">
         <seg>&lt;a0&gt;DrawingBuffer()&lt;/a0&gt;必须在使用此函数之前调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Francais&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154329Z" creationid="MysticBoy" creationdate="20160724T154329Z">
+        <seg>&lt;a0&gt;法语&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3641,6 +3657,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>french/index.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154317Z" creationid="MysticBoy" creationdate="20160724T154317Z">
+        <seg>http://www.purebasic.cn/french/index.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>german/index.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154309Z" creationid="MysticBoy" creationdate="20160724T154309Z">
+        <seg>http://www.purebasic.com/german/index.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.purebasic.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154232Z" creationid="MysticBoy" creationdate="20160724T154232Z">
+        <seg>http://www.purebasic.cn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mailto:support@purebasic.com</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154154Z" creationid="MysticBoy" creationdate="20160724T154154Z">
@@ -3693,6 +3733,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054539Z" creationid="MysticBoy" creationdate="20160721T054539Z">
         <seg>visual basic 编译器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>webmaster@purebasic.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154246Z" creationid="MysticBoy" creationdate="20160724T154246Z">
+        <seg>100860505@qq.com</seg>
       </tuv>
     </tu>
     <tu>
