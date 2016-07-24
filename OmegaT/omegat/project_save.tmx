@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;a1&gt;support@purebasic.com&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154214Z" creationid="MysticBoy" creationdate="20160724T154214Z">
+        <seg>&lt;b0&gt;&lt;a1&gt;100860505@qq.com&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Menu&lt;/b0&gt; &lt;a1&gt;Skip to content&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101639Z" creationid="MysticBoy" creationdate="20160721T101639Z">
@@ -1595,6 +1603,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105352Z" creationid="MysticBoy" creationdate="20160721T105352Z">
         <seg>编译时间真的很快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright © 2015 Fantaisie Software</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154141Z" creationid="MysticBoy" creationdate="20160724T154141Z">
+        <seg>Copyright © 2016 PureBasic.CN </seg>
       </tuv>
     </tu>
     <tu>
@@ -2257,8 +2273,8 @@
       <tuv lang="EN-US">
         <seg>Pure Basic : support</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054702Z" creationid="MysticBoy" creationdate="20160721T054702Z">
-        <seg>Pure Basic : 支持</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154159Z" creationid="MysticBoy" creationdate="20160721T054702Z">
+        <seg>Pure Basic : 中文支持</seg>
       </tuv>
     </tu>
     <tu>
@@ -3625,6 +3641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>mailto:support@purebasic.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154154Z" creationid="MysticBoy" creationdate="20160724T154154Z">
+        <seg>mailto:100860505@qq.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>optimized programming language</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054918Z" creationid="MysticBoy" creationdate="20160721T054918Z">
@@ -3947,8 +3971,8 @@
       <tuv lang="EN-US">
         <seg>      &lt;a44&gt;&lt;i45&gt;&lt;/a44&gt;  &lt;a46&gt;User comments&lt;/a46&gt;&lt;br47&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173139Z" creationid="MysticBoy" creationdate="20160721T055341Z">
-        <seg>&lt;a44&gt;&lt;i45&gt;&lt;/i45&gt;&lt;/a44&gt;&lt;a46&gt;用户评论&lt;/a46&gt;&lt;br47&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154118Z" creationid="MysticBoy" creationdate="20160721T055341Z">
+        <seg>&lt;a44&gt;&lt;i45&gt;&lt;/a44&gt;&lt;a46&gt;用户评论&lt;/a46&gt;&lt;br47&gt;</seg>
       </tuv>
     </tu>
     <tu>
