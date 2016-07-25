@@ -1479,6 +1479,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A powerful Visual Designer is included in the PureBasic package, and allows to build easily any kind of applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091725Z" creationid="MysticBoy" creationdate="20160725T091725Z">
+        <seg>一个强大的 Visual Designer包含在安装包中并且允许你创建任何种类的应用程序.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A table with ASCII codes is available &lt;a2&gt;here&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T081938Z" creationid="MysticBoy" creationdate="20160720T081938Z">
@@ -1937,8 +1945,8 @@
       <tuv lang="EN-US">
         <seg>Fantaisie Software Official WebSite.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T053654Z" creationid="MysticBoy" creationdate="20160721T053654Z">
-        <seg>Fantaisie Software 官方网站.</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091936Z" creationid="MysticBoy" creationdate="20160721T053654Z">
+        <seg>PureBasic.CN 官方网站.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4001,10 +4009,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When I buy PureBasic, will I get all the future updates for free ?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091753Z" creationid="MysticBoy" creationdate="20160725T091753Z">
+        <seg>当我购买了PureBasic，我可以免费获得所有更新？?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whether or not the alpha channel is used depends on the &lt;a2&gt;drawing mode&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041622Z" creationid="oSilas" creationdate="20151013T041622Z">
         <seg>是否使用alpha通道取决于 &lt;a2&gt;绘图模式&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why the Windows API description isn't included in the PureBasic documentation ?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091833Z" creationid="MysticBoy" creationdate="20160725T091833Z">
+        <seg>为什么 Windows API 说明不包含在 PureBasic 文档中 ?</seg>
       </tuv>
     </tu>
     <tu>
