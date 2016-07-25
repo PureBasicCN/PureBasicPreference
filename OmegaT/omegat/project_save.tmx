@@ -1182,6 +1182,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Some applications and games written in PureBasic:&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090957Z" creationid="MysticBoy" creationdate="20160725T090957Z">
+        <seg>&lt;b0&gt;一些使用PureBasic编写的应用程序和游戏:&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;The IDE (fully written in PureBasic) on Windows, Linux and MacOS X:&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090927Z" creationid="MysticBoy" creationdate="20160725T090927Z">
+        <seg>&lt;b0&gt; IDE (完全使用PureBasic) 支持Windows, Linux 和 MacOS X:&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;The code editing area&lt;/b0&gt; (below the toolbar) &lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140422Z" creationid="MysticBoy" creationdate="20160723T140422Z">
@@ -2099,6 +2115,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140916Z" creationid="MysticBoy" creationdate="20160723T140916Z">
         <seg>在此区域显示编译器错误和调试消息的日志。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internet TV</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091020Z" creationid="MysticBoy" creationdate="20160725T091020Z">
+        <seg>网络 TV</seg>
       </tuv>
     </tu>
     <tu>
@@ -4029,6 +4053,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080707Z" creationid="MysticBoy" creationdate="20160725T080707Z">
         <seg>http://www.purebasic.com/french/ordering.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>french/screenshots.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090853Z" creationid="MysticBoy" creationdate="20160725T090853Z">
+        <seg>http://www.purebasic.com/french/screenshots.php</seg>
       </tuv>
     </tu>
     <tu>
