@@ -3969,10 +3969,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>   - Easy but very fast 2D game support through dedicated libraries (DirectX, SDL, ...)&lt;br16&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T031754Z" creationid="MysticBoy" creationdate="20160725T031754Z">
+        <seg>   - 简单但是非常快速的2D游戏支持，通过专用库实现 (DirectX, SDL, ...)&lt;br16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>   - Full unicode support&lt;br14&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055331Z" creationid="MysticBoy" creationdate="20160721T055331Z">
         <seg>   - 完整的 unicode 支持&lt;br14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>   - Huge set of internal commands (1400+) to quickly and easily build any application or game&lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T031623Z" creationid="MysticBoy" creationdate="20160725T031623Z">
+        <seg>   - 丰富的内部指令（1400+）可以快速且简单的创建应用和游戏&lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
