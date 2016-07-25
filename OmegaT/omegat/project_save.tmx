@@ -3969,6 +3969,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>   - Optimal use of the available hardware by using highly optimized (assembly) commands&lt;br18&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T030946Z" creationid="MysticBoy" creationdate="20160725T030946Z">
+        <seg>   - 使用了高度优化的（汇编）指令进行了最佳的可用硬件优优化&lt;br18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>   - Powerful integrated debugger and profiler to easily trace and analyze code&lt;br21&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173539Z" creationid="MysticBoy" creationdate="20160723T173539Z">
