@@ -1927,6 +1927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In spite of its beginner-friendly syntax, the possibilities are endless with PureBasic's advanced features such as pointers, structures, procedures, dynamically linked lists and much more.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T030155Z" creationid="MysticBoy" creationdate="20160725T030155Z">
+        <seg>尽管它的语法很适合初学者，但是对于PureBasic的高级特性是不受限制的，比如指针， 结构，过程，动态链接表和其它..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this area, the compiler errors and debugger messages are logged.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140916Z" creationid="MysticBoy" creationdate="20160723T140916Z">
