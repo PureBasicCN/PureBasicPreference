@@ -1735,6 +1735,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Download the PureBasic compiler for AmigaOS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082728Z" creationid="MysticBoy" creationdate="20160725T082722Z">
+        <seg>下载PureBasic compiler for AmigaOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download the PureBasic compiler for Linux (x64 - 64 bit)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082641Z" creationid="MysticBoy" creationdate="20160725T082631Z">
+        <seg>下载   PureBasic compiler for Linux (x64 - 64 bit) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download the PureBasic compiler for Linux (x86 - 32 bit)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082612Z" creationid="MysticBoy" creationdate="20160725T082612Z">
+        <seg>下载PureBasic compiler for Linux (x86 - 32 bit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download the PureBasic compiler for Windows (x64 - 64 bits)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174023Z" creationid="MysticBoy" creationdate="20160723T174023Z">
@@ -1747,6 +1771,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174044Z" creationid="MysticBoy" creationdate="20160723T174044Z">
         <seg>下载PureBasic  Windows (x86 - 32 位)的编译器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download the PureBasic compiler for for MacOS X (Intel x64)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082711Z" creationid="MysticBoy" creationdate="20160725T082711Z">
+        <seg>下载 PureBasic compiler for for MacOS X (Intel x64)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download the PureBasic compiler for for MacOS X (Intel x86)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082659Z" creationid="MysticBoy" creationdate="20160725T082659Z">
+        <seg>下载  the PureBasic compiler for for MacOS X (Intel x86)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2529,8 +2569,8 @@
       <tuv lang="EN-US">
         <seg>Purebasic user account</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173845Z" creationid="MysticBoy" creationdate="20160723T173845Z">
-        <seg>Purebasic 用户账号</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082559Z" creationid="MysticBoy" creationdate="20160723T173845Z">
+        <seg>PureBasic 用户账号</seg>
       </tuv>
     </tu>
     <tu>
@@ -3907,8 +3947,8 @@
       <tuv lang="EN-US">
         <seg>securedownload/Login.htm</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173928Z" creationid="MysticBoy" creationdate="20160723T173928Z">
-        <seg>http://www.purebasic.cn/securedownload/Login.htm</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082531Z" creationid="MysticBoy" creationdate="20160723T173928Z">
+        <seg>http://www.purebasic.com/securedownload/Login.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -4107,8 +4147,8 @@
       <tuv lang="EN-US">
         <seg>    To access your personal account and download the full versions of PureBasic click here:&lt;br3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173941Z" creationid="MysticBoy" creationdate="20160723T173941Z">
-        <seg>要访问您的个人帐户和下载 PureBasic 的完整版本，请单击此处︰&lt;br3&gt;&lt;/br3&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082545Z" creationid="MysticBoy" creationdate="20160723T173941Z">
+        <seg>要访问您的个人帐户和下载 PureBasic 的完整版本，请单击此处︰&lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4219,8 +4259,8 @@
       <tuv lang="EN-US">
         <seg>   Download a free demo-version of PureBasic 5.42:&lt;br3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174003Z" creationid="MysticBoy" creationdate="20160723T174003Z">
-        <seg>   下载免费的演示版本of PureBasic 5.42:&lt;br3&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082650Z" creationid="MysticBoy" creationdate="20160723T174003Z">
+        <seg>   下载免费的演示版本的PureBasic 5.42:&lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
