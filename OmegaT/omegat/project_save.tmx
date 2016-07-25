@@ -1937,8 +1937,8 @@
       <tuv lang="EN-US">
         <seg>German Pure Basic forum</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175008Z" creationid="MysticBoy" creationdate="20160723T174944Z">
-        <seg>德语 Pure BASIC 论坛</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082937Z" creationid="MysticBoy" creationdate="20160723T174944Z">
+        <seg>中文 Pure BASIC 论坛</seg>
       </tuv>
     </tu>
     <tu>
@@ -3889,6 +3889,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://www.purebasic.fr/french</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T083129Z" creationid="MysticBoy" creationdate="20160725T082956Z">
+        <seg>http://www.purebasic.fr/french=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.purebasic.fr/german</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082950Z" creationid="MysticBoy" creationdate="20160725T082950Z">
+        <seg>http://www.purebasic.hk/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mailto:support@purebasic.com</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154154Z" creationid="MysticBoy" creationdate="20160724T154154Z">
@@ -4339,8 +4355,8 @@
       <tuv lang="EN-US">
         <seg>      &lt;a7&gt;&lt;i8&gt;&lt;/a7&gt;  &lt;a9&gt;German forum&lt;/a9&gt;&lt;br10&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175047Z" creationid="MysticBoy" creationdate="20160721T105207Z">
-        <seg>      &lt;a7&gt;&lt;i8&gt;&lt;/a7&gt;&lt;a9&gt;德语论坛&lt;/a9&gt;&lt;br10&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T083215Z" creationid="MysticBoy" creationdate="20160721T105207Z">
+        <seg>      &lt;a7&gt;&lt;i8&gt;&lt;/a7&gt;&lt;a9&gt;         中文论坛&lt;/a9&gt;&lt;br10&gt;</seg>
       </tuv>
     </tu>
     <tu>
