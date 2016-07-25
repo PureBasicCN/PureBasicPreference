@@ -1895,6 +1895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fantaisie Software</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090658Z" creationid="MysticBoy" creationdate="20160725T090658Z">
+        <seg>PureBasic.CN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fantaisie Software Official WebSite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T053654Z" creationid="MysticBoy" creationdate="20160721T053654Z">
@@ -4009,6 +4017,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>french/news.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090625Z" creationid="MysticBoy" creationdate="20160725T090625Z">
+        <seg>http://www.purebasic.comfrench/news.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>french/ordering.htm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080707Z" creationid="MysticBoy" creationdate="20160725T080707Z">
@@ -4041,10 +4057,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>german/news.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090614Z" creationid="MysticBoy" creationdate="20160725T090614Z">
+        <seg>http://www.purebasic.com/news.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>german/ordering.htm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080619Z" creationid="MysticBoy" creationdate="20160725T080619Z">
         <seg>http://www.purebasic.com/ordering.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>german/screenshots.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090759Z" creationid="MysticBoy" creationdate="20160725T090759Z">
+        <seg>http://www.purebasic.com/screenshots.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -4165,6 +4197,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084505Z" creationid="MysticBoy" creationdate="20160725T084505Z">
         <seg>PureBasic中文支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>purebasic (webmaster@purebasic.com), Frederic Laboureur, Frédéric Laboureur, Yann Vanlerberghe, Alphasnd, Alphasound, Fantaisie Software</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090743Z" creationid="MysticBoy" creationdate="20160725T090743Z">
+        <seg>purebasic (webmaster@purebasic.com), Frederic Laboureur, Frédéric Laboureur, Yann Vanlerberghe, Alphasnd, Alphasound, Fantaisie Software,PureBasic.CN ,麦壳饼,MysticBoy</seg>
       </tuv>
     </tu>
     <tu>
