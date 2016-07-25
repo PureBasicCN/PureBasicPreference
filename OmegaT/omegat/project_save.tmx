@@ -4922,8 +4922,8 @@
       <tuv lang="EN-US">
         <seg>Thanks a lot for your support !</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090254Z" creationid="MysticBoy" creationdate="20160725T090254Z">
-        <seg>PureBasic 中文团队不属于官方团队，只免费的提供中文汉化包和尚未完成的中文帮助，我们不销售任何与PureBasic相关的任何软件产品，同事我们一贯抵制盗版行为！</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T094042Z" creationid="MysticBoy" creationdate="20160725T090254Z">
+        <seg>PureBasic 中文团队不属于官方团队，仅免费提供中文汉化包和尚未完成的中文帮助，我们不销售任何与PureBasic相关的任何软件产品，同时我们一贯抵制盗版行为！</seg>
       </tuv>
     </tu>
   </body>
