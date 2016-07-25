@@ -1216,8 +1216,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b24&gt;Specific features depending on the OS&lt;/b24&gt; &lt;br25&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173604Z" creationid="MysticBoy" creationdate="20160723T173604Z">
-        <seg>&lt;b24&gt;取决于操作系统的特定功能&lt;/b24&gt;&lt;br25&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084406Z" creationid="MysticBoy" creationdate="20160723T173604Z">
+        <seg>&lt;b24&gt;针对操作系统的差异化特性&lt;/b24&gt;&lt;br25&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1351,6 +1351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;b1&gt;FANTAISIE SOFTWARE&lt;/b1&gt;&lt;/f0&gt; &lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084518Z" creationid="MysticBoy" creationdate="20160725T084518Z">
+        <seg>&lt;f0&gt;&lt;b1&gt;PureBasic.CN&lt;/b1&gt;&lt;/f0&gt; &lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f12&gt;; 32-bit RGB without reversed Y coordinate&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043813Z" creationid="oSilas" creationdate="20150312T043727Z">
@@ -1467,6 +1475,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T135218Z">
         <seg>零意味着完全透明，255意味着完全不透明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional coder :</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084706Z" creationid="MysticBoy" creationdate="20160725T084706Z">
+        <seg>:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1903,6 +1919,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frédéric Laboureur</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084638Z" creationid="MysticBoy" creationdate="20160725T084638Z">
+        <seg>小半砖头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T051017Z" creationid="oSilas" creationdate="20151013T051017Z">
@@ -2139,6 +2163,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054624Z" creationid="MysticBoy" creationdate="20160721T054624Z">
         <seg>链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Main coder :</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084628Z" creationid="MysticBoy" creationdate="20160725T084628Z">
+        <seg>麦壳饼</seg>
       </tuv>
     </tu>
     <tu>
@@ -2827,6 +2859,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110618Z">
         <seg>语法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Team Members</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084614Z" creationid="MysticBoy" creationdate="20160725T084614Z">
+        <seg>团队成员</seg>
       </tuv>
     </tu>
     <tu>
@@ -3835,8 +3875,8 @@
       <tuv lang="EN-US">
         <seg>based on established BASIC rules on &lt;a1&gt;spiderbasic.com&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054811Z" creationid="MysticBoy" creationdate="20160721T054811Z">
-        <seg>基于BASIC准则 详情点击&lt;a1&gt;spiderbasic.com&lt;/a1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084414Z" creationid="MysticBoy" creationdate="20160721T054811Z">
+        <seg>基于BASIC准则 详情点击&lt;a1&gt;spiderbasic.cn&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3965,6 +4005,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054918Z" creationid="MysticBoy" creationdate="20160721T054918Z">
         <seg>已优化的编程语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pure basic support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084505Z" creationid="MysticBoy" creationdate="20160725T084505Z">
+        <seg>PureBasic中文支持</seg>
       </tuv>
     </tu>
     <tu>
@@ -4185,6 +4233,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>  10, rue de Lausanne&lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084548Z" creationid="MysticBoy" creationdate="20160725T084526Z">
+        <seg> 乌鲁木齐红山路 &lt;br4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  67640 FEGERSHEIM&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084553Z" creationid="MysticBoy" creationdate="20160725T084531Z">
+        <seg>  新疆&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  &lt;a7&gt;support@purebasic.com&lt;/a7&gt; &lt;br8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084607Z" creationid="MysticBoy" creationdate="20160725T084607Z">
+        <seg>  &lt;a7&gt;100860505@qq.com&lt;/a7&gt; &lt;br8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  FRANCE&lt;br6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084538Z" creationid="MysticBoy" creationdate="20160725T084538Z">
+        <seg>  中国&lt;br6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>    To access your personal account and download the full versions of PureBasic click here:&lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082545Z" creationid="MysticBoy" creationdate="20160723T173941Z">
@@ -4211,8 +4291,8 @@
       <tuv lang="EN-US">
         <seg>   - Dedicated editor and development environment&lt;br20&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082210Z" creationid="MysticBoy" creationdate="20160723T173510Z">
-        <seg>    - 专用的编辑器和开发环境&lt;br20&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084306Z" creationid="MysticBoy" creationdate="20160725T084306Z">
+        <seg>   - 专用的编辑器和开发环境&lt;br20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4267,8 +4347,8 @@
       <tuv lang="EN-US">
         <seg>   - Powerful integrated debugger and profiler to easily trace and analyze code&lt;br21&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082417Z" creationid="MysticBoy" creationdate="20160723T173539Z">
-        <seg>   -  强大的集成的调试器和探查器轻松地跟踪和分析代码&lt;br21&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084339Z" creationid="MysticBoy" creationdate="20160725T084339Z">
+        <seg>   - 功能强大的集成调试器和分析器可以轻松的跟踪和优化代码&lt;br21&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4283,8 +4363,8 @@
       <tuv lang="EN-US">
         <seg>   - Source code is portable between Windows, MacOS X and Linux&lt;br19&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082411Z" creationid="MysticBoy" creationdate="20160723T173424Z">
-        <seg>   - 源代码在 Linux、 Windows 和 MacOS X 上通用&lt;br19&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084247Z" creationid="MysticBoy" creationdate="20160725T084247Z">
+        <seg>   - 源代码在 Windows, MacOS X 和 Linux上通用&lt;br19&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4441,17 +4521,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045120Z" creationid="oSilas" creationdate="20150312T045120Z">
         <seg>如果当前输出具有 alpha 通道，绘图操作将只修改颜色分量并离开不变的 alpha 通道。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">index.htm</prop>
-      <prop type="prev">   - Source code is portable between Windows, MacOS X and Linux&lt;br19&gt;</prop>
-      <prop type="next">   - Powerful integrated debugger and profiler to easily trace and analyze code&lt;br21&gt;</prop>
-      <tuv lang="EN-US">
-        <seg>   - Dedicated editor and development environment&lt;br20&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082404Z" creationid="MysticBoy" creationdate="20160725T082404Z">
-        <seg>   - 专用的编辑器和开发环境&lt;br20&gt;</seg>
       </tuv>
     </tu>
   </body>
