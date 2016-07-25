@@ -544,8 +544,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;Deutsch&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080624Z" creationid="MysticBoy" creationdate="20160724T154344Z">
-        <seg>&lt;a0&gt;英语&lt;/a0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082128Z" creationid="MysticBoy" creationdate="20160724T154344Z">
+        <seg>&lt;a0&gt;英语&lt;/a0&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -3827,8 +3827,8 @@
       <tuv lang="EN-US">
         <seg>german/index.htm</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154309Z" creationid="MysticBoy" creationdate="20160724T154309Z">
-        <seg>http://www.purebasic.com/german/index.htm</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082102Z" creationid="MysticBoy" creationdate="20160724T154309Z">
+        <seg>http://www.purebasic.com/index.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -4131,8 +4131,8 @@
       <tuv lang="EN-US">
         <seg>   - Dedicated editor and development environment&lt;br20&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173510Z" creationid="MysticBoy" creationdate="20160723T173510Z">
-        <seg>  - 专用的编辑器和开发环境&lt;br20&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082210Z" creationid="MysticBoy" creationdate="20160723T173510Z">
+        <seg>    - 专用的编辑器和开发环境&lt;br20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4179,16 +4179,16 @@
       <tuv lang="EN-US">
         <seg>   - Optimal use of the available hardware by using highly optimized (assembly) commands&lt;br18&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T030946Z" creationid="MysticBoy" creationdate="20160725T030946Z">
-        <seg>   - 使用了高度优化的（汇编）指令进行了最佳的可用硬件优优化&lt;br18&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082241Z" creationid="MysticBoy" creationdate="20160725T030946Z">
+        <seg>   - 使用了高度优化的（汇编）指令进行了最佳的可用硬件优优化&lt;br18&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>   - Powerful integrated debugger and profiler to easily trace and analyze code&lt;br21&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173539Z" creationid="MysticBoy" creationdate="20160723T173539Z">
-        <seg>  -  强大的集成的调试器和探查器轻松地跟踪和分析代码&lt;br21&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082205Z" creationid="MysticBoy" creationdate="20160723T173539Z">
+        <seg>    -  强大的集成的调试器和探查器轻松地跟踪和分析代码&lt;br21&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4203,8 +4203,8 @@
       <tuv lang="EN-US">
         <seg>   - Source code is portable between Windows, MacOS X and Linux&lt;br19&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173424Z" creationid="MysticBoy" creationdate="20160723T173424Z">
-        <seg>   - 源代码在 Linux、 Windows 和 MacOS X 上通用&lt;br19&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082212Z" creationid="MysticBoy" creationdate="20160723T173424Z">
+        <seg>    - 源代码在 Linux、 Windows 和 MacOS X 上通用&lt;br19&gt;</seg>
       </tuv>
     </tu>
     <tu>
