@@ -4017,6 +4017,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>   - Very fast compiler which creates highly optimized executables&lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T031311Z" creationid="MysticBoy" creationdate="20160725T031311Z">
+        <seg>   - 非常快速的编译所创建的可执行文件也是高度优化了的。&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>   Download a free demo-version of PureBasic 5.42:&lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174003Z" creationid="MysticBoy" creationdate="20160723T174003Z">
