@@ -3905,6 +3905,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://www.spiderbasic.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T083431Z" creationid="MysticBoy" creationdate="20160725T083431Z">
+        <seg>http://www.spiderbasic.cn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mailto:support@purebasic.com</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154154Z" creationid="MysticBoy" creationdate="20160724T154154Z">
@@ -4291,24 +4299,32 @@
       <tuv lang="EN-US">
         <seg>       Channel: purebasic   (english)&lt;br5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105123Z" creationid="MysticBoy" creationdate="20160721T105123Z">
-        <seg>       频道: purebasic   (英文)&lt;br5&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T083329Z" creationid="MysticBoy" creationdate="20160721T105123Z">
+        <seg>      QQ群:6248988&lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>       Channel: purebasic.de   (german)&lt;br6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105140Z" creationid="MysticBoy" creationdate="20160721T105140Z">
-        <seg>       频道: purebasic.de   (德语)&lt;br6&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T083344Z" creationid="MysticBoy" creationdate="20160721T105140Z">
+        <seg>       &lt;br6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>       Port: 6667&lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T083322Z" creationid="MysticBoy" creationdate="20160725T083322Z">
+        <seg>       &lt;br4&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>       Servername: irc.freenode.net&lt;br3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105146Z" creationid="MysticBoy" creationdate="20160721T105146Z">
-        <seg>       服务器名称: irc.freenode.net&lt;br3&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T083317Z" creationid="MysticBoy" creationdate="20160721T105146Z">
+        <seg>       中文交流方式&lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4325,6 +4341,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105325Z" creationid="MysticBoy" creationdate="20160721T105325Z">
         <seg>      &lt;a11&gt;&lt;i12&gt;&lt;/a11&gt;  &lt;a13&gt;Microsoft Windows API 支持&lt;/a13&gt;&lt;br14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>      &lt;a3&gt;&lt;i4&gt;&lt;/a3&gt;  &lt;a5&gt;Official PureBasic blog&lt;/a5&gt;&lt;br6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T083422Z" creationid="MysticBoy" creationdate="20160725T083422Z">
+        <seg>      &lt;a3&gt;&lt;i4&gt;&lt;/a3&gt;  &lt;a5&gt;官方 PureBasic 博客&lt;/a5&gt;&lt;br6&gt;</seg>
       </tuv>
     </tu>
     <tu>
