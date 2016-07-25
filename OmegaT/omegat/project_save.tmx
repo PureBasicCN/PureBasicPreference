@@ -1505,8 +1505,8 @@
       <tuv lang="EN-US">
         <seg>Additional coder :</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084706Z" creationid="MysticBoy" creationdate="20160725T084706Z">
-        <seg>:</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093321Z" creationid="MysticBoy" creationdate="20160725T084706Z">
+        <seg>帮助文档翻译:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1561,8 +1561,8 @@
       <tuv lang="EN-US">
         <seg>André Beer</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084812Z" creationid="MysticBoy" creationdate="20160725T084812Z">
-        <seg>王日明</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093334Z" creationid="MysticBoy" creationdate="20160725T084812Z">
+        <seg>漂流瓶儿</seg>
       </tuv>
     </tu>
     <tu>
@@ -1977,8 +1977,8 @@
       <tuv lang="EN-US">
         <seg>Frédéric Laboureur</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084728Z" creationid="MysticBoy" creationdate="20160725T084638Z">
-        <seg>小半砖头 </seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093008Z" creationid="MysticBoy" creationdate="20160725T084638Z">
+        <seg>麦壳饼 </seg>
       </tuv>
     </tu>
     <tu>
@@ -2033,8 +2033,8 @@
       <tuv lang="EN-US">
         <seg>German translator :</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084805Z" creationid="MysticBoy" creationdate="20160725T084805Z">
-        <seg>其他:</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093327Z" creationid="MysticBoy" creationdate="20160725T084805Z">
+        <seg>帮助文档翻译:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3883,8 +3883,8 @@
       <tuv lang="EN-US">
         <seg>Timo Harter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084739Z" creationid="MysticBoy" creationdate="20160725T084739Z">
-        <seg>漂流瓶儿</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093109Z" creationid="MysticBoy" creationdate="20160725T084739Z">
+        <seg>小半砖头</seg>
       </tuv>
     </tu>
     <tu>
@@ -4003,8 +4003,8 @@
       <tuv lang="EN-US">
         <seg>Webmaster :</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084830Z" creationid="MysticBoy" creationdate="20160725T084830Z">
-        <seg>网站管理员 :</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093503Z" creationid="MysticBoy" creationdate="20160725T084830Z">
+        <seg>其他成员 :</seg>
       </tuv>
     </tu>
     <tu>
@@ -4083,8 +4083,16 @@
       <tuv lang="EN-US">
         <seg>alphasnd@purebasic.com</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T092838Z" creationid="MysticBoy" creationdate="20160725T092838Z">
-        <seg>waitfordawn@qq.com</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093301Z" creationid="MysticBoy" creationdate="20160725T092838Z">
+        <seg>100860505@qq.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>andre@purebasic.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093405Z" creationid="MysticBoy" creationdate="20160725T093405Z">
+        <seg> tsliuhaitao@qq.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -4101,6 +4109,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054714Z" creationid="MysticBoy" creationdate="20160721T054714Z">
         <seg>BASIC编程网络语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>freak@purebasic.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093242Z" creationid="MysticBoy" creationdate="20160725T093242Z">
+        <seg>waitfordawn@qq.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -4273,10 +4289,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>mail to André Beer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093435Z" creationid="MysticBoy" creationdate="20160725T093435Z">
+        <seg>发邮件漂流瓶儿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mail to Frederic Laboureur</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093019Z" creationid="MysticBoy" creationdate="20160725T093019Z">
+        <seg>发邮件至麦壳饼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mail to Timo Harter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084747Z" creationid="MysticBoy" creationdate="20160725T084747Z">
-        <seg> </seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093156Z" creationid="MysticBoy" creationdate="20160725T084747Z">
+        <seg> 发邮件至小半砖头</seg>
       </tuv>
     </tu>
     <tu>
@@ -4297,10 +4329,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>mailto:andre@purebasic.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093359Z" creationid="MysticBoy" creationdate="20160725T093359Z">
+        <seg> tsliuhaitao@qq.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mailto:freak@purebasic.com</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084753Z" creationid="MysticBoy" creationdate="20160725T084742Z">
-        <seg> </seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093150Z" creationid="MysticBoy" creationdate="20160725T093150Z">
+        <seg>mailto:waitfordawn@qq.com</seg>
       </tuv>
     </tu>
     <tu>
