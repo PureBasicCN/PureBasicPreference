@@ -3937,6 +3937,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>   - Access to full OS API for advanced programmers&lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T031018Z" creationid="MysticBoy" creationdate="20160725T031018Z">
+        <seg>   - 针对高级程序员支持完整的OSAPI访问&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>   - All BASIC keywords are supported&lt;br10&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055302Z" creationid="MysticBoy" creationdate="20160721T055302Z">
@@ -3969,6 +3977,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>   - No external DLLs, runtime interpreter or anything else required when creating executables&lt;br12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T031219Z" creationid="MysticBoy" creationdate="20160725T031219Z">
+        <seg>   - 创建的可执行文件无需扩展DLL,运行库或其他任何必备因素。&lt;br12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>   - Optimal use of the available hardware by using highly optimized (assembly) commands&lt;br18&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T030946Z" creationid="MysticBoy" creationdate="20160725T030946Z">
@@ -3981,6 +3997,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173539Z" creationid="MysticBoy" creationdate="20160723T173539Z">
         <seg>  -  强大的集成的调试器和探查器轻松地跟踪和分析代码&lt;br21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>   - Procedure support for structured programming with local and global variables&lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T031110Z" creationid="MysticBoy" creationdate="20160725T031110Z">
+        <seg>   - 过程支持本地和全局变量的结构编程&lt;br13&gt;</seg>
       </tuv>
     </tu>
     <tu>
