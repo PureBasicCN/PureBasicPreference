@@ -3985,6 +3985,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>french/changes.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090527Z" creationid="MysticBoy" creationdate="20160725T090527Z">
+        <seg>http://www.purebasic.comfrench/changes.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>french/index.htm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154317Z" creationid="MysticBoy" creationdate="20160724T154317Z">
@@ -4005,6 +4013,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080707Z" creationid="MysticBoy" creationdate="20160725T080707Z">
         <seg>http://www.purebasic.com/french/ordering.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>german/changes.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090508Z" creationid="MysticBoy" creationdate="20160725T090508Z">
+        <seg>http://www.purebasic.com/changes.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -4657,6 +4673,17 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045120Z" creationid="oSilas" creationdate="20150312T045120Z">
         <seg>如果当前输出具有 alpha 通道，绘图操作将只修改颜色分量并离开不变的 alpha 通道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">ordering.htm</prop>
+      <prop type="prev">For ease of ordering, you can safely use our secure online method.</prop>
+      <prop type="next">PureBasic License type</prop>
+      <tuv lang="EN-US">
+        <seg>Thanks a lot for your support !</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090254Z" creationid="MysticBoy" creationdate="20160725T090254Z">
+        <seg>PureBasic 中文团队不属于官方团队，只免费的提供中文汉化包和尚未完成的中文帮助，我们不销售任何与PureBasic相关的任何软件产品，同事我们一贯抵制盗版行为！</seg>
       </tuv>
     </tu>
   </body>
