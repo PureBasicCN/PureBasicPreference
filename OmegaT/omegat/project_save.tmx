@@ -3857,6 +3857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>french/links.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084059Z" creationid="MysticBoy" creationdate="20160725T084059Z">
+        <seg>http://www.purebasic.com/french/links.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>french/ordering.htm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080707Z" creationid="MysticBoy" creationdate="20160725T080707Z">
@@ -3869,6 +3877,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082102Z" creationid="MysticBoy" creationdate="20160724T154309Z">
         <seg>http://www.purebasic.com/index.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>german/links.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084043Z" creationid="MysticBoy" creationdate="20160725T084043Z">
+        <seg>http://www.purebasic.com/links.php</seg>
       </tuv>
     </tu>
     <tu>
