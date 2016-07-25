@@ -1176,8 +1176,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;Registered users area&lt;/b0&gt;&lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173838Z" creationid="MysticBoy" creationdate="20160723T173838Z">
-        <seg>&lt;b0&gt;注册用户区域&lt;/b0&gt;&lt;br1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091259Z" creationid="MysticBoy" creationdate="20160723T173838Z">
+        <seg>&lt;b0&gt;注册用户区(中文网站不提供任何形式的PureBasic的销售途径,这里的连接全部跳转至官网，请那些无知欧美人士忽略你所谓的狗屁盗版，中国有正版用户，谢谢)&lt;/b0&gt;&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4025,6 +4025,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>french/download.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091115Z" creationid="MysticBoy" creationdate="20160725T091115Z">
+        <seg>http://www.purebasic.com/french/download.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>french/index.htm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154317Z" creationid="MysticBoy" creationdate="20160724T154317Z">
@@ -4069,6 +4077,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090508Z" creationid="MysticBoy" creationdate="20160725T090508Z">
         <seg>http://www.purebasic.com/changes.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>german/download.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091049Z" creationid="MysticBoy" creationdate="20160725T091049Z">
+        <seg>http://www.purebasic.com/download.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>german/faq.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091325Z" creationid="MysticBoy" creationdate="20160725T091325Z">
+        <seg>http://www.purebasic.com/faq.php</seg>
       </tuv>
     </tu>
     <tu>
