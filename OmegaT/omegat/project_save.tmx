@@ -2119,6 +2119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Money-transfer to bank-account is possible at german team member</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081739Z" creationid="MysticBoy" creationdate="20160725T081712Z">
+        <seg> 汇款银行账户有可能在德国团队</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More information can be found at &lt;a2&gt;StartDrawing()&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151007T084835Z" creationid="oSilas" creationdate="20151007T084835Z">
@@ -2223,6 +2231,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Offline Ordering</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081503Z" creationid="MysticBoy" creationdate="20160725T081503Z">
+        <seg>在线购买</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Offline ordering</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081454Z" creationid="MysticBoy" creationdate="20160725T081454Z">
+        <seg>离线购买</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On Microsoft Windows, there are two different executable formats: Win32 and Console.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082721Z" creationid="MysticBoy" creationdate="20160720T082721Z">
@@ -2243,6 +2267,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T111853Z">
         <seg>当年你关闭控制台后，将不能使用任何与控制台有关的函数，除非你再次打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Online Ordering</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081627Z" creationid="MysticBoy" creationdate="20160725T081627Z">
+        <seg>在线购买</seg>
       </tuv>
     </tu>
     <tu>
@@ -3681,6 +3713,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use any of the supported credit cards by Paypal or PaySite Cash</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081649Z" creationid="MysticBoy" creationdate="20160725T081649Z">
+        <seg>通过Paypal或PaySite现金使用任何支持的信用卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Various Topics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083431Z" creationid="MysticBoy" creationdate="20160720T083431Z">
@@ -3813,6 +3853,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154154Z" creationid="MysticBoy" creationdate="20160724T154154Z">
         <seg>mailto:100860505@qq.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>offlineordering.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081446Z" creationid="MysticBoy" creationdate="20160725T081446Z">
+        <seg>http://www.purebasic.com/offlineordering.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>online ordering</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081620Z" creationid="MysticBoy" creationdate="20160725T081620Z">
+        <seg>在线购买</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>onlineordering.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081611Z" creationid="MysticBoy" creationdate="20160725T081611Z">
+        <seg> http://www.purebasic.com/onlineordering.php</seg>
       </tuv>
     </tu>
     <tu>
