@@ -4265,6 +4265,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>   Download the full version of PureBasic 4.00 (OpenSource):&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082753Z" creationid="MysticBoy" creationdate="20160725T082753Z">
+        <seg>   下载的网站版本的PureBasic 4.00 (开源):&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>       Channel: purebasic   (english)&lt;br5&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105123Z" creationid="MysticBoy" creationdate="20160721T105123Z">
@@ -4341,6 +4349,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105307Z" creationid="MysticBoy" creationdate="20160721T105307Z">
         <seg>      &lt;a7&gt;&lt;i8&gt;&lt;/a7&gt;  &lt;a9&gt;PureArea.net&lt;/a9&gt; (PureBasic 支持网站)&lt;br10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>         &lt;a12&gt;&lt;i13&gt;&lt;/a12&gt;  &lt;a14&gt;French catalog for purebasic 1.50&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082907Z" creationid="MysticBoy" creationdate="20160725T082806Z">
+        <seg>         &lt;a12&gt;&lt;i13&gt;&lt;/a12&gt;  &lt;a14&gt;法语 语言包for purebasic 1.50&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>         &lt;a16&gt;&lt;i17&gt;&lt;/a16&gt;  &lt;a18&gt;German catalog for purebasic 2.90&lt;/a18&gt;&lt;br19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082858Z" creationid="MysticBoy" creationdate="20160725T082840Z">
+        <seg>         &lt;a16&gt;&lt;i17&gt;&lt;/a16&gt;  &lt;a18&gt;德语 语言包 for purebasic 2.90&lt;/a18&gt;&lt;br19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>         &lt;a20&gt;&lt;i21&gt;&lt;/a20&gt;  &lt;a22&gt;Russian catalog for purebasic 1.50&lt;/a22&gt;&lt;br23&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082830Z" creationid="MysticBoy" creationdate="20160725T082830Z">
+        <seg>         &lt;a20&gt;&lt;i21&gt;&lt;/a20&gt;  &lt;a22&gt;俄语 语言包 for purebasic 1.50&lt;/a22&gt;&lt;br23&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
