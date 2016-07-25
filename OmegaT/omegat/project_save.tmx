@@ -206,6 +206,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 company site license (unlimited license for one company site)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081212Z" creationid="MysticBoy" creationdate="20160725T081205Z">
+        <seg>1公司站点许可证（为一家公司的网站无限许可）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 educational license (for one room class, including teacher)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081144Z" creationid="MysticBoy" creationdate="20160725T081144Z">
+        <seg>1 教育许可 (一个教室，包括老师)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 single user license</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081123Z" creationid="MysticBoy" creationdate="20160725T081123Z">
+        <seg>单用户许可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10: Full-height cursor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T140853Z">
