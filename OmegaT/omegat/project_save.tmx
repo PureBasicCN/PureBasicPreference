@@ -1775,6 +1775,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Experienced coders will have no problem gaining access to any of the legal OS structures or API objects and PureBasic even allows inline ASM. &lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T030538Z" creationid="MysticBoy" creationdate="20160725T030538Z">
+        <seg>有经验的程序员可以访问任何已经定义的OS结构或APi函数，PureBasic甚至允许行内嵌汇编。&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fantaisie Software Official WebSite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T053654Z" creationid="MysticBoy" creationdate="20160721T053654Z">
@@ -3941,6 +3949,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173510Z" creationid="MysticBoy" creationdate="20160723T173510Z">
         <seg>  - 专用的编辑器和开发环境&lt;br20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>   - Easy and high quality 3D support based on OGRE&lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T030623Z" creationid="MysticBoy" creationdate="20160725T030623Z">
+        <seg>   - 基于OGRE的方便和高质量的3D支持&lt;br17&gt;</seg>
       </tuv>
     </tu>
     <tu>
