@@ -4315,5 +4315,16 @@
         <seg>如果当前输出具有 alpha 通道，绘图操作将只修改颜色分量并离开不变的 alpha 通道。</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">index.htm</prop>
+      <prop type="prev">   - Source code is portable between Windows, MacOS X and Linux&lt;br19&gt;</prop>
+      <prop type="next">   - Powerful integrated debugger and profiler to easily trace and analyze code&lt;br21&gt;</prop>
+      <tuv lang="EN-US">
+        <seg>   - Dedicated editor and development environment&lt;br20&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082404Z" creationid="MysticBoy" creationdate="20160725T082404Z">
+        <seg>   - 专用的编辑器和开发环境&lt;br20&gt;</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
