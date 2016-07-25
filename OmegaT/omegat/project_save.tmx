@@ -1535,6 +1535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Better still, you get the four versions of PureBasic (Amiga, Linux Windows and MacOS X) for the same price !</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081058Z" creationid="MysticBoy" creationdate="20160725T080820Z">
+        <seg>更妙的是，同样的价格你会得到的四个版本的PureBasic（Amiga、Linu、Windows和MacOS X系统）的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both colors are always 32-bit with alpha channel independent of the color depth of the output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040655Z" creationid="oSilas" creationdate="20141128T040655Z">
@@ -1635,6 +1643,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154141Z" creationid="MysticBoy" creationdate="20160724T154141Z">
         <seg>Copyright © 2016 PureBasic.CN </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cost</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081110Z" creationid="MysticBoy" creationdate="20160725T081110Z">
+        <seg>价格</seg>
       </tuv>
     </tu>
     <tu>
@@ -1807,6 +1823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For ease of ordering, you can safely use our secure online method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080830Z" creationid="MysticBoy" creationdate="20160725T080830Z">
+        <seg>为了便于订购的，你可以放心地使用我们的安全的在线方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>French Pure Basic forum</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174955Z" creationid="MysticBoy" creationdate="20160723T174955Z">
@@ -1945,8 +1969,8 @@
       <tuv lang="EN-US">
         <seg>In buying PureBasic you will ensure that development will go further and faster.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080754Z" creationid="MysticBoy" creationdate="20160725T080754Z">
-        <seg>在购买的PureBasic您将确保发展将走的更远，更快。</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080901Z" creationid="MysticBoy" creationdate="20160725T080754Z">
+        <seg>使用购买的PureBasic您将确保开发将走的更远，更快。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2375,6 +2399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic License type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081107Z" creationid="MysticBoy" creationdate="20160725T081107Z">
+        <seg>PureBasic 许可类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic Team Blog</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20160723T165444Z" creationid="Administrator" creationdate="20160723T165444Z">
@@ -2707,6 +2739,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044958Z" creationid="oSilas" creationdate="20150312T044958Z">
         <seg>与具有纯背景显示文本和填充图形形状的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thanks a lot for your support !</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080846Z" creationid="MysticBoy" creationdate="20160725T080846Z">
+        <seg>非常感谢您的支持！</seg>
       </tuv>
     </tu>
     <tu>
@@ -3291,8 +3331,8 @@
       <tuv lang="EN-US">
         <seg>The updates are unlimited, unlike most other software out there.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080800Z" creationid="MysticBoy" creationdate="20160725T080800Z">
-        <seg>这些更新是无限的，与其他大多数软件在那里。</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080923Z" creationid="MysticBoy" creationdate="20160725T080800Z">
+        <seg>这些更新是没有限制的的，不像其他大多数软件不是这样。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3469,6 +3509,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T042017Z" creationid="oSilas" creationdate="20141122T042017Z">
         <seg>这个库允许程序员创建控制台模式的应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means than when you buy PureBasic you will get all future updates for free, on this web site (it only applies if registered on this web site, not for boxed version of PureBasic).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081015Z" creationid="MysticBoy" creationdate="20160725T080813Z">
+        <seg>这意味着，当你购买的PureBasic你会得到免费的所有未来的更新都在官网上可以下载到。</seg>
       </tuv>
     </tu>
     <tu>
