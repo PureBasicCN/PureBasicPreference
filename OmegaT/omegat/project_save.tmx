@@ -2273,8 +2273,8 @@
       <tuv lang="EN-US">
         <seg>Main coder :</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084628Z" creationid="MysticBoy" creationdate="20160725T084628Z">
-        <seg>麦壳饼</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T092959Z" creationid="MysticBoy" creationdate="20160725T084628Z">
+        <seg>主要翻译</seg>
       </tuv>
     </tu>
     <tu>
@@ -4081,6 +4081,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>alphasnd@purebasic.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T092838Z" creationid="MysticBoy" creationdate="20160725T092838Z">
+        <seg>waitfordawn@qq.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>based on established BASIC rules on &lt;a1&gt;spiderbasic.com&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084414Z" creationid="MysticBoy" creationdate="20160721T054811Z">
@@ -4277,6 +4285,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084851Z" creationid="MysticBoy" creationdate="20160725T084851Z">
         <seg>q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mailto:alphasnd@purebasic.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T092826Z" creationid="MysticBoy" creationdate="20160725T092826Z">
+        <seg>mailto:100860505@qq.com</seg>
       </tuv>
     </tu>
     <tu>
