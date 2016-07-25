@@ -1535,6 +1535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>André Beer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084812Z" creationid="MysticBoy" creationdate="20160725T084812Z">
+        <seg>王日明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any characters printed after calling this function will use the new colors.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112201Z">
@@ -1921,8 +1929,8 @@
       <tuv lang="EN-US">
         <seg>Frédéric Laboureur</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084638Z" creationid="MysticBoy" creationdate="20160725T084638Z">
-        <seg>小半砖头</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084728Z" creationid="MysticBoy" creationdate="20160725T084638Z">
+        <seg>小半砖头 </seg>
       </tuv>
     </tu>
     <tu>
@@ -1963,6 +1971,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082937Z" creationid="MysticBoy" creationdate="20160723T174944Z">
         <seg>中文 Pure BASIC 论坛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>German translator :</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084805Z" creationid="MysticBoy" creationdate="20160725T084805Z">
+        <seg>其他:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2503,6 +2519,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pure Basic documentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084932Z" creationid="MysticBoy" creationdate="20160725T084932Z">
+        <seg>Pure BASIC 在线文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pure Basic forums</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084919Z" creationid="MysticBoy" creationdate="20160725T084919Z">
+        <seg>Pure BASIC 中文社区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pure Basic support site</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105242Z" creationid="MysticBoy" creationdate="20160721T105242Z">
@@ -2523,6 +2555,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174117Z" creationid="MysticBoy" creationdate="20160721T053643Z">
         <seg>PureBasic︰ 本机编译器，简单且已优化的BASIC 编程语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic Documentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084927Z" creationid="MysticBoy" creationdate="20160725T084927Z">
+        <seg>PureBasic中文 在线文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic Forums</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084901Z" creationid="MysticBoy" creationdate="20160725T084901Z">
+        <seg>PureBasic 中文社区</seg>
       </tuv>
     </tu>
     <tu>
@@ -2567,6 +2615,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic documentation in PDF format (full version)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T085003Z" creationid="MysticBoy" creationdate="20160725T085003Z">
+        <seg>PureBasic   PDF 英文格式文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic documentation in PDF format (without libraries commands)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T085018Z" creationid="MysticBoy" creationdate="20160725T085018Z">
+        <seg>PureBasic PDF格式，不带库指令的版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic has been created for the beginner and expert alike.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055207Z" creationid="MysticBoy" creationdate="20160721T055207Z">
@@ -2595,6 +2659,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054204Z" creationid="MysticBoy" creationdate="20160721T054204Z">
         <seg>PureBasic 是一个基于BASIC规定的编程语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic online documentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084944Z" creationid="MysticBoy" creationdate="20160725T084944Z">
+        <seg>PureBasic 在线文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -3713,6 +3785,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Timo Harter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084739Z" creationid="MysticBoy" creationdate="20160725T084739Z">
+        <seg>漂流瓶儿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Title$ (optional)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082358Z" creationid="MysticBoy" creationdate="20160720T082358Z">
@@ -3825,6 +3905,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Webmaster :</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084830Z" creationid="MysticBoy" creationdate="20160725T084830Z">
+        <seg>网站管理员 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whether or not the alpha channel is used depends on the &lt;a2&gt;drawing mode&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041622Z" creationid="oSilas" creationdate="20151013T041622Z">
@@ -3853,6 +3941,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141438Z">
         <seg>向程序的标准错误输出中写入一个字符串(具有换行符)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yann Vanlerberghe</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084836Z" creationid="MysticBoy" creationdate="20160725T084836Z">
+        <seg>麦壳饼</seg>
       </tuv>
     </tu>
     <tu>
@@ -3937,6 +4033,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://forums.purebasic.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084914Z" creationid="MysticBoy" creationdate="20160725T084914Z">
+        <seg>http://www.purebasic.hk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://www.purebasic.com</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154232Z" creationid="MysticBoy" creationdate="20160724T154232Z">
@@ -3969,9 +4073,41 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>mail to Timo Harter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084747Z" creationid="MysticBoy" creationdate="20160725T084747Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mail to Yann Vanlergerghe</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084851Z" creationid="MysticBoy" creationdate="20160725T084851Z">
+        <seg>q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mailto:freak@purebasic.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084753Z" creationid="MysticBoy" creationdate="20160725T084742Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mailto:support@purebasic.com</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154154Z" creationid="MysticBoy" creationdate="20160724T154154Z">
+        <seg>mailto:100860505@qq.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mailto:webmaster@purebasic.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084844Z" creationid="MysticBoy" creationdate="20160725T084844Z">
         <seg>mailto:100860505@qq.com</seg>
       </tuv>
     </tu>
