@@ -520,8 +520,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;Deutsch&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154344Z" creationid="MysticBoy" creationdate="20160724T154344Z">
-        <seg>&lt;a0&gt;德语&lt;/a0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080624Z" creationid="MysticBoy" creationdate="20160724T154344Z">
+        <seg>&lt;a0&gt;英语&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105259Z" creationid="MysticBoy" creationdate="20160721T105259Z">
         <seg>&lt;b0&gt;PureBasic 资源&lt;/b0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;PureBasic&lt;/b0&gt; is a low cost programming language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080745Z" creationid="MysticBoy" creationdate="20160725T080745Z">
+        <seg>&lt;b0&gt;PureBasic&lt;/b0&gt; 是一个便宜的编程语言.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1931,6 +1939,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080512Z" creationid="Silas" creationdate="20160720T080512Z">
         <seg>导入/导出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In buying PureBasic you will ensure that development will go further and faster.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080754Z" creationid="MysticBoy" creationdate="20160725T080754Z">
+        <seg>在购买的PureBasic您将确保发展将走的更远，更快。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3273,6 +3289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The updates are unlimited, unlike most other software out there.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080800Z" creationid="MysticBoy" creationdate="20160725T080800Z">
+        <seg>这些更新是无限的，与其他大多数软件在那里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The vertical position in the console to move to (starting from 0)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T134911Z" creationid="oSilas" creationdate="20141124T134911Z">
@@ -3681,10 +3705,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>french/ordering.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080707Z" creationid="MysticBoy" creationdate="20160725T080707Z">
+        <seg>http://www.purebasic.com/french/ordering.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>german/index.htm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154309Z" creationid="MysticBoy" creationdate="20160724T154309Z">
         <seg>http://www.purebasic.com/german/index.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>german/ordering.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080619Z" creationid="MysticBoy" creationdate="20160725T080619Z">
+        <seg>http://www.purebasic.com/ordering.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -3715,8 +3755,8 @@
       <tuv lang="EN-US">
         <seg>purebasic,PUREBASIC,pure basic,PURE BASIC,basic,BASIC,compiler,COMPILER,language,LANGUAGE,programming,PROGRAMMING,optimized,OPTIMIZED,easy,EASY,programming language,basic programming language,basic compiler,BASIC COMPILER,visual basic compiler,easy programming language,optimized programming language, games, applications, game, application, buy, ordering, order, Fantaisie Software,pic basic compiler,c compiler,c++ compiler,compilers,qbasic compiler,asm,computer programming,c programming,game programming,programming languages,c,c++,java,visual c++,linux,windows,nt,VisualC++,LccWin32,VisualBasic,visual basic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054424Z" creationid="MysticBoy" creationdate="20160721T054424Z">
-        <seg>purebasic,PUREBASIC,pure basic,PURE BASIC,basic,BASIC,compiler,COMPILER,language,LANGUAGE,programming,PROGRAMMING,optimized,OPTIMIZED,easy,EASY,programming language,basic编程语言,basic compiler,BASIC COMPILER,visual basic 比哪一期,简易编程语言,经过优化的贬称该语言, games, 应用程序, 游戏, 应用, buy, ordering, 订单, Fantaisie Software,pic basic 编译器,c 编译器,c++ 编译器,编译器,qbasic 编译器,asm,计算机 编程,c 编程,游戏编程,编程语言,c,c++,java,visual c++,linux,windows,nt,VisualC++,LccWin32,VisualBasic,visual basic</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080554Z" creationid="MysticBoy" creationdate="20160721T054424Z">
+        <seg>purebasic,PUREBASIC,pure basic,PURE BASIC,basic,BASIC,compiler,COMPILER,language,LANGUAGE,programming,PROGRAMMING,optimized,OPTIMIZED,easy,EASY,programming language,basic编程语言,basic compiler,BASIC COMPILER,visual basic 编译器,简易编程语言,高度优化编程语言, games, 应用程序, 游戏, 应用, buy, ordering, 订单, Fantaisie Software,pic basic 编译器,c 编译器,c++ 编译器,编译器,qbasic 编译器,asm,计算机 编程,c 编程,游戏编程,编程语言,c,c++,java,visual c++,linux,windows,nt,VisualC++,LccWin32,VisualBasic,visual basic</seg>
       </tuv>
     </tu>
     <tu>
