@@ -1623,6 +1623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can I create commercial applications with PureBasic ?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091449Z" creationid="MysticBoy" creationdate="20160725T091449Z">
+        <seg>我使用PureBasic创建商业应用？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the colors used by the text display.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112047Z">
@@ -1763,6 +1771,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110627Z">
         <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does PureBasic have a visual editor ?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091652Z" creationid="MysticBoy" creationdate="20160725T091652Z">
+        <seg> PureBasic有可视化编辑器？</seg>
       </tuv>
     </tu>
     <tu>
@@ -1991,6 +2007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generally yes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091539Z" creationid="MysticBoy" creationdate="20160725T091539Z">
+        <seg>一般来说是的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>German Pure Basic forum</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082937Z" creationid="MysticBoy" creationdate="20160723T174944Z">
@@ -2131,6 +2155,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054519Z" creationid="MysticBoy" creationdate="20160721T054519Z">
         <seg>介绍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is PureBasic really small and fast ?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091628Z" creationid="MysticBoy" creationdate="20160725T091628Z">
+        <seg> PureBasic真的小巧并且速度很快？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is it allowed to use DLLs made with PureBasic in other projects ?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091534Z" creationid="MysticBoy" creationdate="20160725T091534Z">
+        <seg>难道是允许使用在其他项目的PureBasic制成的DLL？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is the PureBasic licence valid for all OS ?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091414Z" creationid="MysticBoy" creationdate="20160725T091414Z">
+        <seg>PureBasic的许可在所有操作系统都有效？</seg>
       </tuv>
     </tu>
     <tu>
@@ -2387,6 +2435,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T111853Z">
         <seg>当年你关闭控制台后，将不能使用任何与控制台有关的函数，除非你再次打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you get PureBasic, you can do any kind of program (freeware, shareware and even commercial applications) without have to pay any extra costs to Fantaisie Software.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091521Z" creationid="MysticBoy" creationdate="20160725T091521Z">
+        <seg>一旦你拥有PureBasic，你可以做任何一种程序（免费软件，共享软件，甚至商业应用），而不需要支付任何额外费用到 Fantaisie Software。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4029,6 +4085,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091115Z" creationid="MysticBoy" creationdate="20160725T091115Z">
         <seg>http://www.purebasic.com/french/download.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>french/faq.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091357Z" creationid="MysticBoy" creationdate="20160725T091357Z">
+        <seg>http://www.purebasic.com/french/faq.php</seg>
       </tuv>
     </tu>
     <tu>
