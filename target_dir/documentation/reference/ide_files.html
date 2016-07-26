@@ -1,139 +1,17 @@
 <html><head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Working with source files</title></head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>源码文件处理</title></head>
 <body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
-<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">Working with source files</font></b></p>
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">源码文件处理</font></b></p>
 
-
-
-The file menu allows you to do basic file operations like opening 
-and saving source codes. 
-<br>
-<br>
-You can edit multiple source code files at the same 
-time. You can switch between them using the panel located under 
-the Toolbar. Also the shortcut keys Ctrl+Tab and Ctrl+Shift+Tab can 
-be used to jump to the next or previous open source file, respectively. 
-
-<br>
+文件菜单允许您做基本的文件操作，比如打开和保存源代码。<br><br>您可以同时编辑多个源代码文件。您可以使用位于工具栏下方的面板切换它们。此外快捷键 Ctrl + Tab 和 Ctrl + Shift + Tab 分别可以用于跳转到下一个或上一个打开的源文件中。<br><br>IDE 允许编辑非源代码的文本文件。在"纯文本"模式下，相关代码的特新比如着色、 大小写转换，自动完成代码会被禁用。保存纯文本的文件时，IDE 不会将其设置附加到文件的末尾，即使已经配置为<a href="ide_preferences.html">首选项</a>的代码文件。是否文件被认为是一个代码文件，或不取决于文件扩展名。标准的 PureBasic 文件扩展名 （pb、 pbi 和 pbf） 是认定代码文件。更多的文件扩展名可以被视为代码文件通过的<a href="ide_preferences.html">首选项</a>中的"编辑器"配置其扩展名。<br>
 <br>
 
-The IDE allows the editing of non-sourcecode text files. In this "plain text" mode, code-related 
-features such as coloring, case correction, auto complete are disabled. When saving plain text 
-files, the IDE will not append its settings to the end of the file, even if this is configured 
-for code files in the <a href="ide_preferences.html">Preferences</a>. 
-Whether or not a file is considered a code-file or not depends on the file extension. The standard 
-PureBasic file extensions (pb, pbi and pbf) are recognized as code files. More file extensions 
-can be recognized as code files by configuring their extension in the "Editor" section of the 
-<a href="ide_preferences.html">Preferences</a>. 
-
-<br>
-<br>
-
-<p><b>Contents of the "File" menu:</b></p><blockquote>
+<p><b>"文件"菜单内容:</b></p><blockquote>
 
 
 <p><img src="images/ide_menu_file.png"></p>
 
-<b>New</b> 
-<br>
-Create a new empty source code file. 
-
-<br>
-<br>
-
-<b>Open</b> 
-<br>
-Open an existing source code file for editing. 
-<br>
-<br>
-Any text file will be loaded into the source-editing field. You can also load binary 
-files with the Open menu. These will be displayed in the internal 
-<a href="ide_tools.html">File Viewer</a>. 
-
-<br>
-<br>
-
-<b>Save</b> 
-<br>
-Saves the currently active source to disk. If the file isn't saved yet, you will be 
-prompted for a filename. Otherwise the code will be saved in the file it was saved in before. 
-
-<br>
-<br>
-
-<b>Save As...</b> 
-<br>
-Save the currently active source to a different location than it was saved before. This prompts 
-you for a new filename and leaves the old file (if any) untouched. 
-
-<br>
-<br>
-
-<b>Save All</b> 
-<br>
-Saves all currently opened sources. 
-
-<br>
-<br>
-
-<b>Reload</b> 
-<br>
-Reloads the currently active source code from disk. This discards any changes not yet saved. 
-
-<br>
-<br>
-
-<b>Close</b> 
-<br>
-Closes the currently active source code. If it was the only open code, the IDE will display a new empty file. 
-
-<br>
-<br>
-
-<b>Close All</b> 
-<br>
-Closes all currently opened sources. 
-
-<br>
-<br>
-
-<b>View changes</b> 
-<br>
-Shows the changes made to the current source code compared to its version that exists on the hard drive. 
-
-<br>
-<br>
-
-<b>File format</b> 
-<br>
-In this submenu you can select the text encoding as well as the newline format which should be used when the currently 
-active source code is saved to disk. The IDE can handle files in Ascii or UTF-8. The newline formats it can handle are 
-Windows (CRLF), Linux/Unix (LF) and MacOSX (CR). The defaults for newly created source codes can be set in the 
-<a href="ide_preferences.html">preferences</a>. 
-
-<br>
-<br>
-
-<b>Preferences</b> 
-<br>
-Here you can change all the settings that control the look &amp; behavior of the IDE. For a detailed 
-description of that see <a href="ide_preferences.html">Customizing the IDE</a>. 
-
-<br>
-<br>
-
-<b>Session history</b> 
-<br>
-Session history is a powerful tool which regularly records changes made to any files in a database. 
-A session is created when the IDE launch, and is closed when the IDE quits. 
-This is useful to rollback to a previous version of a file, or to find back a deleted 
-or corrupted file. It's like source backup tool, limited in time (by default one month 
-of recording). It's not aimed to replace a real source code version control system like SVN or GIT. It's complementary 
-to have finer change trace. The source code will be stored without encryption, so if you are working on 
-sensitive source code, be sure to have this database file in a secure location, or disable this feature. 
-To configure the session history tool, see <a href="ide_preferences.html">preferences</a>. 
-
- 
+<b>新建</b> <br>创建新的空源代码文件. <br><br><b>打开</b> <br>打开现有的源代码文件进行编辑。<br><br>任何文本的文件将加载到源编辑字段。您也可以加载二进制文件与打开的菜单。这些将在内部<a href="ide_tools.html">文件查看器</a>中显示。<br><br><b>保存</b> <br>将当前活动的源代码保存到磁盘。如果文件从未保存，将提示您输入文件名。否则代码将会被保存到之前已经保存的文件中。<br><br><b>另存为...</b> <br>保存当前文件到与上次保存位置不同的另一个位置. 你将需要为它命一个名。除此之外，源码将会被保存在上次保存的文件中。. <br><br><b>保存全部</b> <br>保存所有当前打开源码。<br><br><b>重新加载</b> <br>重新从磁盘载入当前活动源码。. 这将放弃所做的任何更改。 <br><br><b>关闭</b> <br>关闭当前激活的源码. 如果它是唯一打开的源码，开发环境将会显示一个新的空白文件。<br><br><b>关闭全部</b> <br>关闭所有当前打开源码。<br><br><b>查看更改</b><br>显示当前源码与硬盘中存在的另一版本之间的变化。<br><br><b>文件格式</b><br>在这个子菜单中，你可以选择用于当前激活的源码保存到磁盘中时的文本编码格式和换行符制式。开发环境能设定文件编码为Ascii或UTF-8。可以设定换行符制式为Windows(CRLF), Linux/Unix (LF)和MacOSX (CR)。新建源码文件的默认值可以在<a href="ide_preferences.html">首选项</a>中设置。<br><br><b>配置</b> <br>在这里你可以更改IDE所有设置来控制外观与行为。详细说明，请参阅<a href="ide_preferences.html">自定义 IDE</a>。<br><br><b>会话历史</b><br>会话历史记录是一个强大的工具，定期记录到数据库中的任何文件所做的更改。会话在IDE 启动事创建，IDE退出时关闭。对于回滚到以前的版本的文件或找回被删除或损坏的文件非常有用。这就像源码备份工具，但限制了时间 （默认情况下是一个月的记录）。它的目的不是要取代像 SVN 或 GIT这样真正的源代码版本控制系统。它是互补有更细的更改跟踪。源代码不加密存储，所以，如果你工作用到的的是比较敏感的源代码，请把数据库放在一个安全的位置，或者禁用此功能。若要配置会话历史的工具，请参阅<a href="ide_preferences.html">首选项</a>。 
 
 <p><img src="images/ide_sessionhistory.png"></p>
 
@@ -141,17 +19,6 @@ To configure the session history tool, see <a href="ide_preferences.html">prefer
 <br>
 <br>
 
-<b>Recent Files</b> 
-<br>
-Here you can see a list of the last accessed files. Selecting a file in this submenu will open it again. 
-
-<br>
-<br>
-
-<b>Quit</b> 
-<br>
-This of course closes the IDE. You will be asked to save any non-saved source codes. 
-
- 
+<b>最近使用文件</b> <br>在这里你可以看到最后被访问的文件的列表。在此子菜单中选择一个文件将它再次打开。<br><br><b>退出</b> <br>当然，这个是用来关闭 IDE的。你会被询问是否保存任何未保存的源代码。 
 
 </body></html>

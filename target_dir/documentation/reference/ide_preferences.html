@@ -729,61 +729,7 @@ If enabled, any found issues are shown as an entry in the procedure browser tool
 
 <p><img src="images/ide_prefs_sessionhistory.png"></p>
 
-
-
-Allows to configure how the session history is recording changes. 
-
-<br>
-<br>
-
-<b>Enable recording of history</b> 
-<br>
-Enable or disable the history session recording. When enabled, all the changes made to a file will be recorded 
-in the background in a database. A session is created when the IDE launch, and is closed when the IDE quits. 
-This is useful to rollback to a previous version of a file, or to find back a deleted 
-or corrupted file. It's like a very powerful source backup tool, limited in time (by default one month 
-of recording). It's not aimed to replace a real source versioning system like SVN or GIT. It's complementary 
-to have finer change trace. The source code will be stored without encryption, so if you are working on 
-sensitive source code, be sure to have this database file in a secure location, or disable this feature. 
-It's possible to define the session history database location using an <a href="ide_commandline.html">IDE command-line</a> switch. 
-<br>
-<br>
-
-<b>Record change every X minutes</b> 
-<br>
-Change the interval between each silent recording (when editing). A file will be automatically recorded when 
-saving or closing it. 
-
-<br>
-<br>
-
-<b>Record only changes to files smaller than X kilobytes</b> 
-<br>
-Change the maximum size (in kilobytes) of the files being recorded. This allow to exclude very big files which 
-could make the database grow a lot. 
-
-<br>
-<br>
-
-<b>Keep all history</b> 
-<br>
-Keep all the history, the database is never purged. It will always grows, so it should be watched. 
-
-<br>
-<br>
-
-<b>Keep maximum X sessions</b> 
-<br>
-After reaching the maximum number of sessions, the oldest session will be removed from the database. 
-
-<br>
-<br>
-
-<b>Keep sessions for X days</b> 
-<br>
-After reaching the maximum number of days, the session will be removed from the database. 
-
- 
+Allows to configure how the session history is recording changes. <br><br><b>Enable recording of history</b> <br>Enable or disable the history session recording. When enabled, all the changes made to a file will be recorded in the background in a database. 会话在IDE 启动事创建，IDE退出时关闭。对于回滚到以前的版本的文件或找回被删除或损坏的文件非常有用。It's like a very powerful source backup tool, limited in time (by default one month of recording). It's not aimed to replace a real source versioning system like SVN or GIT. 它是互补有更细的更改跟踪。源代码不加密存储，所以，如果你工作用到的的是比较敏感的源代码，请把数据库放在一个安全的位置，或者禁用此功能。It's possible to define the session history database location using an <a href="ide_commandline.html">IDE command-line</a> switch. <br><br><b>Record change every X minutes</b> <br>Change the interval between each silent recording (when editing). A file will be automatically recorded when saving or closing it. <br><br><b>Record only changes to files smaller than X kilobytes</b> <br>Change the maximum size (in kilobytes) of the files being recorded. This allow to exclude very big files which could make the database grow a lot. <br><br><b>Keep all history</b> <br>Keep all the history, the database is never purged. It will always grows, so it should be watched. <br><br><b>Keep maximum X sessions</b> <br>After reaching the maximum number of sessions, the oldest session will be removed from the database. <br><br><b>Keep sessions for X days</b> <br>After reaching the maximum number of days, the session will be removed from the database. 
 
 </blockquote>
 <p><b>Compiler</b></p><blockquote>
