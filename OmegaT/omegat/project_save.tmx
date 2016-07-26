@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a5&gt;SQLite SQL functions&lt;/a5&gt; &lt;br6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T032630Z" creationid="MysticBoy" creationdate="20160726T032630Z">
+        <seg>&lt;a5&gt;SQLite SQL 函数&lt;/a5&gt; &lt;br6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a6&gt;Blue&lt;/a6&gt;&lt;br7&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040652Z" creationid="oSilas" creationdate="20151013T040652Z">
@@ -1042,6 +1050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083844Z" creationid="MysticBoy" creationdate="20160720T083844Z">
         <seg>&lt;a6&gt;音乐&lt;/a6&gt;&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a7&gt;PostgreSQL manual&lt;/a7&gt; &lt;br8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T032611Z" creationid="MysticBoy" creationdate="20160726T032611Z">
+        <seg>&lt;a7&gt;PostgreSQL 手册&lt;/a7&gt; &lt;br8&gt;</seg>
       </tuv>
     </tu>
     <tu>
