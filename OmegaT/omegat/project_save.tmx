@@ -1318,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b31&gt;Close All&lt;/b31&gt; &lt;br32&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053208Z" creationid="MysticBoy" creationdate="20160726T053208Z">
+        <seg>&lt;b31&gt;关闭全部&lt;/b31&gt; &lt;br32&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b33&gt;Technical Features&lt;/b33&gt;&lt;br34&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175156Z" creationid="MysticBoy" creationdate="20160723T175156Z">
@@ -1823,6 +1831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Closes the currently active source code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053150Z" creationid="MysticBoy" creationdate="20160726T053150Z">
+        <seg>关闭当前激活的源码.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color (optional)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135243Z" creationid="MysticBoy" creationdate="20160723T135243Z">
@@ -2251,6 +2267,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082622Z" creationid="MysticBoy" creationdate="20160720T082622Z">
         <seg>如果result 为0，表示已经失败并且必须禁止所有进一步调用到的控制台函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it was the only open code, the IDE will display a new empty file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053157Z" creationid="MysticBoy" creationdate="20160726T053157Z">
+        <seg>如果它是唯一打开的源码，开发环境将会显示一个新的空白文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2983,6 +3007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reloads the currently active source code from disk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053131Z" creationid="MysticBoy" creationdate="20160726T053131Z">
+        <seg>重新从磁盘载入当前活动源码。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remarks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T134225Z">
@@ -3107,6 +3139,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T031528Z" creationid="oSilas" creationdate="20141128T031528Z">
         <seg>返回值的蓝色分量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save the currently active source to a different location than it was saved before.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053015Z" creationid="MysticBoy" creationdate="20160726T053015Z">
+        <seg>保存当前文件到与上次保存位置不同的另一个位置.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saves all currently opened sources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053119Z" creationid="MysticBoy" creationdate="20160726T053119Z">
+        <seg>保存所有当前打开源码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4001,6 +4049,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This discards any changes not yet saved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053141Z" creationid="MysticBoy" creationdate="20160726T053141Z">
+        <seg>这将放弃所做的任何更改。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This function allows you to change the height of the cursor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141250Z">
@@ -4109,6 +4165,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T134613Z" creationid="oSilas" creationdate="20141124T134613Z">
         <seg>此输出可以读取，比如在 &lt;a1&gt;Process&lt;/a1&gt; 中使用 &lt;a0&gt;ReadProgramError()&lt;/a0&gt;函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This prompts you for a new filename and leaves the old file (if any) untouched.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053112Z" creationid="MysticBoy" creationdate="20160726T053112Z">
+        <seg>你将需要为它命一个名。除此之外，源码将会被保存在上次保存的文件中。.</seg>
       </tuv>
     </tu>
     <tu>
