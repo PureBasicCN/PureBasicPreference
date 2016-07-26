@@ -1911,6 +1911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Database programming starts by initializing the database environment using &lt;a10&gt;UseODBCDatabase()&lt;/a10&gt;, &lt;a11&gt;UseSQLiteDatabase()&lt;/a11&gt;, and &lt;a12&gt;UsePostgreSQLDatabase()&lt;/a12&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T033154Z" creationid="MysticBoy" creationdate="20160726T033154Z">
+        <seg>数据库编程开始前需要由&lt;a10&gt;UseODBCDatabase()&lt;/a10&gt;、 &lt;a11&gt;UseSQLiteDatabase()&lt;/a11&gt;和&lt;a12&gt;UsePostgreSQLDatabase()&lt;/a12&gt;来初始化的数据库环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Define a bounding box that restricts all drawing to the current drawing output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T033256Z" creationid="oSilas" creationdate="20141128T033140Z">
@@ -2107,6 +2115,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080830Z" creationid="MysticBoy" creationdate="20160725T080830Z">
         <seg>为了便于订购的，你可以放心地使用我们的安全的在线方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information, refer to Windows's ODBC help document.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T033408Z" creationid="MysticBoy" creationdate="20160726T033408Z">
+        <seg>更多的信息，请参阅 Windows 的 ODBC 帮助文档。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2547,6 +2563,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045455Z" creationid="oSilas" creationdate="20150312T045455Z">
         <seg>注： 这种模式不能与&lt;a2&gt;PrinterOutput()&lt;/a2&gt;同时工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: Under Windows, prior to using an ODBC database, it is necessary to establish an ODBC "User Data Source" which makes your database available via ODBC and useable with this Database library.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T033359Z" creationid="MysticBoy" creationdate="20160726T033359Z">
+        <seg>注意: 在 Windows 中使用 ODBC 数据库，, 就必须建立 ODBC"用户数据源"，因此你的数据库源 ODBC必须有效 并且此数据库必须可用。</seg>
       </tuv>
     </tu>
     <tu>
