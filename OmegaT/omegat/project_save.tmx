@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;New&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022911Z" creationid="MysticBoy" creationdate="20160726T022911Z">
+        <seg>&lt;b0&gt;新建&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;PureBasic Chat&lt;/b0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105152Z" creationid="MysticBoy" creationdate="20160721T105152Z">
@@ -1222,10 +1230,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b11&gt;Save&lt;/b11&gt; &lt;br12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022905Z" creationid="MysticBoy" creationdate="20160726T022905Z">
+        <seg>&lt;b11&gt;保存&lt;/b11&gt; &lt;br12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b15&gt;Save As...&lt;/b15&gt; &lt;br16&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023047Z" creationid="MysticBoy" creationdate="20160726T023047Z">
+        <seg>&lt;b15&gt;另存为...&lt;/b15&gt; &lt;br16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b17&gt;Variable Viewer&lt;/b17&gt; &lt;br18&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080349Z" creationid="Silas" creationdate="20160720T080349Z">
         <seg>&lt;b17&gt;变量查看器&lt;/b17&gt; &lt;br18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b19&gt;Save All&lt;/b19&gt; &lt;br20&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022900Z" creationid="MysticBoy" creationdate="20160726T022900Z">
+        <seg>&lt;b19&gt;保存全部&lt;/b19&gt; &lt;br20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,10 +1270,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b23&gt;Reload&lt;/b23&gt; &lt;br24&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022848Z" creationid="MysticBoy" creationdate="20160726T022848Z">
+        <seg>&lt;b23&gt;重新加载&lt;/b23&gt; &lt;br24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b24&gt;Specific features depending on the OS&lt;/b24&gt; &lt;br25&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084406Z" creationid="MysticBoy" creationdate="20160723T173604Z">
         <seg>&lt;b24&gt;针对操作系统的差异化特性&lt;/b24&gt;&lt;br25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b27&gt;Close&lt;/b27&gt; &lt;br28&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022851Z" creationid="MysticBoy" creationdate="20160726T022851Z">
+        <seg>&lt;b27&gt;关闭&lt;/b27&gt; &lt;br28&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1258,6 +1306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175156Z" creationid="MysticBoy" creationdate="20160723T175156Z">
         <seg>&lt;b33&gt;技术特点&lt;/b33&gt;&lt;br34&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b35&gt;View changes&lt;/b35&gt; &lt;br36&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022840Z" creationid="MysticBoy" creationdate="20160726T022840Z">
+        <seg>&lt;b35&gt;查看更改&lt;/b35&gt;&lt;br36&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,6 +1362,14 @@
 &lt;f9&gt;      PrintN&lt;/f9&gt;("按回车键关闭控制台")
 &lt;f10&gt;      Input&lt;/f10&gt;()
 &lt;f11&gt;      CloseConsole&lt;/f11&gt;()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b4&gt;Open&lt;/b4&gt; &lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022937Z" creationid="MysticBoy" creationdate="20160726T022937Z">
+        <seg>&lt;b4&gt;打开&lt;/b4&gt; &lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1759,6 +1823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contents of the "File" menu:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022931Z" creationid="MysticBoy" creationdate="20160726T022931Z">
+        <seg>"文件"菜单内容:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright © 2015 Fantaisie Software</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154141Z" creationid="MysticBoy" creationdate="20160724T154141Z">
@@ -1787,6 +1859,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054640Z" creationid="MysticBoy" creationdate="20160721T054640Z">
         <seg>国家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new empty source code file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023004Z" creationid="MysticBoy" creationdate="20160726T023004Z">
+        <seg>创建新的空源代码文件.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2535,6 +2615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open an existing source code file for editing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023022Z" creationid="MysticBoy" creationdate="20160726T023022Z">
+        <seg>打开现有的源代码文件进行编辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ordering</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054904Z" creationid="MysticBoy" creationdate="20160721T054904Z">
@@ -2963,6 +3051,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T031528Z" creationid="oSilas" creationdate="20141128T031528Z">
         <seg>返回值的蓝色分量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saves the currently active source to disk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023039Z" creationid="MysticBoy" creationdate="20160726T023039Z">
+        <seg>将当前活动的源代码保存到磁盘。</seg>
       </tuv>
     </tu>
     <tu>
