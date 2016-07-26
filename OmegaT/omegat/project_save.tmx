@@ -1735,6 +1735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any text file will be loaded into the source-editing field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054133Z" creationid="MysticBoy" creationdate="20160726T054133Z">
+        <seg>任何文本的文件将加载到源编辑字段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any text you print after calling this function will start from the specified coordinates.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T134818Z" creationid="oSilas" creationdate="20141124T134818Z">
@@ -3993,6 +4001,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The source code will be stored without encryption, so if you are working on sensitive source code, be sure to have this database file in a secure location, or disable this feature.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054034Z" creationid="MysticBoy" creationdate="20160726T054034Z">
+        <seg>源代码不加密存储，所以，如果你工作用到的的是比较敏感的源代码，请把数据库放在一个安全的位置，或者禁用此功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The standard PureBasic file extensions (pb, pbi and pbf) are recognized as code files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022011Z" creationid="MysticBoy" creationdate="20160726T022011Z">
@@ -4541,6 +4557,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174229Z" creationid="MysticBoy" creationdate="20160723T174229Z">
         <seg>是.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also load binary files with the Open menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054148Z" creationid="MysticBoy" creationdate="20160726T054148Z">
+        <seg>您也可以加载二进制文件与打开的菜单。</seg>
       </tuv>
     </tu>
     <tu>
