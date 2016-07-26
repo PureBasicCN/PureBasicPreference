@@ -3393,6 +3393,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The file menu allows you to do basic file operations like opening and saving source codes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020236Z" creationid="MysticBoy" creationdate="20160726T020236Z">
+        <seg>文件菜单允许您做基本的文件操作，比如打开和保存源代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The filling mode is determined by &lt;a0&gt;DrawingMode()&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041106Z">
@@ -4049,6 +4057,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Working with source files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020211Z" creationid="MysticBoy" creationdate="20160726T020211Z">
+        <seg>源码文件处理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Writes the Message string (plus a newline) to the standard error output of the program.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141438Z">
@@ -4069,6 +4085,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174229Z" creationid="MysticBoy" creationdate="20160723T174229Z">
         <seg>是.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can edit multiple source code files at the same time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020251Z" creationid="MysticBoy" creationdate="20160726T020251Z">
+        <seg>您可以同时编辑多个源代码文件。</seg>
       </tuv>
     </tu>
     <tu>
