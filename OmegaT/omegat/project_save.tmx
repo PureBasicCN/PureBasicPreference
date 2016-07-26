@@ -544,8 +544,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;Deutsch&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082128Z" creationid="MysticBoy" creationdate="20160724T154344Z">
-        <seg>&lt;a0&gt;英语&lt;/a0&gt; </seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054533Z" creationid="MysticBoy" creationdate="20160726T054533Z">
+        <seg>&lt;a0&gt;英语&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,7 +560,7 @@
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;Francais&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154329Z" creationid="MysticBoy" creationdate="20160724T154329Z">
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054518Z" creationid="MysticBoy" creationdate="20160726T054518Z">
         <seg>&lt;a0&gt;法语&lt;/a0&gt;</seg>
       </tuv>
     </tu>
@@ -2335,6 +2335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the file isn't saved yet, you will be prompted for a filename.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054253Z" creationid="MysticBoy" creationdate="20160726T054253Z">
+        <seg>如果文件从未保存，将提示您输入文件名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If these parameters are not specified then the image will be drawn in its original size.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T050427Z" creationid="oSilas" creationdate="20151013T050427Z">
@@ -2591,6 +2599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More file extensions can be recognized as code files by configuring their extension in the "Editor" section of the &lt;a5&gt;Preferences&lt;/a5&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054440Z" creationid="MysticBoy" creationdate="20160726T054440Z">
+        <seg>更多的文件扩展名可以被视为代码文件通过的&lt;a5&gt;首选项&lt;/a5&gt;中的"编辑器"配置其扩展名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More information can be found at &lt;a2&gt;StartDrawing()&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151007T084835Z" creationid="oSilas" creationdate="20151007T084835Z">
@@ -2795,6 +2811,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162607Z" creationid="MysticBoy" creationdate="20160723T162607Z">
         <seg>其他的在主菜单和工具栏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise the code will be saved in the file it was saved in before.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054835Z" creationid="MysticBoy" creationdate="20160726T054311Z">
+        <seg>否则代码将会被保存到之前已经保存的文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4121,6 +4145,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These will be displayed in the internal &lt;a8&gt;File Viewer&lt;/a8&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054200Z" creationid="MysticBoy" creationdate="20160726T054200Z">
+        <seg>这些将在内部&lt;a8&gt;文件查看器&lt;/a8&gt;中显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This allows the implementation of custom drawing effects while still using the default functions to do the actual drawing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045426Z" creationid="oSilas" creationdate="20150312T045426Z">
@@ -4667,8 +4699,8 @@
       <tuv lang="EN-US">
         <seg>french/index.htm</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154317Z" creationid="MysticBoy" creationdate="20160724T154317Z">
-        <seg>http://www.purebasic.cn/french/index.htm</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054559Z" creationid="MysticBoy" creationdate="20160724T154317Z">
+        <seg>http://www.purebasic.com/french/index.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -4701,6 +4733,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090853Z" creationid="MysticBoy" creationdate="20160725T090853Z">
         <seg>http://www.purebasic.com/french/screenshots.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>french/support.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054718Z" creationid="MysticBoy" creationdate="20160726T054718Z">
+        <seg>http://www.purebasic.comfrench/support.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -4765,6 +4805,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090759Z" creationid="MysticBoy" creationdate="20160725T090759Z">
         <seg>http://www.purebasic.com/screenshots.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>german/support.htm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054640Z" creationid="MysticBoy" creationdate="20160726T054640Z">
+        <seg>http://www.purebasic.com/support.php</seg>
       </tuv>
     </tu>
     <tu>
