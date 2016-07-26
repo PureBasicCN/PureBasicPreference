@@ -9,8 +9,9 @@
 ### 软件使用视频教程
  -  优酷在线视频视频教程   [http://v.youku.com/v_show/id_XMTY1ODczMDc2OA==.html](优酷在线视频)
  -  腾讯视频教程       [http://v.qq.com/x/page/u0316s3ctnr.html](腾讯视频)
-### 致谢： 
-迷路仟   QQ: 714095563 
- 小半头砖 waitfordawn@qq.com  
-漂流瓶儿 tsliuhaitao@qq.com
-麦壳饼 qq 100860505 
+
+# 致谢： 
+ - 迷路仟   QQ: 714095563 
+ - 小半头砖 waitfordawn@qq.com  
+ - 漂流瓶儿 tsliuhaitao@qq.com
+ - 麦壳饼 qq 100860505 
