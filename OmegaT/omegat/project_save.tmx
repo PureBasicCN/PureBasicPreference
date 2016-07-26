@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Recent Files&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022122Z" creationid="MysticBoy" creationdate="20160726T022122Z">
+        <seg>&lt;b0&gt;最近使用文件&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Registered users area&lt;/b0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T094340Z" creationid="MysticBoy" creationdate="20160723T173838Z">
@@ -1282,6 +1290,14 @@
 &lt;f9&gt;      PrintN&lt;/f9&gt;("按回车键关闭控制台")
 &lt;f10&gt;      Input&lt;/f10&gt;()
 &lt;f11&gt;      CloseConsole&lt;/f11&gt;()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b4&gt;Quit&lt;/b4&gt; &lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022021Z" creationid="MysticBoy" creationdate="20160726T022021Z">
+        <seg>&lt;b4&gt;退出&lt;/b4&gt; &lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2059,6 +2075,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140440Z" creationid="MysticBoy" creationdate="20160723T140440Z">
         <seg>这里显示了所有的源代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can see a list of the last accessed files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022128Z" creationid="MysticBoy" creationdate="20160726T022128Z">
+        <seg>在这里你可以看到最后被访问的文件的列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2959,6 +2983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting a file in this submenu will open it again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022156Z" creationid="MysticBoy" creationdate="20160726T022156Z">
+        <seg>在此子菜单中选择一个文件将它再次打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the default background color for graphic functions and text display.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041451Z" creationid="oSilas" creationdate="20151013T041451Z">
@@ -3625,6 +3657,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The standard PureBasic file extensions (pb, pbi and pbf) are recognized as code files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022011Z" creationid="MysticBoy" creationdate="20160726T022011Z">
+        <seg>标准的 PureBasic 文件扩展名 （pb、 pbi 和 pbf） 是认定代码文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The string to send.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141536Z">
@@ -3881,6 +3921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This of course closes the IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022041Z" creationid="MysticBoy" creationdate="20160726T022041Z">
+        <seg>当然，这个是用来关闭 IDE的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This output can be read for example with the &lt;a0&gt;ReadProgramError()&lt;/a0&gt; function of the &lt;a1&gt;Process&lt;/a1&gt; library.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T134613Z" creationid="oSilas" creationdate="20141124T134613Z">
@@ -3941,6 +3989,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T134905Z">
         <seg>要结合红、绿、蓝和Alpha值的顺序创建一个32位颜色，那么轻使用 &lt;a0&gt;RGBA()&lt;/a0&gt; 函数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To configure the session history tool, see &lt;a51&gt;preferences&lt;/a51&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022211Z" creationid="MysticBoy" creationdate="20160726T022211Z">
+        <seg>若要配置会话历史的工具，请参阅&lt;a51&gt;首选项&lt;/a51&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4149,6 +4205,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140458Z" creationid="MysticBoy" creationdate="20160723T140458Z">
         <seg>您可以与位于正上方的选项卡之间进行切换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will be asked to save any non-saved source codes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022110Z" creationid="MysticBoy" creationdate="20160726T022110Z">
+        <seg>你会被询问是否保存任何未保存的源代码。</seg>
       </tuv>
     </tu>
     <tu>
