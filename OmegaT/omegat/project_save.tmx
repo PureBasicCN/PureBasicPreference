@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b44&gt;Preferences&lt;/b44&gt; &lt;br45&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053419Z" creationid="MysticBoy" creationdate="20160726T053419Z">
+        <seg>&lt;b44&gt;配置&lt;/b44&gt; &lt;br45&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b49&gt;Session history&lt;/b49&gt; &lt;br50&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022232Z" creationid="MysticBoy" creationdate="20160726T022232Z">
@@ -1831,6 +1839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Closes all currently opened sources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053218Z" creationid="MysticBoy" creationdate="20160726T053218Z">
+        <seg>关闭所有当前打开源码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Closes the currently active source code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053150Z" creationid="MysticBoy" creationdate="20160726T053150Z">
@@ -2119,6 +2135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a detailed description of that see &lt;a46&gt;Customizing the IDE&lt;/a46&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053431Z" creationid="MysticBoy" creationdate="20160726T053431Z">
+        <seg>详细说明，请参阅&lt;a46&gt;自定义 IDE&lt;/a46&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For an example of how the drawing buffer can be used to create a nice visual effect, take a look here:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043043Z" creationid="oSilas" creationdate="20150312T043043Z">
@@ -2355,6 +2379,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140916Z" creationid="MysticBoy" creationdate="20160723T140916Z">
         <seg>在此区域显示编译器错误和调试消息的日志。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this submenu you can select the text encoding as well as the newline format which should be used when the currently active source code is saved to disk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053300Z" creationid="MysticBoy" creationdate="20160726T053300Z">
+        <seg>在这个子菜单中，你可以选择用于当前激活的源码保存到磁盘中时的文本编码格式和换行符制式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3255,6 +3287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shows the changes made to the current source code compared to its version that exists on the hard drive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053237Z" creationid="MysticBoy" creationdate="20160726T053237Z">
+        <seg>显示当前源码与硬盘中存在的另一版本之间的变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skip to content</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101624Z" creationid="MysticBoy" creationdate="20160721T101624Z">
@@ -3372,6 +3412,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020430Z" creationid="MysticBoy" creationdate="20160726T020430Z">
         <seg>IDE 允许编辑非源代码的文本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE can handle files in Ascii or UTF-8.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053310Z" creationid="MysticBoy" creationdate="20160726T053310Z">
+        <seg>开发环境能设定文件编码为Ascii或UTF-8。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3640,6 +3688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The defaults for newly created source codes can be set in the &lt;a41&gt;preferences&lt;/a41&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053408Z" creationid="MysticBoy" creationdate="20160726T053408Z">
+        <seg>新建源码文件的默认值可以在&lt;a41&gt;首选项&lt;/a41&gt;中设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The drawing origin is not modified by a call to this function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T033845Z" creationid="oSilas" creationdate="20141128T033845Z">
@@ -3805,6 +3861,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T140615Z">
         <seg>光标的新高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The newline formats it can handle are Windows (CRLF), Linux/Unix (LF) and MacOSX (CR).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053328Z" creationid="MysticBoy" creationdate="20160726T053328Z">
+        <seg>可以设定换行符制式为Windows(CRLF), Linux/Unix (LF)和MacOSX (CR)。</seg>
       </tuv>
     </tu>
     <tu>
