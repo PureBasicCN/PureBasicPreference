@@ -2151,6 +2151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this "plain text" mode, code-related features such as coloring, case correction, auto complete are disabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020910Z" creationid="MysticBoy" creationdate="20160726T020910Z">
+        <seg>在"纯文本"模式下，相关代码的特新比如着色、 大小写转换，自动完成代码会被禁用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this area, the compiler errors and debugger messages are logged.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140916Z" creationid="MysticBoy" creationdate="20160723T140916Z">
