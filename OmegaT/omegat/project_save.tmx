@@ -1551,6 +1551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also the shortcut keys Ctrl+Tab and Ctrl+Shift+Tab can be used to jump to the next or previous open source file, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020403Z" creationid="MysticBoy" creationdate="20160726T020403Z">
+        <seg>此外快捷键 Ctrl + Tab 和 Ctrl + Shift + Tab 分别可以用于跳转到下一个或上一个打开的源文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, console functions can be really helpful to debug a program by printing out some information to the console, without stopping the program flow.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T042232Z" creationid="oSilas" creationdate="20141122T042232Z">
@@ -3104,6 +3112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The IDE allows the editing of non-sourcecode text files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020430Z" creationid="MysticBoy" creationdate="20160726T020430Z">
+        <seg>IDE 允许编辑非源代码的文本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The IDE main window contains of 3 major parts: &lt;br4&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140350Z" creationid="MysticBoy" creationdate="20160723T140350Z">
@@ -4093,6 +4109,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020251Z" creationid="MysticBoy" creationdate="20160726T020251Z">
         <seg>您可以同时编辑多个源代码文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can switch between them using the panel located under the Toolbar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020326Z" creationid="MysticBoy" creationdate="20160726T020326Z">
+        <seg>您可以使用位于工具栏下方的面板切换它们。</seg>
       </tuv>
     </tu>
     <tu>
