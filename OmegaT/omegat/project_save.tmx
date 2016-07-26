@@ -1615,6 +1615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A session is created when the IDE launch, and is closed when the IDE quits.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053635Z" creationid="MysticBoy" creationdate="20160726T053635Z">
+        <seg>会话在IDE 启动事创建，IDE退出时关闭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A table with ASCII codes is available &lt;a2&gt;here&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T081938Z" creationid="MysticBoy" creationdate="20160720T081938Z">
@@ -2263,6 +2271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here you can change all the settings that control the look &amp; behavior of the IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053525Z" creationid="MysticBoy" creationdate="20160726T053525Z">
+        <seg>在这里你可以更改IDE所有设置来控制外观与行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here you can see a list of the last accessed files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022128Z" creationid="MysticBoy" creationdate="20160726T022128Z">
@@ -2483,6 +2499,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162640Z" creationid="MysticBoy" creationdate="20160723T162640Z">
         <seg>它显示相应的菜单命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's complementary to have finer change trace.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053828Z" creationid="MysticBoy" creationdate="20160726T053828Z">
+        <seg>它是互补有更细的更改跟踪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's like source backup tool, limited in time (by default one month of recording).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053751Z" creationid="MysticBoy" creationdate="20160726T053751Z">
+        <seg>这就像源码备份工具，但限制了时间 （默认情况下是一个月的记录）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's not aimed to replace a real source code version control system like SVN or GIT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053813Z" creationid="MysticBoy" creationdate="20160726T053813Z">
+        <seg>它的目的不是要取代像 SVN 或 GIT这样真正的源代码版本控制系统。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3235,6 +3275,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022156Z" creationid="MysticBoy" creationdate="20160726T022156Z">
         <seg>在此子菜单中选择一个文件将它再次打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Session history is a powerful tool which regularly records changes made to any files in a database.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053539Z" creationid="MysticBoy" creationdate="20160726T053539Z">
+        <seg>会话历史记录是一个强大的工具，定期记录到数据库中的任何文件所做的更改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4173,6 +4221,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T042253Z" creationid="oSilas" creationdate="20141122T042123Z">
         <seg>往往被用来创建小程序，或者不需要用户界面的程序，或者只是从函数线执行（比如调试程序时）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is useful to rollback to a previous version of a file, or to find back a deleted or corrupted file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053712Z" creationid="MysticBoy" creationdate="20160726T053712Z">
+        <seg>对于回滚到以前的版本的文件或找回被删除或损坏的文件非常有用。</seg>
       </tuv>
     </tu>
     <tu>
