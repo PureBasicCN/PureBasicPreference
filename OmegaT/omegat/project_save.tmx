@@ -1270,10 +1270,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b39&gt;File format&lt;/b39&gt; &lt;br40&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022337Z" creationid="MysticBoy" creationdate="20160726T022337Z">
+        <seg>&lt;b39&gt;文件格式&lt;/b39&gt;&lt;br40&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b41&gt;Do you want to know what users think about PureBasic ?&lt;/b41&gt; &lt;br42&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173614Z" creationid="MysticBoy" creationdate="20160721T055409Z">
         <seg>&lt;b41&gt;你想知道用户如何评价 PureBasic？&lt;/b41&gt;&lt;br42&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b49&gt;Session history&lt;/b49&gt; &lt;br50&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022232Z" creationid="MysticBoy" creationdate="20160726T022232Z">
+        <seg>&lt;b49&gt;会话历史&lt;/b49&gt;&lt;br50&gt;</seg>
       </tuv>
     </tu>
     <tu>
