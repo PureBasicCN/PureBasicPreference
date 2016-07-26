@@ -1615,6 +1615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accessing and updating data is done using SQL queries, therefore it is necessary to have an understanding of SQL syntax.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T032928Z" creationid="MysticBoy" creationdate="20160726T032928Z">
+        <seg>访问和更新数据使用 SQL 查询，因此它完成的是必须了解 SQL 语法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional coder :</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093321Z" creationid="MysticBoy" creationdate="20160725T084706Z">
@@ -2187,6 +2195,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140440Z" creationid="MysticBoy" creationdate="20160723T140440Z">
         <seg>这里显示了所有的源代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here are some links about SQL syntax: &lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T033012Z" creationid="MysticBoy" creationdate="20160726T033012Z">
+        <seg>以下是一些有关 SQL 语法的链接︰&lt;br2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3532,6 +3548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041123Z">
         <seg>开始绘制前使用 &lt;a1&gt;StartDrawing()&lt;/a1&gt;设置当前输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The database library is an easy set of functions to access SQLite, PostgreSQL or any database type (Oracle, MySQL, Access, etc) via ODBC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T032821Z" creationid="MysticBoy" creationdate="20160726T032821Z">
+        <seg>数据库函数库是一个简单设置函数来访问 SQLite, PostgreSQL 或者任何数据库类型(Oracle, MySQL, Access, 等等) via ODBC.</seg>
       </tuv>
     </tu>
     <tu>
