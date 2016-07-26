@@ -4049,6 +4049,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When saving plain text files, the IDE will not append its settings to the end of the file, even if this is configured for code files in the &lt;a4&gt;Preferences&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T021129Z" creationid="MysticBoy" creationdate="20160726T021129Z">
+        <seg>保存纯文本的文件时，IDE 不会将其设置附加到文件的末尾，即使已经配置为&lt;a4&gt;首选项&lt;/a4&gt;的代码文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether or not a file is considered a code-file or not depends on the file extension.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T021204Z" creationid="MysticBoy" creationdate="20160726T021204Z">
+        <seg>是否文件被认为是一个代码文件，或不取决于文件扩展名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whether or not the alpha channel is used depends on the &lt;a2&gt;drawing mode&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041622Z" creationid="oSilas" creationdate="20151013T041622Z">
