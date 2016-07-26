@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a5&gt;SQLite SQL functions&lt;/a5&gt; &lt;br6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T032630Z" creationid="MysticBoy" creationdate="20160726T032630Z">
+        <seg>&lt;a5&gt;SQLite SQL 函数&lt;/a5&gt; &lt;br6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a6&gt;Blue&lt;/a6&gt;&lt;br7&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040652Z" creationid="oSilas" creationdate="20151013T040652Z">
@@ -1042,6 +1050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083844Z" creationid="MysticBoy" creationdate="20160720T083844Z">
         <seg>&lt;a6&gt;音乐&lt;/a6&gt;&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a7&gt;PostgreSQL manual&lt;/a7&gt; &lt;br8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T032611Z" creationid="MysticBoy" creationdate="20160726T032611Z">
+        <seg>&lt;a7&gt;PostgreSQL 手册&lt;/a7&gt; &lt;br8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1599,6 +1615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accessing and updating data is done using SQL queries, therefore it is necessary to have an understanding of SQL syntax.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T032928Z" creationid="MysticBoy" creationdate="20160726T032928Z">
+        <seg>访问和更新数据使用 SQL 查询，因此它完成的是必须了解 SQL 语法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional coder :</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093321Z" creationid="MysticBoy" creationdate="20160725T084706Z">
@@ -1887,6 +1911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Database programming starts by initializing the database environment using &lt;a10&gt;UseODBCDatabase()&lt;/a10&gt;, &lt;a11&gt;UseSQLiteDatabase()&lt;/a11&gt;, and &lt;a12&gt;UsePostgreSQLDatabase()&lt;/a12&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T033154Z" creationid="MysticBoy" creationdate="20160726T033154Z">
+        <seg>数据库编程开始前需要由&lt;a10&gt;UseODBCDatabase()&lt;/a10&gt;、 &lt;a11&gt;UseSQLiteDatabase()&lt;/a11&gt;和&lt;a12&gt;UsePostgreSQLDatabase()&lt;/a12&gt;来初始化的数据库环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Define a bounding box that restricts all drawing to the current drawing output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T033256Z" creationid="oSilas" creationdate="20141128T033140Z">
@@ -2087,6 +2119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information, refer to Windows's ODBC help document.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T033408Z" creationid="MysticBoy" creationdate="20160726T033408Z">
+        <seg>更多的信息，请参阅 Windows 的 ODBC 帮助文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>French Pure Basic forum</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174955Z" creationid="MysticBoy" creationdate="20160723T174955Z">
@@ -2171,6 +2211,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140440Z" creationid="MysticBoy" creationdate="20160723T140440Z">
         <seg>这里显示了所有的源代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here are some links about SQL syntax: &lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T033012Z" creationid="MysticBoy" creationdate="20160726T033012Z">
+        <seg>以下是一些有关 SQL 语法的链接︰&lt;br2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2515,6 +2563,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045455Z" creationid="oSilas" creationdate="20150312T045455Z">
         <seg>注： 这种模式不能与&lt;a2&gt;PrinterOutput()&lt;/a2&gt;同时工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: Under Windows, prior to using an ODBC database, it is necessary to establish an ODBC "User Data Source" which makes your database available via ODBC and useable with this Database library.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T033359Z" creationid="MysticBoy" creationdate="20160726T033359Z">
+        <seg>注意: 在 Windows 中使用 ODBC 数据库，, 就必须建立 ODBC"用户数据源"，因此你的数据库源 ODBC必须有效 并且此数据库必须可用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3516,6 +3572,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041123Z">
         <seg>开始绘制前使用 &lt;a1&gt;StartDrawing()&lt;/a1&gt;设置当前输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The database library is an easy set of functions to access SQLite, PostgreSQL or any database type (Oracle, MySQL, Access, etc) via ODBC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T032821Z" creationid="MysticBoy" creationdate="20160726T032821Z">
+        <seg>数据库函数库是一个简单设置函数来访问 SQLite, PostgreSQL 或者任何数据库类型(Oracle, MySQL, Access, 等等) via ODBC.</seg>
       </tuv>
     </tu>
     <tu>
