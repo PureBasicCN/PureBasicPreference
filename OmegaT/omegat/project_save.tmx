@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2D Games &amp; Multimedia Libraries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070420Z" creationid="MysticBoy" creationdate="20160728T070420Z">
+        <seg>2D 游戏 &amp; 多媒体库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3D Games &amp; Multimedia Libraries</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083942Z" creationid="MysticBoy" creationdate="20160720T083942Z">
@@ -1022,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a4&gt;Platform-dependant Functions&lt;/a4&gt;&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070444Z" creationid="MysticBoy" creationdate="20160728T070444Z">
+        <seg>&lt;a4&gt;依赖于平台的功能&lt;/a4&gt;&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a4&gt;Pointers and Memory access&lt;/a4&gt;&lt;br5&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083511Z" creationid="MysticBoy" creationdate="20160720T083511Z">
@@ -1102,10 +1118,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a74&gt;Regular Expression&lt;/a74&gt;&lt;br75&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070348Z" creationid="MysticBoy" creationdate="20160728T070348Z">
+        <seg>&lt;a74&gt;正则表达式&lt;/a74&gt;&lt;br75&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a7&gt;PostgreSQL manual&lt;/a7&gt; &lt;br8&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T032611Z" creationid="MysticBoy" creationdate="20160726T032611Z">
         <seg>&lt;a7&gt;PostgreSQL 手册&lt;/a7&gt; &lt;br8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a82&gt;Serial Port&lt;/a82&gt;&lt;br83&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070355Z" creationid="MysticBoy" creationdate="20160728T070355Z">
+        <seg>&lt;a82&gt;串口&lt;/a82&gt;&lt;br83&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1402,6 +1434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174625Z" creationid="MysticBoy" creationdate="20160723T174625Z">
         <seg>&lt;b36&gt;技术特点&lt;/b36&gt;&lt;br37&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b38&gt;Product information&lt;/b38&gt;&lt;br39&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070148Z" creationid="MysticBoy" creationdate="20160728T070148Z">
+        <seg>&lt;b38&gt;产品信息&lt;/b38&gt;&lt;br39&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3139,6 +3179,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054204Z" creationid="MysticBoy" creationdate="20160721T054204Z">
         <seg>PureBasic 是一个基于BASIC规定的编程语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic is designed for both beginners and 'pure' advanced users alike.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070238Z" creationid="MysticBoy" creationdate="20160728T070238Z">
+        <seg>PureBasic 针对初学者和'pure' 高级用户并受到他们的好评.</seg>
       </tuv>
     </tu>
     <tu>
