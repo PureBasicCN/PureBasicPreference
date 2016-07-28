@@ -4769,6 +4769,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To customize the compiling process, you can open the "Compiler options" dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160728T111621Z" creationid="plp" creationdate="20160728T111621Z">
+        <seg>要设置编译方式，你可以打开“编译器选项”对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To determine the type of a column, &lt;a0&gt;DatabaseColumnType()&lt;/a0&gt; can be used.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T171024Z" creationid="MysticBoy" creationdate="20160723T171024Z">
