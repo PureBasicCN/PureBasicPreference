@@ -2137,8 +2137,8 @@
       <tuv lang="EN-US">
         <seg>Compiling your programs</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160728T110719Z" creationid="plp" creationdate="20160728T110719Z">
-        <seg>编译程序</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160728T110914Z" creationid="plp" creationdate="20160728T110719Z">
+        <seg>编译你的程序</seg>
       </tuv>
     </tu>
     <tu>
@@ -4281,6 +4281,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The place where this information is saved can be configured.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160728T111032Z" creationid="plp" creationdate="20160728T111032Z">
+        <seg> place where this information is saved can be configured.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The position and size of the box in the current drawing output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T031724Z" creationid="oSilas" creationdate="20141128T031724Z">
@@ -4333,6 +4341,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T135144Z">
         <seg>结果在0至255之间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The settings made there are associated with the current source file or the current project, and also remembered when they are closed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160728T111002Z" creationid="plp" creationdate="20160728T111002Z">
+        <seg>对设置进行有与当前的源文件或当前项目相关联，而当它们被关闭还记得。</seg>
       </tuv>
     </tu>
     <tu>
