@@ -12,3 +12,4 @@ offlineordering.htm	http://www.purebasic.com/offlineordering.php
 onlineordering.htm	http://www.purebasic.com/onlineordering.php
 Database programming 	数据库编程	Database programming 
 optional	可选
+Index	索引
