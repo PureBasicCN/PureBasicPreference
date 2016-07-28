@@ -2775,6 +2775,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has been continually updated since.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160728T154928Z" creationid="jane" creationdate="20160728T154928Z">
+        <seg>它一直在不断地更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has no effect on other OS.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082446Z" creationid="MysticBoy" creationdate="20160720T082446Z">
