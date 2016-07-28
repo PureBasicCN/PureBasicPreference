@@ -13,3 +13,5 @@ onlineordering.htm	http://www.purebasic.com/onlineordering.php
 Database programming 	数据库编程	Database programming 
 optional	可选
 Index	索引
+cross-platform	跨平台
+Programming language 	编程语言
