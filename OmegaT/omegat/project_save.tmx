@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Configurable CLI compiler&lt;br29&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070106Z" creationid="MysticBoy" creationdate="20160728T070106Z">
+        <seg>- 可配置CLI编译器&lt;br29&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Constants, binary and hexadecimal numbers supported&lt;br17&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111321Z" creationid="MysticBoy" creationdate="20160721T111321Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174816Z" creationid="MysticBoy" creationdate="20160723T174816Z">
         <seg>- 系统友好 ,安装和使用 &lt;f63&gt;&lt;b64&gt;简单&lt;/b64&gt;&lt;/f63&gt; &lt;br65&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- System friendly, easy to install and use&lt;br30&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070129Z" creationid="MysticBoy" creationdate="20160728T070129Z">
+        <seg>- 系统方便，易于安装和使用&lt;br30&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;&lt;b1&gt;PureBasic 5.42 LTS (all OS)&lt;/b1&gt;&lt;/a0&gt;&lt;i2&gt; (03/01/2016)&lt;/i2&gt;&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070044Z" creationid="MysticBoy" creationdate="20160728T070044Z">
+        <seg>&lt;a0&gt;&lt;b1&gt;PureBasic 5.42 LTS (全部 OS)&lt;/b1&gt;&lt;/a0&gt;&lt;i2&gt; (03/01/2016)&lt;/i2&gt;&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Alpha&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040600Z" creationid="oSilas" creationdate="20151013T040600Z">
@@ -610,6 +634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084002Z" creationid="MysticBoy" creationdate="20160720T084002Z">
         <seg>&lt;a10&gt;剪贴板&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a11&gt;&lt;b12&gt;PureBasic 5.41 LTS (all OS)&lt;/b12&gt;&lt;/a11&gt;&lt;i13&gt; (12/23/2015)&lt;/i13&gt;&lt;br14&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070031Z" creationid="MysticBoy" creationdate="20160728T070031Z">
+        <seg>&lt;a11&gt;&lt;b12&gt;PureBasic 5.41 LTS (全部 OS)&lt;/b12&gt;&lt;/a11&gt;&lt;i13&gt; (12/23/2015)&lt;/i13&gt;&lt;br14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -722,6 +754,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084115Z" creationid="MysticBoy" creationdate="20160720T084115Z">
         <seg>&lt;a20&gt;桌面&lt;/a20&gt;&lt;br21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a22&gt;&lt;b23&gt;PureBasic 5.40 LTS (all OS)&lt;/b23&gt;&lt;/a22&gt;&lt;i24&gt; (10/16/2015)&lt;/i24&gt;&lt;br25&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070026Z" creationid="MysticBoy" creationdate="20160728T070026Z">
+        <seg>&lt;a22&gt;&lt;b23&gt;PureBasic 5.40 LTS (全部 OS)&lt;/b23&gt;&lt;/a22&gt;&lt;i24&gt; (10/16/2015)&lt;/i24&gt;&lt;br25&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,6 +914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084144Z" creationid="MysticBoy" creationdate="20160720T084144Z">
         <seg>&lt;a32&gt;字体&lt;/a32&gt;&lt;br33&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a33&gt;&lt;b34&gt;PureBasic 5.24 LTS (all OS)&lt;/b34&gt;&lt;/a33&gt;&lt;i35&gt; (10/30/2014)&lt;/i35&gt;&lt;br36&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070020Z" creationid="MysticBoy" creationdate="20160728T070020Z">
+        <seg>&lt;a33&gt;&lt;b34&gt;PureBasic 5.24 LTS (全部OS)&lt;/b34&gt;&lt;/a33&gt;&lt;i35&gt; (10/30/2014)&lt;/i35&gt;&lt;br36&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1322,6 +1370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053208Z" creationid="MysticBoy" creationdate="20160726T053208Z">
         <seg>&lt;b31&gt;关闭全部&lt;/b31&gt; &lt;br32&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b33&gt;Requirements&lt;/b33&gt;&lt;br34&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070136Z" creationid="MysticBoy" creationdate="20160728T070136Z">
+        <seg>&lt;b33&gt;系统必备&lt;/b33&gt;&lt;br34&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5113,6 +5169,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>  - Bug-fix release&lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T065951Z" creationid="MysticBoy" creationdate="20160728T065951Z">
+        <seg>  - BUG修复版本&lt;br4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>  - Bug-fix release&lt;br59&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105014Z" creationid="MysticBoy" creationdate="20160721T104718Z">
@@ -5149,6 +5213,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T104551Z" creationid="MysticBoy" creationdate="20160721T104551Z">
         <seg> - 修正了一些编译器和库的bug&lt;b38&gt;&lt;a39&gt;&lt;i40&gt;&lt;/a39&gt;&lt;/b38&gt;&lt;br41&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>  - Fixed some compiler and libraries bugs&lt;b5&gt;   &lt;a6&gt;&lt;i7&gt;&lt;/a6&gt;&lt;/b5&gt;&lt;br8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070010Z" creationid="MysticBoy" creationdate="20160728T070010Z">
+        <seg>  - 修复了一些编译器和库的BUG&lt;b5&gt;   &lt;a6&gt;&lt;i7&gt;&lt;/a6&gt;&lt;/b5&gt;&lt;br8&gt;</seg>
       </tuv>
     </tu>
     <tu>
