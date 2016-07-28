@@ -214,10 +214,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/E &lt;Explorer path&gt;       starts the Explorer tool with the given path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071908Z" creationid="MysticBoy" creationdate="20160728T071908Z">
+        <seg>/E &lt;Explorer path&gt;      指定资源管理器起始路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/H &lt;HistoryDatabase&gt;     specify the file to use for the session history database</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071959Z" creationid="MysticBoy" creationdate="20160728T071959Z">
+        <seg>/H &lt;HistoryDatabase&gt;     指定会话历史数据库文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/L &lt;Line number&gt;         moves the cursor to the given line number in the last opened file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071934Z" creationid="MysticBoy" creationdate="20160728T071934Z">
+        <seg>/L &lt;Line number&gt;         将光标移动到上次打开的文件的指行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/NOEXT                   disables the registering of the .pb extension in the registry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T072019Z" creationid="MysticBoy" creationdate="20160728T072019Z">
+        <seg>/NOEXT                   禁用注册表中的 .pb的扩展名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/P &lt;Preferences file&gt;    loads/saves all the configuration to/from the given file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071655Z" creationid="MysticBoy" creationdate="20160728T071655Z">
         <seg>/P &lt;Preferences file&gt;    从指定的文件加载/保存所有配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/S &lt;Source path&gt;         overwrites the "Source path" setting from the preferences</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071807Z" creationid="MysticBoy" creationdate="20160728T071807Z">
+        <seg>/S &lt;Source path&gt;         重写“配置”里的"源路径" 设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -2955,6 +2995,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023022Z" creationid="MysticBoy" creationdate="20160726T023022Z">
         <seg>打开现有的源代码文件进行编辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Options for building projects:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071829Z" creationid="MysticBoy" creationdate="20160728T071829Z">
+        <seg>项目生成选项:</seg>
       </tuv>
     </tu>
     <tu>
