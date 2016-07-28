@@ -1711,6 +1711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_Window_FrameCoordinate&lt;/f0&gt;: y position of the window, including borders (default).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153526Z" creationid="jane" creationdate="20160728T153526Z">
+        <seg>&lt;f0&gt;#PB_Window_FrameCoordinate&lt;/f0&gt;: y 位置的窗口，包括边框 （默认值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;b1&gt;FANTAISIE SOFTWARE&lt;/b1&gt;&lt;/f0&gt; &lt;br2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084518Z" creationid="MysticBoy" creationdate="20160725T084518Z">
@@ -1747,6 +1755,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043540Z" creationid="oSilas" creationdate="20150312T043540Z">
         <seg>&lt;f1&gt;#PB_PixelFormat_15Bits&lt;/f1&gt; ： 2 个字节每个像素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_Window_InnerCoordinate&lt;/f1&gt;: y position of the window inner area (where gadget can be added),</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153549Z" creationid="jane" creationdate="20160728T153549Z">
+        <seg>&lt;f1&gt;#PB_Window_InnerCoordinate&lt;/f1&gt;: y 位置的窗口内区域 （在这里可以添加小工具），</seg>
       </tuv>
     </tu>
     <tu>
@@ -2743,6 +2759,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be one of the following value:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153512Z" creationid="jane" creationdate="20160728T153512Z">
+        <seg>它可以是以下值之一︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It doesn&amp;apos;t interrupt (halt) the program flow.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082131Z" creationid="MysticBoy" creationdate="20160720T082131Z">
@@ -2859,6 +2883,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044829Z" creationid="oSilas" creationdate="20150312T044829Z">
         <seg>模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mode (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153424Z" creationid="jane" creationdate="20160728T153424Z">
+        <seg>模式 （可选）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4257,6 +4289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The mode used to calculate the y position of the window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153503Z" creationid="jane" creationdate="20160728T153503Z">
+        <seg>此模式用于计算窗口的Y位置.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The new color to be used as the background color.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041535Z" creationid="oSilas" creationdate="20151013T041535Z">
@@ -4437,6 +4477,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T134911Z" creationid="oSilas" creationdate="20141124T134911Z">
         <seg>控制太重的垂直位置（从0开始）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The window to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153413Z" creationid="jane" creationdate="20160728T153413Z">
+        <seg>要使用的窗口.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5053,6 +5101,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071554Z" creationid="MysticBoy" creationdate="20160728T071554Z">
         <seg>显示的命令行参数的描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>excluding borders.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153556Z" creationid="jane" creationdate="20160728T153556Z">
+        <seg>不包括边框。</seg>
       </tuv>
     </tu>
     <tu>
