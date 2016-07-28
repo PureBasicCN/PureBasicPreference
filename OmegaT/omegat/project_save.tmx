@@ -3719,6 +3719,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The /NOEXT command is useful when you have &lt;a2&gt;several different PB versions at once&lt;/a2&gt; (for testing of beta versions for example), but want the .pb extension to be associated with only one of them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T073433Z" creationid="MysticBoy" creationdate="20160728T073433Z">
+        <seg>  /NOEXT 命令在你 &lt;a2&gt;使用多个PB版本&lt;/a2&gt;时非常有用 ( 比如在测试版中测试示例。) ，但希望.pb扩展只分配给其中之一。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The /PORTABLE command can be used to keep all configuration inside the local directory to easily copy PureBasic to different computers (or run it from USB sticks for example).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T073024Z" creationid="MysticBoy" creationdate="20160728T073024Z">
+        <seg>  /PORTABLE 命令可以用来保证所有配置在本地目录用来方便的拷贝PureBasic到其他的计算机 (或从U盘中运行示例).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 2D drawing library contains all the 2D rendering operations that can be performed on a visual area.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151007T084813Z" creationid="oSilas" creationdate="20151007T084643Z">
@@ -4044,6 +4060,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T170137Z" creationid="MysticBoy" creationdate="20160723T170137Z">
         <seg>要使用的数据库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default files for /P /T and /A are saved in the %APPDATA%\PureBasic\ directory on the system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T073559Z" creationid="MysticBoy" creationdate="20160728T073559Z">
+        <seg> /P /T 和 /A 的默认文件保存在系统的 %APPDATA%\PureBasic\ 目录.</seg>
       </tuv>
     </tu>
     <tu>
