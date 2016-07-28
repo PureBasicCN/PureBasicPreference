@@ -1831,6 +1831,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>=== Characteristics ===
+PureBasic is a native 32 bit and 64 bit BASIC compiler.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160728T155128Z" creationid="jane" creationdate="20160728T155128Z">
+        <seg>=== 特点 ===
+PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A color table with common colors is available &lt;a5&gt;here&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041716Z" creationid="oSilas" creationdate="20151013T041716Z">
@@ -3988,6 +3998,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T034437Z" creationid="oSilas" creationdate="20141128T034437Z">
         <seg>锥形渐变的中心坐标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The code is highly portable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160728T155146Z" creationid="jane" creationdate="20160728T155146Z">
+        <seg>代码高度可移植。</seg>
       </tuv>
     </tu>
     <tu>
