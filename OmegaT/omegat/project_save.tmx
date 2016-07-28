@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/BUILD &lt;file&gt;            specifies the project file to build</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T072234Z" creationid="MysticBoy" creationdate="20160728T072234Z">
+        <seg>/BUILD &lt;file&gt;            指定要生成的项目文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/E &lt;Explorer path&gt;       starts the Explorer tool with the given path</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071908Z" creationid="MysticBoy" creationdate="20160728T071908Z">
@@ -238,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/LOCAL                   puts all preferences in the PureBasic directory instead of the user profile location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T072201Z" creationid="MysticBoy" creationdate="20160728T072201Z">
+        <seg>/LOCAL                  使用 PureBasic 目录代替用户路径来存放所有配置信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/NOEXT                   disables the registering of the .pb extension in the registry</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T072019Z" creationid="MysticBoy" creationdate="20160728T072019Z">
@@ -254,6 +270,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/PORTABLE                the same as /LOCAL and /NOEXT combined</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T072223Z" creationid="MysticBoy" creationdate="20160728T072223Z">
+        <seg>/PORTABLE               同于 /LOCAL 和 /NOEXT 的结合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/QUIET                   hides all build messages except errors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T072353Z" creationid="MysticBoy" creationdate="20160728T072353Z">
+        <seg>/QUIET                   隐藏所有生成信息但错误除外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/S &lt;Source path&gt;         overwrites the "Source path" setting from the preferences</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071807Z" creationid="MysticBoy" creationdate="20160728T071807Z">
@@ -266,6 +298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071710Z" creationid="MysticBoy" creationdate="20160728T071710Z">
         <seg>/T &lt;Templates file&gt;      从指定的文件加载或者保存代码模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/TARGET &lt;target&gt;         specifies the target to build (the default is to build all targets)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T072302Z" creationid="MysticBoy" creationdate="20160728T072302Z">
+        <seg>/TARGET &lt;target&gt;         指定生成目标 (默认是生成全部目标)</seg>
       </tuv>
     </tu>
     <tu>
