@@ -1887,6 +1887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Building a project from the command-line involves the same actions like at choosing the 'Build Target' or 'Build all Targets' from the &lt;a2&gt;compiler menu&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071356Z" creationid="MysticBoy" creationdate="20160728T071356Z">
+        <seg>在命令行生成项目时可以选择“构建目标”或“构建所有目标”，这个也可以在&lt;a2&gt;编译器菜单&lt;/a2&gt;中选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By the same author, discover the new web client-side programming language&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173727Z" creationid="MysticBoy" creationdate="20160721T054739Z">
@@ -2235,6 +2243,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T111620Z">
         <seg>示例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071230Z" creationid="MysticBoy" creationdate="20160728T071230Z">
+        <seg>示例:</seg>
       </tuv>
     </tu>
     <tu>
