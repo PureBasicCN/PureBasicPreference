@@ -2127,6 +2127,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compiling is simple.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160728T110727Z" creationid="plp" creationdate="20160728T110727Z">
+        <seg>编译很简单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiling your programs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160728T110719Z" creationid="plp" creationdate="20160728T110719Z">
+        <seg>编译程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contents of the "File" menu:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022931Z" creationid="MysticBoy" creationdate="20160726T022931Z">
