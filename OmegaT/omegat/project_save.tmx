@@ -4921,10 +4921,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also put the filenames of source files to load on the command-line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T073652Z" creationid="MysticBoy" creationdate="20160728T073652Z">
+        <seg>你也可以在命令行指定要加载的源文件文件名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can edit multiple source code files at the same time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020251Z" creationid="MysticBoy" creationdate="20160726T020251Z">
         <seg>您可以同时编辑多个源代码文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can even specify wildcards for them (so with "*.pb" you can load a whole directory).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T073736Z" creationid="MysticBoy" creationdate="20160728T073736Z">
+        <seg>你夜可以为他们指定通配符 (所有易用 "*.pb" 那你就可以加载整个目录).</seg>
       </tuv>
     </tu>
     <tu>
