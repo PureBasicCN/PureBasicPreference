@@ -3575,6 +3575,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the y position (from the top) on the screen (in pixels) of the given window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153648Z" creationid="jane" creationdate="20160728T153648Z">
+        <seg>返回的 y 位置 （从顶部开始） 从给定窗口的屏幕上 （以像素为单位）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save the currently active source to a different location than it was saved before.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053015Z" creationid="MysticBoy" creationdate="20160726T053015Z">
