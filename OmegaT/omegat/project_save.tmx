@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/VERSION                 displays the IDE version and exits</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070631Z" creationid="MysticBoy" creationdate="20160728T070631Z">
+        <seg>/VERSION                 显示IDE 版本并退出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 - Blue</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112340Z">
@@ -1983,6 +1991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Command-line options for the IDE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070503Z" creationid="MysticBoy" creationdate="20160728T070503Z">
+        <seg>IDE命令行选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compilation time is really fast.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105352Z" creationid="MysticBoy" creationdate="20160721T105352Z">
@@ -2323,6 +2339,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T052104Z" creationid="oSilas" creationdate="20151013T052104Z">
         <seg>常规 - 主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070613Z" creationid="MysticBoy" creationdate="20160728T070613Z">
+        <seg>常规选项:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3628,6 +3652,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135929Z" creationid="MysticBoy" creationdate="20160723T135929Z">
         <seg> PureBasic IDE 允许你创建和编辑您的 PureBasic 源代码，以及允许他们，调试他们并且创建最终的可执行文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The PureBasic IDE allows you to modify the paths and files being used from the command-line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070601Z" creationid="MysticBoy" creationdate="20160728T070601Z">
+        <seg>PureBasic IDE允许你在命令行修改要使用的路径和文件.</seg>
       </tuv>
     </tu>
     <tu>
