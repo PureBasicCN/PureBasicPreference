@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/READONLY                does not update the project file after compiling (with new access time and build counters)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T072833Z" creationid="MysticBoy" creationdate="20160728T072833Z">
+        <seg>/READONLY               编译后不更新新项目文件(新的访问时间和生成计数)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/S &lt;Source path&gt;         overwrites the "Source path" setting from the preferences</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071807Z" creationid="MysticBoy" creationdate="20160728T071807Z">
