@@ -6107,6 +6107,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the Tab key is pressed while nothing or only a few characters are selected, the Tab key acts as mentioned above (inserting a number of spaces, or a real tab if configured that way).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141103Z" creationid="blues" creationdate="20160729T141103Z">
+        <seg>无字符或者选择一些字符，当按下Tab键时，Tab键将会产生特殊行为  (根据配置方式，当前行前面将会插入一些空格符或者真正的tab制表).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you press enter, the indentation (number of space/tab at the beginning of the line) of the current and next line will be automatically corrected depending on the &lt;a0&gt;keywords&lt;/a0&gt; that exist on these lines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160729T135318Z" creationid="blues" creationdate="20160729T133733Z">
