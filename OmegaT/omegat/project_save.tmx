@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a4&gt;Editing features&lt;/a4&gt;&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T131033Z" creationid="blues" creationdate="20160729T131033Z">
+        <seg>&lt;a4&gt;编辑器功能&lt;/a4&gt;&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a4&gt;Mouse&lt;/a4&gt; &lt;br5&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083830Z" creationid="MysticBoy" creationdate="20160720T083830Z">
