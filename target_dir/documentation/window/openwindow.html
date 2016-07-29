@@ -9,12 +9,7 @@ Result = <font color="#3A3966"><b>OpenWindow</b></font>(#Window, x, y, InnerWidt
 </blockquote>
 <b>概要</b><br><blockquote>
 
-
-
-Opens a new window according to the specified parameters. The new window becomes the active window, 
-it's not needed to use <a href="setactivewindow.html">SetActiveWindow()</a> (unless the window is created as invisible). 
-
- 
+根据指定的参数打开一个新窗口。新窗口是活动窗口, 不需要使用 <a href="setactivewindow.html">SetActiveWindow()</a> 设置为活动窗口(除非窗口创建的时候就不可见). 
 
 </blockquote><p><b>参数</b></p><blockquote>
 <style type="text/css">
@@ -24,16 +19,12 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <table width="90%" class="parameters">
 <tr><td width="10%"><i>#Window</i></td>
 <td width="90%"> 
-A number to identify the new window. <a href="../reference/purebasic_objects.html">#PB_Any</a> 可以用来自动生成这个编码. 
+标识新窗口的编码. <a href="../reference/purebasic_objects.html">#PB_Any</a> 可以用来自动生成这个编码. 
 
 </td></tr>
 <tr><td><i>x, y</i></td>
 <td> 
- 
-The initial position of the window, in pixels (unless one of the center flags is used). 
-If 'x' or 'y' is set to <font color="#924B72">#PB_Ignore</font>, the OS will choose a position for the window. 
-
- 
+窗口的初始位置，使用像素为单位（除非中心标志之一被使用）。If 'x' or 'y' is set to <font color="#924B72">#PB_Ignore</font>, the OS will choose a position for the window. 
 
 </td></tr>
 <tr><td><i>InnerWidth, InnerHeight</i></td>
@@ -46,13 +37,10 @@ The required client area, in pixels (without borders and window decorations).
 </td></tr>
 <tr><td><i>Title$</i></td>
 <td> 
- 
-The title of the newly created window. 
-
- 
+新创建的窗口的标题。 
 
 </td></tr>
-<tr><td><i>Flags (optional)</i></td>
+<tr><td><i>Flags (可选)</i></td>
 <td> 
 可以是下列值的组合︰ 
 <pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_Window_SystemMenu</font>    : Enables the system menu on the window title bar (default).
@@ -85,29 +73,11 @@ The WindowID the new window belongs to. 'ParentWindowID' value can be easily obt
 </table>
 </blockquote><p><b>返回值</b></p><blockquote>
 
-
-
-Nonzero if the window was successfully created, zero otherwise. If <font color="#924B72">#PB_Any</font> was used 
-for the #Window parameter then the generated number is returned on success. 
-
- 
+非零为窗口创建成功，否则为零！. 如果<font color="#924B72">#PB_Any</font>被用于#Window参数在成功时则返回生成数字。 
 
 </blockquote><p><b>备注</b></p><blockquote>
 
-
-
-All possible events in a window are handled with the <a href="windowevent.html">WindowEvent()</a> and <a href="waitwindowevent.html">WaitWindowEvent()</a> functions. 
-<br>
-<br>
-Windows only: for special situations callbacks are used, see description at <a href="setwindowcallback.html">SetWindowCallback()</a>. On Windows, 
-the height and width of a window with a titlebar can't be less than around 100 pixels. To open smaller windows, use the <font color="#924B72"></font>
-"#PB_Window_BorderLess" flag. 
-<br>
-<br>
-<b>Important:</b> A window should not be opened in a <a href="../thread/index.html">thread</a>, as there is some limitation on OS X and Linux. 
-A debugger error will be raised. 
-
- 
+All possible events in a window are handled with the <a href="windowevent.html">WindowEvent()</a> and <a href="waitwindowevent.html">WaitWindowEvent()</a> functions. <br><br>Windows only: for special situations callbacks are used, see description at <a href="setwindowcallback.html">SetWindowCallback()</a>. On Windows, the height and width of a window with a titlebar can't be less than around 100 pixels. To open smaller windows, use the <font color="#924B72"></font> "#PB_Window_BorderLess" flag. <br><br><b>Important:</b> A window should not be opened in a <a href="../thread/index.html">thread</a>, as there is some limitation on OS X and Linux. 调试器错误将被提高。 
 
 </blockquote><p><b>参阅</b></p><blockquote>
 

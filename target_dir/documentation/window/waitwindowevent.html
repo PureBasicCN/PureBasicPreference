@@ -44,21 +44,7 @@ Return the event which occurred, see <a href="windowevent.html">WindowEvent()</a
 
 </blockquote><p><b>备注</b></p><blockquote>
 
-
-
-An application should always use this function instead of <a href="windowevent.html">WindowEvent()</a> 
-if possible, as it doesn't takes an CPU time while waiting for an event. 
-<br>
-<br>
-The window event loop should not be processed in a <a href="../thread/index.html">thread</a>, as there is some limitation on OS X and Linux. 
-A debugger error will be raised. 
-<br>
-<br>
-WaitWindowEvent() can only be called once per event loop, because else events will be "lost" 
-(every event can only be processed once and isn't available anymore for a second time after first 
-processing). 
-
- 
+An application should always use this function instead of <a href="windowevent.html">WindowEvent()</a> if possible, as it doesn't takes an CPU time while waiting for an event. <br><br>The window event loop should not be processed in a <a href="../thread/index.html">thread</a>, as there is some limitation on OS X and Linux. 调试器错误将被提高。<br><br>WaitWindowEvent() can only be called once per event loop, because else events will be "lost" (every event can only be processed once and isn't available anymore for a second time after first processing). 
 
 </blockquote><p><b>Example:</b> General case</p><blockquote>
 
