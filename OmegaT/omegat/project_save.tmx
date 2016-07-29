@@ -2241,6 +2241,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A number to identify the new window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T111532Z" creationid="MysticBoy" creationdate="20160729T111532Z">
+        <seg>标识新窗口的编码.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A powerful Visual Designer is included in the PureBasic package, and allows to build easily any kind of applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091725Z" creationid="MysticBoy" creationdate="20160725T091725Z">
@@ -2933,6 +2941,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091936Z" creationid="MysticBoy" creationdate="20160721T053654Z">
         <seg>PureBasic.CN 官方网站.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flags (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T111611Z" creationid="MysticBoy" creationdate="20160729T111611Z">
+        <seg>Flags (可选)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3717,6 +3733,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023022Z" creationid="MysticBoy" creationdate="20160726T023022Z">
         <seg>打开现有的源代码文件进行编辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens a new window according to the specified parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T111403Z" creationid="MysticBoy" creationdate="20160729T111403Z">
+        <seg>根据指定的参数打开一个新窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5115,6 +5139,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The initial position of the window, in pixels (unless one of the center flags is used).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T111608Z" creationid="MysticBoy" creationdate="20160729T111608Z">
+        <seg>窗口的初始位置，使用像素为单位（除非中心标志之一被使用）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The key features of PureBasic are portability (Windows, Linux and MacOS X are currently supported), the production of very fast and highly optimized executables and, of course, the very simple BASIC syntax.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055114Z" creationid="MysticBoy" creationdate="20160721T055114Z">
@@ -5199,6 +5231,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T140615Z">
         <seg>光标的新高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The new window becomes the active window, it's not needed to use &lt;a0&gt;SetActiveWindow()&lt;/a0&gt; (unless the window is created as invisible).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T111506Z" creationid="MysticBoy" creationdate="20160729T111506Z">
+        <seg>新窗口是活动窗口, 不需要使用 &lt;a0&gt;SetActiveWindow()&lt;/a0&gt; 设置为活动窗口(除非窗口创建的时候就不可见).</seg>
       </tuv>
     </tu>
     <tu>
