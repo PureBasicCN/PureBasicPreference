@@ -2057,8 +2057,16 @@
       <tuv lang="EN-US">
         <seg>&lt;f7&gt;#PB_SerialPort_WaitingCTS&lt;/f7&gt;  : Specifies whether transmission is waiting for the CTS (clear-to-send) signal to be sent.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061139Z" creationid="lansn-lan" creationdate="20160729T061139Z">
-        <seg>&lt;f7&gt;#PB_SerialPort_WaitingCTS&lt;/f7&gt; ︰ 指定传输是否正在等待发送 CTS （清除到发送） 信号。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061354Z" creationid="lansn-lan" creationdate="20160729T061139Z">
+        <seg>&lt;f7&gt;#PB_SerialPort_WaitingCTS&lt;/f7&gt; ︰ 指定传输是否正在等待发送 CTS （清除发送） 信号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f8&gt;#PB_SerialPort_WaitingDSR&lt;/f8&gt;  : Specifies whether transmission is waiting for the DSR (data-set-ready) signal to be sent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061349Z" creationid="lansn-lan" creationdate="20160729T061349Z">
+        <seg>&lt;f8&gt;#PB_SerialPort_WaitingDSR&lt;/f8&gt; ︰ 指定传输是否正在等待发送 DSR （数据准备就绪） 信号。</seg>
       </tuv>
     </tu>
     <tu>
