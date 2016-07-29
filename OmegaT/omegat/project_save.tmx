@@ -3313,6 +3313,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indentation:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T133545Z" creationid="blues" creationdate="20160729T133545Z">
+        <seg>缩进:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internet TV</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091020Z" creationid="MysticBoy" creationdate="20160725T091020Z">
@@ -6055,6 +6063,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T021129Z" creationid="MysticBoy" creationdate="20160726T021129Z">
         <seg>保存纯文本的文件时，IDE 不会将其设置附加到文件的末尾，即使已经配置为&lt;a4&gt;首选项&lt;/a4&gt;的代码文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you press enter, the indentation (number of space/tab at the beginning of the line) of the current and next line will be automatically corrected depending on the &lt;a0&gt;keywords&lt;/a0&gt; that exist on these lines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T133733Z" creationid="blues" creationdate="20160729T133733Z">
+        <seg>当您按下回车键时，当前行和下一行的缩进（开头处的空格数/Tab数）将根据存在于这些行上的关键词而自动更正When you press enter, the indentation (number of space/tab at the beginning of the line) of the current and next line will be automatically corrected depending on the &lt;a0&gt;keywords&lt;/a0&gt; that exist on these lines.</seg>
       </tuv>
     </tu>
     <tu>
