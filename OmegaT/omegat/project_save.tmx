@@ -1825,8 +1825,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_SerialPort_NoParity&lt;/f0&gt;   : No parity</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051249Z" creationid="lansn-lan" creationdate="20160729T051249Z">
-        <seg>&lt;f0&gt;#PB_SerialPort_NoParity&lt;/f0&gt;   : No parity  无奇偶校验</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051928Z" creationid="lansn-lan" creationdate="20160729T051249Z">
+        <seg>&lt;f0&gt;#PB_SerialPort_NoParity&lt;/f0&gt;   : No parity  无校验</seg>
       </tuv>
     </tu>
     <tu>
@@ -1903,6 +1903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_SerialPort_MarkParity&lt;/f2&gt; : Mark parity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051915Z" creationid="lansn-lan" creationdate="20160729T051915Z">
+        <seg>&lt;f2&gt;#PB_SerialPort_MarkParity&lt;/f2&gt; : Mark parity  表示校验位始终为1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;#PB_PixelFormat_24Bits_RGB&lt;/f3&gt; : 3 bytes per pixel (RRGGBB)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043551Z" creationid="oSilas" creationdate="20150312T043551Z">
@@ -1931,6 +1939,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043604Z" creationid="oSilas" creationdate="20150312T043604Z">
         <seg>&lt;f4&gt;#PB_PixelFormat_24Bits_BGR&lt;/f4&gt; ： 3 个字节，每个像素 （BBGGRR）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f4&gt;#PB_SerialPort_SpaceParity&lt;/f4&gt;: Space parity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051853Z" creationid="lansn-lan" creationdate="20160729T051853Z">
+        <seg>&lt;f4&gt;#PB_SerialPort_SpaceParity&lt;/f4&gt;: Space parity  表示校验位始终为0</seg>
       </tuv>
     </tu>
     <tu>
