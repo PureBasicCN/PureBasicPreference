@@ -648,8 +648,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;#PB_Any&lt;/a0&gt; can be used to auto-generate this number.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044801Z" creationid="lansn-lan" creationdate="20160729T044801Z">
-        <seg>&lt;a0&gt;#PB_Any&lt;/a0&gt; 可以用来自动生成这个号码.</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T045059Z" creationid="lansn-lan" creationdate="20160729T044801Z">
+        <seg>&lt;a0&gt;#PB_Any&lt;/a0&gt; 可以用来自动生成这个编码.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1963,8 +1963,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>A number to identify the new serial port.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044732Z" creationid="lansn-lan" creationdate="20160729T044732Z">
-        <seg>识别新串口的编号码.</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T045052Z" creationid="lansn-lan" creationdate="20160729T044732Z">
+        <seg>识别新串口的编码.</seg>
       </tuv>
     </tu>
     <tu>
