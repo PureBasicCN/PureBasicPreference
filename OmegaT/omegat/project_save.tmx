@@ -5123,6 +5123,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of remaining bytes in the serial port input buffer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T080750Z" creationid="lansn-lan" creationdate="20160729T080750Z">
+        <seg>串行端口输入缓冲区中的剩余字节数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The output of the drawing functions is possible on a window, a screen, a sprite, an image or the printer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151007T084830Z" creationid="oSilas" creationdate="20151007T084830Z">
