@@ -2071,6 +2071,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f9&gt;#PB_SerialPort_WaitingRLSD&lt;/f9&gt; : Specifies whether transmission is waiting for the RLSD (receive-line-signal-detect) signal to be sent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061716Z" creationid="lansn-lan" creationdate="20160729T061716Z">
+        <seg>&lt;f9&gt;#PB_SerialPort_WaitingRLSD&lt;/f9&gt; ︰ 指定传输是否正在等待 RLSD （接收线信号检测） 发送的信号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>=== Characteristics ===
 PureBasic is a native 32 bit and 64 bit BASIC compiler.</seg>
       </tuv>
