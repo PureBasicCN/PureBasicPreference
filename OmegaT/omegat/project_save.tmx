@@ -3081,6 +3081,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If &lt;f0&gt;#PB_All&lt;/f0&gt; is specified, all the remaining serial ports are freed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081349Z" creationid="lansn-lan" creationdate="20160729T081349Z">
+        <seg>如果参数 &lt;f0&gt;#PB_All&lt;/f0&gt; 被指定, 所有剩余的串行端口都被释放.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If &lt;f0&gt;#PB_Any&lt;/f0&gt; was used for the #SerialPort parameter then the generated number is returned on success.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055308Z" creationid="lansn-lan" creationdate="20160729T054952Z">
