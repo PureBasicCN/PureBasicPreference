@@ -2233,6 +2233,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A "block mode" is also available where the new line simply gets the same indentation as the previous one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T135606Z" creationid="blues" creationdate="20160729T135606Z">
+        <seg>“块模式”也可以在新的一行得到与前一个行相同的缩进.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A color table with common colors is available &lt;a5&gt;here&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041716Z" creationid="oSilas" creationdate="20151013T041716Z">
