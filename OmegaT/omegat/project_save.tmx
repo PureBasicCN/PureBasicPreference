@@ -5635,6 +5635,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To check how much data is available in the output buffer, use &lt;a0&gt;AvailableSerialPortOutput()&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070150Z" creationid="lansn-lan" creationdate="20160729T070150Z">
+        <seg>要检测在输出缓冲区中有多少数据是可用的，请使用函数&lt;a0&gt;AvailableSerialPortOutput()&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To check if data is available, use &lt;a0&gt;AvailableSerialPortInput()&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055647Z" creationid="lansn-lan" creationdate="20160729T055647Z">
