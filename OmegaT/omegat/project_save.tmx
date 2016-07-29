@@ -2023,6 +2023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f3&gt;#PB_SerialPort_XonCharacter&lt;/f3&gt; : Character used for Xon/Xoff handshaking sequence (value can be between 1 and 255).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065410Z" creationid="lansn-lan" creationdate="20160729T065410Z">
+        <seg>&lt;f3&gt;#PB_SerialPort_XonCharacter&lt;/f3&gt; ︰ 用于 Xon/Xoff 握手顺序的字符 （值可以是 1 到 255 之间）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;&lt;b4&gt;PureBasic&lt;/b4&gt;&lt;/f3&gt; is a new "high level" &lt;f5&gt;&lt;b6&gt;programming language&lt;/b6&gt;&lt;/f5&gt; based on established &lt;f7&gt;&lt;b8&gt;BASIC&lt;/b8&gt;&lt;/f7&gt; rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174419Z" creationid="MysticBoy" creationdate="20160723T174419Z">
@@ -2051,6 +2059,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051942Z" creationid="lansn-lan" creationdate="20160729T051853Z">
         <seg>&lt;f4&gt;#PB_SerialPort_SpaceParity&lt;/f4&gt;: Space parity  校验位始终为0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f4&gt;#PB_SerialPort_XoffCharacter&lt;/f4&gt;: Character used for Xon/Xoff handshaking sequence (value can be between 1 and 255).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065439Z" creationid="lansn-lan" creationdate="20160729T065439Z">
+        <seg>&lt;f4&gt;#PB_SerialPort_XoffCharacter&lt;/f4&gt;︰ 用于 Xon/Xoff 握手顺序的字符 （值可以是 1 到 255 之间）。</seg>
       </tuv>
     </tu>
     <tu>
