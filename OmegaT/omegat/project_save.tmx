@@ -4642,6 +4642,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The buffer length to write, in bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065827Z" creationid="lansn-lan" creationdate="20160729T065827Z">
+        <seg>要写入的缓冲区的长度，以字节为单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The buffer to write.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065755Z" creationid="lansn-lan" creationdate="20160729T065755Z">
+        <seg>要写入的缓冲区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The callback has to calculate the color that the target pixel should have after the drawing and return that.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040715Z" creationid="oSilas" creationdate="20141128T040715Z">
