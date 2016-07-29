@@ -4209,6 +4209,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See 'attribute' description to see which value is applicable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065615Z" creationid="lansn-lan" creationdate="20160729T065615Z">
+        <seg>根据设定的 '属性' 描述以查看哪个值是适用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See &lt;a6&gt;Customizing the IDE&lt;/a6&gt; for more information.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140808Z" creationid="MysticBoy" creationdate="20160723T140808Z">
@@ -4606,6 +4614,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065258Z" creationid="lansn-lan" creationdate="20160729T065258Z">
         <seg>要设置的属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The attribute value to set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065543Z" creationid="lansn-lan" creationdate="20160729T065543Z">
+        <seg>要设置的属性值。</seg>
       </tuv>
     </tu>
     <tu>
