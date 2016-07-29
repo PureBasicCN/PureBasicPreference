@@ -1905,8 +1905,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f2&gt;#PB_SerialPort_MarkParity&lt;/f2&gt; : Mark parity</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051915Z" creationid="lansn-lan" creationdate="20160729T051915Z">
-        <seg>&lt;f2&gt;#PB_SerialPort_MarkParity&lt;/f2&gt; : Mark parity  表示校验位始终为1</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051933Z" creationid="lansn-lan" creationdate="20160729T051915Z">
+        <seg>&lt;f2&gt;#PB_SerialPort_MarkParity&lt;/f2&gt; : Mark parity  校验位始终为1</seg>
       </tuv>
     </tu>
     <tu>
@@ -1945,8 +1945,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f4&gt;#PB_SerialPort_SpaceParity&lt;/f4&gt;: Space parity</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051853Z" creationid="lansn-lan" creationdate="20160729T051853Z">
-        <seg>&lt;f4&gt;#PB_SerialPort_SpaceParity&lt;/f4&gt;: Space parity  表示校验位始终为0</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051942Z" creationid="lansn-lan" creationdate="20160729T051853Z">
+        <seg>&lt;f4&gt;#PB_SerialPort_SpaceParity&lt;/f4&gt;: Space parity  校验位始终为0</seg>
       </tuv>
     </tu>
     <tu>
