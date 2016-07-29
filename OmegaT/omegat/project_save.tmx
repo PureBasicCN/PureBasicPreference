@@ -2537,6 +2537,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default value is 10 ms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064430Z" creationid="lansn-lan" creationdate="20160729T064430Z">
+        <seg>默认值为 10 毫秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default value is 100 ms.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063713Z" creationid="lansn-lan" creationdate="20160729T063713Z">
