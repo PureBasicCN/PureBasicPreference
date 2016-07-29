@@ -3185,6 +3185,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However when one or more full lines are selected, the reaction is different.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141344Z" creationid="blues" creationdate="20160729T141344Z">
+        <seg>当一行或者多行被选中时，.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If &lt;f0&gt;#PB_All&lt;/f0&gt; is specified, all the remaining serial ports are freed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081349Z" creationid="lansn-lan" creationdate="20160729T081349Z">
@@ -3301,6 +3309,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T030155Z" creationid="MysticBoy" creationdate="20160725T030155Z">
         <seg>尽管它的语法很适合初学者，但是对于PureBasic的高级特性是不受限制的，比如指针， 结构，过程，动态链接表和其它..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In that case at the beginning of each selected line, it will insert spaces or a tab (depending on the configuration).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141357Z" creationid="blues" creationdate="20160729T141357Z">
+        <seg>在每一行的前面都将会插入空格符或者tab制表符.</seg>
       </tuv>
     </tu>
     <tu>
