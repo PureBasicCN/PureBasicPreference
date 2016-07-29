@@ -1863,6 +1863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_SerialPort_RI&lt;/f0&gt; : Get RI signal status (0 or 1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081613Z" creationid="lansn-lan" creationdate="20160729T081613Z">
+        <seg>&lt;f0&gt;#PB_SerialPort_RI&lt;/f0&gt; : 获取RI 信号状态 (0 or 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_SerialPort_RxOver&lt;/f0&gt;: An input buffer overflow has occurred.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060654Z" creationid="lansn-lan" creationdate="20160729T060654Z">
@@ -1943,6 +1951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_SerialPort_DCD&lt;/f1&gt;: Get DCD signal status (0 or 1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081626Z" creationid="lansn-lan" creationdate="20160729T081626Z">
+        <seg>&lt;f1&gt;#PB_SerialPort_DCD&lt;/f1&gt;: 获取 DCD 信号状态 (0 or 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;#PB_SerialPort_EvenParity&lt;/f1&gt; : Even parity</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051313Z" creationid="lansn-lan" creationdate="20160729T051313Z">
@@ -1983,6 +1999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_SerialPort_DSR&lt;/f2&gt;: Get DSR signal status (0 or 1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081638Z" creationid="lansn-lan" creationdate="20160729T081638Z">
+        <seg>&lt;f2&gt;#PB_SerialPort_DSR&lt;/f2&gt;: 获取 DSR 信号状态 (0 or 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f2&gt;#PB_SerialPort_MarkParity&lt;/f2&gt; : Mark parity</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051933Z" creationid="lansn-lan" creationdate="20160729T051915Z">
@@ -2019,6 +2043,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043551Z" creationid="oSilas" creationdate="20150312T043551Z">
         <seg>&lt;f3&gt;#PB_PixelFormat_24Bits_RGB&lt;/f3&gt; ： 3 个字节，每个像素 （RRGGBB）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f3&gt;#PB_SerialPort_CTS&lt;/f3&gt;: Get CTS signal status (0 or 1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081650Z" creationid="lansn-lan" creationdate="20160729T081650Z">
+        <seg>&lt;f3&gt;#PB_SerialPort_CTS&lt;/f3&gt;: 获取 CTS 信号状态 (0 or 1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4197,6 +4229,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150120T142432Z" creationid="oSilas" creationdate="20150120T142432Z">
         <seg>返回融合了两个32位的色彩所产生的32位色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns the specified serial port status.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081557Z" creationid="lansn-lan" creationdate="20160729T081557Z">
+        <seg>返回指定串口状态.</seg>
       </tuv>
     </tu>
     <tu>
