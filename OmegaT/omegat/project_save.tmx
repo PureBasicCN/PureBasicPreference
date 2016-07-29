@@ -4747,6 +4747,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This library offers full access to the serial ports available on the computer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T033642Z" creationid="lansn-lan" creationdate="20160729T033642Z">
+        <seg>此类库提供完全访问计算机上可用的串行端口的权限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means than when you buy PureBasic you will get all future updates for free, on this web site (it only applies if registered on this web site, not for boxed version of PureBasic).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081015Z" creationid="MysticBoy" creationdate="20160725T080813Z">
