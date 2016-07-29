@@ -2361,6 +2361,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changes the default serial port timeouts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063038Z" creationid="lansn-lan" creationdate="20160729T063038Z">
+        <seg>更改默认串行端口超时时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changes the display of the cursor, which is the indicator used to show where the next displayed character will be drawn.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141203Z">
