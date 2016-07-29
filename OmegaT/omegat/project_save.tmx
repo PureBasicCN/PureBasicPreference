@@ -3833,6 +3833,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the error on the serial port when &lt;a0&gt;ReadSerialPortData()&lt;/a0&gt;, &lt;a1&gt;WriteSerialPortData()&lt;/a1&gt; or &lt;a2&gt;WriteSerialPortString()&lt;/a2&gt; failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060602Z" creationid="lansn-lan" creationdate="20160729T060602Z">
+        <seg>当使用函数&lt;a0&gt;ReadSerialPortData()&lt;/a0&gt;、 &lt;a1&gt;WriteSerialPortData()&lt;/a1&gt;或&lt;a2&gt;WriteSerialPortString()&lt;/a2&gt;失败时，在串口上返回的错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the length in bytes of one line in the output, including any additional padding behind the pixel data of a line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043225Z" creationid="oSilas" creationdate="20150312T043225Z">
