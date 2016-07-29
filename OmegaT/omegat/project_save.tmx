@@ -1887,6 +1887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f12&gt;#PB_SerialPort_EOFSent&lt;/f12&gt;: Specifies whether the end-of-file (EOF) character has been received.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T062652Z" creationid="lansn-lan" creationdate="20160729T062652Z">
+        <seg>&lt;f12&gt;#PB_SerialPort_EOFSent&lt;/f12&gt;: 指定文件结束（EOF）字符已接收。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f12&gt;; 32-bit RGB without reversed Y coordinate&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043813Z" creationid="oSilas" creationdate="20150312T043727Z">
