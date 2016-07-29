@@ -1823,6 +1823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_SerialPort_NoParity&lt;/f0&gt;   : No parity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051249Z" creationid="lansn-lan" creationdate="20160729T051249Z">
+        <seg>&lt;f0&gt;#PB_SerialPort_NoParity&lt;/f0&gt;   : No parity  无奇偶校验</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_Window_FrameCoordinate&lt;/f0&gt;: y position of the window, including borders (default).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153526Z" creationid="jane" creationdate="20160728T153526Z">
@@ -1867,6 +1875,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043540Z" creationid="oSilas" creationdate="20150312T043540Z">
         <seg>&lt;f1&gt;#PB_PixelFormat_15Bits&lt;/f1&gt; ： 2 个字节每个像素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_SerialPort_EvenParity&lt;/f1&gt; : Even parity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051313Z" creationid="lansn-lan" creationdate="20160729T051313Z">
+        <seg>&lt;f1&gt;#PB_SerialPort_EvenParity&lt;/f1&gt; : Even parity  偶校验</seg>
       </tuv>
     </tu>
     <tu>
