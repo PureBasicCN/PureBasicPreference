@@ -12,7 +12,9 @@
  -  原始视频也可以从 项目附件中下载 https://git.oschina.net/PureBasic/PureBasicPreference/attach_files 一共有三个压缩包！
 
 # 致谢： 
- - 迷路仟   QQ: 714095563 
- - 小半头砖 waitfordawn@qq.com  
- - 漂流瓶儿 tsliuhaitao@qq.com
- - 麦壳饼 qq 100860505 
+
+ - 小半头砖 waitfordawn@qq.com   《PureBasic入门与提高》作者 ， 帮助文档翻译
+ - 漂流瓶儿 tsliuhaitao@qq.com   《PureBasic入门与提高》 筹备人  帮助文档翻译 
+ - 麦壳饼 qq 100860505     网站管理员 文档翻译协调
+ - 布鲁斯兰  QQ 173654757  帮助文档翻译
+ - 迷路仟   QQ: 714095563  其它
