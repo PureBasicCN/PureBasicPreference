@@ -4257,6 +4257,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specifies the constant, in milliseconds, used to calculate the total time-out period for write operations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064701Z" creationid="lansn-lan" creationdate="20160729T064701Z">
+        <seg>指定常量，以毫秒为单位，用于计算写入操作总超时期限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specifies the maximum time, in milliseconds, which are allowed to elapse between the arrival of two characters on the communications line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063704Z" creationid="lansn-lan" creationdate="20160729T063704Z">
