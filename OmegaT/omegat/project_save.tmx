@@ -3145,6 +3145,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Holding down the Shift key and using the arrow keys selects text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T132616Z" creationid="blues" creationdate="20160729T132616Z">
+        <seg>按住 Shift 键和光标可以选择文本.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Home</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101700Z" creationid="MysticBoy" creationdate="20160721T101700Z">
@@ -4646,6 +4654,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T034355Z" creationid="oSilas" creationdate="20141128T034355Z">
         <seg> &lt;a7&gt;Plot()&lt;/a7&gt; 和 &lt;a8&gt;Point()&lt;/a8&gt; 命令因为执行无边界检查的性能原因，因此不影响此命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Delete key does a forward delete.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T132458Z" creationid="blues" creationdate="20160729T132458Z">
+        <seg>Delete 删除键用于向前删除 .</seg>
       </tuv>
     </tu>
     <tu>
