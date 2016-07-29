@@ -2801,6 +2801,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each read operation, this value is multiplied by the requested number of bytes to be read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064419Z" creationid="lansn-lan" creationdate="20160729T064419Z">
+        <seg>对于每个读操作，这个值乘以所需的字节数将被读取.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For ease of ordering, you can safely use our secure online method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080830Z" creationid="MysticBoy" creationdate="20160725T080830Z">
@@ -4245,6 +4253,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063704Z" creationid="lansn-lan" creationdate="20160729T063704Z">
         <seg>指定的最长的时间，以毫秒为单位，两个字符在通信线路上允许到达的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifies the multiplier, in milliseconds, used to calculate the total time-out period for read operations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064304Z" creationid="lansn-lan" creationdate="20160729T064304Z">
+        <seg>指定multiplier，以毫秒为单位，用来计算总超时期限的读取操作的乘数。</seg>
       </tuv>
     </tu>
     <tu>
