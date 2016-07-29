@@ -5827,6 +5827,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Writes an arbitrary amount of data to the specified serial port.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065738Z" creationid="lansn-lan" creationdate="20160729T065738Z">
+        <seg>将任意数量的数据写入到指定的串行端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Writes the Message string (plus a newline) to the standard error output of the program.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141438Z">
