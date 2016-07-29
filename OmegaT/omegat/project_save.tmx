@@ -3859,16 +3859,24 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>RIT stands for 'ReadIntervalTimeout'.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063907Z" creationid="lansn-lan" creationdate="20160729T063406Z">
-        <seg>RIT 代表'ReadIntervalTimeout"，两字符之间最大的延时，当读取串口数据时，一旦两个字符传输的时间差超过该时间，读取函数将返回现有的数据.</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064038Z" creationid="lansn-lan" creationdate="20160729T063406Z">
+        <seg>RIT 表示'ReadIntervalTimeout"，两字符之间最大的延时，当读取串口数据时，一旦两个字符传输的时间差超过该时间，读取函数将返回现有的数据.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RTTC stands for 'ReadTotalTimeoutConstant'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064018Z" creationid="lansn-lan" creationdate="20160729T064018Z">
+        <seg>RTTC 表示 'ReadTotalTimeoutConstant'，一次读取串口数据的固定超时。所以在一次读取串口的操作中，其超时为ReadTotalTimeoutMultiplier乘以读取的字节数再加上 ReadTotalTimeoutConstant。将ReadIntervalTimeout设置为MAXDWORD，并将ReadTotalTimeoutMultiplier 和ReadTotalTimeoutConstant设置为0，表示读取操作将立即返回存放在输入缓冲区的字符。可以理解为一个修正时间，实际上就是按ReadTotalTimeoutMultiplier计算出的超时时间再加上该时间才作为整个超时时间。   .</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>RTTM stands for 'ReadTotalTimeoutMultiplier'.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063943Z" creationid="lansn-lan" creationdate="20160729T063736Z">
-        <seg>RTTM 代表 'ReadTotalTimeoutMultiplier'，指定比例因子（毫秒），实际上是设置读取一个字节和等待下一个字节所需的时间，这样总的超时时间为读取的字节数乘以该值，同样一次读取操作到达这个时间后，也认为本次读操作己经结束。。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064043Z" creationid="lansn-lan" creationdate="20160729T063736Z">
+        <seg>RTTM 表示 'ReadTotalTimeoutMultiplier'，指定比例因子（毫秒），实际上是设置读取一个字节和等待下一个字节所需的时间，这样总的超时时间为读取的字节数乘以该值，同样一次读取操作到达这个时间后，也认为本次读操作己经结束。。</seg>
       </tuv>
     </tu>
     <tu>
