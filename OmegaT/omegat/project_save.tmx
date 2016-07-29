@@ -2425,6 +2425,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defines the size of the input buffer, in bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T052823Z" creationid="lansn-lan" creationdate="20160729T052823Z">
+        <seg>定义输入缓冲区的大小，以字节为单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defines the size of the output buffer, in bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T052830Z" creationid="lansn-lan" creationdate="20160729T052830Z">
+        <seg>定义输出缓冲区的大小，以字节为单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defines the speed of the serial connection and can be one of the following values:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T050351Z" creationid="lansn-lan" creationdate="20160729T050351Z">
@@ -4511,6 +4527,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T034955Z" creationid="oSilas" creationdate="20141128T034955Z">
         <seg>使用指定的角度和&lt;a0&gt;背景颜色&lt;/a0&gt;开始，然后开始使用&lt;a1&gt;前景色&lt;/a1&gt;向逆时针方向的角度变化直到原来的起点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The handshake mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T052814Z" creationid="lansn-lan" creationdate="20160729T052814Z">
+        <seg>设置握手的模式。</seg>
       </tuv>
     </tu>
     <tu>
