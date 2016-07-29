@@ -1839,6 +1839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_SerialPort_DTR&lt;/f0&gt;: set DTR signal status (value can be 0 or 1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065311Z" creationid="lansn-lan" creationdate="20160729T065311Z">
+        <seg>&lt;f0&gt;#PB_SerialPort_DTR&lt;/f0&gt;︰ 设置 DTR 信号状态 （值可以是 0 或 1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_SerialPort_NoParity&lt;/f0&gt;   : No parity</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051928Z" creationid="lansn-lan" creationdate="20160729T051249Z">
@@ -1943,6 +1951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_SerialPort_RTS&lt;/f1&gt;: set RTS signal status (value can be 0 or 1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065320Z" creationid="lansn-lan" creationdate="20160729T065320Z">
+        <seg>&lt;f1&gt;#PB_SerialPort_RTS&lt;/f1&gt;︰ 设置 RTS 信号状态 （值可以是 0 或 1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;#PB_Window_InnerCoordinate&lt;/f1&gt;: y position of the window inner area (where gadget can be added),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153549Z" creationid="jane" creationdate="20160728T153549Z">
@@ -1971,6 +1987,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060926Z" creationid="lansn-lan" creationdate="20160729T060926Z">
         <seg>&lt;f2&gt;#PB_SerialPort_RxParity&lt;/f2&gt; ︰ 硬件检测到奇偶校验错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_SerialPort_TXD&lt;/f2&gt;: Set TXD signal status (value can be 0 or 1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065325Z" creationid="lansn-lan" creationdate="20160729T065325Z">
+        <seg>&lt;f2&gt;#PB_SerialPort_TXD&lt;/f2&gt;︰ 设置的 TXD 信号状态 （值可以是 0 或 1）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4542,6 +4566,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T081617Z" creationid="MysticBoy" creationdate="20160720T081617Z">
         <seg>角系数向量。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The attribute to set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065258Z" creationid="lansn-lan" creationdate="20160729T065258Z">
+        <seg>要设置的属性。</seg>
       </tuv>
     </tu>
     <tu>
