@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;#PB_Any&lt;/a0&gt; can be used to auto-generate this number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044801Z" creationid="lansn-lan" creationdate="20160729T044801Z">
+        <seg>&lt;a0&gt;#PB_Any&lt;/a0&gt; 可以用来自动生成这个号码.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;2DDrawing Index&lt;/a0&gt; - &lt;a1&gt;AlphaBlend()&lt;/a1&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T140307Z">
@@ -1949,6 +1957,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041716Z" creationid="oSilas" creationdate="20151013T041716Z">
         <seg>&lt;a5&gt;这里&lt;/a5&gt;有一个通用的颜色参照表.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A number to identify the new serial port.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044732Z" creationid="lansn-lan" creationdate="20160729T044732Z">
+        <seg>识别新串口的编号码.</seg>
       </tuv>
     </tu>
     <tu>
