@@ -2489,6 +2489,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Closes the serial port previously opened with &lt;a0&gt;OpenSerialPort()&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081237Z" creationid="lansn-lan" creationdate="20160729T081237Z">
+        <seg>关闭先前使用函数 &lt;a0&gt;OpenSerialPort()&lt;/a0&gt;打开的串行端口.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color (optional)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135243Z" creationid="MysticBoy" creationdate="20160723T135243Z">
@@ -5223,6 +5231,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T135144Z">
         <seg>结果在0至255之间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The serial port to close.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081322Z" creationid="lansn-lan" creationdate="20160729T081322Z">
+        <seg>需要关闭的串口.</seg>
       </tuv>
     </tu>
     <tu>
