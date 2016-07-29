@@ -4249,6 +4249,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the specified serial port status, according to the specified attribute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T082022Z" creationid="lansn-lan" creationdate="20160729T082022Z">
+        <seg>根据指定的属性，返回指定的串行端口状态.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the specified serial port status.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081557Z" creationid="lansn-lan" creationdate="20160729T081557Z">
