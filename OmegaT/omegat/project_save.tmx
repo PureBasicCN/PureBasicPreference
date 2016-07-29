@@ -3483,8 +3483,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>It removes spaces/tabs at the start of each line in order to reduce the indentation of the whole block.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T142446Z" creationid="blues" creationdate="20160729T142446Z">
-        <seg>它将在每一行开始处移除空格符 / tab符，为的是使得整个区块减少缩进.</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T142558Z" creationid="blues" creationdate="20160729T142446Z">
+        <seg>它将在每一行开始处移除空格符 / tab符，为的是使整个选中区块减少缩进.</seg>
       </tuv>
     </tu>
     <tu>
