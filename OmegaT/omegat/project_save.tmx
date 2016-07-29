@@ -1943,10 +1943,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_SerialPort_RxParity&lt;/f2&gt; : The hardware detected a parity error.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060926Z" creationid="lansn-lan" creationdate="20160729T060926Z">
+        <seg>&lt;f2&gt;#PB_SerialPort_RxParity&lt;/f2&gt; ︰ 硬件检测到奇偶校验错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;#PB_PixelFormat_24Bits_RGB&lt;/f3&gt; : 3 bytes per pixel (RRGGBB)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043551Z" creationid="oSilas" creationdate="20150312T043551Z">
         <seg>&lt;f3&gt;#PB_PixelFormat_24Bits_RGB&lt;/f3&gt; ： 3 个字节，每个像素 （RRGGBB）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f3&gt;#PB_SerialPort_Frame&lt;/f3&gt;    : The hardware detected a framing error.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060944Z" creationid="lansn-lan" creationdate="20160729T060944Z">
+        <seg>&lt;f3&gt;#PB_SerialPort_Frame&lt;/f3&gt; : 硬件检测到帧错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1975,6 +1991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f4&gt;#PB_SerialPort_Break&lt;/f4&gt;    : The hardware detected a break condition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060952Z" creationid="lansn-lan" creationdate="20160729T060952Z">
+        <seg>&lt;f4&gt;#PB_SerialPort_Break&lt;/f4&gt; : 硬件检测到中断条件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f4&gt;#PB_SerialPort_SpaceParity&lt;/f4&gt;: Space parity</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051942Z" creationid="lansn-lan" creationdate="20160729T051853Z">
@@ -1987,6 +2011,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043612Z" creationid="oSilas" creationdate="20150312T043612Z">
         <seg>&lt;f5&gt;#PB_PixelFormat_32Bits_RGB&lt;/f5&gt; ： 4 个字节，每个像素 （RRGGBB）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f5&gt;#PB_SerialPort_TxFull&lt;/f5&gt;   : The application tried to transmit a character but the output buffer was full.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061005Z" creationid="lansn-lan" creationdate="20160729T061005Z">
+        <seg>&lt;f5&gt;#PB_SerialPort_TxFull&lt;/f5&gt; ︰ 应用程序尝试发送一个字符，但输出缓冲区已满。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4735,6 +4767,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053328Z" creationid="MysticBoy" creationdate="20160726T053328Z">
         <seg>可以设定换行符制式为Windows(CRLF), Linux/Unix (LF)和MacOSX (CR)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next character is lost.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060902Z" creationid="lansn-lan" creationdate="20160729T060902Z">
+        <seg>下一个字符丢失。</seg>
       </tuv>
     </tu>
     <tu>
