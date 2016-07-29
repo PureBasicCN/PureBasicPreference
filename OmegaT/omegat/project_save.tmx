@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;#PB_Any&lt;/a0&gt; can be used to auto-generate this number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T045059Z" creationid="lansn-lan" creationdate="20160729T044801Z">
+        <seg>&lt;a0&gt;#PB_Any&lt;/a0&gt; 可以用来自动生成这个编码.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;2DDrawing Index&lt;/a0&gt; - &lt;a1&gt;AlphaBlend()&lt;/a1&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T140307Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040600Z" creationid="oSilas" creationdate="20151013T040600Z">
         <seg>取得Alpha颜色分量&lt;a0&gt;Alpha&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;AvailableSerialPortInput&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T035559Z" creationid="lansn-lan" creationdate="20160729T034834Z">
+        <seg>&lt;a0&gt;AvailableSerialPortInput &lt;/a0&gt;   用途：返回串口输入缓冲区中的剩余字节数&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a10&gt;OpenSerialPort&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T035655Z" creationid="lansn-lan" creationdate="20160729T035655Z">
+        <seg>&lt;a10&gt;OpenSerialPort&lt;/a10&gt;  用途：打开一个串口&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a11&gt;&lt;b12&gt;PureBasic 5.41 LTS (all OS)&lt;/b12&gt;&lt;/a11&gt;&lt;i13&gt; (12/23/2015)&lt;/i13&gt;&lt;br14&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070031Z" creationid="MysticBoy" creationdate="20160728T070031Z">
@@ -794,6 +818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084009Z" creationid="MysticBoy" creationdate="20160720T084009Z">
         <seg>&lt;a12&gt;控制台&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a12&gt;ReadSerialPortData&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T035803Z" creationid="lansn-lan" creationdate="20160729T035803Z">
+        <seg>&lt;a12&gt;ReadSerialPortData&lt;/a12&gt;  用途：读取串口数据&lt;br13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -830,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a14&gt;SerialPortError&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T035935Z" creationid="lansn-lan" creationdate="20160729T035935Z">
+        <seg>&lt;a14&gt;SerialPortError&lt;/a14&gt;  用途：返回使用  ReadSerialPortData(), WriteSerialPortData() 或者 WriteSerialPortString() 失败时串口产生的错误&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a14&gt;SoundPlugin&lt;/a14&gt;&lt;br15&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083913Z" creationid="MysticBoy" creationdate="20160720T083913Z">
@@ -854,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a16&gt;SerialPortID&lt;/a16&gt;&lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T040037Z" creationid="lansn-lan" creationdate="20160729T040037Z">
+        <seg>&lt;a16&gt;SerialPortID&lt;/a16&gt;  用途：返回串口的唯一系统标识符&lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a18&gt;Building a DLL&lt;/a18&gt;&lt;br19&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083537Z" creationid="MysticBoy" creationdate="20160720T083537Z">
@@ -870,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a18&gt;SerialPortTimeouts&lt;/a18&gt;&lt;br19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T040202Z" creationid="lansn-lan" creationdate="20160729T040202Z">
+        <seg>&lt;a18&gt;SerialPortTimeouts&lt;/a18&gt;  用途：更改默认设定的串口超时时间&lt;br19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a20&gt;CustomFilterCallback&lt;/a20&gt;&lt;br21&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040924Z" creationid="oSilas" creationdate="20151013T040924Z">
@@ -882,6 +938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084115Z" creationid="MysticBoy" creationdate="20160720T084115Z">
         <seg>&lt;a20&gt;桌面&lt;/a20&gt;&lt;br21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a20&gt;SetSerialPortStatus&lt;/a20&gt;&lt;br21&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T042804Z" creationid="lansn-lan" creationdate="20160729T042804Z">
+        <seg>&lt;a20&gt;SetSerialPortStatus&lt;/a20&gt;  用途：更改指定的串口状态&lt;br21&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,10 +974,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a22&gt;WriteSerialPortData&lt;/a22&gt;&lt;br23&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T042847Z" creationid="lansn-lan" creationdate="20160729T042847Z">
+        <seg>&lt;a22&gt;WriteSerialPortData&lt;/a22&gt;  用途：将任意数量的数据写入指定的串口&lt;br23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a24&gt;DrawAlphaImage&lt;/a24&gt;&lt;br25&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040931Z" creationid="oSilas" creationdate="20151013T040931Z">
         <seg>绘制α图&lt;a24&gt;DrawAlphaImage&lt;/a24&gt;&lt;br25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a24&gt;WriteSerialPortString&lt;/a24&gt;&lt;br25&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T042911Z" creationid="lansn-lan" creationdate="20160729T042911Z">
+        <seg>&lt;a24&gt;WriteSerialPortString&lt;/a24&gt;  用途：将一个字符串写入指定的串口&lt;br25&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -978,6 +1058,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083952Z" creationid="MysticBoy" creationdate="20160720T083952Z">
         <seg>&lt;a2&gt;数组&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a2&gt;AvailableSerialPortOutput&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T035604Z" creationid="lansn-lan" creationdate="20160729T034916Z">
+        <seg>&lt;a2&gt;AvailableSerialPortOutput &lt;/a2&gt;  用途：返回串口输出缓冲区中的剩余字节数&lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a4&gt;CloseSerialPort&lt;/a4&gt;&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T035611Z" creationid="lansn-lan" creationdate="20160729T034946Z">
+        <seg>&lt;a4&gt;CloseSerialPort &lt;/a4&gt;   用途：关闭先前使用OpenSerialPort()打开的串口&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a4&gt;Mouse&lt;/a4&gt; &lt;br5&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083830Z" creationid="MysticBoy" creationdate="20160720T083830Z">
@@ -1230,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a6&gt;GetSerialPortStatus&lt;/a6&gt;&lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T035616Z" creationid="lansn-lan" creationdate="20160729T035242Z">
+        <seg>&lt;a6&gt;GetSerialPortStatus&lt;/a6&gt;  用途：返回指定的串口状态&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a6&gt;Music&lt;/a6&gt;&lt;br7&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083844Z" creationid="MysticBoy" creationdate="20160720T083844Z">
@@ -1298,6 +1402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083529Z" creationid="MysticBoy" creationdate="20160720T083529Z">
         <seg>&lt;a8&gt;调试器命令&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a8&gt;IsSerialPort&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T035625Z" creationid="lansn-lan" creationdate="20160729T035500Z">
+        <seg>&lt;a8&gt;IsSerialPort&lt;/a8&gt;  用途：判断给定的串口是否有效和正确初始化&lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1637,6 +1749,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b5&gt;&lt;f6&gt;Debug&lt;/f6&gt;&lt;/b5&gt; "Success"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055349Z" creationid="lansn-lan" creationdate="20160729T055349Z">
+        <seg>&lt;b5&gt;&lt;f6&gt;Debug&lt;/f6&gt;&lt;/b5&gt; "成功"</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>系统</note>
       <tuv lang="EN-US">
         <seg>&lt;b65&gt;Requirements&lt;/b65&gt;&lt;br66&gt;</seg>
@@ -1695,6 +1815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b9&gt;&lt;f10&gt;Debug&lt;/f10&gt;&lt;/b9&gt; "Failed"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055359Z" creationid="lansn-lan" creationdate="20160729T055359Z">
+        <seg>&lt;b9&gt;&lt;f10&gt;Debug&lt;/f10&gt;&lt;/b9&gt; "失败"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b9&gt;The error log&lt;/b9&gt; (located below the editing area) &lt;br10&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140815Z" creationid="MysticBoy" creationdate="20160723T140815Z">
@@ -1703,10 +1831,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_Ascii&lt;/f0&gt;   : the string will be written in ascii format (default, even in &lt;a1&gt;unicode&lt;/a1&gt; mode).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070707Z" creationid="lansn-lan" creationdate="20160729T070707Z">
+        <seg>&lt;f0&gt;#PB_Ascii&lt;/f0&gt;   : 字符串将以 ascii  的格式写入， (默认, even in &lt;a1&gt;unicode&lt;/a1&gt; mode).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_PixelFormat_8Bits&lt;/f0&gt;      : 1 byte per pixel, palletised</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043528Z" creationid="oSilas" creationdate="20150312T043528Z">
         <seg>&lt;f0&gt;#PB_PixelFormat_8Bits&lt;/f0&gt; ： 1 个字节每个像素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_SerialPort_DTR&lt;/f0&gt;: set DTR signal status (value can be 0 or 1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065311Z" creationid="lansn-lan" creationdate="20160729T065311Z">
+        <seg>&lt;f0&gt;#PB_SerialPort_DTR&lt;/f0&gt;︰ 设置 DTR 信号状态 （值可以是 0 或 1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_SerialPort_NoParity&lt;/f0&gt;   : No parity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051928Z" creationid="lansn-lan" creationdate="20160729T051249Z">
+        <seg>&lt;f0&gt;#PB_SerialPort_NoParity&lt;/f0&gt;   : No parity  无校验</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_SerialPort_RxOver&lt;/f0&gt;: An input buffer overflow has occurred.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060654Z" creationid="lansn-lan" creationdate="20160729T060654Z">
+        <seg>&lt;f0&gt;#PB_SerialPort_RxOver&lt;/f0&gt;︰ 发生输入的缓冲区溢出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1723,6 +1883,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084518Z" creationid="MysticBoy" creationdate="20160725T084518Z">
         <seg>&lt;f0&gt;&lt;b1&gt;PureBasic.CN&lt;/b1&gt;&lt;/f0&gt; &lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f10&gt;#PB_SerialPort_XoffReceived&lt;/f10&gt;: Specifies whether transmission is waiting because the XOFF character was received.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061801Z" creationid="lansn-lan" creationdate="20160729T061801Z">
+        <seg>&lt;f10&gt;#PB_SerialPort_XoffReceived&lt;/f10&gt;︰ 指定传输是否正在等待，因为接收到 XOFF 字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f11&gt;#PB_SerialPort_XoffSent&lt;/f11&gt;    : Specifies whether transmission is waiting because the XOFF character was transmitted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061850Z" creationid="lansn-lan" creationdate="20160729T061850Z">
+        <seg>&lt;f11&gt;#PB_SerialPort_XoffSent&lt;/f11&gt; ︰ 指定传输是否正在等待，因为 XOFF 字符被传送。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f12&gt;#PB_SerialPort_EOFSent&lt;/f12&gt;: Specifies whether the end-of-file (EOF) character has been received.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T062652Z" creationid="lansn-lan" creationdate="20160729T062652Z">
+        <seg>&lt;f12&gt;#PB_SerialPort_EOFSent&lt;/f12&gt;: 指定文件结束（EOF）字符已接收。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1759,6 +1943,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_SerialPort_EvenParity&lt;/f1&gt; : Even parity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051313Z" creationid="lansn-lan" creationdate="20160729T051313Z">
+        <seg>&lt;f1&gt;#PB_SerialPort_EvenParity&lt;/f1&gt; : Even parity  偶校验</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_SerialPort_OverRun&lt;/f1&gt;: A character-buffer overrun has occurred.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060827Z" creationid="lansn-lan" creationdate="20160729T060827Z">
+        <seg>&lt;f1&gt;#PB_SerialPort_OverRun&lt;/f1&gt;︰ 字符缓冲区溢出发生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_SerialPort_RTS&lt;/f1&gt;: set RTS signal status (value can be 0 or 1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065320Z" creationid="lansn-lan" creationdate="20160729T065320Z">
+        <seg>&lt;f1&gt;#PB_SerialPort_RTS&lt;/f1&gt;︰ 设置 RTS 信号状态 （值可以是 0 或 1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;#PB_Window_InnerCoordinate&lt;/f1&gt;: y position of the window inner area (where gadget can be added),</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153549Z" creationid="jane" creationdate="20160728T153549Z">
@@ -1775,10 +1983,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_SerialPort_MarkParity&lt;/f2&gt; : Mark parity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051933Z" creationid="lansn-lan" creationdate="20160729T051915Z">
+        <seg>&lt;f2&gt;#PB_SerialPort_MarkParity&lt;/f2&gt; : Mark parity  校验位始终为1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_SerialPort_RxParity&lt;/f2&gt; : The hardware detected a parity error.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060926Z" creationid="lansn-lan" creationdate="20160729T060926Z">
+        <seg>&lt;f2&gt;#PB_SerialPort_RxParity&lt;/f2&gt; ︰ 硬件检测到奇偶校验错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_SerialPort_TXD&lt;/f2&gt;: Set TXD signal status (value can be 0 or 1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065325Z" creationid="lansn-lan" creationdate="20160729T065325Z">
+        <seg>&lt;f2&gt;#PB_SerialPort_TXD&lt;/f2&gt;︰ 设置的 TXD 信号状态 （值可以是 0 或 1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_UTF8&lt;/f2&gt;    : the string will be written in UTF8 format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070736Z" creationid="lansn-lan" creationdate="20160729T070736Z">
+        <seg>&lt;f2&gt;#PB_UTF8&lt;/f2&gt;    : 字符串将以 UTF8 格式写入.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;#PB_PixelFormat_24Bits_RGB&lt;/f3&gt; : 3 bytes per pixel (RRGGBB)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043551Z" creationid="oSilas" creationdate="20150312T043551Z">
         <seg>&lt;f3&gt;#PB_PixelFormat_24Bits_RGB&lt;/f3&gt; ： 3 个字节，每个像素 （RRGGBB）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f3&gt;#PB_SerialPort_Frame&lt;/f3&gt;    : The hardware detected a framing error.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060944Z" creationid="lansn-lan" creationdate="20160729T060944Z">
+        <seg>&lt;f3&gt;#PB_SerialPort_Frame&lt;/f3&gt; : 硬件检测到帧错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f3&gt;#PB_SerialPort_OddParity&lt;/f3&gt;  : Odd parity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051327Z" creationid="lansn-lan" creationdate="20160729T051327Z">
+        <seg>&lt;f3&gt;#PB_SerialPort_OddParity&lt;/f3&gt;  : Odd parity  奇校验</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f3&gt;#PB_SerialPort_XonCharacter&lt;/f3&gt; : Character used for Xon/Xoff handshaking sequence (value can be between 1 and 255).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065410Z" creationid="lansn-lan" creationdate="20160729T065410Z">
+        <seg>&lt;f3&gt;#PB_SerialPort_XonCharacter&lt;/f3&gt; ︰ 用于 Xon/Xoff 握手顺序的字符 （值可以是 1 到 255 之间）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f3&gt;#PB_Unicode&lt;/f3&gt; : the string will be written in unicode (UTF16) format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070756Z" creationid="lansn-lan" creationdate="20160729T070756Z">
+        <seg>&lt;f3&gt;#PB_Unicode&lt;/f3&gt; : 字符串将以 unicode (UTF16) 格式写入.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1799,10 +2071,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f4&gt;#PB_SerialPort_Break&lt;/f4&gt;    : The hardware detected a break condition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060952Z" creationid="lansn-lan" creationdate="20160729T060952Z">
+        <seg>&lt;f4&gt;#PB_SerialPort_Break&lt;/f4&gt; : 硬件检测到中断条件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f4&gt;#PB_SerialPort_SpaceParity&lt;/f4&gt;: Space parity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T051942Z" creationid="lansn-lan" creationdate="20160729T051853Z">
+        <seg>&lt;f4&gt;#PB_SerialPort_SpaceParity&lt;/f4&gt;: Space parity  校验位始终为0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f4&gt;#PB_SerialPort_XoffCharacter&lt;/f4&gt;: Character used for Xon/Xoff handshaking sequence (value can be between 1 and 255).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065439Z" creationid="lansn-lan" creationdate="20160729T065439Z">
+        <seg>&lt;f4&gt;#PB_SerialPort_XoffCharacter&lt;/f4&gt;︰ 用于 Xon/Xoff 握手顺序的字符 （值可以是 1 到 255 之间）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f5&gt;#PB_PixelFormat_32Bits_RGB&lt;/f5&gt; : 4 bytes per pixel (RRGGBB)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043612Z" creationid="oSilas" creationdate="20150312T043612Z">
         <seg>&lt;f5&gt;#PB_PixelFormat_32Bits_RGB&lt;/f5&gt; ： 4 个字节，每个像素 （RRGGBB）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f5&gt;#PB_SerialPort_TxFull&lt;/f5&gt;   : The application tried to transmit a character but the output buffer was full.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061005Z" creationid="lansn-lan" creationdate="20160729T061005Z">
+        <seg>&lt;f5&gt;#PB_SerialPort_TxFull&lt;/f5&gt; ︰ 应用程序尝试发送一个字符，但输出缓冲区已满。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1823,10 +2127,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f6&gt;#PB_SerialPort_IOE&lt;/f6&gt;      :  An I/O error occurred during communications with the device.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061022Z" creationid="lansn-lan" creationdate="20160729T061022Z">
+        <seg>&lt;f6&gt;#PB_SerialPort_IOE&lt;/f6&gt; ︰ 与设备在通信期间出现 I/O 错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f7&gt;#PB_PixelFormat_ReversedY&lt;/f7&gt;  : The Y-Coordinate of the output is reversed in memory (the bottom row is stored first).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043647Z" creationid="oSilas" creationdate="20150312T043647Z">
         <seg>&lt;f7&gt;#PB_PixelFormat_ReversedY&lt;/f7&gt; ： Y 坐标输出的颠倒 （底部行先存储） 在内存中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f7&gt;#PB_SerialPort_WaitingCTS&lt;/f7&gt;  : Specifies whether transmission is waiting for the CTS (clear-to-send) signal to be sent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061354Z" creationid="lansn-lan" creationdate="20160729T061139Z">
+        <seg>&lt;f7&gt;#PB_SerialPort_WaitingCTS&lt;/f7&gt; ︰ 指定传输是否正在等待发送 CTS （清除发送） 信号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f8&gt;#PB_SerialPort_WaitingDSR&lt;/f8&gt;  : Specifies whether transmission is waiting for the DSR (data-set-ready) signal to be sent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061349Z" creationid="lansn-lan" creationdate="20160729T061349Z">
+        <seg>&lt;f8&gt;#PB_SerialPort_WaitingDSR&lt;/f8&gt; ︰ 指定传输是否正在等待发送 DSR （数据准备就绪） 信号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f9&gt;#PB_SerialPort_WaitingRLSD&lt;/f9&gt; : Specifies whether transmission is waiting for the RLSD (receive-line-signal-detect) signal to be sent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061716Z" creationid="lansn-lan" creationdate="20160729T061716Z">
+        <seg>&lt;f9&gt;#PB_SerialPort_WaitingRLSD&lt;/f9&gt; ︰ 指定传输是否正在等待 RLSD （接收线信号检测） 发送的信号。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1845,6 +2181,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041716Z" creationid="oSilas" creationdate="20151013T041716Z">
         <seg>&lt;a5&gt;这里&lt;/a5&gt;有一个通用的颜色参照表.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A number to identify the new serial port.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T045052Z" creationid="lansn-lan" creationdate="20160729T044732Z">
+        <seg>识别新串口的编码.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2049,6 +2393,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can be a combination of the following values:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060632Z" creationid="lansn-lan" creationdate="20160729T060632Z">
+        <seg>可以是下列值的组合︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the colors used by the text display.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112047Z">
@@ -2073,10 +2425,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changes the default serial port timeouts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063038Z" creationid="lansn-lan" creationdate="20160729T063038Z">
+        <seg>更改默认串行端口超时时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changes the display of the cursor, which is the indicator used to show where the next displayed character will be drawn.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141203Z">
         <seg>更改光标的显示，该指示器将在设置之后显示字符时开始使用。 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changes the specified serial port status.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065231Z" creationid="lansn-lan" creationdate="20160729T065231Z">
+        <seg>更改指定串行端口状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2241,10 +2609,82 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default value is $11.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065512Z" creationid="lansn-lan" creationdate="20160729T065512Z">
+        <seg>默认值为 $11 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default value is $13.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065502Z" creationid="lansn-lan" creationdate="20160729T065502Z">
+        <seg>默认值为 $13 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default value is 10 ms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064430Z" creationid="lansn-lan" creationdate="20160729T064430Z">
+        <seg>默认值为 10 毫秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default value is 100 ms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063713Z" creationid="lansn-lan" creationdate="20160729T063713Z">
+        <seg>默认值为 100 毫秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Define a bounding box that restricts all drawing to the current drawing output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T033256Z" creationid="oSilas" creationdate="20141128T033140Z">
         <seg>在当前绘图输出中定义一个封闭区域限制所有绘图在它的范围之内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defines how the parity will be handled on the connection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T050739Z" creationid="lansn-lan" creationdate="20160729T050739Z">
+        <seg>定义通信如何处理奇偶性校验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defines the data length, in byte (usually 7 or 8).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T052146Z" creationid="lansn-lan" creationdate="20160729T052146Z">
+        <seg>定义的数据长度，字节 （通常是 7 或 8） 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defines the size of the input buffer, in bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T052823Z" creationid="lansn-lan" creationdate="20160729T052823Z">
+        <seg>定义输入缓冲区的大小，以字节为单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defines the size of the output buffer, in bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T052830Z" creationid="lansn-lan" creationdate="20160729T052830Z">
+        <seg>定义输出缓冲区的大小，以字节为单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defines the speed of the serial connection and can be one of the following values:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T050351Z" creationid="lansn-lan" creationdate="20160729T050351Z">
+        <seg>定义串口通信连接速度（波特率），可以是下列值之一︰</seg>
       </tuv>
     </tu>
     <tu>
@@ -2449,6 +2889,38 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each read operation, this value is added to the product of the ReadTotalTimeoutMultiplier member and the requested number of bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064209Z" creationid="lansn-lan" creationdate="20160729T064209Z">
+        <seg>对于每个读取操作，此值被添加到 ReadTotalTimeoutMultiplier 成员与所请求的字节数的乘积。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each read operation, this value is multiplied by the requested number of bytes to be read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064419Z" creationid="lansn-lan" creationdate="20160729T064419Z">
+        <seg>对于每个读操作，这个值乘以所需的字节数将被读取.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each write operation, this value is added to the product of the WriteTotalTimeoutMultiplier member and the number of bytes to be written.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064844Z" creationid="lansn-lan" creationdate="20160729T064818Z">
+        <seg>对于每个写操作，此值被添加到 WriteTotalTimeoutMultiplier 成员和的字节数要写入的产品中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each write operation, this value is multiplied by the number of bytes to be written.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065005Z" creationid="lansn-lan" creationdate="20160729T065005Z">
+        <seg>对于每个写操作，此值乘以要写入的字节数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For ease of ordering, you can safely use our secure online method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080830Z" creationid="MysticBoy" creationdate="20160725T080830Z">
@@ -2601,10 +3073,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If &lt;f0&gt;#PB_Any&lt;/f0&gt; was used for the #SerialPort parameter then the generated number is returned on success.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055308Z" creationid="lansn-lan" creationdate="20160729T054952Z">
+        <seg>如果使用&lt;f0&gt;#PB_Any&lt;/f0&gt;为 #SerialPort 参数，返回一个生成的数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Result is 0, it has failed and all further call to console functions must be disabled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082622Z" creationid="MysticBoy" creationdate="20160720T082622Z">
         <seg>如果result 为0，表示已经失败并且必须禁止所有进一步调用到的控制台函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a read error has occured, it will return zero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060358Z" creationid="lansn-lan" creationdate="20160729T060358Z">
+        <seg>如果出现读取错误，它将返回零。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2629,6 +3117,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054253Z" creationid="MysticBoy" creationdate="20160726T054253Z">
         <seg>如果文件从未保存，将提示您输入文件名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the input buffer was empty, this function will block until data is available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055621Z" creationid="lansn-lan" creationdate="20160729T055621Z">
+        <seg>如果输入的缓冲区是空的，此函数将阻塞直到有可用数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2769,10 +3265,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be less than the requested length.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060348Z" creationid="lansn-lan" creationdate="20160729T060218Z">
+        <seg>它可以小于请求的长度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be one of the following value:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153512Z" creationid="jane" creationdate="20160728T153512Z">
         <seg>它可以是以下值之一︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be one of the following values:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T050952Z" creationid="lansn-lan" creationdate="20160729T050952Z">
+        <seg>它可以是下列值之一︰</seg>
       </tuv>
     </tu>
     <tu>
@@ -2969,6 +3481,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nonzero if the serial port is valid, zero otherwise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T043443Z" creationid="lansn-lan" creationdate="20160729T043443Z">
+        <seg>如果串行端口是有效的为非零，否则为零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nonzero if the serial port was successfully opened, zero otherwise (it may be already in use, or the parameters are wrong).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T054215Z" creationid="lansn-lan" creationdate="20160729T054215Z">
+        <seg>如果串行端口已成功打开，返回值为非零，否则零 （它可能已经在使用中，或参数错误）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: The &lt;f2&gt;#PB_2DDrawing_CustomFilter&lt;/f2&gt; &lt;a3&gt;drawing mode&lt;/a3&gt; only works on &lt;a4&gt;ImageOutput()&lt;/a4&gt; and &lt;a5&gt;CanvasOutput()&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040643Z" creationid="oSilas" creationdate="20141128T040643Z">
@@ -3117,6 +3645,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023022Z" creationid="MysticBoy" creationdate="20160726T023022Z">
         <seg>打开现有的源代码文件进行编辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens a serial port for use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044453Z" creationid="lansn-lan" creationdate="20160729T044453Z">
+        <seg>打开串口以备使用.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3449,6 +3985,38 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RIT stands for 'ReadIntervalTimeout'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064038Z" creationid="lansn-lan" creationdate="20160729T063406Z">
+        <seg>RIT 表示'ReadIntervalTimeout"，两字符之间最大的延时，当读取串口数据时，一旦两个字符传输的时间差超过该时间，读取函数将返回现有的数据.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RTTC stands for 'ReadTotalTimeoutConstant'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064018Z" creationid="lansn-lan" creationdate="20160729T064018Z">
+        <seg>RTTC 表示 'ReadTotalTimeoutConstant'，一次读取串口数据的固定超时。所以在一次读取串口的操作中，其超时为ReadTotalTimeoutMultiplier乘以读取的字节数再加上 ReadTotalTimeoutConstant。将ReadIntervalTimeout设置为MAXDWORD，并将ReadTotalTimeoutMultiplier 和ReadTotalTimeoutConstant设置为0，表示读取操作将立即返回存放在输入缓冲区的字符。可以理解为一个修正时间，实际上就是按ReadTotalTimeoutMultiplier计算出的超时时间再加上该时间才作为整个超时时间。   .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RTTM stands for 'ReadTotalTimeoutMultiplier'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064043Z" creationid="lansn-lan" creationdate="20160729T063736Z">
+        <seg>RTTM 表示 'ReadTotalTimeoutMultiplier'，指定比例因子（毫秒），实际上是设置读取一个字节和等待下一个字节所需的时间，这样总的超时时间为读取的字节数乘以该值，同样一次读取操作到达这个时间后，也认为本次读操作己经结束。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reads an arbitrary amount of data from the #SerialPort.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055601Z" creationid="lansn-lan" creationdate="20160729T055601Z">
+        <seg>从 #SerialPort 中读取任意数量的数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reference Manual - Index</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T143920Z">
@@ -3505,6 +4073,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the ID of the serial port.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T062922Z" creationid="lansn-lan" creationdate="20160729T062922Z">
+        <seg>返回串行端口的ID。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the MemoryAddress of the drawing buffer for direct pixel manipulation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T042331Z" creationid="oSilas" creationdate="20150312T042331Z">
@@ -3545,6 +4121,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the error on the serial port when &lt;a0&gt;ReadSerialPortData()&lt;/a0&gt;, &lt;a1&gt;WriteSerialPortData()&lt;/a1&gt; or &lt;a2&gt;WriteSerialPortString()&lt;/a2&gt; failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060602Z" creationid="lansn-lan" creationdate="20160729T060602Z">
+        <seg>当使用函数&lt;a0&gt;ReadSerialPortData()&lt;/a0&gt;、 &lt;a1&gt;WriteSerialPortData()&lt;/a1&gt;或&lt;a2&gt;WriteSerialPortString()&lt;/a2&gt;失败时，在串口上返回的错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the length in bytes of one line in the output, including any additional padding behind the pixel data of a line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043225Z" creationid="oSilas" creationdate="20150312T043225Z">
@@ -3573,6 +4157,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150120T142432Z" creationid="oSilas" creationdate="20150120T142432Z">
         <seg>返回融合了两个32位的色彩所产生的32位色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns the unique system identifier of the serial port.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T062837Z" creationid="lansn-lan" creationdate="20160729T062837Z">
+        <seg>返回串行端口的系统唯一标识符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3637,6 +4229,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T170032Z" creationid="MysticBoy" creationdate="20160723T170032Z">
         <seg>搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See 'attribute' description to see which value is applicable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065615Z" creationid="lansn-lan" creationdate="20160729T065615Z">
+        <seg>根据设定的 '属性' 描述以查看哪个值是适用的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3721,6 +4321,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sets the number of stop bits (1, 1.5 or 2).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T052249Z" creationid="lansn-lan" creationdate="20160729T052249Z">
+        <seg>设置停止位 （1、 1.5 或 2）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shows the changes made to the current source code compared to its version that exists on the hard drive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053237Z" creationid="MysticBoy" creationdate="20160726T053237Z">
@@ -3737,10 +4345,58 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some basic knowledge about the terms used in this documentation will be needed, check &lt;a0&gt;Wikipedia - RS232&lt;/a0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T034450Z" creationid="lansn-lan" creationdate="20160729T034450Z">
+        <seg>本文档中使用的一些关于RS232基本术语，请访问 &lt;a0&gt;Wikipedia - RS232&lt;/a0&gt; 了解更多信息.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specifies a callback that will be called for every pixel that is part of a drawing operation in &lt;f0&gt;#PB_2DDrawing_CustomFilter&lt;/f0&gt; &lt;a1&gt;drawing mode&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040735Z" creationid="oSilas" creationdate="20141128T040735Z">
         <seg>指定将要求每个像素是在绘图操作的一部分回调&lt;f0&gt;＃PB_2DDrawing_CustomFilter&lt;/f0&gt;&lt;a1&gt;绘图模式&lt;/a1&gt;。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifies the constant, in milliseconds, used to calculate the total time-out period for read operations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064131Z" creationid="lansn-lan" creationdate="20160729T064131Z">
+        <seg>指定常量，以毫秒为单位，用来计算总超时期限的读取操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifies the constant, in milliseconds, used to calculate the total time-out period for write operations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064701Z" creationid="lansn-lan" creationdate="20160729T064701Z">
+        <seg>指定常量，以毫秒为单位，用于计算写入操作总超时期限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifies the maximum time, in milliseconds, which are allowed to elapse between the arrival of two characters on the communications line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063704Z" creationid="lansn-lan" creationdate="20160729T063704Z">
+        <seg>指定的最长的时间，以毫秒为单位，两个字符在通信线路上允许到达的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifies the multiplier, in milliseconds, used to calculate the total time-out period for read operations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065112Z" creationid="lansn-lan" creationdate="20160729T064304Z">
+        <seg>指定乘数，以毫秒为单位，用来计算总超时期限的读取操作的乘数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifies the multiplier, in milliseconds, used to calculate the total time-out period for write operations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065101Z" creationid="lansn-lan" creationdate="20160729T064955Z">
+        <seg>指定乘数，以毫秒为单位，用于计算写入操作总超时期限的乘数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3773,6 +4429,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084614Z" creationid="MysticBoy" creationdate="20160725T084614Z">
         <seg>团队成员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests if the given serial port is valid and correctly initialized.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T043208Z" creationid="lansn-lan" creationdate="20160729T043208Z">
+        <seg>测试给定的串行端口是否有效和正确地初始化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text identifier for the serial port, for example "COM1" on Windows or "/dev/ttyS0" on Linux.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044958Z" creationid="lansn-lan" creationdate="20160729T044958Z">
+        <seg>串口识别符 ，例如在Windows系统是 "COM1" 或者 在Linux系统是 "/dev/ttyS0" .</seg>
       </tuv>
     </tu>
     <tu>
@@ -3914,6 +4586,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Serial port (also know as the RS-232 port) was first created in 1969, and despite its age, it is still widely used in the industry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T032823Z" creationid="lansn-lan" creationdate="20160729T032823Z">
+        <seg>串行端口 (也叫做 RS-232 端口) 第一次创建于 1969年， 尽管年代久远,，今天还仍然广泛地应用于工业领域。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The SourceColor parameter specifies the color given in the drawing operation and the TargetColor parameter specifies the color of the target pixel in the drawing area.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040651Z" creationid="oSilas" creationdate="20141128T040651Z">
@@ -3954,6 +4634,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The attribute to set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065258Z" creationid="lansn-lan" creationdate="20160729T065258Z">
+        <seg>要设置的属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The attribute value to set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065543Z" creationid="lansn-lan" creationdate="20160729T065543Z">
+        <seg>要设置的属性值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The background color is set with &lt;a0&gt;ConsoleColor()&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110924Z">
@@ -3966,6 +4662,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044857Z" creationid="oSilas" creationdate="20150312T044857Z">
         <seg>为进一步绘图操作行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The buffer length to write, in bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065827Z" creationid="lansn-lan" creationdate="20160729T065827Z">
+        <seg>要写入的缓冲区的长度，以字节为单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The buffer to write.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065755Z" creationid="lansn-lan" creationdate="20160729T065755Z">
+        <seg>要写入的缓冲区。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4267,6 +4979,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The handshake mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T052814Z" creationid="lansn-lan" creationdate="20160729T052814Z">
+        <seg>设置握手的模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The horizontal position in the console to move to (starting from 0)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T134854Z" creationid="oSilas" creationdate="20141124T134854Z">
@@ -4279,6 +4999,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055114Z" creationid="MysticBoy" creationdate="20160721T055114Z">
         <seg>PureBasic 的主要特点是可移植性 （Windows、 Linux 和 MacOS X 目前均支持），生成非常快速和高度优化的可执行文件，当然，BASIC也语法非常简单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The length to read from the serial port, in bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060021Z" creationid="lansn-lan" creationdate="20160729T060021Z">
+        <seg>从串口读取数据的长度，以字节为单位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4311,6 +5039,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135218Z" creationid="MysticBoy" creationdate="20160723T135218Z">
         <seg>线的起点的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The memory address to use to put the read data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060129Z" creationid="lansn-lan" creationdate="20160729T055930Z">
+        <seg>读取数据的缓冲区。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4351,6 +5087,30 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053328Z" creationid="MysticBoy" creationdate="20160726T053328Z">
         <seg>可以设定换行符制式为Windows(CRLF), Linux/Unix (LF)和MacOSX (CR)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next character is lost.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060902Z" creationid="lansn-lan" creationdate="20160729T060902Z">
+        <seg>下一个字符丢失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of bytes which are actually read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060226Z" creationid="lansn-lan" creationdate="20160729T060200Z">
+        <seg>实际读取的字节数，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of bytes written to the serial port, or zero if the operation has failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070031Z" creationid="lansn-lan" creationdate="20160729T070031Z">
+        <seg>返回写入串行端口的字节数，如果此操作失败，则返回 0 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4403,6 +5163,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The process of computer driven hardware prototype creation is simplified when the serial port is used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T033323Z" creationid="lansn-lan" creationdate="20160729T033323Z">
+        <seg>使用串行端口时，将简化计算机驱动硬件设备的过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The radius of the circle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041245Z" creationid="oSilas" creationdate="20141122T041245Z">
@@ -4423,6 +5191,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T135144Z">
         <seg>结果在0至255之间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The serial port to test.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T043303Z" creationid="lansn-lan" creationdate="20160729T043303Z">
+        <seg>要测试的串口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The serial port to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055706Z" creationid="lansn-lan" creationdate="20160729T055706Z">
+        <seg>要使用的串口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4451,6 +5235,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The specified buffer should be large enough to handle it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060109Z" creationid="lansn-lan" creationdate="20160729T060109Z">
+        <seg>指定的缓冲区应该大到足以处理它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The standard PureBasic file extensions (pb, pbi and pbf) are recognized as code files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022011Z" creationid="MysticBoy" creationdate="20160726T022011Z">
@@ -4459,10 +5251,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The string format to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070458Z" creationid="lansn-lan" creationdate="20160729T070458Z">
+        <seg>字符串格式.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The string to send.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141536Z">
         <seg>要发送的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The string to write.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070407Z" creationid="lansn-lan" creationdate="20160729T070407Z">
+        <seg>要写入的字符串.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4543,6 +5351,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T110839Z" creationid="MysticBoy" creationdate="20160721T110839Z">
         <seg>这样就没有类似虚拟机或者代码解释器之类的性能瓶颈，生成的代码都针对这个操作系统编译的高度优化后的可执行文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is either no room in the input buffer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060710Z" creationid="lansn-lan" creationdate="20160729T060710Z">
+        <seg>输入缓冲区中没有足够的空间</seg>
       </tuv>
     </tu>
     <tu>
@@ -4675,6 +5491,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This function is bulletproof and may be used with any value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044047Z" creationid="lansn-lan" creationdate="20160729T043745Z">
+        <seg>此函数是保险性的，可能与任何值一起使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This function is for advanced programmers only.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T042936Z" creationid="oSilas" creationdate="20150312T042936Z">
@@ -4691,10 +5515,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This function is useful when another library or API commands requires a serial port reference.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T062955Z" creationid="lansn-lan" creationdate="20160729T062955Z">
+        <seg>当另一个库或 API 命令需要一个串行端口的引用时，此功能非常有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This function must be called before any other function of this library.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082337Z" creationid="MysticBoy" creationdate="20160720T082337Z">
         <seg>该函数必须在这个库中的任何其他函数之前被调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the correct way to ensure a serial port is ready to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044302Z" creationid="lansn-lan" creationdate="20160729T044001Z">
+        <seg>这是确保串口可用的正确方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4727,6 +5567,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T042017Z" creationid="oSilas" creationdate="20141122T042017Z">
         <seg>这个库允许程序员创建控制台模式的应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This library offers full access to the serial ports available on the computer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T033642Z" creationid="lansn-lan" creationdate="20160729T033642Z">
+        <seg>此类库提供完全访问计算机上可用的串行端口的权限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4823,6 +5671,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082358Z" creationid="MysticBoy" creationdate="20160720T082358Z">
         <seg>Title$ (可选)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To check how much data is available in the output buffer, use &lt;a0&gt;AvailableSerialPortOutput()&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070150Z" creationid="lansn-lan" creationdate="20160729T070150Z">
+        <seg>要检测在输出缓冲区中有多少数据是可用的，请使用函数&lt;a0&gt;AvailableSerialPortOutput()&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To check if data is available, use &lt;a0&gt;AvailableSerialPortInput()&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055647Z" creationid="lansn-lan" creationdate="20160729T055647Z">
+        <seg>若要检查数据是否可用，请使用&lt;a0&gt;AvailableSerialPortInput()&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4931,6 +5795,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WTTC stands for 'WriteTotalTimeoutConstant'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064621Z" creationid="lansn-lan" creationdate="20160729T064621Z">
+        <seg>WTTC 表示 'WriteTotalTimeoutConstant'，一次写入串口数据的固定超时。在一次写入串口的操作中，其超时为WriteTotalTimeoutMultiplier乘以写入的字节数再加上 WriteTotalTimeoutConstant。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WTTM stands for 'WriteTotalTimeoutMultiplier'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064931Z" creationid="lansn-lan" creationdate="20160729T064931Z">
+        <seg>WTTM 表示 'WriteTotalTimeoutMultiplier'，写入每字符间的超时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We have put a lot of effort into its realization to produce a fast, reliable and system friendly language.&lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105534Z" creationid="MysticBoy" creationdate="20160721T105534Z">
@@ -5015,6 +5895,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020211Z" creationid="MysticBoy" creationdate="20160726T020211Z">
         <seg>源码文件处理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writes a string to the specified serial port.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070337Z" creationid="lansn-lan" creationdate="20160729T070337Z">
+        <seg>将一个字符串写入指定的串行端口.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writes an arbitrary amount of data to the specified serial port.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065738Z" creationid="lansn-lan" creationdate="20160729T065738Z">
+        <seg>将任意数量的数据写入到指定的串行端口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5439,6 +6335,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054918Z" creationid="MysticBoy" creationdate="20160721T054918Z">
         <seg>已优化的编程语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or a character was received after the end-of-file (EOF)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060812Z" creationid="lansn-lan" creationdate="20160729T060812Z">
+        <seg>或在文件尾 (EOF)之后接收到字符</seg>
       </tuv>
     </tu>
     <tu>

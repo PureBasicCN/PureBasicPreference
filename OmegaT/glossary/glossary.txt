@@ -15,3 +15,4 @@ optional	可选
 Index	索引
 cross-platform	跨平台
 Programming language 	编程语言
+serial port	串口
