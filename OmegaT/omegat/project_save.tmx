@@ -3481,6 +3481,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It removes spaces/tabs at the start of each line in order to reduce the indentation of the whole block.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T142446Z" creationid="blues" creationdate="20160729T142446Z">
+        <seg>它将在每一行开始处移除空格符 / tab符，为的是使得整个区块减少缩进.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It shows the corresponding menu command.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162640Z" creationid="MysticBoy" creationdate="20160723T162640Z">
@@ -3549,6 +3557,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T092959Z" creationid="MysticBoy" creationdate="20160725T084628Z">
         <seg>主要翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marking several lines of text and pressing Shift+Tab reverses this behavior.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T142245Z" creationid="blues" creationdate="20160729T142245Z">
+        <seg>按下Shift+Tab时，多行文本将反转缩进.</seg>
       </tuv>
     </tu>
     <tu>
