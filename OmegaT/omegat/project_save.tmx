@@ -3233,6 +3233,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opens a serial port for use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044453Z" creationid="lansn-lan" creationdate="20160729T044453Z">
+        <seg>打开串口以备使用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options for building projects:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071829Z" creationid="MysticBoy" creationdate="20160728T071829Z">
