@@ -3585,6 +3585,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nonzero if the window was successfully created, zero otherwise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T111905Z" creationid="MysticBoy" creationdate="20160729T111905Z">
+        <seg>非零为窗口创建成功，否则为零！.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: The &lt;f2&gt;#PB_2DDrawing_CustomFilter&lt;/f2&gt; &lt;a3&gt;drawing mode&lt;/a3&gt; only works on &lt;a4&gt;ImageOutput()&lt;/a4&gt; and &lt;a5&gt;CanvasOutput()&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040643Z" creationid="oSilas" creationdate="20141128T040643Z">
@@ -5471,6 +5479,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082413Z" creationid="MysticBoy" creationdate="20160720T082413Z">
         <seg>新的控制台窗口的标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The title of the newly created window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T111809Z" creationid="MysticBoy" creationdate="20160729T111809Z">
+        <seg>新创建的窗口的标题。</seg>
       </tuv>
     </tu>
     <tu>
