@@ -3914,6 +3914,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Serial port (also know as the RS-232 port) was first created in 1969, and despite its age, it is still widely used in the industry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T032823Z" creationid="lansn-lan" creationdate="20160729T032823Z">
+        <seg>串行端口 (也叫做 RS-232 端口) 第一次创建于 1969年， 尽管年代久远,，今天还仍然广泛地应用于工业领域。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The SourceColor parameter specifies the color given in the drawing operation and the TargetColor parameter specifies the color of the target pixel in the drawing area.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040651Z" creationid="oSilas" creationdate="20141128T040651Z">
