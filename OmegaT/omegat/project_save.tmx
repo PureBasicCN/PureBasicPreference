@@ -1871,6 +1871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f10&gt;#PB_SerialPort_XoffReceived&lt;/f10&gt;: Specifies whether transmission is waiting because the XOFF character was received.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061801Z" creationid="lansn-lan" creationdate="20160729T061801Z">
+        <seg>&lt;f10&gt;#PB_SerialPort_XoffReceived&lt;/f10&gt;︰ 指定传输是否正在等待，因为接收到 XOFF 字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f12&gt;; 32-bit RGB without reversed Y coordinate&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043813Z" creationid="oSilas" creationdate="20150312T043727Z">
