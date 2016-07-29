@@ -4521,6 +4521,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Special Tab behavior:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T140705Z" creationid="blues" creationdate="20160729T140705Z">
+        <seg>特殊的 Tab 行为:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specifies a callback that will be called for every pixel that is part of a drawing operation in &lt;f0&gt;#PB_2DDrawing_CustomFilter&lt;/f0&gt; &lt;a1&gt;drawing mode&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040735Z" creationid="oSilas" creationdate="20141128T040735Z">
