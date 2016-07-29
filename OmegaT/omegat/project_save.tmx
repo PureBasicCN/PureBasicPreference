@@ -2657,6 +2657,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ctrl+Home navigates to the beginning of the file and Ctrl+End to the End.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T131934Z" creationid="blues" creationdate="20160729T131934Z">
+        <seg>Ctrl+Home定位到文件开始，按Ctrl +End定位到文件结束.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Currently, 3 values are available:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T140641Z">
@@ -4684,8 +4692,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The PureBasic IDE acts like any other Text Editor when it comes to the basic editing features.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T131608Z" creationid="blues" creationdate="20160729T131608Z">
-        <seg>PureBasic IDE涉及到基本的编辑功能时，就像任何其他的文本编辑器一样。。Ctrl+Home定位到文件，按Ctrl +端到端的开始.</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T132025Z" creationid="blues" creationdate="20160729T131608Z">
+        <seg>PureBasic IDE用到基本的编辑功能时，就像任何其他的文本编辑器一样.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4974,6 +4982,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041123Z">
         <seg>开始绘制前使用 &lt;a1&gt;StartDrawing()&lt;/a1&gt;设置当前输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The cursor keys as well as Page Up/Page Down, Home and End keys can be used to navigate through the code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T131839Z" creationid="blues" creationdate="20160729T131839Z">
+        <seg>光标键以及 上翻页键 / 下翻页键，Home 键和 End 键可以用来浏览代码.</seg>
       </tuv>
     </tu>
     <tu>
