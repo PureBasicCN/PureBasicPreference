@@ -2233,6 +2233,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A debugger error will be raised.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T112023Z" creationid="MysticBoy" creationdate="20160729T112023Z">
+        <seg>调试器错误将被提高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A number to identify the new serial port.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T045052Z" creationid="lansn-lan" creationdate="20160729T044732Z">
@@ -3165,6 +3173,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055308Z" creationid="lansn-lan" creationdate="20160729T054952Z">
         <seg>如果使用&lt;f0&gt;#PB_Any&lt;/f0&gt;为 #SerialPort 参数，返回一个生成的数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If &lt;f0&gt;#PB_Any&lt;/f0&gt; was used for the #Window parameter then the generated number is returned on success.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T112013Z" creationid="MysticBoy" creationdate="20160729T112013Z">
+        <seg>如果&lt;f0&gt;#PB_Any&lt;/f0&gt;被用于#Window参数在成功时则返回生成数字。</seg>
       </tuv>
     </tu>
     <tu>
