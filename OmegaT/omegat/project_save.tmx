@@ -5227,10 +5227,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The string format to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070458Z" creationid="lansn-lan" creationdate="20160729T070458Z">
+        <seg>字符串格式.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The string to send.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141536Z">
         <seg>要发送的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The string to write.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070407Z" creationid="lansn-lan" creationdate="20160729T070407Z">
+        <seg>要写入的字符串.</seg>
       </tuv>
     </tu>
     <tu>
