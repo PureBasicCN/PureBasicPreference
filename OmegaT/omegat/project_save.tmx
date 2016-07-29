@@ -4563,6 +4563,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The serial port to test.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T043303Z" creationid="lansn-lan" creationdate="20160729T043303Z">
+        <seg>要测试的串口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The settings made there are associated with the current source file or the current project, and also remembered when they are closed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160728T111002Z" creationid="plp" creationdate="20160728T111002Z">
