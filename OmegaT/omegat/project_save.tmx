@@ -784,8 +784,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a10&gt;OpenSerialPort&lt;/a10&gt;&lt;br11&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T085355Z" creationid="lansn-lan" creationdate="20160729T035655Z">
-        <seg>&lt;a10&gt;OpenSerialPort&lt;/a10&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;用途：打开一个串口&lt;br11&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125423Z" creationid="lansn-lan" creationdate="20160729T035655Z">
+        <seg>&lt;a10&gt;OpenSerialPort&lt;/a10&gt;                 用途：打开一个串口&lt;br11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -824,8 +824,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a12&gt;ReadSerialPortData&lt;/a12&gt;&lt;br13&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T085359Z" creationid="lansn-lan" creationdate="20160729T035803Z">
-        <seg>&lt;a12&gt;ReadSerialPortData&lt;/a12&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;用途：读取串口数据&lt;br13&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125429Z" creationid="lansn-lan" creationdate="20160729T035803Z">
+        <seg>&lt;a12&gt;ReadSerialPortData&lt;/a12&gt;                 用途：读取串口数据&lt;br13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -864,8 +864,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a14&gt;SerialPortError&lt;/a14&gt;&lt;br15&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T085403Z" creationid="lansn-lan" creationdate="20160729T035935Z">
-        <seg>&lt;a14&gt;SerialPortError&lt;/a14&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;用途：返回使用  ReadSerialPortData(), WriteSerialPortData() 或者 WriteSerialPortString() 失败时串口产生的错误&lt;br15&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125436Z" creationid="lansn-lan" creationdate="20160729T035935Z">
+        <seg>&lt;a14&gt;SerialPortError&lt;/a14&gt;                 用途：返回使用  ReadSerialPortData(), WriteSerialPortData() 或者 WriteSerialPortString() 失败时串口产生的错误&lt;br15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -896,8 +896,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a16&gt;SerialPortID&lt;/a16&gt;&lt;br17&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T085406Z" creationid="lansn-lan" creationdate="20160729T040037Z">
-        <seg>&lt;a16&gt;SerialPortID&lt;/a16&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;用途：返回串口的唯一系统标识符&lt;br17&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125441Z" creationid="lansn-lan" creationdate="20160729T040037Z">
+        <seg>&lt;a16&gt;SerialPortID&lt;/a16&gt;                 用途：返回串口的唯一系统标识符&lt;br17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -920,8 +920,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a18&gt;SerialPortTimeouts&lt;/a18&gt;&lt;br19&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T085410Z" creationid="lansn-lan" creationdate="20160729T040202Z">
-        <seg>&lt;a18&gt;SerialPortTimeouts&lt;/a18&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;用途：更改默认设定的串口超时时间&lt;br19&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125445Z" creationid="lansn-lan" creationdate="20160729T040202Z">
+        <seg>&lt;a18&gt;SerialPortTimeouts&lt;/a18&gt;                 用途：更改默认设定的串口超时时间&lt;br19&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -944,8 +944,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a20&gt;SetSerialPortStatus&lt;/a20&gt;&lt;br21&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T085413Z" creationid="lansn-lan" creationdate="20160729T042804Z">
-        <seg>&lt;a20&gt;SetSerialPortStatus&lt;/a20&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;用途：更改指定的串口状态&lt;br21&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125449Z" creationid="lansn-lan" creationdate="20160729T042804Z">
+        <seg>&lt;a20&gt;SetSerialPortStatus&lt;/a20&gt;                用途：更改指定的串口状态&lt;br21&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +976,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a22&gt;WriteSerialPortData&lt;/a22&gt;&lt;br23&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T085417Z" creationid="lansn-lan" creationdate="20160729T042847Z">
-        <seg>&lt;a22&gt;WriteSerialPortData&lt;/a22&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;用途：将任意数量的数据写入指定的串口&lt;br23&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125454Z" creationid="lansn-lan" creationdate="20160729T042847Z">
+        <seg>&lt;a22&gt;WriteSerialPortData&lt;/a22&gt;                 用途：将任意数量的数据写入指定的串口&lt;br23&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,8 +992,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a24&gt;WriteSerialPortString&lt;/a24&gt;&lt;br25&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T085421Z" creationid="lansn-lan" creationdate="20160729T042911Z">
-        <seg>&lt;a24&gt;WriteSerialPortString&lt;/a24&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;用途：将一个字符串写入指定的串口&lt;br25&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125459Z" creationid="lansn-lan" creationdate="20160729T042911Z">
+        <seg>&lt;a24&gt;WriteSerialPortString&lt;/a24&gt;                 用途：将一个字符串写入指定的串口&lt;br25&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1328,8 +1328,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a6&gt;GetSerialPortStatus&lt;/a6&gt;&lt;br7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T085347Z" creationid="lansn-lan" creationdate="20160729T035242Z">
-        <seg>&lt;a6&gt;GetSerialPortStatus&lt;/a6&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;用途：返回指定的串口状态&lt;br7&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125408Z" creationid="lansn-lan" creationdate="20160729T035242Z">
+        <seg>&lt;a6&gt;GetSerialPortStatus&lt;/a6&gt;                 用途：返回指定的串口状态&lt;br7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1408,8 +1408,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a8&gt;IsSerialPort&lt;/a8&gt;&lt;br9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T085352Z" creationid="lansn-lan" creationdate="20160729T035500Z">
-        <seg>&lt;a8&gt;IsSerialPort&lt;/a8&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;用途：判断给定的串口是否有效和正确初始化&lt;br9&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125418Z" creationid="lansn-lan" creationdate="20160729T035500Z">
+        <seg>&lt;a8&gt;IsSerialPort&lt;/a8&gt;                 用途：判断给定的串口是否有效和正确初始化&lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
