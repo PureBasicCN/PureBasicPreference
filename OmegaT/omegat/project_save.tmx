@@ -3737,6 +3737,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some basic knowledge about the terms used in this documentation will be needed, check &lt;a0&gt;Wikipedia - RS232&lt;/a0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T034450Z" creationid="lansn-lan" creationdate="20160729T034450Z">
+        <seg>本文档中使用的一些关于RS232基本术语，请访问 &lt;a0&gt;Wikipedia - RS232&lt;/a0&gt; 了解更多信息.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specifies a callback that will be called for every pixel that is part of a drawing operation in &lt;f0&gt;#PB_2DDrawing_CustomFilter&lt;/f0&gt; &lt;a1&gt;drawing mode&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040735Z" creationid="oSilas" creationdate="20141128T040735Z">
