@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a6&gt;GetSerialPortStatus&lt;/a6&gt;&lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T035242Z" creationid="lansn-lan" creationdate="20160729T035242Z">
+        <seg>&lt;a6&gt;GetSerialPortStatus&lt;/a6&gt;  用途：返回指定的串行端口状态&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a6&gt;Music&lt;/a6&gt;&lt;br7&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083844Z" creationid="MysticBoy" creationdate="20160720T083844Z">
