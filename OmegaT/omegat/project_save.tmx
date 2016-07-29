@@ -4861,8 +4861,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>This is the correct way to ensure a serial port is ready to use.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044208Z" creationid="lansn-lan" creationdate="20160729T044001Z">
-        <seg>这是确保串口正常使用的正确方式。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044302Z" creationid="lansn-lan" creationdate="20160729T044001Z">
+        <seg>这是确保串口可用的正确方式。</seg>
       </tuv>
     </tu>
     <tu>
