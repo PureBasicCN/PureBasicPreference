@@ -910,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a18&gt;SerialPortTimeouts&lt;/a18&gt;&lt;br19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T040202Z" creationid="lansn-lan" creationdate="20160729T040202Z">
+        <seg>&lt;a18&gt;SerialPortTimeouts&lt;/a18&gt;  用途：更改默认设定的串口超时时间&lt;br19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a20&gt;CustomFilterCallback&lt;/a20&gt;&lt;br21&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040924Z" creationid="oSilas" creationdate="20151013T040924Z">
