@@ -2793,6 +2793,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each read operation, this value is added to the product of the ReadTotalTimeoutMultiplier member and the requested number of bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064209Z" creationid="lansn-lan" creationdate="20160729T064209Z">
+        <seg>对于每个读取操作，此值被添加到 ReadTotalTimeoutMultiplier 成员与所请求的字节数的乘积。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For ease of ordering, you can safely use our secure online method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080830Z" creationid="MysticBoy" creationdate="20160725T080830Z">
