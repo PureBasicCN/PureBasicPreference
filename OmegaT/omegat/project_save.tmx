@@ -680,8 +680,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;AvailableSerialPortInput&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T085331Z" creationid="lansn-lan" creationdate="20160729T034834Z">
-        <seg>&lt;a0&gt;AvailableSerialPortInput &lt;/a0&gt;   &amp;nbsp;&amp;nbsp;&amp;nbsp;用途：返回串口输入缓冲区中的剩余字节数&lt;br1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125032Z" creationid="lansn-lan" creationdate="20160729T034834Z">
+        <seg>&lt;a0&gt;AvailableSerialPortInput &lt;/a0&gt;               用途：返回串口输入缓冲区中的剩余字节数&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1064,8 +1064,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a2&gt;AvailableSerialPortOutput&lt;/a2&gt;&lt;br3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T085338Z" creationid="lansn-lan" creationdate="20160729T034916Z">
-        <seg>&lt;a2&gt;AvailableSerialPortOutput &lt;/a2&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;用途：返回串口输出缓冲区中的剩余字节数&lt;br3&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125039Z" creationid="lansn-lan" creationdate="20160729T034916Z">
+        <seg>&lt;a2&gt;AvailableSerialPortOutput &lt;/a2&gt;                用途：返回串口输出缓冲区中的剩余字节数&lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
