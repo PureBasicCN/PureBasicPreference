@@ -3929,6 +3929,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Text identifier for the serial port, for example "COM1" on Windows or "/dev/ttyS0" on Linux.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044958Z" creationid="lansn-lan" creationdate="20160729T044958Z">
+        <seg>串口识别符 ，例如在Windows系统是 "COM1" 或者 在Linux系统是 "/dev/ttyS0" .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Text is displayed with a solid background and graphic shapes are filled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044958Z" creationid="oSilas" creationdate="20150312T044958Z">
