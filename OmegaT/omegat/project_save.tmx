@@ -4049,6 +4049,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic provides full access to them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T111335Z" creationid="MysticBoy" creationdate="20160729T111335Z">
+        <seg>PureBasic提供了针对他们的完整访问.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Purebasic user account</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082559Z" creationid="MysticBoy" creationdate="20160723T173845Z">
@@ -6007,6 +6015,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091833Z" creationid="MysticBoy" creationdate="20160725T091833Z">
         <seg>为什么 Windows API 说明不包含在 PureBasic 文档中 ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows are essential components of modern interfaces.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T111306Z" creationid="MysticBoy" creationdate="20160729T111306Z">
+        <seg>Windows是现代界面必备的组件。</seg>
       </tuv>
     </tu>
     <tu>
