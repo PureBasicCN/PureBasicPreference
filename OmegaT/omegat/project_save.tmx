@@ -3859,16 +3859,16 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>RIT stands for 'ReadIntervalTimeout'.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063406Z" creationid="lansn-lan" creationdate="20160729T063406Z">
-        <seg>RIT 代表'ReadIntervalTimeout'两字符之间传输的时间差超过该时间.</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063907Z" creationid="lansn-lan" creationdate="20160729T063406Z">
+        <seg>RIT 代表'ReadIntervalTimeout"，两字符之间最大的延时，当读取串口数据时，一旦两个字符传输的时间差超过该时间，读取函数将返回现有的数据.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>RTTM stands for 'ReadTotalTimeoutMultiplier'.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063736Z" creationid="lansn-lan" creationdate="20160729T063736Z">
-        <seg>RTTM 代表 'ReadTotalTimeoutMultiplier'。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063943Z" creationid="lansn-lan" creationdate="20160729T063736Z">
+        <seg>RTTM 代表 'ReadTotalTimeoutMultiplier'，指定比例因子（毫秒），实际上是设置读取一个字节和等待下一个字节所需的时间，这样总的超时时间为读取的字节数乘以该值，同样一次读取操作到达这个时间后，也认为本次读操作己经结束。。</seg>
       </tuv>
     </tu>
     <tu>
