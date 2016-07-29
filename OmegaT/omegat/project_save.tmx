@@ -1831,6 +1831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_Ascii&lt;/f0&gt;   : the string will be written in ascii format (default, even in &lt;a1&gt;unicode&lt;/a1&gt; mode).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070707Z" creationid="lansn-lan" creationdate="20160729T070707Z">
+        <seg>&lt;f0&gt;#PB_Ascii&lt;/f0&gt;   : 字符串将以 ascii  的格式写入， (默认, even in &lt;a1&gt;unicode&lt;/a1&gt; mode).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_PixelFormat_8Bits&lt;/f0&gt;      : 1 byte per pixel, palletised</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043528Z" creationid="oSilas" creationdate="20150312T043528Z">
@@ -1999,6 +2007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_UTF8&lt;/f2&gt;    : the string will be written in UTF8 format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070736Z" creationid="lansn-lan" creationdate="20160729T070736Z">
+        <seg>&lt;f2&gt;#PB_UTF8&lt;/f2&gt;    : 字符串将以 UTF8 格式写入.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;#PB_PixelFormat_24Bits_RGB&lt;/f3&gt; : 3 bytes per pixel (RRGGBB)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043551Z" creationid="oSilas" creationdate="20150312T043551Z">
@@ -2027,6 +2043,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065410Z" creationid="lansn-lan" creationdate="20160729T065410Z">
         <seg>&lt;f3&gt;#PB_SerialPort_XonCharacter&lt;/f3&gt; ︰ 用于 Xon/Xoff 握手顺序的字符 （值可以是 1 到 255 之间）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f3&gt;#PB_Unicode&lt;/f3&gt; : the string will be written in unicode (UTF16) format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070756Z" creationid="lansn-lan" creationdate="20160729T070756Z">
+        <seg>&lt;f3&gt;#PB_Unicode&lt;/f3&gt; : 字符串将以 unicode (UTF16) 格式写入.</seg>
       </tuv>
     </tu>
     <tu>
