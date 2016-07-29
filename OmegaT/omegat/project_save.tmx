@@ -5603,6 +5603,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WTTC stands for 'WriteTotalTimeoutConstant'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064621Z" creationid="lansn-lan" creationdate="20160729T064621Z">
+        <seg>WTTC 表示 'WriteTotalTimeoutConstant'，一次写入串口数据的固定超时。在一次写入串口的操作中，其超时为WriteTotalTimeoutMultiplier乘以写入的字节数再加上 WriteTotalTimeoutConstant。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We have put a lot of effort into its realization to produce a fast, reliable and system friendly language.&lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105534Z" creationid="MysticBoy" creationdate="20160721T105534Z">
