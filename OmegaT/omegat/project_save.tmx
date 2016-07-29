@@ -4829,8 +4829,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>This function is bulletproof and may be used with any value.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T043745Z" creationid="lansn-lan" creationdate="20160729T043745Z">
-        <seg>此函数是保险的，可能与任何值一起使用。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044047Z" creationid="lansn-lan" creationdate="20160729T043745Z">
+        <seg>此函数是保险性的，可能与任何值一起使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4855,6 +4855,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082337Z" creationid="MysticBoy" creationdate="20160720T082337Z">
         <seg>该函数必须在这个库中的任何其他函数之前被调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the correct way to ensure a serial port is ready to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044001Z" creationid="lansn-lan" creationdate="20160729T044001Z">
+        <seg>这是确保串口是准备好要使用的正确方式。</seg>
       </tuv>
     </tu>
     <tu>
