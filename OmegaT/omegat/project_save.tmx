@@ -1232,8 +1232,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a4&gt;CloseSerialPort&lt;/a4&gt;&lt;br5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T085342Z" creationid="lansn-lan" creationdate="20160729T034946Z">
-        <seg>&lt;a4&gt;CloseSerialPort &lt;/a4&gt;   &amp;nbsp;&amp;nbsp;&amp;nbsp;用途：关闭先前使用OpenSerialPort()打开的串口&lt;br5&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125356Z" creationid="lansn-lan" creationdate="20160729T034946Z">
+        <seg>&lt;a4&gt;CloseSerialPort &lt;/a4&gt;                  用途：关闭先前使用OpenSerialPort()打开的串口&lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
