@@ -4593,6 +4593,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The "Insert" key controls whether text is inserted or overwritten.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T132331Z" creationid="blues" creationdate="20160729T132331Z">
+        <seg> "Insert" 键控制文本是否插入或者覆盖 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The (x, y) coordinates are always absolute and not affected by calls to &lt;a0&gt;SetOrigin()&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T033625Z" creationid="oSilas" creationdate="20141128T033625Z">
@@ -5014,6 +5022,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T073559Z" creationid="MysticBoy" creationdate="20160728T073559Z">
         <seg> /P /T 和 /A 的默认文件保存在系统的 %APPDATA%\PureBasic\ 目录.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default shortcuts Ctrl+C (copy), Ctrl+X (cut) and Ctrl+V (paste) can be used for editing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T132228Z" creationid="blues" creationdate="20160729T132228Z">
+        <seg>默认快捷键 Ctrl+C (复制), Ctrl+X (剪切) and Ctrl+V (粘贴) 用于代码编辑.</seg>
       </tuv>
     </tu>
     <tu>
