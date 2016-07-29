@@ -672,8 +672,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;AvailableSerialPortInput&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T034834Z" creationid="lansn-lan" creationdate="20160729T034834Z">
-        <seg>&lt;a0&gt;AvailableSerialPortInput    用途：返回串行端口输入缓冲区中的剩余字节数&lt;/a0&gt;&lt;br1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T035321Z" creationid="lansn-lan" creationdate="20160729T034834Z">
+        <seg>&lt;a0&gt;AvailableSerialPortInput &lt;/a0&gt;   用途：返回串行端口输入缓冲区中的剩余字节数&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,8 +992,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a2&gt;AvailableSerialPortOutput&lt;/a2&gt;&lt;br3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T034916Z" creationid="lansn-lan" creationdate="20160729T034916Z">
-        <seg>&lt;a2&gt;AvailableSerialPortOutput   用途：返回串行端口输出缓冲区中的剩余字节数&lt;/a2&gt;&lt;br3&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T035308Z" creationid="lansn-lan" creationdate="20160729T034916Z">
+        <seg>&lt;a2&gt;AvailableSerialPortOutput &lt;/a2&gt;  用途：返回串行端口输出缓冲区中的剩余字节数&lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1160,8 +1160,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a4&gt;CloseSerialPort&lt;/a4&gt;&lt;br5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T034946Z" creationid="lansn-lan" creationdate="20160729T034946Z">
-        <seg>&lt;a4&gt;CloseSerialPort   用途：关闭先前使用OpenSerialPort()打开的串行端口&lt;/a4&gt;&lt;br5&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T035259Z" creationid="lansn-lan" creationdate="20160729T034946Z">
+        <seg>&lt;a4&gt;CloseSerialPort &lt;/a4&gt;   用途：关闭先前使用OpenSerialPort()打开的串行端口&lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
