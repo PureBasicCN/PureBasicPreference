@@ -2825,6 +2825,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each write operation, this value is multiplied by the number of bytes to be written.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065005Z" creationid="lansn-lan" creationdate="20160729T065005Z">
+        <seg>对于每个写操作，此值乘以要写入的字节数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For ease of ordering, you can safely use our secure online method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080830Z" creationid="MysticBoy" creationdate="20160725T080830Z">
@@ -4289,6 +4297,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specifies the multiplier, in milliseconds, used to calculate the total time-out period for write operations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064955Z" creationid="lansn-lan" creationdate="20160729T064955Z">
+        <seg>指定multiplier，以毫秒为单位，用于计算写入操作总超时期限的乘数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Support</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054613Z" creationid="MysticBoy" creationdate="20160721T054613Z">
@@ -5623,6 +5639,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064621Z" creationid="lansn-lan" creationdate="20160729T064621Z">
         <seg>WTTC 表示 'WriteTotalTimeoutConstant'，一次写入串口数据的固定超时。在一次写入串口的操作中，其超时为WriteTotalTimeoutMultiplier乘以写入的字节数再加上 WriteTotalTimeoutConstant。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WTTM stands for 'WriteTotalTimeoutMultiplier'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064931Z" creationid="lansn-lan" creationdate="20160729T064931Z">
+        <seg>WTTM 表示 'WriteTotalTimeoutMultiplier'，写入每字符间的超时。</seg>
       </tuv>
     </tu>
     <tu>
