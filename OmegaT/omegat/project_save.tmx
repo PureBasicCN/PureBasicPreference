@@ -2857,6 +2857,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the input buffer was empty, this function will block until data is available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055621Z" creationid="lansn-lan" creationdate="20160729T055621Z">
+        <seg>如果输入的缓冲区是空的，此函数将阻塞直到有可用数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If these parameters are not specified then the image will be drawn in its original size.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T050427Z" creationid="oSilas" creationdate="20151013T050427Z">
@@ -3701,6 +3709,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082559Z" creationid="MysticBoy" creationdate="20160723T173845Z">
         <seg>PureBasic 用户账号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reads an arbitrary amount of data from the #SerialPort.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055601Z" creationid="lansn-lan" creationdate="20160729T055601Z">
+        <seg>从 #SerialPort 中读取任意数量的数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4747,6 +4763,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The serial port to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055706Z" creationid="lansn-lan" creationdate="20160729T055706Z">
+        <seg>要使用的串口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The settings made there are associated with the current source file or the current project, and also remembered when they are closed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160728T111002Z" creationid="plp" creationdate="20160728T111002Z">
@@ -5167,6 +5191,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082358Z" creationid="MysticBoy" creationdate="20160720T082358Z">
         <seg>Title$ (可选)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To check if data is available, use &lt;a0&gt;AvailableSerialPortInput()&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055647Z" creationid="lansn-lan" creationdate="20160729T055647Z">
+        <seg>若要检查数据是否可用，请使用&lt;a0&gt;AvailableSerialPortInput()&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
