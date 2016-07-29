@@ -4291,16 +4291,16 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Specifies the multiplier, in milliseconds, used to calculate the total time-out period for read operations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064304Z" creationid="lansn-lan" creationdate="20160729T064304Z">
-        <seg>指定multiplier，以毫秒为单位，用来计算总超时期限的读取操作的乘数。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065112Z" creationid="lansn-lan" creationdate="20160729T064304Z">
+        <seg>指定乘数，以毫秒为单位，用来计算总超时期限的读取操作的乘数。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Specifies the multiplier, in milliseconds, used to calculate the total time-out period for write operations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064955Z" creationid="lansn-lan" creationdate="20160729T064955Z">
-        <seg>指定multiplier，以毫秒为单位，用于计算写入操作总超时期限的乘数。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065101Z" creationid="lansn-lan" creationdate="20160729T064955Z">
+        <seg>指定乘数，以毫秒为单位，用于计算写入操作总超时期限的乘数。</seg>
       </tuv>
     </tu>
     <tu>
