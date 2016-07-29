@@ -2833,6 +2833,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a read error has occured, it will return zero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060358Z" creationid="lansn-lan" creationdate="20160729T060358Z">
+        <seg>如果出现读取错误，它将返回零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it was the only open code, the IDE will display a new empty file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053157Z" creationid="MysticBoy" creationdate="20160726T053157Z">
@@ -2997,6 +3005,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162623Z" creationid="MysticBoy" creationdate="20160723T162623Z">
         <seg>它可以完全自定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be less than the requested length.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060348Z" creationid="lansn-lan" creationdate="20160729T060218Z">
+        <seg>它可以小于请求的长度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4687,6 +4703,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053328Z" creationid="MysticBoy" creationdate="20160726T053328Z">
         <seg>可以设定换行符制式为Windows(CRLF), Linux/Unix (LF)和MacOSX (CR)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of bytes which are actually read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060226Z" creationid="lansn-lan" creationdate="20160729T060200Z">
+        <seg>实际读取的字节数，</seg>
       </tuv>
     </tu>
     <tu>
