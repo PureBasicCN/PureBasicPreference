@@ -2449,6 +2449,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the IDE does not insert a real tab when pressing the Tab key, as many programmers see it as a bad thing to use real tabs in source code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T140311Z" creationid="blues" creationdate="20160729T140311Z">
+        <seg>默认情况下, PureBasic IDE 按下Tab键时，并不会插入一个真正的tab制表符, 正如许多程序员认为在源代码中使用真正的tab制表符是件很糟糕的事情.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By the same author, discover the new web client-side programming language&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173727Z" creationid="MysticBoy" creationdate="20160721T054739Z">
