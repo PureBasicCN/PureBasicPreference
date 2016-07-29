@@ -9,12 +9,7 @@ Result = <font color="#3A3966"><b>ReadSerialPortData</b></font>(#SerialPort, *Bu
 </blockquote>
 <b>概要</b><br><blockquote>
 
-
-
-Reads an arbitrary amount of data from the #SerialPort. If the input buffer was empty, this function will block 
-until data is available. To check if data is available, use <a href="availableserialportinput.html">AvailableSerialPortInput()</a>. 
-
- 
+从 #SerialPort 中读取任意数量的数据。如果输入的缓冲区是空的，此函数将阻塞直到有可用数据。若要检查数据是否可用，请使用<a href="availableserialportinput.html">AvailableSerialPortInput()</a>。 
 
 </blockquote><p><b>参数</b></p><blockquote>
 <style type="text/css">
@@ -24,37 +19,23 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <table width="90%" class="parameters">
 <tr><td width="10%"><i>#SerialPort</i></td>
 <td width="90%"> 
- 
-The serial port to use. 
-
- 
+要使用的串口。 
 
 </td></tr>
 <tr><td><i>*Buffer</i></td>
 <td> 
- 
-The memory address to use to put the read data. 
-
- 
+读取数据的缓冲区。 
 
 </td></tr>
 <tr><td><i>Length</i></td>
 <td> 
- 
-The length to read from the serial port, in bytes. The specified buffer should be large enough to handle it. 
-
- 
+从串口读取数据的长度，以字节为单位。指定的缓冲区应该大到足以处理它。 
 
 </td></tr>
 </table>
 </blockquote><p><b>返回值</b></p><blockquote>
 
-
-
-The number of bytes which are actually read. It can be less than the requested length. 
-If a read error has occured, it will return zero. 
-
- 
+实际读取的字节数，它可以小于请求的长度。如果出现读取错误，它将返回零。 
 
 </blockquote><p><b>参阅</b></p><blockquote>
 

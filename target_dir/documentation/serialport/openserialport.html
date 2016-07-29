@@ -9,11 +9,7 @@ Result = <font color="#3A3966"><b>OpenSerialPort</b></font>(#SerialPort, SerialP
 </blockquote>
 <b>概要</b><br><blockquote>
 
-
-
-Opens a serial port for use. 
-
- 
+打开串口以备使用. 
 
 </blockquote><p><b>参数</b></p><blockquote>
 <style type="text/css">
@@ -23,27 +19,17 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <table width="90%" class="parameters">
 <tr><td width="10%"><i>#SerialPort</i></td>
 <td width="90%"> 
- 
-A number to identify the new serial port. 
-<a href="../reference/purebasic_objects.html">#PB_Any</a> can be used to auto-generate this number. 
-
- 
+识别新串口的编码. <a href="../reference/purebasic_objects.html">#PB_Any</a> 可以用来自动生成这个编码. 
 
 </td></tr>
 <tr><td><i>SerialPortName$</i></td>
 <td> 
- 
-Text identifier for the serial port, for example "COM1" on 
-Windows or "/dev/ttyS0" on Linux. 
-
- 
+串口识别符 ，例如在Windows系统是 "COM1" 或者 在Linux系统是 "/dev/ttyS0" . 
 
 </td></tr>
 <tr><td><i>Bauds</i></td>
 <td> 
- 
-Defines the speed of the serial connection and can be one of the following values: 
- 
+定义串口通信连接速度（波特率），可以是下列值之一︰ 
 <pre><font face="Courier New, Courier, mono"size="2">    50, 75, 110, 150, 300, 600, 1200, 1800, 2400
     4800, 9600, 19200, 38400, 57600 or 115200
 </font></pre>
@@ -51,38 +37,28 @@ Defines the speed of the serial connection and can be one of the following value
 </td></tr>
 <tr><td><i>Parity</i></td>
 <td> 
- 
-Defines how the parity will be handled on the connection. It can be one of the following values: 
- 
-<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_SerialPort_NoParity</font>   : No parity
-  <font color="#924B72">#PB_SerialPort_EvenParity</font> : Even parity
-  <font color="#924B72">#PB_SerialPort_MarkParity</font> : Mark parity
-  <font color="#924B72">#PB_SerialPort_OddParity</font>  : Odd parity
-  <font color="#924B72">#PB_SerialPort_SpaceParity</font>: Space parity
+定义通信如何处理奇偶性校验。它可以是下列值之一︰ 
+<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_SerialPort_NoParity</font>   : No parity  无校验
+  <font color="#924B72">#PB_SerialPort_EvenParity</font> : Even parity  偶校验
+  <font color="#924B72">#PB_SerialPort_MarkParity</font> : Mark parity  校验位始终为1
+  <font color="#924B72">#PB_SerialPort_OddParity</font>  : Odd parity  奇校验
+  <font color="#924B72">#PB_SerialPort_SpaceParity</font>: Space parity  校验位始终为0
 </font></pre>
 
 </td></tr>
 <tr><td><i>Data</i></td>
 <td> 
- 
-Defines the data length, in byte (usually 7 or 8). 
-
- 
+定义的数据长度，字节 （通常是 7 或 8） 。 
 
 </td></tr>
 <tr><td><i>Stop</i></td>
 <td> 
- 
-Sets the number of stop bits (1, 1.5 or 2). 
-
- 
+设置停止位 （1、 1.5 或 2）。 
 
 </td></tr>
 <tr><td><i>HandshakeMode</i></td>
 <td> 
- 
-The handshake mode. It can be one of the following values: 
- 
+设置握手的模式。它可以是下列值之一︰ 
 <pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_SerialPort_NoHandshake</font>     : No handshaking
   <font color="#924B72">#PB_SerialPort_RtsHandshake</font>    : No handshaking but RTS is set to 1
   <font color="#924B72">#PB_SerialPort_RtsCtsHandshake</font> : RTS/CTS
@@ -92,37 +68,25 @@ The handshake mode. It can be one of the following values:
 </td></tr>
 <tr><td><i>InputBufferSize</i></td>
 <td> 
- 
-Defines the size of the input buffer, in bytes. 
-
- 
+定义输入缓冲区的大小，以字节为单位。 
 
 </td></tr>
 <tr><td><i>OutputBufferSize</i></td>
 <td> 
- 
-Defines the size of the output buffer, in bytes. 
-
- 
+定义输出缓冲区的大小，以字节为单位。 
 
 </td></tr>
 </table>
 </blockquote><p><b>返回值</b></p><blockquote>
 
-
-
-Nonzero if the serial port was successfully opened, zero otherwise 
-(it may be already in use, or the parameters are wrong). If <font color="#924B72">#PB_Any</font> was used 
-for the #SerialPort parameter then the generated number is returned on success. 
-
- 
+如果串行端口已成功打开，返回值为非零，否则零 （它可能已经在使用中，或参数错误）。如果使用<font color="#924B72">#PB_Any</font>为 #SerialPort 参数，返回一个生成的数。 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">If</font></b> <font color="#3A3966">OpenSerialPort</font>(0, "COM1", 300, <font color="#924B72">#PB_SerialPort_NoParity</font>, 8, 1, <font color="#924B72">#PB_SerialPort_NoHandshake</font>, 1024, 1024)
-    <b><font color="#3A3966">Debug</font></b> "Success"
+    <b><font color="#3A3966">Debug</font></b> "成功"
   <b><font color="#3A3966">Else</font></b>
-    <b><font color="#3A3966">Debug</font></b> "Failed"
+    <b><font color="#3A3966">Debug</font></b> "失败"
   <b><font color="#3A3966">EndIf</font></b>
 </font></pre>
 

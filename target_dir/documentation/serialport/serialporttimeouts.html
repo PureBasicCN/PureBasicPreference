@@ -8,11 +8,7 @@
 </blockquote>
 <b>概要</b><br><blockquote>
 
-
-
-Changes the default serial port timeouts. 
-
- 
+更改默认串行端口超时时间。 
 
 </blockquote><p><b>参数</b></p><blockquote>
 <style type="text/css">
@@ -22,59 +18,32 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <table width="90%" class="parameters">
 <tr><td width="10%"><i>#SerialPort</i></td>
 <td width="90%"> 
- 
-The serial port to use. 
-
- 
+要使用的串口。 
 
 </td></tr>
 <tr><td><i>RIT</i></td>
 <td> 
- 
-RIT stands for 'ReadIntervalTimeout'. Specifies the maximum time, in milliseconds, which are allowed to elapse 
-between the arrival of two characters on the communications line. Default value is 100 ms. 
-
- 
+RIT 表示'ReadIntervalTimeout"，两字符之间最大的延时，当读取串口数据时，一旦两个字符传输的时间差超过该时间，读取函数将返回现有的数据. 指定的最长的时间，以毫秒为单位，两个字符在通信线路上允许到达的时间。默认值为 100 毫秒。 
 
 </td></tr>
 <tr><td><i>RTTC</i></td>
 <td> 
- 
-RTTC stands for 'ReadTotalTimeoutConstant'. Specifies the constant, in milliseconds, used to calculate the 
-total time-out period for read operations. For each read operation, this value is added to the 
-product of the ReadTotalTimeoutMultiplier member and the requested number of bytes. Default value is 100 ms. 
-
- 
+RTTC 表示 'ReadTotalTimeoutConstant'，一次读取串口数据的固定超时。所以在一次读取串口的操作中，其超时为ReadTotalTimeoutMultiplier乘以读取的字节数再加上 ReadTotalTimeoutConstant。将ReadIntervalTimeout设置为MAXDWORD，并将ReadTotalTimeoutMultiplier 和ReadTotalTimeoutConstant设置为0，表示读取操作将立即返回存放在输入缓冲区的字符。可以理解为一个修正时间，实际上就是按ReadTotalTimeoutMultiplier计算出的超时时间再加上该时间才作为整个超时时间。   . 指定常量，以毫秒为单位，用来计算总超时期限的读取操作。对于每个读取操作，此值被添加到 ReadTotalTimeoutMultiplier 成员与所请求的字节数的乘积。默认值为 100 毫秒。 
 
 </td></tr>
 <tr><td><i>RTTM</i></td>
 <td> 
- 
-RTTM stands for 'ReadTotalTimeoutMultiplier'. Specifies the multiplier, in milliseconds, used to calculate 
-the total time-out period for read operations. For each read operation, this value is multiplied 
-by the requested number of bytes to be read. Default value is 10 ms. 
-
- 
+RTTM 表示 'ReadTotalTimeoutMultiplier'，指定比例因子（毫秒），实际上是设置读取一个字节和等待下一个字节所需的时间，这样总的超时时间为读取的字节数乘以该值，同样一次读取操作到达这个时间后，也认为本次读操作己经结束。。指定乘数，以毫秒为单位，用来计算总超时期限的读取操作的乘数。对于每个读操作，这个值乘以所需的字节数将被读取. 默认值为 10 毫秒。 
 
 </td></tr>
 <tr><td><i>WTTC</i></td>
 <td> 
- 
-WTTC stands for 'WriteTotalTimeoutConstant'. Specifies the constant, in milliseconds, used to calculate the 
-total time-out period for write operations. For each write operation, this value is added to the 
-product of the WriteTotalTimeoutMultiplier member and the number of bytes to be written. Default value is 10 ms. 
-
- 
+WTTC 表示 'WriteTotalTimeoutConstant'，一次写入串口数据的固定超时。在一次写入串口的操作中，其超时为WriteTotalTimeoutMultiplier乘以写入的字节数再加上 WriteTotalTimeoutConstant。指定常量，以毫秒为单位，用于计算写入操作总超时期限。对于每个写操作，此值被添加到 WriteTotalTimeoutMultiplier 成员和的字节数要写入的产品中。默认值为 10 毫秒。 
 
 </td></tr>
 <tr><td><i>WTTM</i></td>
 <td> 
- 
-WTTM stands for 'WriteTotalTimeoutMultiplier'. Specifies the multiplier, in milliseconds, used to calculate the 
-total time-out period for write operations. For each write operation, this value is multiplied by 
-the number of bytes to be written. Default value is 100 ms. 
-
- 
+WTTM 表示 'WriteTotalTimeoutMultiplier'，写入每字符间的超时。指定乘数，以毫秒为单位，用于计算写入操作总超时期限的乘数。对于每个写操作，此值乘以要写入的字节数。默认值为 100 毫秒。 
 
 </td></tr>
 </table>

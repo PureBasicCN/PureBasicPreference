@@ -37,9 +37,7 @@ The SQL query to execute.
 </td></tr>
 <tr><td><i>Flags (optional)</i></td>
 <td> 
- 
-The flags to use. It can be one of the following value: 
- 
+The flags to use. 它可以是以下值之一︰ 
 <pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_Database_StaticCursor</font> : performs the query to access the result in a sequential manner. It's not possible to rewind
                               with <a href="previousdatabaserow.html">PreviousDatabaseRow()</a> or <a href="firstdatabaserow.html">FirstDatabaseRow()</a> on some drivers, but it is the faster way to get the data (default).
   <font color="#924B72">#PB_Database_DynamicCursor</font>: performs the query to access the result in a random manner using <a href="previousdatabaserow.html">PreviousDatabaseRow()</a> or <a href="firstdatabaserow.html">FirstDatabaseRow()</a>.

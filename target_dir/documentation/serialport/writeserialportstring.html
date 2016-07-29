@@ -9,11 +9,7 @@ Result = <font color="#3A3966"><b>WriteSerialPortString</b></font>(#SerialPort, 
 </blockquote>
 <b>概要</b><br><blockquote>
 
-
-
-Writes a string to the specified serial port. 
-
- 
+将一个字符串写入指定的串行端口. 
 
 </blockquote><p><b>参数</b></p><blockquote>
 <style type="text/css">
@@ -23,47 +19,31 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <table width="90%" class="parameters">
 <tr><td width="10%"><i>#SerialPort</i></td>
 <td width="90%"> 
- 
-The serial port to use. 
-
- 
+要使用的串口。 
 
 </td></tr>
 <tr><td><i>String$</i></td>
 <td> 
- 
-The string to write. 
-
- 
+要写入的字符串. 
 
 </td></tr>
 <tr><td><i>Format (optional)</i></td>
 <td> 
- 
-The string format to use. It can be one of the following value: 
- 
-<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_Ascii</font>   : the string will be written in ascii format (default, even in <a href="../reference/unicode.html">unicode</a> mode).
-  <font color="#924B72">#PB_UTF8</font>    : the string will be written in UTF8 format.
-  <font color="#924B72">#PB_Unicode</font> : the string will be written in unicode (UTF16) format.
+字符串格式. 它可以是以下值之一︰ 
+<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_Ascii</font>   : 字符串将以 ascii  的格式写入， (默认, even in <a href="../reference/unicode.html">unicode</a> mode).
+  <font color="#924B72">#PB_UTF8</font>    : 字符串将以 UTF8 格式写入.
+  <font color="#924B72">#PB_Unicode</font> : 字符串将以 unicode (UTF16) 格式写入.
 </font></pre>
 
 </td></tr>
 </table>
 </blockquote><p><b>返回值</b></p><blockquote>
 
-
-
-The number of bytes written to the serial port, or zero if the operation has failed. 
-
- 
+返回写入串行端口的字节数，如果此操作失败，则返回 0 。 
 
 </blockquote><p><b>备注</b></p><blockquote>
 
-
-
-To check how much data is available in the output buffer, use <a href="availableserialportoutput.html">AvailableSerialPortOutput()</a>. 
-
- 
+要检测在输出缓冲区中有多少数据是可用的，请使用函数<a href="availableserialportoutput.html">AvailableSerialPortOutput()</a>。 
 
 </blockquote><p><b>参阅</b></p><blockquote>
 

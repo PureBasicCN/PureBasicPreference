@@ -9,11 +9,7 @@ Result = <font color="#3A3966"><b>WriteSerialPortData</b></font>(#SerialPort, *B
 </blockquote>
 <b>概要</b><br><blockquote>
 
-
-
-Writes an arbitrary amount of data to the specified serial port. 
-
- 
+将任意数量的数据写入到指定的串行端口。 
 
 </blockquote><p><b>参数</b></p><blockquote>
 <style type="text/css">
@@ -23,44 +19,27 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <table width="90%" class="parameters">
 <tr><td width="10%"><i>#SerialPort</i></td>
 <td width="90%"> 
- 
-The serial port to use. 
-
- 
+要使用的串口。 
 
 </td></tr>
 <tr><td><i>*Buffer</i></td>
 <td> 
- 
-The buffer to write. 
-
- 
+要写入的缓冲区。 
 
 </td></tr>
 <tr><td><i>Length</i></td>
 <td> 
- 
-The buffer length to write, in bytes. 
-
- 
+要写入的缓冲区的长度，以字节为单位。 
 
 </td></tr>
 </table>
 </blockquote><p><b>返回值</b></p><blockquote>
 
-
-
-The number of bytes written to the serial port, or zero if the operation has failed. 
-
- 
+返回写入串行端口的字节数，如果此操作失败，则返回 0 。 
 
 </blockquote><p><b>备注</b></p><blockquote>
 
-
-
-To check how much data is available in the output buffer, use <a href="availableserialportoutput.html">AvailableSerialPortOutput()</a>. 
-
- 
+要检测在输出缓冲区中有多少数据是可用的，请使用函数<a href="availableserialportoutput.html">AvailableSerialPortOutput()</a>。 
 
 </blockquote><p><b>参阅</b></p><blockquote>
 

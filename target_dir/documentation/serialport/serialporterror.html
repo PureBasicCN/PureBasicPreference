@@ -9,11 +9,7 @@ Result = <font color="#3A3966"><b>SerialPortError</b></font>(#SerialPort)</block
 </blockquote>
 <b>概要</b><br><blockquote>
 
-
-
-Returns the error on the serial port when <a href="readserialportdata.html">ReadSerialPortData()</a>, <a href="writeserialportdata.html">WriteSerialPortData()</a> or <a href="writeserialportstring.html">WriteSerialPortString()</a> failed. 
-
- 
+当使用函数<a href="readserialportdata.html">ReadSerialPortData()</a>、 <a href="writeserialportdata.html">WriteSerialPortData()</a>或<a href="writeserialportstring.html">WriteSerialPortString()</a>失败时，在串口上返回的错误。 
 
 </blockquote><p><b>参数</b></p><blockquote>
 <style type="text/css">
@@ -23,37 +19,31 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <table width="90%" class="parameters">
 <tr><td width="10%"><i>#SerialPort</i></td>
 <td width="90%"> 
- 
-The serial port to use. 
-
- 
+要使用的串口。 
 
 </td></tr>
 </table>
 </blockquote><p><b>返回值</b></p><blockquote>
 
-
-
-Can be a combination of the following values: 
- 
-<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_SerialPort_RxOver</font>: An input buffer overflow has occurred.
-                         There is either no room in the input buffer
-                         or a character was received after the end-of-file (EOF)
-  <font color="#924B72">#PB_SerialPort_OverRun</font>: A character-buffer overrun has occurred.
-                          The next character is lost.
-  <font color="#924B72">#PB_SerialPort_RxParity</font> : The hardware detected a parity error.
-  <font color="#924B72">#PB_SerialPort_Frame</font>    : The hardware detected a framing error.
-  <font color="#924B72">#PB_SerialPort_Break</font>    : The hardware detected a break condition.
-  <font color="#924B72">#PB_SerialPort_TxFull</font>   : The application tried to transmit a character but the output buffer was full.
-  <font color="#924B72">#PB_SerialPort_IOE</font>      :  An I/O error occurred during communications with the device.
-  <font color="#924B72">#PB_SerialPort_WaitingCTS</font>  : Specifies whether transmission is waiting for the CTS (clear-to-send) signal to be sent.
-  <font color="#924B72">#PB_SerialPort_WaitingDSR</font>  : Specifies whether transmission is waiting for the DSR (data-set-ready) signal to be sent.
-  <font color="#924B72">#PB_SerialPort_WaitingRLSD</font> : Specifies whether transmission is waiting for the RLSD (receive-line-signal-detect) signal to be sent.
-  <font color="#924B72">#PB_SerialPort_XoffReceived</font>: Specifies whether transmission is waiting because the XOFF character was received.
-  <font color="#924B72">#PB_SerialPort_XoffSent</font>    : Specifies whether transmission is waiting because the XOFF character was transmitted.
+可以是下列值的组合︰ 
+<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_SerialPort_RxOver</font>︰ 发生输入的缓冲区溢出。
+                         输入缓冲区中没有足够的空间
+                         或在文件尾 (EOF)之后接收到字符
+  <font color="#924B72">#PB_SerialPort_OverRun</font>︰ 字符缓冲区溢出发生。
+                          下一个字符丢失。
+  <font color="#924B72">#PB_SerialPort_RxParity</font> ︰ 硬件检测到奇偶校验错误。
+  <font color="#924B72">#PB_SerialPort_Frame</font> : 硬件检测到帧错误。
+  <font color="#924B72">#PB_SerialPort_Break</font> : 硬件检测到中断条件。
+  <font color="#924B72">#PB_SerialPort_TxFull</font> ︰ 应用程序尝试发送一个字符，但输出缓冲区已满。
+  <font color="#924B72">#PB_SerialPort_IOE</font> ︰ 与设备在通信期间出现 I/O 错误。
+  <font color="#924B72">#PB_SerialPort_WaitingCTS</font> ︰ 指定传输是否正在等待发送 CTS （清除发送） 信号。
+  <font color="#924B72">#PB_SerialPort_WaitingDSR</font> ︰ 指定传输是否正在等待发送 DSR （数据准备就绪） 信号。
+  <font color="#924B72">#PB_SerialPort_WaitingRLSD</font> ︰ 指定传输是否正在等待 RLSD （接收线信号检测） 发送的信号。
+  <font color="#924B72">#PB_SerialPort_XoffReceived</font>︰ 指定传输是否正在等待，因为接收到 XOFF 字符。
+  <font color="#924B72">#PB_SerialPort_XoffSent</font> ︰ 指定传输是否正在等待，因为 XOFF 字符被传送。
                                Transmission halts when the XOFF character is transmitted to a system that takes the next
                                character as XON, regardless of the actual character.
-  <font color="#924B72">#PB_SerialPort_EOFSent</font>: Specifies whether the end-of-file (EOF) character has been received.
+  <font color="#924B72">#PB_SerialPort_EOFSent</font>: 指定文件结束（EOF）字符已接收。
 </font></pre>
 
 </blockquote><p><b>参阅</b></p><blockquote>
