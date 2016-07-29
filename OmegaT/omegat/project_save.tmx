@@ -2369,6 +2369,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defines how the parity will be handled on the connection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T050739Z" creationid="lansn-lan" creationdate="20160729T050739Z">
+        <seg>定义通信如何处理奇偶性校验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defines the speed of the serial connection and can be one of the following values:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T050351Z" creationid="lansn-lan" creationdate="20160729T050351Z">
@@ -2901,6 +2909,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153512Z" creationid="jane" creationdate="20160728T153512Z">
         <seg>它可以是以下值之一︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be one of the following values:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T050952Z" creationid="lansn-lan" creationdate="20160729T050952Z">
+        <seg>它可以是下列值之一︰</seg>
       </tuv>
     </tu>
     <tu>
