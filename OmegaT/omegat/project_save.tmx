@@ -3073,6 +3073,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nonzero if the serial port is valid, zero otherwise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T043443Z" creationid="lansn-lan" creationdate="20160729T043443Z">
+        <seg>如果串行端口是有效的为非零，否则为零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: The &lt;f2&gt;#PB_2DDrawing_CustomFilter&lt;/f2&gt; &lt;a3&gt;drawing mode&lt;/a3&gt; only works on &lt;a4&gt;ImageOutput()&lt;/a4&gt; and &lt;a5&gt;CanvasOutput()&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040643Z" creationid="oSilas" creationdate="20141128T040643Z">
