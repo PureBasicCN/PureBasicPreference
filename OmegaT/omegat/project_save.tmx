@@ -4585,6 +4585,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tab characters:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T135944Z" creationid="blues" creationdate="20160729T135944Z">
+        <seg>Tab 制表符:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Team Members</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084614Z" creationid="MysticBoy" creationdate="20160725T084614Z">
@@ -5078,6 +5086,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053408Z" creationid="MysticBoy" creationdate="20160726T053408Z">
         <seg>新建源码文件的默认值可以在&lt;a41&gt;首选项&lt;/a41&gt;中设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The details of this feature can be customized in the &lt;a1&gt;preferences&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T135935Z" creationid="blues" creationdate="20160729T135935Z">
+        <seg>此功能的详细信息可以在 &lt;a1&gt;文件-配置&lt;/a1&gt;中定制.</seg>
       </tuv>
     </tu>
     <tu>
