@@ -2369,6 +2369,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defines the speed of the serial connection and can be one of the following values:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T050351Z" creationid="lansn-lan" creationdate="20160729T050351Z">
+        <seg>定义串口通信连接速度（波特率），可以是下列值之一︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110627Z">
