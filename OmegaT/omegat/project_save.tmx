@@ -4145,6 +4145,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the number of remaining bytes in the serial port output buffer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081018Z" creationid="lansn-lan" creationdate="20160729T081018Z">
+        <seg>返回串行端口输出缓冲区中的剩余字节数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the pixel format of the current output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043315Z" creationid="oSilas" creationdate="20150312T043315Z">
@@ -5127,6 +5135,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T080750Z" creationid="lansn-lan" creationdate="20160729T080750Z">
         <seg>串行端口输入缓冲区中的剩余字节数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of remaining bytes in the serial port output buffer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081023Z" creationid="lansn-lan" creationdate="20160729T081023Z">
+        <seg>串行端口输出缓冲区中的剩余字节数.</seg>
       </tuv>
     </tu>
     <tu>
