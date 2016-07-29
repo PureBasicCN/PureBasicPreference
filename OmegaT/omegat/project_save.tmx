@@ -2819,8 +2819,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>For each write operation, this value is added to the product of the WriteTotalTimeoutMultiplier member and the number of bytes to be written.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064818Z" creationid="lansn-lan" creationdate="20160729T064818Z">
-        <seg>对于每个写操作，此值被添加到 WriteTotalTimeoutMultiplier 成员和的字节数要被写入的产品中。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064844Z" creationid="lansn-lan" creationdate="20160729T064818Z">
+        <seg>对于每个写操作，此值被添加到 WriteTotalTimeoutMultiplier 成员和的字节数要写入的产品中。</seg>
       </tuv>
     </tu>
     <tu>
