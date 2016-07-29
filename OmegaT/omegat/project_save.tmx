@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a16&gt;SerialPortID&lt;/a16&gt;&lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T040037Z" creationid="lansn-lan" creationdate="20160729T040037Z">
+        <seg>&lt;a16&gt;SerialPortID&lt;/a16&gt;  用途：返回串口的唯一系统标识符&lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a18&gt;Building a DLL&lt;/a18&gt;&lt;br19&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083537Z" creationid="MysticBoy" creationdate="20160720T083537Z">
