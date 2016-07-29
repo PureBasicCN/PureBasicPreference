@@ -2537,6 +2537,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default value is 100 ms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063713Z" creationid="lansn-lan" creationdate="20160729T063713Z">
+        <seg>默认值为 100 毫秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Define a bounding box that restricts all drawing to the current drawing output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T033256Z" creationid="oSilas" creationdate="20141128T033140Z">
@@ -4197,6 +4205,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040735Z" creationid="oSilas" creationdate="20141128T040735Z">
         <seg>指定将要求每个像素是在绘图操作的一部分回调&lt;f0&gt;＃PB_2DDrawing_CustomFilter&lt;/f0&gt;&lt;a1&gt;绘图模式&lt;/a1&gt;。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifies the maximum time, in milliseconds, which are allowed to elapse between the arrival of two characters on the communications line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T063704Z" creationid="lansn-lan" creationdate="20160729T063704Z">
+        <seg>指定的最长的时间，以毫秒为单位，两个字符在通信线路上允许到达的时间。</seg>
       </tuv>
     </tu>
     <tu>
