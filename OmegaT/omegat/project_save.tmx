@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a20&gt;SetSerialPortStatus&lt;/a20&gt;&lt;br21&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T042804Z" creationid="lansn-lan" creationdate="20160729T042804Z">
+        <seg>&lt;a20&gt;SetSerialPortStatus&lt;/a20&gt;  用途：更改指定的串口状态&lt;br21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a22&gt;&lt;b23&gt;PureBasic 5.40 LTS (all OS)&lt;/b23&gt;&lt;/a22&gt;&lt;i24&gt; (10/16/2015)&lt;/i24&gt;&lt;br25&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070026Z" creationid="MysticBoy" creationdate="20160728T070026Z">
@@ -958,10 +966,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a22&gt;WriteSerialPortData&lt;/a22&gt;&lt;br23&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T042847Z" creationid="lansn-lan" creationdate="20160729T042847Z">
+        <seg>&lt;a22&gt;WriteSerialPortData&lt;/a22&gt;  用途：将任意数量的数据写入指定的串口&lt;br23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a24&gt;DrawAlphaImage&lt;/a24&gt;&lt;br25&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040931Z" creationid="oSilas" creationdate="20151013T040931Z">
         <seg>绘制α图&lt;a24&gt;DrawAlphaImage&lt;/a24&gt;&lt;br25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a24&gt;WriteSerialPortString&lt;/a24&gt;&lt;br25&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T042911Z" creationid="lansn-lan" creationdate="20160729T042911Z">
+        <seg>&lt;a24&gt;WriteSerialPortString&lt;/a24&gt;  用途：将一个字符串写入指定的串口&lt;br25&gt;</seg>
       </tuv>
     </tu>
     <tu>
