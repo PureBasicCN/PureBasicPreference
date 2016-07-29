@@ -3457,6 +3457,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It instead inserts two spaces.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141812Z" creationid="blues" creationdate="20160729T141812Z">
+        <seg>tab符将被插入2个空格符所替代.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is blended on to 'Color2'.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101813Z" creationid="MysticBoy" creationdate="20160721T101813Z">
@@ -5695,6 +5703,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071548Z" creationid="MysticBoy" creationdate="20160728T071548Z">
         <seg>这样可以允许您创建多个快捷方式，针对不同的用户，或者不同的项目进行差异化配置启动IDE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This behavior can be changed in the Preferences.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141859Z" creationid="blues" creationdate="20160729T141859Z">
+        <seg>此行为方式可以在配置项中改变.</seg>
       </tuv>
     </tu>
     <tu>
