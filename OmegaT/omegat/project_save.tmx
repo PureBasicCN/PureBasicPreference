@@ -3929,6 +3929,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sets the number of stop bits (1, 1.5 or 2).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T052249Z" creationid="lansn-lan" creationdate="20160729T052249Z">
+        <seg>设置停止位 （1、 1.5 或 2）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shows the changes made to the current source code compared to its version that exists on the hard drive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053237Z" creationid="MysticBoy" creationdate="20160726T053237Z">
