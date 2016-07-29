@@ -2801,6 +2801,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If &lt;f0&gt;#PB_Any&lt;/f0&gt; was used for the #SerialPort parameter then the generated number is returned on success.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T054952Z" creationid="lansn-lan" creationdate="20160729T054952Z">
+        <seg>如果使用&lt;f0&gt;#PB_Any&lt;/f0&gt;为 #SerialPort 参数，然后成功返回一个生成的数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Result is 0, it has failed and all further call to console functions must be disabled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082622Z" creationid="MysticBoy" creationdate="20160720T082622Z">
