@@ -4682,6 +4682,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The PureBasic IDE acts like any other Text Editor when it comes to the basic editing features.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T131608Z" creationid="blues" creationdate="20160729T131608Z">
+        <seg>PureBasic IDE涉及到基本的编辑功能时，就像任何其他的文本编辑器一样。。Ctrl+Home定位到文件，按Ctrl +端到端的开始.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The PureBasic IDE allows you to create and edit your PureBasic source codes, as well as run them, debug them and create the final executable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135929Z" creationid="MysticBoy" creationdate="20160723T135929Z">
