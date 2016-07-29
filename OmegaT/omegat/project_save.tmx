@@ -1749,6 +1749,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b5&gt;&lt;f6&gt;Debug&lt;/f6&gt;&lt;/b5&gt; "Success"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055349Z" creationid="lansn-lan" creationdate="20160729T055349Z">
+        <seg>&lt;b5&gt;&lt;f6&gt;Debug&lt;/f6&gt;&lt;/b5&gt; "成功"</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>系统</note>
       <tuv lang="EN-US">
         <seg>&lt;b65&gt;Requirements&lt;/b65&gt;&lt;br66&gt;</seg>
@@ -1803,6 +1811,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174542Z" creationid="MysticBoy" creationdate="20160723T174542Z">
         <seg>&lt;b75&gt;产品信息 &lt;/b75&gt;&lt;br76&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b9&gt;&lt;f10&gt;Debug&lt;/f10&gt;&lt;/b9&gt; "Failed"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055359Z" creationid="lansn-lan" creationdate="20160729T055359Z">
+        <seg>&lt;b9&gt;&lt;f10&gt;Debug&lt;/f10&gt;&lt;/b9&gt; "失败"</seg>
       </tuv>
     </tu>
     <tu>
