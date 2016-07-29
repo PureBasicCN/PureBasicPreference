@@ -4411,6 +4411,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The process of computer driven hardware prototype creation is simplified when the serial port is used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T033323Z" creationid="lansn-lan" creationdate="20160729T033323Z">
+        <seg>使用串行端口时，将简化计算机驱动硬件设备的过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The radius of the circle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041245Z" creationid="oSilas" creationdate="20141122T041245Z">
