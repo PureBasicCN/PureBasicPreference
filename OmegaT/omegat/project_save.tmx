@@ -4441,6 +4441,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns a number between 0 and 6 representing the day of the week:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070431Z" creationid="blues" creationdate="20160730T070431Z">
+        <seg>返回一个介于 0 到 6 之间的数字，代表一周中的某一天:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns a string containing the pressed character if it is a non-special key, and an empty string otherwise.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082259Z" creationid="MysticBoy" creationdate="20160720T082259Z">
@@ -5413,6 +5421,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
         <seg>The date value from which to extract the day.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T065919Z" creationid="blues" creationdate="20160730T065919Z">
+        <seg>需要被提取值的日期.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The date value from which to extract the weekday.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070346Z" creationid="blues" creationdate="20160730T070346Z">
         <seg>需要被提取值的日期.</seg>
       </tuv>
     </tu>
