@@ -672,8 +672,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;AddDate&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T054542Z" creationid="blues" creationdate="20160730T054542Z">
-        <seg>&lt;a0&gt;AddDate&lt;/a0&gt;     用途：日期/时间 相加&lt;br1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062343Z" creationid="blues" creationdate="20160730T054542Z">
+        <seg>&lt;a0&gt;AddDate&lt;/a0&gt;     用途：给日期添加一个时间&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
