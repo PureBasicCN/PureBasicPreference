@@ -6971,6 +6971,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When double-clicking on the name of a &lt;a2&gt;procedure&lt;/a2&gt; that is defined in the current source while holding down the Ctrl Key, the cursor automatically jumps to the declaration of this procedure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T100344Z" creationid="blues" creationdate="20160730T100344Z">
+        <seg>按住Ctrl键的同时，双击当前源码定义的&lt;a2&gt;procedure过程 （函数）&lt;/a2&gt; 名，光标自动跳到本函数的声明处.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When saving plain text files, the IDE will not append its settings to the end of the file, even if this is configured for code files in the &lt;a4&gt;Preferences&lt;/a4&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T021129Z" creationid="MysticBoy" creationdate="20160726T021129Z">
