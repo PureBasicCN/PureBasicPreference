@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a12&gt;Hour&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T060052Z" creationid="blues" creationdate="20160730T060012Z">
+        <seg>&lt;a12&gt;Hour&lt;/a12&gt;     用途：获取指定日期中小时数&lt;小时&gt;&lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a12&gt;ReadSerialPortData&lt;/a12&gt;&lt;br13&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125429Z" creationid="lansn-lan" creationdate="20160729T035803Z">
@@ -878,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a14&gt;Minute&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T060035Z" creationid="blues" creationdate="20160730T060035Z">
+        <seg>&lt;a14&gt;Minute&lt;/a14&gt;     用途：获取指定日期中分钟数&lt;分钟&gt;&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a14&gt;SerialPortError&lt;/a14&gt;&lt;br15&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125436Z" creationid="lansn-lan" creationdate="20160729T035935Z">
@@ -906,6 +922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084019Z" creationid="MysticBoy" creationdate="20160720T084019Z">
         <seg>&lt;a16&gt;日期&lt;/a16&gt;&lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a16&gt;Month&lt;/a16&gt;&lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T060127Z" creationid="blues" creationdate="20160730T060127Z">
+        <seg>&lt;a16&gt;Month&lt;/a16&gt;     用途：获取指定日期中的月份&lt;月份&gt;&lt;br17&gt;</seg>
       </tuv>
     </tu>
     <tu>
