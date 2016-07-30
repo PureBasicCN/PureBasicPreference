@@ -1614,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b21&gt;Restart Compiler&lt;/b21&gt; (not present on all OS) &lt;br22&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T092914Z" creationid="plp" creationdate="20160730T092914Z">
+        <seg>&lt;b21&gt;重新启动编译器&lt;/b21&gt; （不适用于所有系统） &lt;br22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b23&gt;Help Tool&lt;/b23&gt; &lt;br24&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080423Z" creationid="Silas" creationdate="20160720T080423Z">
@@ -5775,6 +5783,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T031501Z" creationid="oSilas" creationdate="20141128T031501Z">
         <seg>可以是一个24位RGB或32位的RGBA值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This causes the compiler to restart.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093015Z" creationid="plp" creationdate="20160730T093015Z">
+        <seg>这使编译器重新启动。</seg>
       </tuv>
     </tu>
     <tu>
