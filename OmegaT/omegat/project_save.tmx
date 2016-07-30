@@ -2449,6 +2449,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, it is saved at the end of the source code as a comment (invisible in the IDE).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T081532Z" creationid="plp" creationdate="20160730T081532Z">
+        <seg>默认情况下，它被保存在源代码注释（在IDE中不可见）的结束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By the same author, discover the new web client-side programming language&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173727Z" creationid="MysticBoy" creationdate="20160721T054739Z">
@@ -5325,8 +5333,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The place where this information is saved can be configured.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160728T111032Z" creationid="plp" creationdate="20160728T111032Z">
-        <seg> place where this information is saved can be configured.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T081538Z" creationid="plp" creationdate="20160728T111032Z">
+        <seg> 可以对这个保存信息的地方进行设置。</seg>
       </tuv>
     </tu>
     <tu>
