@@ -1895,6 +1895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b7&gt;Use Compiler&lt;/b7&gt; &lt;br8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T105122Z" creationid="plp" creationdate="20160730T105122Z">
+        <seg>&lt;b7&gt;使用编译器&lt;/b7&gt;&lt;br8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b9&gt;&lt;f10&gt;Debug&lt;/f10&gt;&lt;/b9&gt; "Failed"</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055359Z" creationid="lansn-lan" creationdate="20160729T055359Z">
@@ -3957,6 +3965,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082346Z" creationid="MysticBoy" creationdate="20160720T082346Z">
         <seg>只有一个控制台可以在一个的PureBasic程序同时被打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only some settings like the debugger setting will be used from the current source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T105047Z" creationid="plp" creationdate="20160730T105047Z">
+        <seg>当前源文件调试器设置只有少部分设置被使用。</seg>
       </tuv>
     </tu>
     <tu>
