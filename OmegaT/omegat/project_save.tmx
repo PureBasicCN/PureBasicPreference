@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Month&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(2002, 10, 3, 0, 0, 0))  &lt;f4&gt;; Outputs '10'.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093847Z" creationid="blues" creationdate="20160730T093847Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Month&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(2002, 10, 3, 0, 0, 0))  &lt;f4&gt;; 输出 '10' 月份.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Menu&lt;/b0&gt; &lt;a1&gt;Skip to content&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101639Z" creationid="MysticBoy" creationdate="20160721T101639Z">
@@ -4777,6 +4785,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the month component of the date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093801Z" creationid="blues" creationdate="20160730T093801Z">
+        <seg>返回日期的月份.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the month value of the specified date.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093719Z" creationid="blues" creationdate="20160730T093719Z">
@@ -6087,6 +6103,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093538Z" creationid="blues" creationdate="20160730T093538Z">
         <seg>结果总是 0 到 59 之间.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result is always between 1 and 12.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093833Z" creationid="blues" creationdate="20160730T093833Z">
+        <seg>结果总是 1 到 12 之间.</seg>
       </tuv>
     </tu>
     <tu>
