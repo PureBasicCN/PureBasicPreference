@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b13&gt;Compile with Debugger&lt;/b13&gt; &lt;br14&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T091314Z" creationid="plp" creationdate="20160730T091314Z">
+        <seg>&lt;b13&gt;调试编译&lt;/b13&gt; &lt;br14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b15&gt;Save As...&lt;/b15&gt; &lt;br16&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023047Z" creationid="MysticBoy" creationdate="20160726T023047Z">
@@ -6207,6 +6215,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041622Z" creationid="oSilas" creationdate="20151013T041622Z">
         <seg>是否使用alpha通道取决于 &lt;a2&gt;绘图模式&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether or not the debugger is enabled depends on the setting of the last compilation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T091250Z" creationid="plp" creationdate="20160730T091250Z">
+        <seg>是否启用调试器依赖于上次编译器的设置。</seg>
       </tuv>
     </tu>
     <tu>
