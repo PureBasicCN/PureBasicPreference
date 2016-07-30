@@ -1488,8 +1488,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a8&gt;DayOfYear&lt;/a8&gt;&lt;br9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T060346Z" creationid="blues" creationdate="20160730T055814Z">
-        <seg>&lt;a8&gt;DayOfYear&lt;/a8&gt;      用途：返回指定日期的开始日期后的天数&lt;br9&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T060824Z" creationid="blues" creationdate="20160730T055814Z">
+        <seg>&lt;a8&gt;DayOfYear&lt;/a8&gt;      用途：返回指定日期从01月01日起到指定日期之间已过的天数&lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
