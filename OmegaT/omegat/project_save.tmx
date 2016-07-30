@@ -3721,6 +3721,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: supported date/time values are 1970-01-01, 00:00:00 for the minimum and 2038-01-19, 03:14:07 for the maximum.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T053117Z" creationid="blues" creationdate="20160730T053117Z">
+        <seg>注意: 支持的日期/时间值最小为1970-01-01, 00:00:00 ，最大为 2038-01-19, 03:14:07.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Official Pure Basic forum</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174925Z" creationid="MysticBoy" creationdate="20160723T174925Z">
