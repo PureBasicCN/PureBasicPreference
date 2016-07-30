@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b17&gt;Compile without Debugger&lt;/b17&gt; &lt;br18&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T092654Z" creationid="plp" creationdate="20160730T092654Z">
+        <seg>&lt;b17&gt;不启用调试编译&lt;/b17&gt; &lt;br18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b17&gt;Variable Viewer&lt;/b17&gt; &lt;br18&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080349Z" creationid="Silas" creationdate="20160720T080349Z">
@@ -4433,6 +4441,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Same as "Compile with Debugger" except that it forces the debugger to be off for this compilation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T092819Z" creationid="plp" creationdate="20160730T092819Z">
+        <seg>与“调试器编译”相似，但它强制不启用调试器对代码进行编译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save the currently active source to a different location than it was saved before.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053015Z" creationid="MysticBoy" creationdate="20160726T053015Z">
@@ -5911,6 +5927,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053712Z" creationid="MysticBoy" creationdate="20160726T053712Z">
         <seg>对于回滚到以前的版本的文件或找回被删除或损坏的文件非常有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is useful when you usually have the debugger off, but want to have it on for just this one compilation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T092624Z" creationid="plp" creationdate="20160730T092624Z">
+        <seg>当启用调试器开关关闭，但你又想对程序进行调试编译时，用此菜单项是很有用的。</seg>
       </tuv>
     </tu>
     <tu>
