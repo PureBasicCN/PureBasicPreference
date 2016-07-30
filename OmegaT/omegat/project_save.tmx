@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a18&gt;ParseDate&lt;/a18&gt;&lt;br19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T061225Z" creationid="blues" creationdate="20160730T061225Z">
+        <seg>&lt;a18&gt;ParseDate&lt;/a18&gt;    用途：将日期从字符串型转换为日期型&lt;br19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a18&gt;SerialPortTimeouts&lt;/a18&gt;&lt;br19&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125445Z" creationid="lansn-lan" creationdate="20160729T040202Z">
