@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b14&gt;Use Icon&lt;/b14&gt; (Windows and MacOS X only) &lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T110932Z" creationid="plp" creationdate="20160730T110932Z">
+        <seg>&lt;b14&gt;使用图标&lt;/b14&gt; (仅限 Windows 和 MacOS X 系统) &lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b15&gt;Save As...&lt;/b15&gt; &lt;br16&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023047Z" creationid="MysticBoy" creationdate="20160726T023047Z">
