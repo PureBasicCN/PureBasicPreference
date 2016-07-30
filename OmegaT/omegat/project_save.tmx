@@ -2601,6 +2601,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mask string which defines how the date string is formatted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094401Z" creationid="blues" creationdate="20160730T094401Z">
+        <seg>掩码字符串，该字符串定义了日期字符串格式化的方式，用于格式化日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A negative value can be used to subtract a date.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064126Z" creationid="blues" creationdate="20160730T064040Z">
@@ -4277,6 +4285,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110938Z">
         <seg>参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possible tokens are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094513Z" creationid="blues" creationdate="20160730T094513Z">
+        <seg>格式如下:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6743,6 +6759,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080440Z" creationid="Silas" creationdate="20160720T080440Z">
         <seg>工具栏- 选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transforms a string date into a regular date value which then can be used by other date functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094240Z" creationid="blues" creationdate="20160730T094240Z">
+        <seg>将字符串日期转换为日期格式，然后其他日期函数可以使用它.</seg>
       </tuv>
     </tu>
     <tu>
