@@ -4641,6 +4641,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the weekday of the specified date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070218Z" creationid="blues" creationdate="20160730T070218Z">
+        <seg>返回指定日期的工作日&lt;星期几&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the y position (from the top) on the screen (in pixels) of the given window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153648Z" creationid="jane" creationdate="20160728T153648Z">
@@ -5773,8 +5781,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The result is always between 1 and 31.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070038Z" creationid="blues" creationdate="20160730T070038Z">
-        <seg>结果总是 1 到 31 （一个月最多只有31天）.</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070123Z" creationid="blues" creationdate="20160730T070038Z">
+        <seg>结果总是 1 到 31 之间（一个月最多只有31天）.</seg>
       </tuv>
     </tu>
     <tu>
