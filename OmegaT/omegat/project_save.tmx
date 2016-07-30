@@ -2241,6 +2241,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A number of functions from older versions of PureBasic that have been removed from the package still exist for a while as a compatibility wrapper to allow older codes to be tested/ported more easily.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T083254Z" creationid="plp" creationdate="20160730T083254Z">
+        <seg>为了方便对程序进行测试、移植更容易，已经从PureBasic中移除的旧版本的一些功能函数为了兼容将仍然可用一段时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A number to identify the new serial port.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T045052Z" creationid="lansn-lan" creationdate="20160729T044732Z">
@@ -2285,6 +2293,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T135218Z">
         <seg>零意味着完全透明，255意味着完全不透明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A window will be opened displaying all warnings issued during compilation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T083430Z" creationid="plp" creationdate="20160730T083430Z">
+        <seg>一个窗口将被打开显示编译过程中发出的警告。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3221,6 +3237,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082235Z" creationid="MysticBoy" creationdate="20160720T082235Z">
         <seg>如果特殊键（非ASCII）已进行处理， &lt;a0&gt;RawKey()&lt;/a0&gt;应在Inkey()之后调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If such a function is used in the code, the compiler will issue a warning.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T083435Z" creationid="plp" creationdate="20160730T083357Z">
+        <seg>如果这些旧版功能函数在代码中使用，编译器会发出警告。</seg>
       </tuv>
     </tu>
     <tu>
