@@ -1945,8 +1945,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_Date_Year&lt;/f0&gt;   : Will add 'Value' Years to the date</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063100Z" creationid="blues" creationdate="20160730T063100Z">
-        <seg>&lt;f0&gt;#PB_Date_Year&lt;/f0&gt;   : Will add 'Value' Years to the date【以年为单位添加到日期】</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063201Z" creationid="blues" creationdate="20160730T063100Z">
+        <seg>&lt;f0&gt;#PB_Date_Year&lt;/f0&gt;   : Will add 'Value' Years to the date【以&lt;年&gt;为单位添加到日期】</seg>
       </tuv>
     </tu>
     <tu>
@@ -2057,8 +2057,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f1&gt;#PB_Date_Month&lt;/f1&gt;  : Will add 'Value' Months to the date</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063111Z" creationid="blues" creationdate="20160730T063111Z">
-        <seg>&lt;f1&gt;#PB_Date_Month&lt;/f1&gt;  : Will add 'Value' Months to the date【以月为单位添加到日期】</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063153Z" creationid="blues" creationdate="20160730T063111Z">
+        <seg>&lt;f1&gt;#PB_Date_Month&lt;/f1&gt;  : Will add 'Value' Months to the date【以&lt;月&gt;为单位添加到日期】</seg>
       </tuv>
     </tu>
     <tu>
@@ -2231,6 +2231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f4&gt;#PB_Date_Hour&lt;/f4&gt;   : Will add 'Value' Hours to the date</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063223Z" creationid="blues" creationdate="20160730T063223Z">
+        <seg>&lt;f4&gt;#PB_Date_Hour&lt;/f4&gt;   : Will add 'Value' Hours to the date【以&lt;小时&gt;为单位添加到日期】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f4&gt;#PB_PixelFormat_24Bits_BGR&lt;/f4&gt; : 3 bytes per pixel (BBGGRR)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043604Z" creationid="oSilas" creationdate="20150312T043604Z">
@@ -2271,6 +2279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f5&gt;#PB_Date_Minute&lt;/f5&gt; : Will add 'Value' Minutes to the date</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063240Z" creationid="blues" creationdate="20160730T063240Z">
+        <seg>&lt;f5&gt;#PB_Date_Minute&lt;/f5&gt; : Will add 'Value' Minutes to the date【以&lt;分钟&gt;为单位添加到日期】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f5&gt;#PB_PixelFormat_32Bits_RGB&lt;/f5&gt; : 4 bytes per pixel (RRGGBB)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043612Z" creationid="oSilas" creationdate="20150312T043612Z">
@@ -2299,6 +2315,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043818Z" creationid="oSilas" creationdate="20150312T043742Z">
         <seg>&lt;f5&gt;;32 位 RGB 颠倒 Y 坐标&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f6&gt;#PB_Date_Second&lt;/f6&gt; : Will add 'Value' Seconds to the date</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063251Z" creationid="blues" creationdate="20160730T063251Z">
+        <seg>&lt;f6&gt;#PB_Date_Second&lt;/f6&gt; : Will add 'Value' Seconds to the date【以&lt;秒&gt;为单位添加到日期】</seg>
       </tuv>
     </tu>
     <tu>
