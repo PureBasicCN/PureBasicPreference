@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>%yy: Will be replaced by the year value, on 2 digits.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071215Z" creationid="blues" creationdate="20160730T071215Z">
+        <seg>%yy: 将替换为 年，2位数字.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%yyyy: Will be replaced by the year value, on 4 digits.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071205Z" creationid="blues" creationdate="20160730T071205Z">
+        <seg>%yyyy: 将替换为 年，4位数字.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- 486, Pentium (Pro, II, III) support&lt;br39&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174634Z" creationid="MysticBoy" creationdate="20160723T174634Z">
