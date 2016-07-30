@@ -5611,6 +5611,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following tokens in the mask string will be replaced according to the given date:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071040Z" creationid="blues" creationdate="20160730T071040Z">
+        <seg>在掩码字符串中的下面的标记将根据给定的日期替换:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The font to be used.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043959Z" creationid="oSilas" creationdate="20150312T043959Z">
@@ -5703,6 +5711,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135218Z" creationid="MysticBoy" creationdate="20160723T135218Z">
         <seg>线的起点的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mask used to format the date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071033Z" creationid="blues" creationdate="20160730T071033Z">
+        <seg>用于格式化日期的掩码.</seg>
       </tuv>
     </tu>
     <tu>
