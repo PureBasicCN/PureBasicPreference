@@ -1462,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Compile/Run&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T084415Z" creationid="plp" creationdate="20160730T084415Z">
+        <seg>&lt;b0&gt;编译/运行&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Menu&lt;/b0&gt; &lt;a1&gt;Skip to content&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101639Z" creationid="MysticBoy" creationdate="20160721T101639Z">
@@ -3657,6 +3665,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that such compatibility wrappers will not remain indefinitely but will be removed in a future update, so it is recommended to fix issues that cause a compiler warning instead of relying on such deprecated functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T084241Z" creationid="plp" creationdate="20160730T084241Z">
+        <seg>请注意，这种兼容不会无限期地保持，软件会在以后的更新中移除这些旧函数，因此建议更新并修复导致编译器警告的代码，而不是依赖于软件过渡过程中对旧函数的兼容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: The &lt;f2&gt;#PB_2DDrawing_CustomFilter&lt;/f2&gt; &lt;a3&gt;drawing mode&lt;/a3&gt; only works on &lt;a4&gt;ImageOutput()&lt;/a4&gt; and &lt;a5&gt;CanvasOutput()&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040643Z" creationid="oSilas" creationdate="20141128T040643Z">
@@ -5006,6 +5022,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T170938Z" creationid="MysticBoy" creationdate="20160723T170938Z">
         <seg>要使用的列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The compiler menu</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T084356Z" creationid="plp" creationdate="20160730T084356Z">
+        <seg>编译菜单</seg>
       </tuv>
     </tu>
     <tu>
