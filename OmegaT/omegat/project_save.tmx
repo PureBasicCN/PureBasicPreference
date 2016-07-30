@@ -6971,6 +6971,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When double-clicking on an &lt;a5&gt;IncludeFile&lt;/a5&gt; or &lt;a6&gt;XincludeFile&lt;/a6&gt; statement, the IDE will try to open that file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T100528Z" creationid="blues" creationdate="20160730T100528Z">
+        <seg>双击  &lt;a5&gt;IncludeFile&lt;/a5&gt; 或者 &lt;a6&gt;XincludeFile&lt;/a6&gt; 声明,  IDE 将试着打开声明所指向的文件.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When double-clicking on the name of a &lt;a2&gt;procedure&lt;/a2&gt; that is defined in the current source while holding down the Ctrl Key, the cursor automatically jumps to the declaration of this procedure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T100344Z" creationid="blues" creationdate="20160730T100344Z">
