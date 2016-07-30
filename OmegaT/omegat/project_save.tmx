@@ -5827,6 +5827,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This message is also logged in the error log, and the line that caused the error is marked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T082629Z" creationid="plp" creationdate="20160730T082629Z">
+        <seg>此消息会被记录到错误日志中，导致出错的错误行也会被标记出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This mode cannot be combined with the below alpha channel modes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045336Z" creationid="oSilas" creationdate="20150312T045336Z">
