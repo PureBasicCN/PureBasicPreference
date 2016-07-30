@@ -3745,6 +3745,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most of the compiler settings will be taken from the main source file, so when setting this, they are disabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T104841Z" creationid="plp" creationdate="20160730T104841Z">
+        <seg>大多数的编译器设置将从主源文件中取出，所以在设置这个程序时，他们是禁用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves the cursor to the given position, in character coordinates.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T134709Z" creationid="oSilas" creationdate="20141124T134709Z">
