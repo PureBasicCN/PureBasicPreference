@@ -1806,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b12&gt;&lt;f13&gt;Debug&lt;/f13&gt;&lt;/b12&gt; &lt;f14&gt;FormatDate&lt;/f14&gt;("%hh:%ii:%ss",&lt;f15&gt; Date&lt;/f15&gt;())   &lt;f16&gt;; Will display the time using the 00:00:00 format&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T072104Z" creationid="blues" creationdate="20160730T072104Z">
+        <seg>&lt;b12&gt;&lt;f13&gt;Debug&lt;/f13&gt;&lt;/b12&gt; &lt;f14&gt;FormatDate&lt;/f14&gt;("%hh:%ii:%ss",&lt;f15&gt; Date&lt;/f15&gt;())   &lt;f16&gt;; 将以  15:20:02  时间格式显示&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b15&gt;Save As...&lt;/b15&gt; &lt;br16&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023047Z" creationid="MysticBoy" creationdate="20160726T023047Z">
