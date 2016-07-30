@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b37&gt;Build Target&lt;/b37&gt; &lt;br38&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T103018Z" creationid="plp" creationdate="20160730T103018Z">
+        <seg>&lt;b37&gt;创建目标&lt;/b37&gt; &lt;br38&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b38&gt;Product information&lt;/b38&gt;&lt;br39&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070148Z" creationid="MysticBoy" creationdate="20160728T070148Z">
@@ -5218,6 +5226,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default target is the one which is compiled/executed with the "Compile/Run" menu entry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T103007Z" creationid="plp" creationdate="20160730T103007Z">
+        <seg>默认的目标是用“编译/运行”菜单项编译/运行的一个目标。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The defaults for newly created source codes can be set in the &lt;a41&gt;preferences&lt;/a41&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053408Z" creationid="MysticBoy" creationdate="20160726T053408Z">
@@ -6319,6 +6335,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091753Z" creationid="MysticBoy" creationdate="20160725T091753Z">
         <seg>当我购买了PureBasic，我可以免费获得所有更新？?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a project is open, this submenu shows all compile targets and allows to quickly switch the current default target.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T102903Z" creationid="plp" creationdate="20160730T102903Z">
+        <seg>当一个项目打开时，这个子菜单就会显示所有编译目标，并允许快速切换当前默认目标。</seg>
       </tuv>
     </tu>
     <tu>
