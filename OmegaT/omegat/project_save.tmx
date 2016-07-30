@@ -3433,6 +3433,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If these parameters are not specified, then the current system date and time are used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064451Z" creationid="blues" creationdate="20160730T064451Z">
+        <seg>如果没有指定这些参数，则使用当前的系统日期和时间.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this flag is set then the background will be transparent with the &lt;a0&gt;DrawText()&lt;/a0&gt; command.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045239Z" creationid="oSilas" creationdate="20150312T045239Z">
@@ -5262,6 +5270,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T170938Z" creationid="MysticBoy" creationdate="20160723T170938Z">
         <seg>要使用的列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The components of the date to return.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064439Z" creationid="blues" creationdate="20160730T064439Z">
+        <seg>返回日期的组件.</seg>
       </tuv>
     </tu>
     <tu>
