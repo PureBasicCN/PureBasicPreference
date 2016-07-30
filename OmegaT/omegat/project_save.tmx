@@ -4521,6 +4521,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the day component.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070008Z" creationid="blues" creationdate="20160730T070008Z">
+        <seg>返回日期中的&lt;日&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the error on the serial port when &lt;a0&gt;ReadSerialPortData()&lt;/a0&gt;, &lt;a1&gt;WriteSerialPortData()&lt;/a1&gt; or &lt;a2&gt;WriteSerialPortString()&lt;/a2&gt; failed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060602Z" creationid="lansn-lan" creationdate="20160729T060602Z">
@@ -5759,6 +5767,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043333Z" creationid="oSilas" creationdate="20150312T043333Z">
         <seg>结果可以是组合 （与按位或） 以下标志：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result is always between 1 and 31.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070038Z" creationid="blues" creationdate="20160730T070038Z">
+        <seg>结果总是 1 到 31 （一个月最多只有31天）.</seg>
       </tuv>
     </tu>
     <tu>
