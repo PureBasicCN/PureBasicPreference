@@ -4481,6 +4481,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the date value expressing the given parameters, or the current system date if no parameters are specified.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064334Z" creationid="blues" creationdate="20160730T064334Z">
+        <seg>返回给定参数的日期值，如果没有指定参数，则返回当前系统日期.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the error on the serial port when &lt;a0&gt;ReadSerialPortData()&lt;/a0&gt;, &lt;a1&gt;WriteSerialPortData()&lt;/a1&gt; or &lt;a2&gt;WriteSerialPortString()&lt;/a2&gt; failed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060602Z" creationid="lansn-lan" creationdate="20160729T060602Z">
