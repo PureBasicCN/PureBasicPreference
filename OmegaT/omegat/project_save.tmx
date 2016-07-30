@@ -3313,6 +3313,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the executable format is set to DLL, it will create a DLL on Windows, shared object on Linux and dylib on OS X. When creating an executable on OS X, appending '.app' at the executable name will create a bundled executable with the necessary directory structure, including the icon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093825Z" creationid="plp" creationdate="20160730T093825Z">
+        <seg>如果可执行文件格式设置为DLL，它会创建在Windows的Linux在OS X上一个DLL，共享对象和dylib创建时在OS X上的可执行文件，在可执行文件名附加“的.app”将创建一个可执行文件捆绑在一起必要的目录结构，包括图标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the file isn't saved yet, you will be prompted for a filename.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054253Z" creationid="MysticBoy" creationdate="20160726T054253Z">
@@ -6055,6 +6063,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022041Z" creationid="MysticBoy" creationdate="20160726T022041Z">
         <seg>当然，这个是用来关闭 IDE的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This opens a save dialog, asking for the executable name to create.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093819Z" creationid="plp" creationdate="20160730T093819Z">
+        <seg>这将打开一个保存对话框，要求输入文件名称来创建可执行文件。</seg>
       </tuv>
     </tu>
     <tu>
