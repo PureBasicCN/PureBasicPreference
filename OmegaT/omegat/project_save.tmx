@@ -5394,6 +5394,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The date value from which to extract the day.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T065919Z" creationid="blues" creationdate="20160730T065919Z">
+        <seg>需要被提取值的日期.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The date value to which the value should be added.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062614Z" creationid="blues" creationdate="20160730T062546Z">
