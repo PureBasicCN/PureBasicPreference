@@ -5421,8 +5421,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The settings made there are associated with the current source file or the current project, and also remembered when they are closed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160728T111002Z" creationid="plp" creationdate="20160728T111002Z">
-        <seg>对设置进行有与当前的源文件或当前项目相关联，而当它们被关闭还记得。</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T080939Z" creationid="plp" creationdate="20160728T111002Z">
+        <seg>在这里所做的设置会与当前的源文件或项目关联，并且保存源码或工程时，设置信息同样也会被保存。</seg>
       </tuv>
     </tu>
     <tu>
