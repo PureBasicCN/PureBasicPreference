@@ -5562,6 +5562,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The date value to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071456Z" creationid="blues" creationdate="20160730T071456Z">
+        <seg>需要格式化显示的日期值.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The date value to which the value should be added.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062614Z" creationid="blues" creationdate="20160730T062546Z">
