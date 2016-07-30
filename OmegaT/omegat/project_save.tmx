@@ -4713,6 +4713,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the hour component of the date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093223Z" creationid="blues" creationdate="20160730T093223Z">
+        <seg>返回日期的小时数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns the hour value of the specified date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093045Z" creationid="blues" creationdate="20160730T093045Z">
+        <seg>返回指定日期的小时数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the length in bytes of one line in the output, including any additional padding behind the pixel data of a line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043225Z" creationid="oSilas" creationdate="20150312T043225Z">
@@ -5594,6 +5610,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The date from which to extract the hour.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093206Z" creationid="blues" creationdate="20160730T093206Z">
+        <seg>需要被提取时间的日期.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The date value from which to extract the day.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T065919Z" creationid="blues" creationdate="20160730T065919Z">
@@ -5991,6 +6015,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043333Z" creationid="oSilas" creationdate="20150312T043333Z">
         <seg>结果可以是组合 （与按位或） 以下标志：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result is always between 0 and 23.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093242Z" creationid="blues" creationdate="20160730T093242Z">
+        <seg>结果总是在 0 到 23 之间.</seg>
       </tuv>
     </tu>
     <tu>
