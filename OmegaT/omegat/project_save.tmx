@@ -2023,6 +2023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b6&gt;&lt;f7&gt;Debug&lt;/f7&gt;&lt;/b6&gt; &lt;f8&gt;FormatDate&lt;/f8&gt;("%mm/%dd/%yyyy",&lt;f9&gt; Date&lt;/f9&gt;()) &lt;f10&gt;; Will display the actual date with&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071919Z" creationid="blues" creationdate="20160730T071919Z">
+        <seg>&lt;b6&gt;&lt;f7&gt;Debug&lt;/f7&gt;&lt;/b6&gt; &lt;f8&gt;FormatDate&lt;/f8&gt;("%mm/%dd/%yyyy",&lt;f9&gt; Date&lt;/f9&gt;()) &lt;f10&gt;; 将显示当前系统日期&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b6&gt;Automatically hide the Panel&lt;/b6&gt; &lt;br7&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080457Z" creationid="Silas" creationdate="20160720T080457Z">
@@ -2163,6 +2171,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061850Z" creationid="lansn-lan" creationdate="20160729T061850Z">
         <seg>&lt;f11&gt;#PB_SerialPort_XoffSent&lt;/f11&gt; ︰ 指定传输是否正在等待，因为 XOFF 字符被传送。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f11&gt;; the form "01/07/2010"&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071932Z" creationid="blues" creationdate="20160730T071932Z">
+        <seg>&lt;f11&gt;; 输出： "01/07/2010"&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
