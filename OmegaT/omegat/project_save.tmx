@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;FormatDate&lt;/f2&gt;("Y=%yyyy, M= %mm, D=%dd",&lt;f3&gt; Date&lt;/f3&gt;()) &lt;f4&gt;; Will display the actual date with&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071808Z" creationid="blues" creationdate="20160730T071808Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;FormatDate&lt;/f2&gt;("Y=%yyyy, M= %mm, D=%dd",&lt;f3&gt; Date&lt;/f3&gt;()) &lt;f4&gt;; 将显示当前系统日期&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Menu&lt;/b0&gt; &lt;a1&gt;Skip to content&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101639Z" creationid="MysticBoy" creationdate="20160721T101639Z">
@@ -2451,6 +2459,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043818Z" creationid="oSilas" creationdate="20150312T043742Z">
         <seg>&lt;f5&gt;;32 位 RGB 颠倒 Y 坐标&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f5&gt;; the form "Y=2010, M=01, D=07"&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071840Z" creationid="blues" creationdate="20160730T071840Z">
+        <seg>&lt;f5&gt;; 输出： "Y=2010, M=01, D=07"&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
