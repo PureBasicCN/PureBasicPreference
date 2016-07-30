@@ -1312,8 +1312,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a4&gt;Day&lt;/a4&gt;&lt;br5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T055137Z" creationid="blues" creationdate="20160730T055137Z">
-        <seg>&lt;a4&gt;Day&lt;/a4&gt;    用途：获取指定日期中的&lt;天&gt;&lt;br5&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T065719Z" creationid="blues" creationdate="20160730T055137Z">
+        <seg>&lt;a4&gt;Day&lt;/a4&gt;    用途：获取指定日期中的&lt;日&gt;&lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
