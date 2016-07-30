@@ -5137,6 +5137,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The executable file is stored in a temporary location, but it will be executed with the current path set to the directory of the source code; so loading a file from the same directory as the source code will work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T090333Z" creationid="plp" creationdate="20160730T090333Z">
+        <seg>可执行文件存储在一个临时位置，但它会与源代码的目录作关联路径被执行；所以从源代码同一目录下加载文件将正常工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note> </note>
       <tuv lang="EN-US">
         <seg>The experienced coder will have no problem in gaining access to any of the legal OS structures or API objects.&lt;br5&gt;</seg>
@@ -5503,6 +5511,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T050316Z" creationid="oSilas" creationdate="20151013T050316Z">
         <seg>将要绘制图像的大小.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The source code need not be saved for this (but any &lt;a4&gt;included files&lt;/a4&gt; must be saved).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T090432Z" creationid="plp" creationdate="20160730T090432Z">
+        <seg>这里源代码不需要保存（但是任何&lt;a4&gt;包含文件&lt;/a4&gt;必须保存）。</seg>
       </tuv>
     </tu>
     <tu>
