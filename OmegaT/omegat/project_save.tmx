@@ -2603,8 +2603,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Compiling is simple.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160728T110727Z" creationid="plp" creationdate="20160728T110727Z">
-        <seg>编译很简单。</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T080346Z" creationid="plp" creationdate="20160728T110727Z">
+        <seg>编译程序其实很简单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3467,8 +3467,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Just select "Compile/Run" (F5 by default) and your program will be compiled and executed for a testing run.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160728T111413Z" creationid="plp" creationdate="20160728T111413Z">
-        <seg>只要选择“编译/运行”（默认快捷键：F5），你的程序将会被编译并在测试环境中执行。</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T080553Z" creationid="plp" creationdate="20160728T111413Z">
+        <seg>只要在菜单中选择“编译/运行”（快捷键默认为F5），你的程序将会被编译并进行一次测试运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5933,8 +5933,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>To customize the compiling process, you can open the "Compiler options" dialog.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160728T111621Z" creationid="plp" creationdate="20160728T111621Z">
-        <seg>要设置编译方式，你可以打开“编译器选项”对话框。</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T080623Z" creationid="plp" creationdate="20160728T111621Z">
+        <seg>若要设置编译方式，你可以打开“编译选项”对话框。</seg>
       </tuv>
     </tu>
     <tu>
