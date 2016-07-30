@@ -1646,10 +1646,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b25&gt;Compiler Options&lt;/b25&gt; &lt;br26&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093623Z" creationid="plp" creationdate="20160730T093623Z">
+        <seg>&lt;b25&gt;编译器选项&lt;/b25&gt; &lt;br26&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b27&gt;Close&lt;/b27&gt; &lt;br28&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022851Z" creationid="MysticBoy" creationdate="20160726T022851Z">
         <seg>&lt;b27&gt;关闭&lt;/b27&gt; &lt;br28&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b29&gt;Create executable&lt;/b29&gt; &lt;br30&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093732Z" creationid="plp" creationdate="20160730T093732Z">
+        <seg>&lt;b29&gt;生成可执行文件&lt;/b29&gt; &lt;br30&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3517,6 +3533,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101813Z" creationid="MysticBoy" creationdate="20160721T101813Z">
         <seg>它被混合到“Color2”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is especially useful for library developers to test their library.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093550Z" creationid="plp" creationdate="20160730T093550Z">
+        <seg>这对Lib库开发者测试他们的Lib库是特别有用的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5907,6 +5931,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This function is useful when you have added a new User Library to the PB directory, but do not want to restart the whole IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093516Z" creationid="plp" creationdate="20160730T093516Z">
+        <seg>当你在PB目录中添加了一个新的用户库，但不希望重新启动整个IDE这个功能非常有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This function must be called before any other function of this library.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082337Z" creationid="MysticBoy" creationdate="20160720T082337Z">
@@ -6023,6 +6055,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022041Z" creationid="MysticBoy" creationdate="20160726T022041Z">
         <seg>当然，这个是用来关闭 IDE的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This opens the compiler options dialog, that lets you set the options for the compilation of this source file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093715Z" creationid="plp" creationdate="20160730T093715Z">
+        <seg>这将打开编译器选项对话框，让您设置这个源文件的编译选项。</seg>
       </tuv>
     </tu>
     <tu>
