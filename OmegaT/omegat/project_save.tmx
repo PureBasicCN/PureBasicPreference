@@ -3209,6 +3209,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-clicking on a word selects the whole word as usual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095832Z" creationid="blues" creationdate="20160730T095832Z">
+        <seg>像往常一样，双击一个词可以选择整个单词.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-clicking on source text:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095650Z" creationid="blues" creationdate="20160730T095650Z">
@@ -3597,6 +3605,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101700Z" creationid="MysticBoy" creationdate="20160721T101700Z">
         <seg>首页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However in some cases, double-clicking has a special meaning: &lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095848Z" creationid="blues" creationdate="20160730T095848Z">
+        <seg>然而在某些情况下，双击有特殊的意义: &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
