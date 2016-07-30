@@ -326,10 +326,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0 : Sunday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070506Z" creationid="blues" creationdate="20160730T070506Z">
+        <seg>0 : Sunday【星期日】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 - Blue</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112340Z">
         <seg>1 - 蓝色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 : Monday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070518Z" creationid="blues" creationdate="20160730T070518Z">
+        <seg>1 : Monday【星期一】</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,10 +414,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 : Tuesday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070535Z" creationid="blues" creationdate="20160730T070535Z">
+        <seg>2 : Tuesday【星期二】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2D Games &amp; Multimedia Libraries</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070420Z" creationid="MysticBoy" creationdate="20160728T070420Z">
         <seg>2D 游戏 &amp; 多媒体库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 : Wednesday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070544Z" creationid="blues" creationdate="20160730T070544Z">
+        <seg>3 : Wednesday【星期三】</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,10 +454,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 : Thursday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070552Z" creationid="blues" creationdate="20160730T070552Z">
+        <seg>4 : Thursday【星期四】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5 : Friday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070600Z" creationid="blues" creationdate="20160730T070600Z">
+        <seg>5 : Friday【星期五】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5 : Mid-height cursor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T140844Z">
         <seg>5 : Mid-height 中高光标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6 : Saturday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070609Z" creationid="blues" creationdate="20160730T070609Z">
+        <seg>6 : Saturday【星期六】</seg>
       </tuv>
     </tu>
     <tu>
