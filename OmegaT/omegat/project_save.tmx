@@ -3745,6 +3745,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MacOS X: The icon must be in ICNS format (Macintosh Icon).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T112721Z" creationid="plp" creationdate="20160730T112721Z">
+        <seg>MacOS X: 图标必须是ICNS格式（Macintosh 图标）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Main coder :</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T092959Z" creationid="MysticBoy" creationdate="20160725T084628Z">
@@ -6559,6 +6567,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T111306Z" creationid="MysticBoy" creationdate="20160729T111306Z">
         <seg>Windows是现代界面必备的组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows: The icon must be in ICO format (Windows Icon).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T112640Z" creationid="plp" creationdate="20160730T112640Z">
+        <seg>Windows: The icon must be in ICO format (Windows Icon).Windows：图标必须是ICO格式（Windows 图标）</seg>
       </tuv>
     </tu>
     <tu>
