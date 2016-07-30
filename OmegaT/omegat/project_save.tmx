@@ -5250,6 +5250,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The date value to which the value should be added.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062546Z" creationid="blues" creationdate="20160730T062546Z">
+        <seg>需要被添加时间的日期值.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default files for /P /T and /A are saved in the %APPDATA%\PureBasic\ directory on the system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T073559Z" creationid="MysticBoy" creationdate="20160728T073559Z">
