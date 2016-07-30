@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;AddDate&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T054542Z" creationid="blues" creationdate="20160730T054542Z">
+        <seg>&lt;a0&gt;AddDate&lt;/a0&gt;     用途：日期/时间 相加&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Alpha&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040600Z" creationid="oSilas" creationdate="20151013T040600Z">
@@ -1066,6 +1074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125039Z" creationid="lansn-lan" creationdate="20160729T034916Z">
         <seg>&lt;a2&gt;AvailableSerialPortOutput &lt;/a2&gt;                用途：返回串口输出缓冲区中的剩余字节数&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a2&gt;Date&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T054617Z" creationid="blues" creationdate="20160730T054617Z">
+        <seg>&lt;a2&gt;Date&lt;/a2&gt;    用途：返回给定参数的日期值，如果没有指定参数，则返回当前系统日期&lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
