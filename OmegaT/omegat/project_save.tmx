@@ -3425,6 +3425,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the version does not match then the standalone debugger that comes with the selected compiler will be used for debugging to avoid version conflicts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T110635Z" creationid="plp" creationdate="20160730T110635Z">
+        <seg>如果版本不匹配，则将使用选定的编译器的独立调试器进行调试，以避免版本冲突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If these parameters are not specified then the image will be drawn in its original size.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T050427Z" creationid="oSilas" creationdate="20151013T050427Z">
@@ -6165,8 +6173,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>This means that an executable compiled with the x86 compiler can be debugged using the x64 IDE and vice versa.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T110452Z" creationid="plp" creationdate="20160730T110452Z">
-        <seg>这意味着，用x86编译器编译的可执行文件可以使用 x64 IDE进行调试编译，反之亦然。</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T110641Z" creationid="plp" creationdate="20160730T110452Z">
+        <seg>这意味着，用x86编译器编译的可执行文件可以使用 x64 IDE进行调试，反之亦然。</seg>
       </tuv>
     </tu>
     <tu>
