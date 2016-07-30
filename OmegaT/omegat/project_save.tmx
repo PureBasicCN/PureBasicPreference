@@ -6,6 +6,46 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>%dd: Will be replaced by the day value, on 2 digits.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071335Z" creationid="blues" creationdate="20160730T071335Z">
+        <seg>%dd: 将替换为 日，2位数字.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%hh: Will be replaced by the hour value, on 2 digits.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071347Z" creationid="blues" creationdate="20160730T071347Z">
+        <seg>%hh: 将替换为 小时，2位数字.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%ii: Will be replaced by the minute value, on 2 digits.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071406Z" creationid="blues" creationdate="20160730T071406Z">
+        <seg>%ii: 将替换为 分钟，2位数字.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%mm: Will be replaced by the month value, on 2 digits.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071324Z" creationid="blues" creationdate="20160730T071324Z">
+        <seg>%mm: 将替换为 月，2位数字.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%ss: Will be replaced by the second value, on 2 digits.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071414Z" creationid="blues" creationdate="20160730T071414Z">
+        <seg>%ss: 将替换为 秒，2位数字.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%yy: Will be replaced by the year value, on 2 digits.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071215Z" creationid="blues" creationdate="20160730T071215Z">
