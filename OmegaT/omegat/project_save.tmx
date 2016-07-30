@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b41&gt;Build all Targets&lt;/b41&gt; &lt;br42&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T103220Z" creationid="plp" creationdate="20160730T103220Z">
+        <seg>&lt;b41&gt;创建所有目标&lt;/b41&gt; &lt;br42&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b41&gt;Do you want to know what users think about PureBasic ?&lt;/b41&gt; &lt;br42&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173614Z" creationid="MysticBoy" creationdate="20160721T055409Z">
@@ -6335,6 +6343,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091753Z" creationid="MysticBoy" creationdate="20160725T091753Z">
         <seg>当我购买了PureBasic，我可以免费获得所有更新？?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a project is open, this submenu shows all compile targets and allows to directly compile one of them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T103204Z" creationid="plp" creationdate="20160730T103204Z">
+        <seg>当一个项目打开，这个子菜单显示所有的编译目标，并允许直接编译其中之一。</seg>
       </tuv>
     </tu>
     <tu>
