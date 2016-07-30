@@ -2377,6 +2377,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A window is opened to show the build progress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T103632Z" creationid="plp" creationdate="20160730T103632Z">
+        <seg>将打开一个显示生成进度窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A window will be opened displaying all warnings issued during compilation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T083627Z" creationid="plp" creationdate="20160730T083430Z">
@@ -6343,6 +6351,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091753Z" creationid="MysticBoy" creationdate="20160725T091753Z">
         <seg>当我购买了PureBasic，我可以免费获得所有更新？?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a project is open, this menu entry compiles all targets that have this option enabled in the compiler options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T103607Z" creationid="plp" creationdate="20160730T103607Z">
+        <seg>当一个项目打开，这个菜单项会编译在编译器选项启用的所有目标。</seg>
       </tuv>
     </tu>
     <tu>
