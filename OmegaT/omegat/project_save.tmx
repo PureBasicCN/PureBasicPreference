@@ -2401,6 +2401,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A negative value can be used to subtract a date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064126Z" creationid="blues" creationdate="20160730T064040Z">
+        <seg>使用一个负数值可以用来减去日期.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A number to identify the new serial port.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T045052Z" creationid="lansn-lan" creationdate="20160729T044732Z">
@@ -3893,6 +3901,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T053150Z" creationid="blues" creationdate="20160730T053117Z">
         <seg>注意: 支持的日期/时间最小值为1970-01-01, 00:00:00 ，最大值为 2038-01-19, 03:14:07.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: when &lt;f0&gt;#PB_Date_Month&lt;/f0&gt; is used, it will automatically account for the fact that the numbers of days per month varies, for example: if a month is added to '31 march 2008' the result will be '30 april 2008', since april does not have 31 days.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063924Z" creationid="blues" creationdate="20160730T063924Z">
+        <seg>注意: 当值类型使用 &lt;f0&gt;#PB_Date_Month&lt;/f0&gt; 时, 程序将自动根据每个月的实际天数来计算添加值,  例如: 2008年03月31日加 1 个月之后结果是2008年04月30日， 因为4月份没有31天.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5807,6 +5823,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080923Z" creationid="MysticBoy" creationdate="20160725T080800Z">
         <seg>这些更新是没有限制的的，不像其他大多数软件不是这样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value to add to the date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064106Z" creationid="blues" creationdate="20160730T064022Z">
+        <seg>添加到日期的值.</seg>
       </tuv>
     </tu>
     <tu>
