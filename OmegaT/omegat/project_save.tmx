@@ -1566,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Date&lt;/f2&gt;() / (3600*24*365)  &lt;f3&gt;; will print the number of years since 01/01/1970 and now&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T065323Z" creationid="blues" creationdate="20160730T065323Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Date&lt;/f2&gt;() / (3600*24*365)  &lt;f3&gt;; 将输出从1970年01月01日至今的年数&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Menu&lt;/b0&gt; &lt;a1&gt;Skip to content&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101639Z" creationid="MysticBoy" creationdate="20160721T101639Z">
@@ -1810,6 +1818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022232Z" creationid="MysticBoy" creationdate="20160726T022232Z">
         <seg>&lt;b49&gt;会话历史&lt;/b49&gt;&lt;br50&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b4&gt;&lt;f5&gt;Debug&lt;/f5&gt;&lt;/b4&gt; &lt;f6&gt;Date&lt;/f6&gt;(1999, 12, 31, 23, 59, 59)  &lt;f7&gt;; will print '946684799' (number of seconds between 01/01/1970 0:00:00 and 12/31/1999 23:59:59)&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T065414Z" creationid="blues" creationdate="20160730T065414Z">
+        <seg>&lt;b4&gt;&lt;f5&gt;Debug&lt;/f5&gt;&lt;/b4&gt; &lt;f6&gt;Date&lt;/f6&gt;(1999, 12, 31, 23, 59, 59)  &lt;f7&gt;; 将输出 '946684799' ( 从 01/01/1970 0:00:00 到 12/31/1999 23:59:59 的秒数)&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
