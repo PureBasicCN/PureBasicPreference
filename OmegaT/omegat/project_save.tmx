@@ -4017,6 +4017,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marking of matching Braces and Keywords:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T103844Z" creationid="blues" creationdate="20160730T103844Z">
+        <seg>匹配括号和标记关键字:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marking several lines of text and pressing Shift+Tab reverses this behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160729T142245Z" creationid="blues" creationdate="20160729T142245Z">
