@@ -1742,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Year&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(2002, 10, 3, 0, 0, 0))  &lt;f4&gt;; Outputs '2002'.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095554Z" creationid="blues" creationdate="20160730T095554Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Year&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(2002, 10, 3, 0, 0, 0))  &lt;f4&gt;; 输出 '2002' 年.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Menu&lt;/b0&gt; &lt;a1&gt;Skip to content&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101639Z" creationid="MysticBoy" creationdate="20160721T101639Z">
@@ -3197,6 +3205,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091652Z" creationid="MysticBoy" creationdate="20160725T091652Z">
         <seg> PureBasic有可视化编辑器？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-clicking on source text:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095650Z" creationid="blues" creationdate="20160730T095650Z">
+        <seg>双击原码中的文本 :</seg>
       </tuv>
     </tu>
     <tu>
@@ -4981,6 +4997,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153648Z" creationid="jane" creationdate="20160728T153648Z">
         <seg>返回的 y 位置 （从顶部开始） 从给定窗口的屏幕上 （以像素为单位）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns the year component of the date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095313Z" creationid="blues" creationdate="20160730T095313Z">
+        <seg>返回日期的年份.</seg>
       </tuv>
     </tu>
     <tu>
