@@ -5891,6 +5891,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the same as "Compile/Run" except that it ignores the debugger setting and enabled the debugger for this compilation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T092241Z" creationid="plp" creationdate="20160730T092241Z">
+        <seg>和“编译/运行”菜单相同对程序进行编译，但忽略调试器设置而是直接启用编译调试器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is used to create small programs that don't require a user interface or be executed from the function line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T042253Z" creationid="oSilas" creationdate="20141122T042123Z">
