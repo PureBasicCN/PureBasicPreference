@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a10&gt;FormatDate&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T055842Z" creationid="blues" creationdate="20160730T055842Z">
+        <seg>&lt;a10&gt;FormatDate&lt;/a10&gt;    用途：指定日期/时间的输出格式&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a10&gt;OpenSerialPort&lt;/a10&gt;&lt;br11&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125423Z" creationid="lansn-lan" creationdate="20160729T035655Z">
@@ -1358,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a6&gt;DayOfWeek&lt;/a6&gt;&lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T055718Z" creationid="blues" creationdate="20160730T055718Z">
+        <seg>&lt;a6&gt;DayOfWeek&lt;/a6&gt;    用途：获取指定日期这一天是&lt;星期几&gt;&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a6&gt;GetSerialPortStatus&lt;/a6&gt;&lt;br7&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125408Z" creationid="lansn-lan" creationdate="20160729T035242Z">
@@ -1426,6 +1442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083956Z" creationid="MysticBoy" creationdate="20160720T083956Z">
         <seg>&lt;a8&gt;加密&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a8&gt;DayOfYear&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T055814Z" creationid="blues" creationdate="20160730T055814Z">
+        <seg>&lt;a8&gt;DayOfYear&lt;/a8&gt;      用途：获取指定日期是哪一年&lt;年份&gt;&lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
