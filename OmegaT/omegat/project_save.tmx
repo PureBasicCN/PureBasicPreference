@@ -5755,6 +5755,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This compiles the current source code with the compiler options set for it and executes it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T084530Z" creationid="plp" creationdate="20160730T084530Z">
+        <seg>编译器会按照设置的编译选项对当前的源代码进行编译并执行它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This discards any changes not yet saved.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053141Z" creationid="MysticBoy" creationdate="20160726T053141Z">
