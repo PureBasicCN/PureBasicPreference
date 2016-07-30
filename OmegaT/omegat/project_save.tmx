@@ -3521,6 +3521,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be one of the following constants:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062823Z" creationid="blues" creationdate="20160730T062823Z">
+        <seg>它可以是下列值之一:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be one of the following value:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153512Z" creationid="jane" creationdate="20160728T153512Z">
@@ -5743,6 +5751,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080923Z" creationid="MysticBoy" creationdate="20160725T080800Z">
         <seg>这些更新是没有限制的的，不像其他大多数软件不是这样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062800Z" creationid="blues" creationdate="20160730T062800Z">
+        <seg>值类型.</seg>
       </tuv>
     </tu>
     <tu>
