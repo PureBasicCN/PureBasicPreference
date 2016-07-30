@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b33&gt;Set default Target&lt;/b33&gt; &lt;br34&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T102152Z" creationid="plp" creationdate="20160730T102152Z">
+        <seg>&lt;b33&gt;设置默认目标&lt;/b33&gt;&lt;br34&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b33&gt;Technical Features&lt;/b33&gt;&lt;br34&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175156Z" creationid="MysticBoy" creationdate="20160723T175156Z">
@@ -3297,6 +3305,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no '.app' is set, then it will create a regular console-like executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T102136Z" creationid="plp" creationdate="20160730T102136Z">
+        <seg>如果设置不是'.app'，那么会创建一个常规控制台的可执行文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If special keys (non-ASCII) have to be handled, &lt;a0&gt;RawKey()&lt;/a0&gt; should be called after Inkey().</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082235Z" creationid="MysticBoy" creationdate="20160720T082235Z">
@@ -3315,8 +3331,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>If the executable format is set to DLL, it will create a DLL on Windows, shared object on Linux and dylib on OS X. When creating an executable on OS X, appending '.app' at the executable name will create a bundled executable with the necessary directory structure, including the icon.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093825Z" creationid="plp" creationdate="20160730T093825Z">
-        <seg>如果可执行文件格式设置为DLL，它会创建在Windows的Linux在OS X上一个DLL，共享对象和dylib创建时在OS X上的可执行文件，在可执行文件名附加“的.app”将创建一个可执行文件捆绑在一起必要的目录结构，包括图标。</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T102001Z" creationid="plp" creationdate="20160730T093825Z">
+        <seg>如果可执行文件格式设置为DLL，它将会在Windows中创建DLL，在Linux创建shared object（共享对象），在OS X上创建dylib。在创建'.app' 的应用程序时将捆绑执行时必要的目录结构，包括图标。</seg>
       </tuv>
     </tu>
     <tu>
