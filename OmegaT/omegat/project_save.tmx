@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Minute&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(1970, 1, 1, 11, 3, 45))  &lt;f4&gt;; Outputs '3'.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093553Z" creationid="blues" creationdate="20160730T093553Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Minute&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(1970, 1, 1, 11, 3, 45))  &lt;f4&gt;; 输出 '3' 分钟.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Menu&lt;/b0&gt; &lt;a1&gt;Skip to content&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101639Z" creationid="MysticBoy" creationdate="20160721T101639Z">
@@ -4753,6 +4761,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the minute component of the date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093512Z" creationid="blues" creationdate="20160730T093512Z">
+        <seg>返回日期的分钟数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns the minute value of the specified date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093428Z" creationid="blues" creationdate="20160730T093428Z">
+        <seg>返回指定日期的分钟数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the new date.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064214Z" creationid="blues" creationdate="20160730T064214Z">
@@ -5626,6 +5650,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The date from which to extract the minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093446Z" creationid="blues" creationdate="20160730T093446Z">
+        <seg>需要被提取分钟的日期.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The date value from which to extract the day.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T065919Z" creationid="blues" creationdate="20160730T065919Z">
@@ -6031,6 +6063,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093242Z" creationid="blues" creationdate="20160730T093242Z">
         <seg>结果总是在 0 到 23 之间.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result is always between 0 and 59.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093538Z" creationid="blues" creationdate="20160730T093538Z">
+        <seg>结果总是 0 到 59 之间.</seg>
       </tuv>
     </tu>
     <tu>
