@@ -4777,6 +4777,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the month value of the specified date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093719Z" creationid="blues" creationdate="20160730T093719Z">
+        <seg>返回指定日期的月份.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the new date.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064214Z" creationid="blues" creationdate="20160730T064214Z">
@@ -5654,6 +5662,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093446Z" creationid="blues" creationdate="20160730T093446Z">
         <seg>需要被提取分钟的日期.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The date from which to extract the month.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093738Z" creationid="blues" creationdate="20160730T093738Z">
+        <seg>需要被提取月份的日期.</seg>
       </tuv>
     </tu>
     <tu>
