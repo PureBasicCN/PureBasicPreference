@@ -2299,8 +2299,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>A window will be opened displaying all warnings issued during compilation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T083430Z" creationid="plp" creationdate="20160730T083430Z">
-        <seg>一个窗口将被打开显示编译过程中发出的警告。</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T083627Z" creationid="plp" creationdate="20160730T083430Z">
+        <seg>编译过程中会弹出窗口并显示警告提示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2805,6 +2805,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091652Z" creationid="MysticBoy" creationdate="20160725T091652Z">
         <seg> PureBasic有可视化编辑器？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-clicking on a warning will display the file/line that caused the warning.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T083804Z" creationid="plp" creationdate="20160730T083804Z">
+        <seg>双击警告信息将会显示导致警告的代码行。</seg>
       </tuv>
     </tu>
     <tu>
