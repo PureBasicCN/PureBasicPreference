@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a20&gt;Second&lt;/a20&gt;&lt;br21&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T060333Z" creationid="blues" creationdate="20160730T060333Z">
+        <seg>&lt;a20&gt;Second&lt;/a20&gt;     用途：获取指定日期中的秒数&lt;秒&gt;&lt;br21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a20&gt;SetSerialPortStatus&lt;/a20&gt;&lt;br21&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125449Z" creationid="lansn-lan" creationdate="20160729T042804Z">
@@ -1018,6 +1026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160729T125454Z" creationid="lansn-lan" creationdate="20160729T042847Z">
         <seg>&lt;a22&gt;WriteSerialPortData&lt;/a22&gt;                 用途：将任意数量的数据写入指定的串口&lt;br23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a22&gt;Year&lt;/a22&gt;&lt;br23&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T060357Z" creationid="blues" creationdate="20160730T060357Z">
+        <seg>&lt;a22&gt;Year&lt;/a22&gt;    用途：获取指定日期是哪一年&lt;年份&gt;&lt;br23&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1472,8 +1488,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a8&gt;DayOfYear&lt;/a8&gt;&lt;br9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T055814Z" creationid="blues" creationdate="20160730T055814Z">
-        <seg>&lt;a8&gt;DayOfYear&lt;/a8&gt;      用途：获取指定日期是哪一年&lt;年份&gt;&lt;br9&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T060346Z" creationid="blues" creationdate="20160730T055814Z">
+        <seg>&lt;a8&gt;DayOfYear&lt;/a8&gt;      用途：返回指定日期的开始日期后的天数&lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
