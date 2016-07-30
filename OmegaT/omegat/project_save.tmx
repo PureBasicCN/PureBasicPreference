@@ -1702,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Hour&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(1970, 1, 1, 11, 3, 45))  &lt;f4&gt;; Outputs '11'.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093323Z" creationid="blues" creationdate="20160730T093323Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Hour&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(1970, 1, 1, 11, 3, 45))  &lt;f4&gt;; 输出 '11' 点.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Menu&lt;/b0&gt; &lt;a1&gt;Skip to content&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101639Z" creationid="MysticBoy" creationdate="20160721T101639Z">
