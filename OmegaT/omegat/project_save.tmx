@@ -3723,8 +3723,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Note: supported date/time values are 1970-01-01, 00:00:00 for the minimum and 2038-01-19, 03:14:07 for the maximum.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T053117Z" creationid="blues" creationdate="20160730T053117Z">
-        <seg>注意: 支持的日期/时间值最小为1970-01-01, 00:00:00 ，最大为 2038-01-19, 03:14:07.</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T053150Z" creationid="blues" creationdate="20160730T053117Z">
+        <seg>注意: 支持的日期/时间最小值为1970-01-01, 00:00:00 ，最大值为 2038-01-19, 03:14:07.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4764,8 +4764,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The Date library allows for the manipulation of Date and Time from 1970 up to 2038 using the Unix method (i.e. the number of seconds elapsed since the 1st of January 1970).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T051734Z" creationid="blues" creationdate="20160730T051734Z">
-        <seg>日期类库允许对 自1970年到2038年的日期和时间进行操作，使用Unix的方法（即自19701月1日以来经过的秒数）.</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T053203Z" creationid="blues" creationdate="20160730T051734Z">
+        <seg>日期类库允许对 自1970年到2038年的日期和时间进行操作，使用Unix的方法（即自1970年01月01日以来经过的秒数）.</seg>
       </tuv>
     </tu>
     <tu>
