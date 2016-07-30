@@ -2395,8 +2395,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Add an amount of time to a date.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T061805Z" creationid="blues" creationdate="20160730T061805Z">
-        <seg>添加一个时间到日期（日期/时间相加）.</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062416Z" creationid="blues" creationdate="20160730T061805Z">
+        <seg>给日期添加一个时间.</seg>
       </tuv>
     </tu>
     <tu>
