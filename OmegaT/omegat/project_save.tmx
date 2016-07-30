@@ -672,8 +672,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;AddDate&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062343Z" creationid="blues" creationdate="20160730T054542Z">
-        <seg>&lt;a0&gt;AddDate&lt;/a0&gt;     用途：给日期添加一个时间&lt;br1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062624Z" creationid="blues" creationdate="20160730T054542Z">
+        <seg>&lt;a0&gt;AddDate&lt;/a0&gt;     用途：给日期加一个时间&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2395,8 +2395,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Add an amount of time to a date.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062416Z" creationid="blues" creationdate="20160730T061805Z">
-        <seg>给日期添加一个时间.</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062559Z" creationid="blues" creationdate="20160730T061805Z">
+        <seg>给日期加一个时间.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5252,8 +5252,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The date value to which the value should be added.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062546Z" creationid="blues" creationdate="20160730T062546Z">
-        <seg>需要被添加时间的日期值.</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062614Z" creationid="blues" creationdate="20160730T062546Z">
+        <seg>需要被加时间的日期值.</seg>
       </tuv>
     </tu>
     <tu>
