@@ -1943,6 +1943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_Date_Year&lt;/f0&gt;   : Will add 'Value' Years to the date</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063100Z" creationid="blues" creationdate="20160730T063100Z">
+        <seg>&lt;f0&gt;#PB_Date_Year&lt;/f0&gt;   : Will add 'Value' Years to the date【以年为单位添加到日期】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_PixelFormat_8Bits&lt;/f0&gt;      : 1 byte per pixel, palletised</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043528Z" creationid="oSilas" creationdate="20150312T043528Z">
@@ -2047,6 +2055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_Date_Month&lt;/f1&gt;  : Will add 'Value' Months to the date</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063111Z" creationid="blues" creationdate="20160730T063111Z">
+        <seg>&lt;f1&gt;#PB_Date_Month&lt;/f1&gt;  : Will add 'Value' Months to the date【以月为单位添加到日期】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;#PB_PixelFormat_15Bits&lt;/f1&gt;     : 2 bytes per pixel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043540Z" creationid="oSilas" creationdate="20150312T043540Z">
@@ -2095,6 +2111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_Date_Week&lt;/f2&gt;   : Will add 'Value' Weeks to the date</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063147Z" creationid="blues" creationdate="20160730T063121Z">
+        <seg>&lt;f2&gt;#PB_Date_Week&lt;/f2&gt;   : Will add 'Value' Weeks to the date【以&lt;周&gt;为单位添加到日期】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f2&gt;#PB_PixelFormat_16Bits&lt;/f2&gt;     : 2 bytes per pixel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043546Z" creationid="oSilas" creationdate="20150312T043546Z">
@@ -2139,6 +2163,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070736Z" creationid="lansn-lan" creationdate="20160729T070736Z">
         <seg>&lt;f2&gt;#PB_UTF8&lt;/f2&gt;    : 字符串将以 UTF8 格式写入.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f3&gt;#PB_Date_Day&lt;/f3&gt;    : Will add 'Value' Days to the date</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063142Z" creationid="blues" creationdate="20160730T063142Z">
+        <seg>&lt;f3&gt;#PB_Date_Day&lt;/f3&gt;    : Will add 'Value' Days to the date【以&lt;天&gt;为单位添加到日期】</seg>
       </tuv>
     </tu>
     <tu>
@@ -5757,8 +5789,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The value type.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062800Z" creationid="blues" creationdate="20160730T062800Z">
-        <seg>值类型.</seg>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062951Z" creationid="blues" creationdate="20160730T062800Z">
+        <seg>添加值的类型.</seg>
       </tuv>
     </tu>
     <tu>
