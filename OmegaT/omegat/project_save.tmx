@@ -1831,6 +1831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b9&gt;Run&lt;/b9&gt; &lt;br10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T091040Z" creationid="plp" creationdate="20160730T091040Z">
+        <seg>&lt;b9&gt;运行EXE&lt;/b9&gt; &lt;br10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b9&gt;The error log&lt;/b9&gt; (located below the editing area) &lt;br10&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140815Z" creationid="MysticBoy" creationdate="20160723T140815Z">
@@ -4697,6 +4705,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The "Compile/Run" option respects the debugger setting (on or off) from the compiler options or debugger menu (they are the same).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T090959Z" creationid="plp" creationdate="20160730T090959Z">
+        <seg>此“编译/运行”选项遵从编译器选项及调试器（启用或禁用）的调试器设置（他们设置相同）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The (x, y) coordinates are always absolute and not affected by calls to &lt;a0&gt;SetOrigin()&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T033625Z" creationid="oSilas" creationdate="20141128T033625Z">
@@ -5783,6 +5799,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053141Z" creationid="MysticBoy" creationdate="20160726T053141Z">
         <seg>这将放弃所做的任何更改。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This executes the last compiled source code once again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T091103Z" creationid="plp" creationdate="20160730T091027Z">
+        <seg>这再次执行最后一次编译的源代码。</seg>
       </tuv>
     </tu>
     <tu>
