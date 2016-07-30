@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;ParseDate&lt;/f2&gt;("%yy/%mm/%dd", "10/01/07")     &lt;f3&gt;; Returns the date value of "10/01/07"&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094730Z" creationid="blues" creationdate="20160730T094730Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;ParseDate&lt;/f2&gt;("%yy/%mm/%dd", "10/01/07")     &lt;f3&gt;; 返回日期格式 "10/01/07"&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Menu&lt;/b0&gt; &lt;a1&gt;Skip to content&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101639Z" creationid="MysticBoy" creationdate="20160721T101639Z">
@@ -1986,6 +1994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T065414Z" creationid="blues" creationdate="20160730T065414Z">
         <seg>&lt;b4&gt;&lt;f5&gt;Debug&lt;/f5&gt;&lt;/b4&gt; &lt;f6&gt;Date&lt;/f6&gt;(1999, 12, 31, 23, 59, 59)  &lt;f7&gt;; 将输出 '946684799' ( 从 01/01/1970 0:00:00 到 12/31/1999 23:59:59 的秒数)&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b4&gt;&lt;f5&gt;Debug&lt;/f5&gt;&lt;/b4&gt; &lt;f6&gt;ParseDate&lt;/f6&gt;("%mm/%dd/%yyyy", "01/07/2010") &lt;f7&gt;; Returns the date value of "01/07/2010"&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094809Z" creationid="blues" creationdate="20160730T094809Z">
+        <seg>&lt;b4&gt;&lt;f5&gt;Debug&lt;/f5&gt;&lt;/b4&gt; &lt;f6&gt;ParseDate&lt;/f6&gt;("%mm/%dd/%yyyy", "01/07/2010") &lt;f7&gt;; 返回日期格式 "01/07/2010"&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3633,6 +3649,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the input string did not match the mask then the result is -1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094706Z" creationid="blues" creationdate="20160730T094706Z">
+        <seg>如果输入的字符串与掩码不匹配，则结果为  -1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If these parameters are not specified then the image will be drawn in its original size.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T050427Z" creationid="oSilas" creationdate="20151013T050427Z">
@@ -4873,6 +4897,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the second component of the date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095003Z" creationid="blues" creationdate="20160730T095003Z">
+        <seg>返回日期的&lt;秒&gt;数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns the second value of the specified date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094856Z" creationid="blues" creationdate="20160730T094856Z">
+        <seg>返回指定日期的&lt;秒&gt;数值.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the specified date value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064541Z" creationid="blues" creationdate="20160730T064541Z">
@@ -5710,6 +5750,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093738Z" creationid="blues" creationdate="20160730T093738Z">
         <seg>需要被提取月份的日期.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The date from which to extract the seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094925Z" creationid="blues" creationdate="20160730T094925Z">
+        <seg>需要被提取&lt;秒&gt;的日期.</seg>
       </tuv>
     </tu>
     <tu>
