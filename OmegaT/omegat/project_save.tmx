@@ -3313,6 +3313,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here you can set an icon that will be displayed when viewing the created executable in the explorer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T111939Z" creationid="plp" creationdate="20160730T111939Z">
+        <seg>在这里您可以设置一个在浏览器中可以查看的创建的可执行文件的图标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here you have several tools to make coding easier and increase productivity.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140550Z" creationid="MysticBoy" creationdate="20160723T140550Z">
