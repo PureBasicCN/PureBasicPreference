@@ -1630,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;DayOfWeek&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(2006, 10, 30, 0, 0, 0))  &lt;f4&gt;; Outputs '1' for Monday.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070653Z" creationid="blues" creationdate="20160730T070653Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;DayOfWeek&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(2006, 10, 30, 0, 0, 0))  &lt;f4&gt;; 输出 '1' 表示 星期一.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Menu&lt;/b0&gt; &lt;a1&gt;Skip to content&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101639Z" creationid="MysticBoy" creationdate="20160721T101639Z">
