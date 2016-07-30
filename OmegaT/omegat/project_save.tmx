@@ -4521,6 +4521,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns a string representation of the given Date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070952Z" creationid="blues" creationdate="20160730T070952Z">
+        <seg>返回给定日期，以字符串形式表示.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the ID for this database connection.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T170145Z" creationid="MysticBoy" creationdate="20160723T170145Z">
