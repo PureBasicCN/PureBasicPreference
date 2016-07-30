@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Main source file&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T103829Z" creationid="plp" creationdate="20160730T103829Z">
+        <seg>&lt;b0&gt;Main 源文件&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Menu&lt;/b0&gt; &lt;a1&gt;Skip to content&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101639Z" creationid="MysticBoy" creationdate="20160721T101639Z">
@@ -2709,6 +2717,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105352Z" creationid="MysticBoy" creationdate="20160721T105352Z">
         <seg>编译时间真的很快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiler options for non-project files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T103755Z" creationid="plp" creationdate="20160730T103755Z">
+        <seg>非项目文件编译器选项</seg>
       </tuv>
     </tu>
     <tu>
