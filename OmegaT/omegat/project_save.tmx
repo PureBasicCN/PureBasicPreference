@@ -6573,8 +6573,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Windows: The icon must be in ICO format (Windows Icon).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T112640Z" creationid="plp" creationdate="20160730T112640Z">
-        <seg>Windows: The icon must be in ICO format (Windows Icon).Windows：图标必须是ICO格式（Windows 图标）</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T131129Z" creationid="plp" creationdate="20160730T112640Z">
+        <seg>Windows：图标必须是ICO格式（Windows 图标）</seg>
       </tuv>
     </tu>
     <tu>
