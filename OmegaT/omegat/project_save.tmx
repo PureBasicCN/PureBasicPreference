@@ -2433,6 +2433,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional compilers for this option have to be configured in the &lt;a9&gt;preferences&lt;/a9&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T105651Z" creationid="plp" creationdate="20160730T105651Z">
+        <seg>此选项的附加编译器必须在&lt;a9&gt;preferences&lt;/a9&gt;选项中配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Keywords</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083338Z" creationid="MysticBoy" creationdate="20160720T083338Z">
@@ -6131,6 +6139,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This makes it easy to compile different versions of the same program (x86 and x64) without having to start up the IDE for the other compiler just for the compilation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T105552Z" creationid="plp" creationdate="20160730T105552Z">
+        <seg>这使得它易于编译的相同程序的不同版本（x86和x64）而无需重启IDE的编译器进行编译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means than when you buy PureBasic you will get all future updates for free, on this web site (it only applies if registered on this web site, not for boxed version of PureBasic).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081015Z" creationid="MysticBoy" creationdate="20160725T080813Z">
@@ -6191,6 +6207,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093715Z" creationid="plp" creationdate="20160730T093715Z">
         <seg>这将打开编译器选项对话框，让您设置这个源文件的编译选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option allows the selection of a different compiler to use instead of the compiler of the current PureBasic version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T105435Z" creationid="plp" creationdate="20160730T105435Z">
+        <seg>此选项允许选择使用不同的编译器来代替当前purebasic的版本编译器。</seg>
       </tuv>
     </tu>
     <tu>
