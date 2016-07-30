@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Second&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(1970, 1, 1, 11, 3, 45))  &lt;f4&gt;; Outputs '45'.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095109Z" creationid="blues" creationdate="20160730T095109Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Second&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(1970, 1, 1, 11, 3, 45))  &lt;f4&gt;; 输出 '45' 秒.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Menu&lt;/b0&gt; &lt;a1&gt;Skip to content&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101639Z" creationid="MysticBoy" creationdate="20160721T101639Z">
@@ -4977,6 +4985,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the year value of the specified date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095217Z" creationid="blues" creationdate="20160730T095217Z">
+        <seg>返回指定日期的年份数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save the currently active source to a different location than it was saved before.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053015Z" creationid="MysticBoy" creationdate="20160726T053015Z">
@@ -5758,6 +5774,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094925Z" creationid="blues" creationdate="20160730T094925Z">
         <seg>需要被提取&lt;秒&gt;的日期.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The date from which to extract the year.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095239Z" creationid="blues" creationdate="20160730T095239Z">
+        <seg>需要被提取&lt;年份&gt;的日期 .</seg>
       </tuv>
     </tu>
     <tu>
