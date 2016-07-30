@@ -4754,6 +4754,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Date library allows for the manipulation of Date and Time from 1970 up to 2038 using the Unix method (i.e. the number of seconds elapsed since the 1st of January 1970).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T051734Z" creationid="blues" creationdate="20160730T051734Z">
+        <seg>日期类库允许对 自1970年到2038年的日期和时间进行操作，使用Unix的方法（即自19701月1日以来经过的秒数）.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Delete key does a forward delete.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160729T132458Z" creationid="blues" creationdate="20160729T132458Z">
