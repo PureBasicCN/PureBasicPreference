@@ -3393,6 +3393,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the compiler version matches that of the default compiler but the target processor is different then the built-in debugger of the IDE can still be used to debug the compiled executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T110334Z" creationid="plp" creationdate="20160730T110334Z">
+        <seg>如果编译器版本与默认编译器相匹配，但目标处理器是不同的则IDE的内置调试器仍然可以用于调试编译的可执行文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the executable format is set to DLL, it will create a DLL on Windows, shared object on Linux and dylib on OS X. When creating an executable on OS X, appending '.app' at the executable name will create a bundled executable with the necessary directory structure, including the icon.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T102001Z" creationid="plp" creationdate="20160730T093825Z">
@@ -6151,6 +6159,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081015Z" creationid="MysticBoy" creationdate="20160725T080813Z">
         <seg>这意味着，当你购买的PureBasic你会得到免费的所有未来的更新都在官网上可以下载到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means that an executable compiled with the x86 compiler can be debugged using the x64 IDE and vice versa.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T110452Z" creationid="plp" creationdate="20160730T110452Z">
+        <seg>这意味着，用x86编译器编译的可执行文件可以使用 x64 IDE进行调试编译，反之亦然。</seg>
       </tuv>
     </tu>
     <tu>
