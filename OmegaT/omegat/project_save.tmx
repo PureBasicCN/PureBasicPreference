@@ -3857,6 +3857,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: When using this option, you MUST save your source before compiling, as only files that are written to disk will be used in this case.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T104700Z" creationid="plp" creationdate="20160730T104700Z">
+        <seg>注意：使用此选项时，您必须编译之前保存源代码，因为只有写入到磁盘文件才会被主源文件所包含引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: any user can develop their own libraries.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174559Z" creationid="MysticBoy" creationdate="20160723T174559Z">
@@ -5775,6 +5783,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080923Z" creationid="MysticBoy" creationdate="20160725T080800Z">
         <seg>这些更新是没有限制的的，不像其他大多数软件不是这样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The use of this is that when you are editing a file that does not run by itself, but is &lt;a2&gt;included&lt;/a2&gt; into another file, you can tell the compiler to use that other file to start the compilation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T104544Z" creationid="plp" creationdate="20160730T104544Z">
+        <seg>当您正在编辑一个文件，但它本身并不运行，而是&lt;a2&gt;包含included&lt;/a2&gt;到另一个文件中，你可以使用此选项告诉编译器对其他文件进行编译运行。</seg>
       </tuv>
     </tu>
     <tu>
