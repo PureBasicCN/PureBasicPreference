@@ -4721,6 +4721,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the date representing the parsed string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094602Z" creationid="blues" creationdate="20160730T094602Z">
+        <seg>返回表示已解析字符串的日期.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the date value expressing the given parameters, or the current system date if no parameters are specified.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064334Z" creationid="blues" creationdate="20160730T064334Z">
@@ -6231,6 +6239,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070407Z" creationid="lansn-lan" creationdate="20160729T070407Z">
         <seg>要写入的字符串.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The string with the date to be parsed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094538Z" creationid="blues" creationdate="20160730T094538Z">
+        <seg>要解析的日期字符串.</seg>
       </tuv>
     </tu>
     <tu>
