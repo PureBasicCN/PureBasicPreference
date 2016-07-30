@@ -1472,8 +1472,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;Main source file&lt;/b0&gt; &lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T103829Z" creationid="plp" creationdate="20160730T103829Z">
-        <seg>&lt;b0&gt;Main 源文件&lt;/b0&gt; &lt;br1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T104204Z" creationid="plp" creationdate="20160730T103829Z">
+        <seg>&lt;b0&gt;主源文件&lt;/b0&gt; &lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2565,6 +2565,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T081641Z" creationid="plp" creationdate="20160730T081532Z">
         <seg>默认情况下，配置信息会被保存在源代码的结尾处（在IDE中不可见）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By enabling this option, you can define another file that will be the one sent to the compiler instead of this one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T104320Z" creationid="plp" creationdate="20160730T104155Z">
+        <seg>通过启用此选项，您可以定义将要发送给编译器的另一个文件，而不是当前文件。</seg>
       </tuv>
     </tu>
     <tu>
