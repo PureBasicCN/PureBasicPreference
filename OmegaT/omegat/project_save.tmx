@@ -2569,6 +2569,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bind an event to a callback.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160731T164445Z" creationid="MysticBoy" creationdate="20160731T164445Z">
+        <seg>将事件绑定给回调.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both colors are always 32-bit with alpha channel independent of the color depth of the output.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040655Z" creationid="oSilas" creationdate="20141128T040655Z">
@@ -3645,6 +3653,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082446Z" creationid="MysticBoy" creationdate="20160720T082446Z">
         <seg>它在其他操作系统中没有效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has to be declared like this:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160731T164528Z" creationid="MysticBoy" creationdate="20160731T164528Z">
+        <seg>它可以这样声明︰</seg>
       </tuv>
     </tu>
     <tu>
@@ -5386,6 +5402,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The event to bind.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160731T164504Z" creationid="MysticBoy" creationdate="20160731T164504Z">
+        <seg>要绑定的事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The executable file is stored in a temporary location, but it will be executed with the current path set to the directory of the source code; so loading a file from the same directory as the source code will work.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T090333Z" creationid="plp" creationdate="20160730T090333Z">
@@ -5639,6 +5663,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081023Z" creationid="lansn-lan" creationdate="20160729T081023Z">
         <seg>串行端口输出缓冲区中的剩余字节数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The object number to bind the event to.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160731T164548Z" creationid="MysticBoy" creationdate="20160731T164548Z">
+        <seg>要绑定到该事件的对象数。</seg>
       </tuv>
     </tu>
     <tu>
