@@ -8084,6 +8084,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There presence is indicated by a little arrow next to the line numbers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T110331Z" creationid="漂流瓶儿" creationdate="20160801T110331Z">
+        <seg>在行号旁边出现一个小箭头的标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore if this value needs to be used more than once, the data has to be stored in a variable, since all subsequent calls will return the wrong value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T171113Z" creationid="MysticBoy" creationdate="20160723T171113Z">
