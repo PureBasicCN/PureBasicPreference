@@ -9214,6 +9214,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access a module item from outside the module, the module name has to be specified followed by the '::' separator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T135118Z" creationid="漂流瓶儿" creationdate="20160801T135118Z">
+        <seg>若要从外部模块访问的模块项目（成员）时，必须在前面加指定模块名称和“::”符号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To check how much data is available in the output buffer, use &lt;a0&gt;AvailableSerialPortOutput()&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070150Z" creationid="lansn-lan" creationdate="20160729T070150Z">
