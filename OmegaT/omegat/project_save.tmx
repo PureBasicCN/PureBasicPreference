@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7955,6 +7955,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UserGuide - Overview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T070414Z" creationid="lansn-lan" creationdate="20160801T070414Z">
+        <seg>用户指南 - 概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Various Topics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083431Z" creationid="MysticBoy" creationdate="20160720T083431Z">
@@ -7991,6 +7999,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055216Z" creationid="MysticBoy" creationdate="20160721T055216Z">
         <seg>我们有大量的精力投入，形成快速、 可靠的系统友好语言及其实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We start programming... this part of the PureBasic manual should guide you through some basic stuff, which you should learn while starting to program with PureBasic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T071252Z" creationid="lansn-lan" creationdate="20160801T071252Z">
+        <seg>我们开始使用PureBasic编程前，通过手册指导可以让你对PureBasic有个大概的了解.</seg>
       </tuv>
     </tu>
     <tu>
