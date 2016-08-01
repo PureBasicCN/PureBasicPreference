@@ -2270,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b12&gt;Show file in Project panel&lt;/b12&gt; &lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150502Z" creationid="漂流瓶儿" creationdate="20160801T150502Z">
+        <seg>&lt;b12&gt;在项目面板中显示文件&lt;/b12&gt; &lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b12&gt;load only the main file of the default target&lt;/b12&gt; &lt;br13&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144820Z" creationid="漂流瓶儿" creationdate="20160801T144820Z">
@@ -4735,6 +4743,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T142925Z" creationid="漂流瓶儿" creationdate="20160801T142925Z">
         <seg>属于工程项目的文件在文件面板上被标记一个"&gt;"符号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files with this option will be displayed in the project side-panel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150508Z" creationid="漂流瓶儿" creationdate="20160801T150508Z">
+        <seg>此选项的文件将显示在项目侧面板。</seg>
       </tuv>
     </tu>
     <tu>
