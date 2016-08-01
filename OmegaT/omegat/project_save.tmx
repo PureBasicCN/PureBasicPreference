@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2126,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Undo&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081727Z" creationid="漂流瓶儿" creationdate="20160801T081727Z">
+        <seg>&lt;b0&gt;撤消&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b10&gt;Technical Features&lt;/b10&gt;&lt;br11&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111125Z" creationid="MysticBoy" creationdate="20160721T111125Z">
@@ -2414,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b4&gt;Redo&lt;/b4&gt; &lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081939Z" creationid="漂流瓶儿" creationdate="20160801T081939Z">
+        <seg>&lt;b4&gt;重做&lt;/b4&gt; &lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b4&gt;The tools panel&lt;/b4&gt; (on the right side by default) &lt;br5&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140515Z" creationid="MysticBoy" creationdate="20160723T140515Z">
@@ -2499,6 +2515,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T105122Z" creationid="plp" creationdate="20160730T105122Z">
         <seg>&lt;b7&gt;使用编译器&lt;/b7&gt;&lt;br8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b8&gt;Cut&lt;/b8&gt; &lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T082009Z" creationid="漂流瓶儿" creationdate="20160801T082009Z">
+        <seg>&lt;b8&gt;剪切&lt;/b8&gt; &lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5689,6 +5713,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Redo the last action undone by the undo function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T082003Z" creationid="漂流瓶儿" creationdate="20160801T082003Z">
+        <seg>重新执行被撤消功能撤消的最后一个动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reference Manual - Index</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T143920Z">
@@ -7787,6 +7819,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is an undo buffer, so several actions can be undone.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081931Z" creationid="漂流瓶儿" creationdate="20160801T081931Z">
+        <seg>由于自带一个撤销缓冲区，所以可以进行多次撤销动作而不单单只能撤消一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is either no room in the input buffer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060710Z" creationid="lansn-lan" creationdate="20160729T060710Z">
@@ -8407,6 +8447,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T135911Z" creationid="oSilas" creationdate="20141124T135911Z">
         <seg>在Windows下，控制台的标题现在启动栏和任务管理器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undoes the last done action in the code editing area.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081754Z" creationid="漂流瓶儿" creationdate="20160801T081754Z">
+        <seg>取消在代码编辑区中的最后完成的动作。</seg>
       </tuv>
     </tu>
     <tu>
