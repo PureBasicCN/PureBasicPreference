@@ -4009,6 +4009,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a matching brace could not be found (which is a syntax error in PureBasic) the IDE will highlight the current brace in red.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T065338Z" creationid="plp" creationdate="20160801T065338Z">
+        <seg>若未找到匹配的括号（可能是 PureBasic 中的语法错误）IDE 将对此高亮提示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a read error has occured, it will return zero.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060358Z" creationid="lansn-lan" creationdate="20160729T060358Z">
@@ -7941,8 +7949,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>When the cursor is on an opening or closing brace the IDE will highlight the other brace that matches it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T065024Z" creationid="plp" creationdate="20160801T065024Z">
-        <seg>当光标位于左括号或右括号上时，IDE 将突出显示其他括号匹配它。</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T065208Z" creationid="plp" creationdate="20160801T065024Z">
+        <seg>当光标位于左括号或右括号上时，IDE 将突出显示并自动匹配此括号。</seg>
       </tuv>
     </tu>
     <tu>
