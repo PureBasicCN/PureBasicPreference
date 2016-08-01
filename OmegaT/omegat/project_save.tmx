@@ -2891,8 +2891,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Additional coder :</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093321Z" creationid="MysticBoy" creationdate="20160725T084706Z">
-        <seg>帮助文档翻译:</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T011715Z" creationid="MysticBoy" creationdate="20160725T084706Z">
+        <seg>文档翻译:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4371,8 +4371,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Main coder :</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T092959Z" creationid="MysticBoy" creationdate="20160725T084628Z">
-        <seg>主要翻译</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T011705Z" creationid="MysticBoy" creationdate="20160725T084628Z">
+        <seg>语言包翻译、文档翻译</seg>
       </tuv>
     </tu>
     <tu>
