@@ -1464,8 +1464,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a4&gt;Editing features&lt;/a4&gt;&lt;br5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T131033Z" creationid="blues" creationdate="20160729T131033Z">
-        <seg>&lt;a4&gt;编辑器功能&lt;/a4&gt;&lt;br5&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T035915Z" creationid="blues" creationdate="20160729T131033Z">
+        <seg>&lt;a4&gt;编辑功能&lt;/a4&gt;&lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
