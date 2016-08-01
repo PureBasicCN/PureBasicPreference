@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2158,6 +2158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b12&gt;Copy&lt;/b12&gt; &lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083300Z" creationid="漂流瓶儿" creationdate="20160801T083300Z">
+        <seg>&lt;b12&gt;复制&lt;/b12&gt; &lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b13&gt;Compile with Debugger&lt;/b13&gt; &lt;br14&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T091314Z" creationid="plp" creationdate="20160730T091314Z">
@@ -2178,6 +2186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023047Z" creationid="MysticBoy" creationdate="20160726T023047Z">
         <seg>&lt;b15&gt;另存为...&lt;/b15&gt; &lt;br16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b16&gt;Paste&lt;/b16&gt; &lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083319Z" creationid="漂流瓶儿" creationdate="20160801T083319Z">
+        <seg>&lt;b16&gt;粘贴&lt;/b16&gt; &lt;br17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3689,6 +3705,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy the selected text to the Clipboard without deleting it from the code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083314Z" creationid="漂流瓶儿" creationdate="20160801T083314Z">
+        <seg>选定的文本复制到剪贴板，而不从代码中删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright © 2015 Fantaisie Software</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160724T154141Z" creationid="MysticBoy" creationdate="20160724T154141Z">
@@ -4669,6 +4693,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061253Z" creationid="blues" creationdate="20160729T133545Z">
         <seg>缩进：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert the content of the Clipboard at the current position in the code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083357Z" creationid="漂流瓶儿" creationdate="20160801T083357Z">
+        <seg>将剪贴板中的内容，插入到代码的当前位置。</seg>
       </tuv>
     </tu>
     <tu>
