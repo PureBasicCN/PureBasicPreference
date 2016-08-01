@@ -8883,6 +8883,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d = a + b  &lt;f0&gt;; we use the values stored in variables 'a' and 'b' and save the sum of them in 'd'&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T082833Z" creationid="lansn-lan" creationdate="20160801T082833Z">
+        <seg>d = a + b  &lt;f0&gt;; 将变量  'a' 加 'b' 的和存储到变量 'd'&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>displays a description of the command-line arguments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071554Z" creationid="MysticBoy" creationdate="20160728T071554Z">
