@@ -8950,6 +8950,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This way multiple versions of the same program, or multiple smaller programs in one project can be easily compiled at once.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T124438Z" creationid="漂流瓶儿" creationdate="20160801T124438Z">
+        <seg>以此方式，相同的程序的不同版本，或者在一个项目中多个较小的程序可以容易地一次通过所有的编译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This way you have used variables "on the fly".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T085335Z" creationid="lansn-lan" creationdate="20160801T084650Z">
