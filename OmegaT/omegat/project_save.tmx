@@ -5739,8 +5739,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Similar to the special tab behavior above, the keyboard shortcuts Ctrl+E and Ctrl+Shift+E (CMD+E and CMD+Shift+E on OSX) can be used to change the indentation of only the comments in a selected block of code.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T054821Z" creationid="lansn-lan" creationdate="20160801T054821Z">
-        <seg>类似于上面Tab的特殊行为，使用键盘快捷方式 Ctrl + E，Ctrl + Shift + E （ OSX系统使用 CMD + E 和 CMD + Shift + E ） 可用于改变选定代码块注释的缩进。</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T062730Z" creationid="lansn-lan" creationdate="20160801T054821Z">
+        <seg>类似于上面 Tab 的指定动作，使用键盘快捷方式 Ctrl + E，Ctrl + Shift + E （ OSX系统使用 CMD + E 和 CMD + Shift + E ） 可用于改变选定代码块注释的缩进。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7083,6 +7083,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The used shortcut can be configured in the &lt;a0&gt;preferences&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T062933Z" creationid="plp" creationdate="20160801T062933Z">
+        <seg>使用的快捷方式可以在&lt;a0&gt;preferences&lt;/a0&gt;中配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The value to add to the date.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064106Z" creationid="blues" creationdate="20160730T064022Z">
@@ -7359,6 +7367,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082337Z" creationid="MysticBoy" creationdate="20160720T082337Z">
         <seg>该函数必须在这个库中的任何其他函数之前被调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This helps in aligning comments at the end of code lines to make the code more readable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T062845Z" creationid="plp" creationdate="20160801T062845Z">
+        <seg>在代码行末尾对注释进行对齐，有助于使代码更具可读性。</seg>
       </tuv>
     </tu>
     <tu>
