@@ -144,8 +144,16 @@
       <tuv lang="EN-US">
         <seg>- &lt;a24&gt;Compiler directives (for different behavior on different OS)&lt;/a24&gt; &lt;br25&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074437Z" creationid="lansn-lan" creationdate="20160801T074437Z">
-        <seg>- &lt;a24&gt;编译器指令（在不同的操作系统指令会有所不同）&lt;/a24&gt;&lt;br25&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074452Z" creationid="lansn-lan" creationdate="20160801T074437Z">
+        <seg>- &lt;a24&gt;编译器指令（在不同的操作系统中指令会有所不同）&lt;/a24&gt;&lt;br25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- &lt;a26&gt;Reading and writing files&lt;/a26&gt; &lt;br27&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074459Z" creationid="lansn-lan" creationdate="20160801T074459Z">
+        <seg>- &lt;a26&gt;读取和写入文件&lt;/a26&gt;&lt;br27&gt;</seg>
       </tuv>
     </tu>
     <tu>
