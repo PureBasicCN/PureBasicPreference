@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2287,6 +2287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b9&gt;&lt;f10&gt;Global&lt;/f10&gt;&lt;/b9&gt; may also be used with &lt;a11&gt;arrays&lt;/a11&gt;, &lt;a12&gt;lists&lt;/a12&gt; and &lt;a13&gt;maps&lt;/a13&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065511Z" creationid="MysticBoy" creationdate="20160801T065511Z">
+        <seg>&lt;b9&gt;&lt;f10&gt;Global&lt;/f10&gt;&lt;/b9&gt; 也可以用于 &lt;a11&gt;数组&lt;/a11&gt;, &lt;a12&gt;列表&lt;/a12&gt; 和 &lt;a13&gt;映射&lt;/a13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b9&gt;Run&lt;/b9&gt; &lt;br10&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T091040Z" creationid="plp" creationdate="20160730T091040Z">
@@ -4009,6 +4017,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a type is specified for a variable after &lt;b7&gt;&lt;f8&gt;Global&lt;/f8&gt;&lt;/b7&gt;, the default type is changed through the use of this declaration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065430Z" creationid="MysticBoy" creationdate="20160801T065430Z">
+        <seg>如果在&lt;b7&gt;&lt;f8&gt;Global&lt;/f8&gt;&lt;/b7&gt;之后为变量指定了类型，通过这一声明更改默认类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it was the only open code, the IDE will display a new empty file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053157Z" creationid="MysticBoy" creationdate="20160726T053157Z">
@@ -4149,6 +4165,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T081910Z" creationid="plp" creationdate="20160730T081910Z">
         <seg>在编译时产生一个错误阻止程序继续编译的情况下，编译将中止并显示错误消息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to use local variables within a procedure, which have the same name as global variables, take a look at the &lt;a16&gt;Protected&lt;/a16&gt; and &lt;a17&gt;Static&lt;/a17&gt; keywords.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065527Z" creationid="MysticBoy" creationdate="20160801T065527Z">
+        <seg>为了使用局部变量的过程内, 有全局变量的名称相同，看看&lt;a16&gt;被保护&lt;/a16&gt;和&lt;a17&gt;静态&lt;/a17&gt;关键字。</seg>
       </tuv>
     </tu>
     <tu>
