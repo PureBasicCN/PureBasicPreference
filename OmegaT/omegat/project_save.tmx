@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- &lt;a38&gt;Advanced functions&lt;/a38&gt; &lt;br39&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T075037Z" creationid="lansn-lan" creationdate="20160801T075037Z">
+        <seg>- &lt;a38&gt;高级功能&lt;/a38&gt;&lt;br39&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- &lt;a4&gt;Constants&lt;/a4&gt; &lt;br5&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T073322Z" creationid="lansn-lan" creationdate="20160801T073322Z">
