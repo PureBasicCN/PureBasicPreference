@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"Hello World" in the &lt;a0&gt;Debug&lt;/a0&gt; output window:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T081942Z" creationid="lansn-lan" creationdate="20160801T081942Z">
+        <seg>在 &lt;a0&gt;Debug&lt;/a0&gt; 窗口输出 "Hello World" :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%dd: Will be replaced by the day value, on 2 digits.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071335Z" creationid="blues" creationdate="20160730T071335Z">
