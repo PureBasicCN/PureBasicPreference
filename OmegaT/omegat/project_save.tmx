@@ -8534,8 +8534,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>To force the compiler always declaring variables before their first use, just use the keyword &lt;a0&gt;EnableExplicit&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T084925Z" creationid="lansn-lan" creationdate="20160801T084925Z">
-        <seg>要强制编译器总是要求变量第一次使用前声明变量，只需使用关键字&lt;a0&gt;EnableExplicit&lt;/a0&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T085047Z" creationid="lansn-lan" creationdate="20160801T084925Z">
+        <seg>要强制编译器总是要求变量第一次使用前必须声明变量，只需使用关键字&lt;a0&gt;EnableExplicit&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
