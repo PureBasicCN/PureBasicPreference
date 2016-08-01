@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4179,8 +4179,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Indentation:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T133545Z" creationid="blues" creationdate="20160729T133545Z">
-        <seg>缩进:</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061253Z" creationid="blues" creationdate="20160729T133545Z">
+        <seg>缩进：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5627,8 +5627,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>See &lt;a2&gt;Customizing the IDE&lt;/a2&gt; for more information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141638Z" creationid="blues" creationdate="20160729T141638Z">
-        <seg>点击查看更多 &lt;a2&gt;自定义 IDE&lt;/a2&gt;的信息.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061141Z" creationid="blues" creationdate="20160729T141638Z">
+        <seg>点击 &lt;a2&gt;自定义 IDE&lt;/a2&gt;了解更多详情。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5763,8 +5763,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Special Tab behavior:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T140705Z" creationid="blues" creationdate="20160729T140705Z">
-        <seg>特殊的 Tab 行为:</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061243Z" creationid="blues" creationdate="20160729T140705Z">
+        <seg>指定 Tab 动作：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5851,8 +5851,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Tab characters:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T135944Z" creationid="blues" creationdate="20160729T135944Z">
-        <seg>Tab 制表符:</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061300Z" creationid="blues" creationdate="20160729T135944Z">
+        <seg>Tab 制表符：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7205,8 +7205,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>This behavior can be changed in the Preferences.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141859Z" creationid="blues" creationdate="20160729T141859Z">
-        <seg>此行为方式可以在配置项中改变.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061051Z" creationid="blues" creationdate="20160729T141859Z">
+        <seg>此处可以在配置首选项中更改。</seg>
       </tuv>
     </tu>
     <tu>
