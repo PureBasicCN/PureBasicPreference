@@ -7509,8 +7509,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>This chapter covers only a small part of the 1500+ commands available in PureBasic!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T072750Z" creationid="lansn-lan" creationdate="20160801T072750Z">
-        <seg>本章只包括的PureBasic可用的命令1500 的一小部分！</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T072837Z" creationid="lansn-lan" creationdate="20160801T072750Z">
+        <seg>本章只包括PureBasic超过1500 + 可用命令中的一小部分！</seg>
       </tuv>
     </tu>
     <tu>
