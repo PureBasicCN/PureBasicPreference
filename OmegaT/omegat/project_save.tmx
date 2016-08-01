@@ -2190,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b10&gt;Comments&lt;/b10&gt; &lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143623Z" creationid="漂流瓶儿" creationdate="20160801T143623Z">
+        <seg>&lt;b10&gt;注释&lt;/b10&gt; &lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b10&gt;Technical Features&lt;/b10&gt;&lt;br11&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111125Z" creationid="MysticBoy" creationdate="20160721T111125Z">
@@ -2234,6 +2242,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T091314Z" creationid="plp" creationdate="20160730T091314Z">
         <seg>&lt;b13&gt;调试编译&lt;/b13&gt; &lt;br14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b14&gt;Set as default project&lt;/b14&gt; &lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143720Z" creationid="漂流瓶儿" creationdate="20160801T143720Z">
+        <seg>&lt;b14&gt;设置为默认项目&lt;/b14&gt;&lt;br15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2434,6 +2450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T083258Z" creationid="lansn-lan" creationdate="20160801T083258Z">
         <seg>&lt;b2&gt;&lt;f3&gt;Debug&lt;/f3&gt;&lt;/b2&gt; d   &lt;f4&gt;; 将输出 4&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b2&gt;Project File&lt;/b2&gt; &lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143514Z" creationid="漂流瓶儿" creationdate="20160801T143514Z">
+        <seg>&lt;b2&gt;项目文件&lt;/b2&gt;&lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2740,6 +2764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T051137Z" creationid="oSilas" creationdate="20151013T051137Z">
         <seg>&lt;b6&gt;禁止欢迎界面&lt;/b6&gt; &lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b6&gt;Project Name&lt;/b6&gt; &lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143544Z" creationid="漂流瓶儿" creationdate="20160801T143544Z">
+        <seg>&lt;b6&gt;项目名称&lt;/b6&gt;&lt;br7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5091,6 +5123,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is no default project, the IDE will load the project that was open when the IDE was closed last time if there was one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143825Z" creationid="漂流瓶儿" creationdate="20160801T143825Z">
+        <seg>如果没有默认的项目中，IDE 将加载时在 IDE 关闭最后一次如果有一个打开的项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is no marker after the cursor position, it jumps to the first on in the source code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T111405Z" creationid="漂流瓶儿" creationdate="20160801T111405Z">
@@ -6040,6 +6080,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082346Z" creationid="MysticBoy" creationdate="20160720T082346Z">
         <seg>只有一个控制台可以在一个的PureBasic程序同时被打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only one project can be the default project at a time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143813Z" creationid="漂流瓶儿" creationdate="20160801T143813Z">
+        <seg>只允许设置一个项目作为默认项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7172,6 +7220,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shows the filename of the project file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143527Z" creationid="漂流瓶儿" creationdate="20160801T143527Z">
+        <seg>显示项目文件的文件名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Similar to the special tab behavior above, the keyboard shortcuts Ctrl+E and Ctrl+Shift+E (CMD+E and CMD+Shift+E on OSX) can be used to change the indentation of only the comments in a selected block of code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T062730Z" creationid="lansn-lan" creationdate="20160801T054821Z">
@@ -8029,6 +8085,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default project will be loaded on every start of the IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143734Z" creationid="漂流瓶儿" creationdate="20160801T143734Z">
+        <seg>在每次启动 IDE，将加载该默认项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default shortcuts Ctrl+C (copy), Ctrl+X (cut) and Ctrl+V (paste) can be used for editing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T055633Z" creationid="blues" creationdate="20160729T132228Z">
@@ -8346,6 +8410,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153503Z" creationid="jane" creationdate="20160728T153503Z">
         <seg>此模式用于计算窗口的Y位置.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The name of the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143553Z" creationid="漂流瓶儿" creationdate="20160801T143553Z">
+        <seg>项目的名称。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8934,6 +9006,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They will be displayed in the project info tab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143701Z" creationid="漂流瓶儿" creationdate="20160801T143701Z">
+        <seg>他们将显示在项目信息选项页中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This allows the implementation of custom drawing effects while still using the default functions to do the actual drawing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045426Z" creationid="oSilas" creationdate="20150312T045426Z">
@@ -8986,6 +9066,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160801T143426Z" creationid="jane" creationdate="20160801T143426Z">
         <seg>用错时这可能导致无限循环。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can only be changed during project creation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143536Z" creationid="漂流瓶儿" creationdate="20160801T143536Z">
+        <seg>这只能在项目创建期间更改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9066,6 +9154,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T091103Z" creationid="plp" creationdate="20160730T091027Z">
         <seg>这再次执行最后一次编译的源代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This field allows to add some comments to the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143643Z" creationid="漂流瓶儿" creationdate="20160801T143643Z">
+        <seg>此字段允许向项目中添加一些注释。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9322,6 +9418,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T135044Z">
         <seg>必须是一个32位RGBA值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This name is displayed in the IDE title bar and in the "Recent Projects" menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143617Z" creationid="漂流瓶儿" creationdate="20160801T143617Z">
+        <seg>此名称被显示在 IDE 的标题栏和"最近项目"菜单中。</seg>
       </tuv>
     </tu>
     <tu>
