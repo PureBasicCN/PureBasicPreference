@@ -120,8 +120,8 @@
       <tuv lang="EN-US">
         <seg>- &lt;a16&gt;Displaying text output (Console)&lt;/a16&gt; &lt;br17&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T073759Z" creationid="lansn-lan" creationdate="20160801T073759Z">
-        <seg>- &lt;a16&gt;显示文本输出（控制台）&lt;/a16&gt;&lt;br17&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T073853Z" creationid="lansn-lan" creationdate="20160801T073759Z">
+        <seg>- &lt;a16&gt;文本输出（控制台）&lt;/a16&gt;&lt;br17&gt;</seg>
       </tuv>
     </tu>
     <tu>
