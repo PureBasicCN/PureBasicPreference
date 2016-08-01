@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -194,6 +194,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074705Z" creationid="lansn-lan" creationdate="20160801T074705Z">
         <seg>- &lt;a32&gt;多窗口管理&lt;/a32&gt; &lt;br33&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- &lt;a34&gt;Other Compiler keywords&lt;/a34&gt; &lt;br35&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074920Z" creationid="lansn-lan" creationdate="20160801T074846Z">
+        <seg>- &lt;a34&gt;其他关键字&lt;/a34&gt;&lt;br35&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- &lt;a36&gt;Other Library functions&lt;/a36&gt; &lt;br37&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074924Z" creationid="lansn-lan" creationdate="20160801T074909Z">
+        <seg>- &lt;a36&gt;其他库函数&lt;/a36&gt;&lt;br37&gt;</seg>
       </tuv>
     </tu>
     <tu>
