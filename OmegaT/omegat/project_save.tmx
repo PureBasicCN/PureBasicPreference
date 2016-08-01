@@ -4169,6 +4169,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indentation/Alignment of comments:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T040153Z" creationid="lansn-lan" creationdate="20160801T040153Z">
+        <seg>缩排/对齐的评论︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indentation:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160729T133545Z" creationid="blues" creationdate="20160729T133545Z">
