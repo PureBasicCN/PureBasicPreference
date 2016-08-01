@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4649,6 +4649,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More can be added), the IDE marks the region between these keywords on the left side next to the line numbers with a [-] at the starting point, followed by a vertical line to the end point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T071629Z" creationid="漂流瓶儿" creationdate="20160801T071629Z">
+        <seg>其他可以添加），开发环境 IDE 将在这些关键字的开头到结尾之间的区域用一个行号[ - ]在起点，随后的垂直线到结束点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More file extensions can be recognized as code files by configuring their extension in the "Editor" section of the &lt;a5&gt;Preferences&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054440Z" creationid="MysticBoy" creationdate="20160726T054440Z">
@@ -8101,8 +8109,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>When special folding keywords are encountered (&lt;b0&gt;&lt;f1&gt;Procedure&lt;/f1&gt;&lt;/b0&gt; / &lt;b2&gt;&lt;f3&gt;EndProcedure&lt;/f3&gt;&lt;/b2&gt; by default.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T071259Z" creationid="漂流瓶儿" creationdate="20160801T071259Z">
-        <seg>当遇到指定的可折叠关键字时 (&lt;b0&gt;&lt;f1&gt;Procedure 过程&lt;/f1&gt;&lt;/b0&gt; / &lt;b2&gt;&lt;f3&gt;EndProcedure&lt;/f3&gt;&lt;/b2&gt; by default.</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T071351Z" creationid="漂流瓶儿" creationdate="20160801T071259Z">
+        <seg>当遇到指定的可折叠关键字时 (默认是 &lt;b0&gt;&lt;f1&gt;Procedure 过程&lt;/f1&gt;&lt;/b0&gt; / &lt;b2&gt;&lt;f3&gt;EndProcedure&lt;/f3&gt;&lt;/b2&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
