@@ -3337,6 +3337,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Command help in the status bar:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T070247Z" creationid="漂流瓶儿" creationdate="20160801T070247Z">
+        <seg>状态栏中命令帮助：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Command-line options for the IDE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070503Z" creationid="MysticBoy" creationdate="20160728T070503Z">
@@ -6067,8 +6075,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The "Goto matching Keyword" menu entry described below can be used to quickly move between the matching keywords.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T070114Z" creationid="漂流瓶儿" creationdate="20160801T070114Z">
-        <seg>"转到匹配的关键字" 菜单项可以用于匹配关键字之间快速移动。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T070126Z" creationid="漂流瓶儿" creationdate="20160801T070114Z">
+        <seg>"转到匹配的关键字" 菜单项可以用于匹配关键字之间快速切换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6302,6 +6310,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044857Z" creationid="oSilas" creationdate="20150312T044857Z">
         <seg>为进一步绘图操作行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The brace and keyword matching can be configured in the &lt;a2&gt;Preferences&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T070226Z" creationid="漂流瓶儿" creationdate="20160801T070226Z">
+        <seg>括号和关键字匹配可以在&lt;a2&gt;配置&lt;/a2&gt;中进行设置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8079,6 +8095,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T091250Z" creationid="plp" creationdate="20160730T091250Z">
         <seg>是否启用调试器依赖于上次编译器的设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While typing, the IDE will show the needed parameters for any PureBasic function whose parameters you are currently typing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T070500Z" creationid="漂流瓶儿" creationdate="20160801T070500Z">
+        <seg>当输入代码时，开发环境 IDE 将会显示PureBasic 功能函数命令的原型和参数。</seg>
       </tuv>
     </tu>
     <tu>
