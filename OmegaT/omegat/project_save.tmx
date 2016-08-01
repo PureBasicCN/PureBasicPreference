@@ -2624,10 +2624,27 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b72&gt;Clear Markers&lt;/b72&gt; This removes all markers from the current source code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T111627Z" creationid="漂流瓶儿" creationdate="20160801T111627Z">
+        <seg>&lt;b72&gt;清除所有书签&lt;/b72&gt;
+这将从当前的源代码将所有书签标记清除掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b72&gt;Product information&lt;/b72&gt;&lt;br73&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175541Z" creationid="MysticBoy" creationdate="20160723T175541Z">
         <seg>&lt;b72&gt;产品信息 &lt;/b72&gt;&lt;br73&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b75&gt;Find/Replace&lt;/b75&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T111646Z" creationid="漂流瓶儿" creationdate="20160801T111646Z">
+        <seg>&lt;b75&gt;查找/替换&lt;/b75&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6591,6 +6608,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101624Z" creationid="MysticBoy" creationdate="20160721T101624Z">
         <seg>跳至内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So by pressing the "Jump to Marker" shortcut (F2 by default) several times, you can jump to all the markers in the code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T111530Z" creationid="漂流瓶儿" creationdate="20160801T111530Z">
+        <seg>因此，通过多次按“跳转到标记”快捷键（默认F2），您可以跳转到代码中的所有书签标记。</seg>
       </tuv>
     </tu>
     <tu>
