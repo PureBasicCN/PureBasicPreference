@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"Find Next" will still only search, but with each click on the "Replace" button, the next match of the search word will be replaced by whatever is inside the "Replace with" box.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T120023Z" creationid="漂流瓶儿" creationdate="20160801T120023Z">
+        <seg>“查找下一个”将仍然只搜索，但点击“替换”按钮时，会在下一次搜索内容时会将匹配的内容用“替换为”文本行的内容替换掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Hello World" in a &lt;a0&gt;MessageRequester()&lt;/a0&gt;:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T082154Z" creationid="lansn-lan" creationdate="20160801T082154Z">
@@ -3647,6 +3655,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T060844Z" creationid="blues" creationdate="20160729T140311Z">
         <seg>默认情况下，按下 Tab 键时，开发环境并不会插入一个真正的 tab 制表符，因为很多程序员认为在源代码中插入 tab 制表符不是太好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By enabling the "Replace with" checkbox, you go into replace mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T115730Z" creationid="漂流瓶儿" creationdate="20160801T115730Z">
+        <seg>通过启用“替换为”复选框，你进入替换模式。</seg>
       </tuv>
     </tu>
     <tu>
