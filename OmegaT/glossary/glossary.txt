@@ -16,3 +16,4 @@ Index	索引
 cross-platform	跨平台
 Programming language 	编程语言
 serial port	串口
+the given window	指定
