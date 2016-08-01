@@ -3339,6 +3339,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A compile target is just a set of compiler options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T124206Z" creationid="漂流瓶儿" creationdate="20160801T124206Z">
+        <seg>编译目标是只是一整套的编译器选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A debugger error will be raised.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T112023Z" creationid="MysticBoy" creationdate="20160729T112023Z">
@@ -4493,8 +4501,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Furthermore, a project keeps all the compiler settings in one place (the project file) and even allows to manage multiple "compile targets" per project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T123950Z" creationid="漂流瓶儿" creationdate="20160801T123950Z">
-        <seg>此外，一个工程项目会将编译器的所有设置保存在一个地方 （工程文件），甚至允许管理每个项目的多个"编译目标"。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T124155Z" creationid="漂流瓶儿" creationdate="20160801T123950Z">
+        <seg>此外，一个工程项目会将编译器的所有设置保存在一个地方 （工程文件），甚至允许你管理每个项目的多个"编译目标"。</seg>
       </tuv>
     </tu>
     <tu>
