@@ -2358,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b24&gt;Remove File from Project&lt;/b24&gt; &lt;br25&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T142942Z" creationid="漂流瓶儿" creationdate="20160801T142942Z">
+        <seg>&lt;b24&gt;移除项目文件&lt;/b24&gt; &lt;br25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b24&gt;Remove comments&lt;/b24&gt; &lt;br25&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083814Z" creationid="漂流瓶儿" creationdate="20160801T083814Z">
@@ -2394,6 +2402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084149Z" creationid="漂流瓶儿" creationdate="20160801T084149Z">
         <seg>&lt;b28&gt;自动缩进&lt;/b28&gt; &lt;br29&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b28&gt;Open Project folder&lt;/b28&gt; &lt;br29&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143043Z" creationid="漂流瓶儿" creationdate="20160801T143043Z">
+        <seg>&lt;b28&gt;打开项目目录&lt;/b28&gt;&lt;br29&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3611,6 +3627,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adds the currently active source code to the current project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T142840Z" creationid="漂流瓶儿" creationdate="20160801T142840Z">
+        <seg>将当前处于活动状态的源代码添加到当前项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Debug example</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T082314Z" creationid="lansn-lan" creationdate="20160801T082314Z">
@@ -4543,6 +4567,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091936Z" creationid="MysticBoy" creationdate="20160721T053654Z">
         <seg>PureBasic.CN 官方网站.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files belonging to the project are marked with a "&gt;" in the file panel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T142925Z" creationid="漂流瓶儿" creationdate="20160801T142925Z">
+        <seg>属于工程项目的文件在文件面板上被标记一个"&gt;"符号。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6488,6 +6520,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083924Z" creationid="漂流瓶儿" creationdate="20160801T083924Z">
         <seg>将选定行的开头的注释符删掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removes the currently active source from the current project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143014Z" creationid="漂流瓶儿" creationdate="20160801T143014Z">
+        <seg>从当前项目中移除当前处于活动状态的代码文件。</seg>
       </tuv>
     </tu>
     <tu>
