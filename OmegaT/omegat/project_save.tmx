@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2539,6 +2539,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085921Z" creationid="漂流瓶儿" creationdate="20160801T085921Z">
         <seg>&lt;b52&gt;切换当前折叠&lt;/b52&gt; &lt;br53&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b56&gt;Toggle all Folds&lt;/b56&gt; &lt;br57&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T090008Z" creationid="漂流瓶儿" creationdate="20160801T090008Z">
+        <seg>&lt;b56&gt;切换所有折叠&lt;/b56&gt; &lt;br57&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8480,6 +8488,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093715Z" creationid="plp" creationdate="20160730T093715Z">
         <seg>这将打开编译器选项对话框，让您设置这个源文件的编译选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This opens/closes all fold points in the current source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T090129Z" creationid="漂流瓶儿" creationdate="20160801T090104Z">
+        <seg>展开或收缩当前代码的所有折叠项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This opens/closes the fold point in which the cursor is currently located.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T090121Z" creationid="漂流瓶儿" creationdate="20160801T085945Z">
+        <seg>展开或收缩光标位置的折叠项。</seg>
       </tuv>
     </tu>
     <tu>
