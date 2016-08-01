@@ -3611,6 +3611,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All items in the &lt;b15&gt;&lt;f16&gt;DeclareModule&lt;/f16&gt;&lt;/b15&gt; section can be automatically imported into another module or in the main code using &lt;b17&gt;&lt;f18&gt;UseModule&lt;/f18&gt;&lt;/b17&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T135522Z" creationid="漂流瓶儿" creationdate="20160801T135522Z">
+        <seg>&lt;b15&gt; &lt;f16&gt;DeclareModule&lt;/f16&gt;&lt;/b15&gt;部分中的所有项目成员都可以被另一个模块或使用&lt;b17&gt;&lt;f18&gt;UseModule&lt;/f18&gt;&lt;/b17&gt;的主要代码自动导入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All remaining opened serial ports are automatically closed when the program ends.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081422Z" creationid="lansn-lan" creationdate="20160729T081422Z">
@@ -9538,6 +9546,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064352Z" creationid="blues" creationdate="20160730T100344Z">
         <seg>当按住 Ctrl 键的同时在当前源代码中定义的&lt;a2&gt;procedure 过程&lt;/a2&gt; 名称上双击时，光标会自动跳到此 procedure 过程的声明处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When explicitly specifying the module name, the module item is available everywhere in the code source, even in another module.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T135252Z" creationid="漂流瓶儿" creationdate="20160801T135252Z">
+        <seg>一旦确定模块名后，就可以在任何地方使用其项目成员，即使是在其它模块中。</seg>
       </tuv>
     </tu>
     <tu>
