@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Overview&lt;/a0&gt; | &lt;a1&gt;Next: Variables &gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T082242Z" creationid="lansn-lan" creationdate="20160801T082242Z">
+        <seg>&lt;a0&gt;概述&lt;/a0&gt; | &lt;a1&gt;下一篇： 变量 &gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;PureBasic objects overview&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083444Z" creationid="MysticBoy" creationdate="20160720T083444Z">
