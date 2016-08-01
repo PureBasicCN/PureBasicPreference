@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3939,8 +3939,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>However when one or more full lines are selected, the reaction is different.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141344Z" creationid="blues" creationdate="20160729T141344Z">
-        <seg>当一行或者多行被选中时，.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061804Z" creationid="blues" creationdate="20160729T141344Z">
+        <seg>当选中一行或者多行代码时，</seg>
       </tuv>
     </tu>
     <tu>
@@ -4139,8 +4139,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>In that case at the beginning of each selected line, it will insert spaces or a tab (depending on the configuration).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141357Z" creationid="blues" creationdate="20160729T141357Z">
-        <seg>在每一行的前面都将会插入空格符或者tab制表符.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061830Z" creationid="blues" creationdate="20160729T141357Z">
+        <seg>在每一行的前面都将会插入空格符或者 tab 制表符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7365,8 +7365,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>This increases the indentation of the whole selected block.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141533Z" creationid="blues" creationdate="20160729T141533Z">
-        <seg>这增加了整个选定块的缩进.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T062002Z" creationid="blues" creationdate="20160729T141533Z">
+        <seg>这增加了整个选定块的缩进。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7813,8 +7813,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>When the Tab key is pressed while nothing or only a few characters are selected, the Tab key acts as mentioned above (inserting a number of spaces, or a real tab if configured that way).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141103Z" creationid="blues" creationdate="20160729T141103Z">
-        <seg>无字符或者选择一些字符，当按下Tab键时，Tab键将会产生特殊行为  (根据配置方式，当前行前面将会插入一些空格符或者真正的tab制表).</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061709Z" creationid="blues" creationdate="20160729T141103Z">
+        <seg>在无字符或者选择一些字符时，按下 Tab 键，将会发生指定动作  (根据制表符设置，当前行前面将会插入设定数量的空格符或者 tab 制表符)。</seg>
       </tuv>
     </tu>
     <tu>
