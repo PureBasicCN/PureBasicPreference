@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -98,6 +98,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T073311Z" creationid="lansn-lan" creationdate="20160801T073311Z">
         <seg>- &lt;a2&gt;变量和变量处理&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- &lt;a4&gt;Constants&lt;/a4&gt; &lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T073322Z" creationid="lansn-lan" creationdate="20160801T073322Z">
+        <seg>- &lt;a4&gt;常量&lt;/a4&gt;&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- &lt;a6&gt;Decisions &amp; Conditions&lt;/a6&gt; &lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T073406Z" creationid="lansn-lan" creationdate="20160801T073406Z">
+        <seg>- &lt;a6&gt;判断与条件&lt;/a6&gt;&lt;br7&gt;</seg>
       </tuv>
     </tu>
     <tu>
