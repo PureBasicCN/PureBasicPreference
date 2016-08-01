@@ -7535,8 +7535,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The &lt;b16&gt;&lt;f17&gt;For : Next&lt;/f17&gt;&lt;/b16&gt; loop works only with integer values, at the expressions as well at the &lt;b18&gt;&lt;f19&gt;Step&lt;/f19&gt;&lt;/b18&gt; constant.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="jane" changedate="20160801T143920Z" creationid="jane" creationdate="20160801T143920Z">
-        <seg> &lt;b16&gt;&lt;f17&gt;For : Next&lt;/f17&gt;&lt;/b16&gt; 循环制适用于整数值，loop works only with integer values, at the expressions as well at the &lt;b18&gt;&lt;f19&gt;Step&lt;/f19&gt;&lt;/b18&gt; constant.</seg>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160801T144135Z" creationid="jane" creationdate="20160801T143920Z">
+        <seg> &lt;b16&gt;&lt;f17&gt;For : Next&lt;/f17&gt;&lt;/b16&gt; 循环制适用于整数值， 在  &lt;b18&gt;&lt;f19&gt;Step&lt;/f19&gt;&lt;/b18&gt; 常数的表达式中.</seg>
       </tuv>
     </tu>
     <tu>
