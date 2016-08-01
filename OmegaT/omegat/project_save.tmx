@@ -4171,8 +4171,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>In the same way, if you double-click on an IncludeBinary statement, the IDE will try to display that file in the internal &lt;a9&gt;file viewer&lt;/a9&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064646Z" creationid="plp" creationdate="20160801T064646Z">
-        <seg>在同样的方式，如果你双击 IncludeBinary 语句，IDE 将尝试在内部&lt;a9&gt;文件查看器&lt;/a9&gt;中显示该文件。</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064825Z" creationid="plp" creationdate="20160801T064646Z">
+        <seg>同样，当你鼠标双击二进制文件引用 IncludeBinary 语句时，开发环境 IDE 将尝试使用内部&lt;a9&gt;文件查看器&lt;/a9&gt;打开该文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4491,8 +4491,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Marking of matching Braces and Keywords:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T103844Z" creationid="blues" creationdate="20160730T103844Z">
-        <seg>匹配括号和标记关键字:</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064855Z" creationid="blues" creationdate="20160730T103844Z">
+        <seg>标记括号和关键字:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7911,6 +7911,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061709Z" creationid="blues" creationdate="20160729T141103Z">
         <seg>在无字符或者选择一些字符时，按下 Tab 键，将会发生指定动作  (根据制表符设置，当前行前面将会插入设定数量的空格符或者 tab 制表符)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the cursor is on an opening or closing brace the IDE will highlight the other brace that matches it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T065024Z" creationid="plp" creationdate="20160801T065024Z">
+        <seg>当光标位于左括号或右括号上时，IDE 将突出显示其他括号匹配它。</seg>
       </tuv>
     </tu>
     <tu>
