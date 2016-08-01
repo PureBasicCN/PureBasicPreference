@@ -2737,6 +2737,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A debugger error will be raised.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T112023Z" creationid="MysticBoy" creationdate="20160729T112023Z">
+        <seg>调试器错误将被提高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mask string which defines how the date string is formatted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094401Z" creationid="blues" creationdate="20160730T094401Z">
@@ -2749,14 +2757,6 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064126Z" creationid="blues" creationdate="20160730T064040Z">
         <seg>使用一个负数值可以用来减去日期.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A debugger error will be raised.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T112023Z" creationid="MysticBoy" creationdate="20160729T112023Z">
-        <seg>调试器错误将被提高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3017,18 +3017,18 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>By default, the IDE does not insert a real tab when pressing the Tab key, as many programmers see it as a bad thing to use real tabs in source code.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T140311Z" creationid="blues" creationdate="20160729T140311Z">
-        <seg>默认情况下, PureBasic IDE 按下Tab键时，并不会插入一个真正的tab制表符, 正如许多程序员认为在源代码中使用真正的tab制表符是件很糟糕的事情.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>By default, it is saved at the end of the source code as a comment (invisible in the IDE).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T081641Z" creationid="plp" creationdate="20160730T081532Z">
         <seg>默认情况下，配置信息会被保存在源代码的结尾处（在IDE中不可见）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, the IDE does not insert a real tab when pressing the Tab key, as many programmers see it as a bad thing to use real tabs in source code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T140311Z" creationid="blues" creationdate="20160729T140311Z">
+        <seg>默认情况下, PureBasic IDE 按下Tab键时，并不会插入一个真正的tab制表符, 正如许多程序员认为在源代码中使用真正的tab制表符是件很糟糕的事情.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3393,6 +3393,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-clicking on a warning will display the file/line that caused the warning.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T083804Z" creationid="plp" creationdate="20160730T083804Z">
+        <seg>双击警告信息将会显示导致警告的代码行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-clicking on a word selects the whole word as usual.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095832Z" creationid="blues" creationdate="20160730T095832Z">
@@ -3405,14 +3413,6 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095650Z" creationid="blues" creationdate="20160730T095650Z">
         <seg>双击原码中的文本 :</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Double-clicking on a warning will display the file/line that caused the warning.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T083804Z" creationid="plp" creationdate="20160730T083804Z">
-        <seg>双击警告信息将会显示导致警告的代码行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4185,18 +4185,18 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>It instead inserts two spaces.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141812Z" creationid="blues" creationdate="20160729T141812Z">
-        <seg>tab符将被插入2个空格符所替代.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>It has to be declared like this:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160731T164528Z" creationid="MysticBoy" creationdate="20160731T164528Z">
         <seg>它可以这样声明︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It instead inserts two spaces.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141812Z" creationid="blues" creationdate="20160729T141812Z">
+        <seg>tab符将被插入2个空格符所替代.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5713,18 +5713,18 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The "Insert" key controls whether text is inserted or overwritten.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T132331Z" creationid="blues" creationdate="20160729T132331Z">
-        <seg> "Insert" 键控制文本是否插入或者覆盖 .</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The "Compile/Run" option respects the debugger setting (on or off) from the compiler options or debugger menu (they are the same).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T090959Z" creationid="plp" creationdate="20160730T090959Z">
         <seg>此“编译/运行”选项遵从编译器选项及调试器（启用或禁用）的调试器设置（他们设置相同）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The "Insert" key controls whether text is inserted or overwritten.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T132331Z" creationid="blues" creationdate="20160729T132331Z">
+        <seg> "Insert" 键控制文本是否插入或者覆盖 .</seg>
       </tuv>
     </tu>
     <tu>
@@ -6082,18 +6082,18 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The components of the date to return.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064439Z" creationid="blues" creationdate="20160730T064439Z">
-        <seg>返回日期的组件.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The compiler menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T084356Z" creationid="plp" creationdate="20160730T084356Z">
         <seg>编译菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The components of the date to return.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064439Z" creationid="blues" creationdate="20160730T064439Z">
+        <seg>返回日期的组件.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6859,6 +6859,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The use of this is that when you are editing a file that does not run by itself, but is &lt;a2&gt;included&lt;/a2&gt; into another file, you can tell the compiler to use that other file to start the compilation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T104544Z" creationid="plp" creationdate="20160730T104544Z">
+        <seg>当您正在编辑一个文件，但它本身并不运行，而是&lt;a2&gt;包含included&lt;/a2&gt;到另一个文件中，你可以使用此选项告诉编译器对其他文件进行编译运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The value to add to the date.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064106Z" creationid="blues" creationdate="20160730T064022Z">
@@ -6871,14 +6879,6 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062951Z" creationid="blues" creationdate="20160730T062800Z">
         <seg>添加值的类型.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The use of this is that when you are editing a file that does not run by itself, but is &lt;a2&gt;included&lt;/a2&gt; into another file, you can tell the compiler to use that other file to start the compilation.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160730T104544Z" creationid="plp" creationdate="20160730T104544Z">
-        <seg>当您正在编辑一个文件，但它本身并不运行，而是&lt;a2&gt;包含included&lt;/a2&gt;到另一个文件中，你可以使用此选项告诉编译器对其他文件进行编译运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7531,22 +7531,6 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>When double-clicking on an &lt;a5&gt;IncludeFile&lt;/a5&gt; or &lt;a6&gt;XincludeFile&lt;/a6&gt; statement, the IDE will try to open that file.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T100528Z" creationid="blues" creationdate="20160730T100528Z">
-        <seg>双击  &lt;a5&gt;IncludeFile&lt;/a5&gt; 或者 &lt;a6&gt;XincludeFile&lt;/a6&gt; 声明,  IDE 将试着打开声明所指向的文件.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>When double-clicking on the name of a &lt;a2&gt;procedure&lt;/a2&gt; that is defined in the current source while holding down the Ctrl Key, the cursor automatically jumps to the declaration of this procedure.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T100344Z" creationid="blues" creationdate="20160730T100344Z">
-        <seg>按住Ctrl键的同时，双击当前源码定义的&lt;a2&gt;procedure过程 （函数）&lt;/a2&gt; 名，光标自动跳到本函数的声明处.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>When a project is open, this menu entry compiles all targets that have this option enabled in the compiler options.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T103607Z" creationid="plp" creationdate="20160730T103607Z">
@@ -7567,6 +7551,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T102903Z" creationid="plp" creationdate="20160730T102903Z">
         <seg>当一个项目打开时，这个子菜单就会显示所有编译目标，并允许快速切换当前默认目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When double-clicking on an &lt;a5&gt;IncludeFile&lt;/a5&gt; or &lt;a6&gt;XincludeFile&lt;/a6&gt; statement, the IDE will try to open that file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T100528Z" creationid="blues" creationdate="20160730T100528Z">
+        <seg>双击  &lt;a5&gt;IncludeFile&lt;/a5&gt; 或者 &lt;a6&gt;XincludeFile&lt;/a6&gt; 声明,  IDE 将试着打开声明所指向的文件.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When double-clicking on the name of a &lt;a2&gt;procedure&lt;/a2&gt; that is defined in the current source while holding down the Ctrl Key, the cursor automatically jumps to the declaration of this procedure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T100344Z" creationid="blues" creationdate="20160730T100344Z">
+        <seg>按住Ctrl键的同时，双击当前源码定义的&lt;a2&gt;procedure过程 （函数）&lt;/a2&gt; 名，光标自动跳到本函数的声明处.</seg>
       </tuv>
     </tu>
     <tu>
