@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2286,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b28&gt;Format indentation&lt;/b28&gt; &lt;br29&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084149Z" creationid="漂流瓶儿" creationdate="20160801T084149Z">
+        <seg>&lt;b28&gt;自动缩进&lt;/b28&gt; &lt;br29&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b29&gt;Create executable&lt;/b29&gt; &lt;br30&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093732Z" creationid="plp" creationdate="20160730T093732Z">
@@ -2338,6 +2346,15 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175156Z" creationid="MysticBoy" creationdate="20160723T175156Z">
         <seg>&lt;b33&gt;技术特点&lt;/b33&gt;&lt;br34&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b34&gt;Select all&lt;/b34&gt; Selects the whole source code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084434Z" creationid="漂流瓶儿" creationdate="20160801T084434Z">
+        <seg>&lt;b34&gt;全选&lt;/b34&gt; 
+选中所有代码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5809,6 +5826,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reformats the indentation of the selected lines to align with the code above them and to reflect the &lt;a30&gt;keywords&lt;/a30&gt; that they contain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084318Z" creationid="漂流瓶儿" creationdate="20160801T084318Z">
+        <seg>重新根据 &lt;a30&gt;关键字 keywords&lt;/a30&gt; 及代码结构对选中行进行自动缩进操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reloads the currently active source code from disk.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053131Z" creationid="MysticBoy" creationdate="20160726T053131Z">
@@ -7655,6 +7680,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T135144Z">
         <seg>结果在0至255之间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rules for the indentation can be specified in the &lt;a31&gt;preferences&lt;/a31&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084356Z" creationid="漂流瓶儿" creationdate="20160801T084356Z">
+        <seg>缩进规则可以在 &lt;a31&gt;配置 preferences&lt;/a31&gt;中进行设置。</seg>
       </tuv>
     </tu>
     <tu>
