@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -218,6 +218,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T075037Z" creationid="lansn-lan" creationdate="20160801T075037Z">
         <seg>- &lt;a38&gt;高级功能&lt;/a38&gt;&lt;br39&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- &lt;a40&gt;Some Tips &amp; Tricks&lt;/a40&gt; &lt;br41&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T075106Z" creationid="lansn-lan" creationdate="20160801T075106Z">
+        <seg>- &lt;a40&gt;一些提示和技巧&lt;/a40&gt;&lt;br41&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8263,6 +8271,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T070414Z" creationid="lansn-lan" creationdate="20160801T070414Z">
         <seg>用户指南 - 概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UserGuide Navigation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T075130Z" creationid="lansn-lan" creationdate="20160801T075130Z">
+        <seg>用户指南导航</seg>
       </tuv>
     </tu>
     <tu>
