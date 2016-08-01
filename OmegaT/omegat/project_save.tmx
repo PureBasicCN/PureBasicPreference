@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2819,8 +2819,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>A "block mode" is also available where the new line simply gets the same indentation as the previous one.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T135606Z" creationid="blues" creationdate="20160729T135606Z">
-        <seg>“块模式”也可以在新的一行得到与前一个行相同的缩进.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T060458Z" creationid="blues" creationdate="20160729T135606Z">
+        <seg>“块模式”也可以在新的一行得到与上一个行代码相同的缩进.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3123,8 +3123,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>By default, the IDE does not insert a real tab when pressing the Tab key, as many programmers see it as a bad thing to use real tabs in source code.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T140311Z" creationid="blues" creationdate="20160729T140311Z">
-        <seg>默认情况下, PureBasic IDE 按下Tab键时，并不会插入一个真正的tab制表符, 正如许多程序员认为在源代码中使用真正的tab制表符是件很糟糕的事情.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T060648Z" creationid="blues" creationdate="20160729T140311Z">
+        <seg>默认情况下，按下 Tab 键时，开发环境并不会插入一个真正的 tab 制表符，正如许多程序员认为在源代码中使用真正的tab制表符是件很糟糕的事情.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6476,8 +6476,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The details of this feature can be customized in the &lt;a1&gt;preferences&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T135935Z" creationid="blues" creationdate="20160729T135935Z">
-        <seg>此功能的详细信息可以在 &lt;a1&gt;文件-配置&lt;/a1&gt;中定制.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T060530Z" creationid="blues" creationdate="20160729T135935Z">
+        <seg>此功能的详细信息可以在 &lt;a1&gt;preferences &lt;/a1&gt;中定制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7821,8 +7821,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>When you press enter, the indentation (number of space/tab at the beginning of the line) of the current and next line will be automatically corrected depending on the &lt;a0&gt;keywords&lt;/a0&gt; that exist on these lines.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T135318Z" creationid="blues" creationdate="20160729T133733Z">
-        <seg>当您按下回车键时，当前行和下一行的缩进（开头处的空格数/Tab数）将根据存在于这些行上的 &lt;a0&gt;关键词&lt;/a0&gt;而自动更正 .</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T060415Z" creationid="blues" creationdate="20160729T133733Z">
+        <seg>当您按下回车键时，当前行和下一行的缩进（行着的空格数或制表符Tab数）会根据存在于这些行上的 &lt;a0&gt;关键词&lt;/a0&gt;而自动更正。</seg>
       </tuv>
     </tu>
     <tu>
