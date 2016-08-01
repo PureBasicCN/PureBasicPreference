@@ -3403,6 +3403,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A project allows the management of multiple source codes and other related files in one place with quick access to the files through the &lt;a0&gt;project tool&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T122718Z" creationid="漂流瓶儿" creationdate="20160801T122718Z">
+        <seg>一个工程项目允许管理多个源代码和其他相关文件，并可以通过&lt;a0&gt;工程工具&lt;/a0&gt;进行统一的快速访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A session is created when the IDE launch, and is closed when the IDE quits.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053635Z" creationid="MysticBoy" creationdate="20160726T053635Z">
@@ -6808,6 +6816,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T070430Z" creationid="MysticBoy" creationdate="20160801T070430Z">
         <seg>有时一个程序需要调用另一个过程而不在其定义之前声明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source files included in a project can be scanned for AutoComplete even if they are not currently open in the IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T123002Z" creationid="漂流瓶儿" creationdate="20160801T123002Z">
+        <seg>即使有些文件没有在 IDE 中打开，IDE 依然会自动扫描项目中源代码文件及所包含资源。</seg>
       </tuv>
     </tu>
     <tu>
