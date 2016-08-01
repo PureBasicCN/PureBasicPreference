@@ -4491,6 +4491,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Furthermore, a project keeps all the compiler settings in one place (the project file) and even allows to manage multiple "compile targets" per project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T123950Z" creationid="漂流瓶儿" creationdate="20160801T123950Z">
+        <seg>此外，一个工程项目会将编译器的所有设置保存在一个地方 （工程文件），甚至允许管理每个项目的多个"编译目标"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Furthermore, the IDE has many extra editing features specific to programming or PureBasic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T060204Z" creationid="blues" creationdate="20160729T132746Z">
