@@ -4459,8 +4459,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Marking several lines of text and pressing Shift+Tab reverses this behavior.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T142245Z" creationid="blues" creationdate="20160729T142245Z">
-        <seg>按下Shift+Tab时，多行文本将反转缩进.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T062134Z" creationid="blues" creationdate="20160729T142245Z">
+        <seg>按下 Shift+Tab 时会将选中的多行文本前面的空格或制表符去除来送减少缩进。</seg>
       </tuv>
     </tu>
     <tu>
