@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4859,8 +4859,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Note: Even though the state of these folded code lines is remembered when you save/reopen the file, the actual created code file always contains all lines.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T073349Z" creationid="漂流瓶儿" creationdate="20160801T073349Z">
-        <seg>注意：尽管这些代码折叠线的状态，当你保存/打开文件被记住，实际创建的代码文件总是包含所有行。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T073810Z" creationid="漂流瓶儿" creationdate="20160801T073349Z">
+        <seg>注意：尽管这些代码以折叠状态保存且当你打开文件也会保持折叠状态，却依然是包含所有代码行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7911,6 +7911,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022041Z" creationid="MysticBoy" creationdate="20160726T022041Z">
         <seg>当然，这个是用来关闭 IDE的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This only affects the display of the code in the IDE, not the code itself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T073752Z" creationid="漂流瓶儿" creationdate="20160801T073752Z">
+        <seg>只是影响代码在IDE中显示，并不会影响代码的完整性。</seg>
       </tuv>
     </tu>
     <tu>
