@@ -7894,6 +7894,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The search can be continued after a match is found with the Find Next menu command (F3 by default).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T112156Z" creationid="漂流瓶儿" creationdate="20160801T112156Z">
+        <seg>找到一个匹配内容后，可以继续按“查找下一个”菜单命令（默认F3），接着进行搜索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The serial port to close.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081322Z" creationid="lansn-lan" creationdate="20160729T081322Z">
@@ -9234,6 +9242,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T110803Z" creationid="漂流瓶儿" creationdate="20160801T110803Z">
         <seg>你可以使用 "跳转到标签" 命令来将光标跳转制书签处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can make the search more specific by enabling one of the checkboxes: &lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T112312Z" creationid="漂流瓶儿" creationdate="20160801T112312Z">
+        <seg>您可以通过下列选项使搜索更加具体： &lt;br4&gt;</seg>
       </tuv>
     </tu>
     <tu>
