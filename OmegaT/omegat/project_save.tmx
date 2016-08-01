@@ -5122,6 +5122,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Markers act like Bookmarks in the source code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T110015Z" creationid="漂流瓶儿" creationdate="20160801T110015Z">
+        <seg>在源代码中的标志就像书签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marking of matching Braces and Keywords:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064855Z" creationid="blues" creationdate="20160730T103844Z">
