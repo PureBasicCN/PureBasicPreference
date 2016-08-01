@@ -2016,8 +2016,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;A&lt;/b0&gt; is an integer - but note that you can't declare &lt;a1&gt;variables&lt;/a1&gt; this way if you use the &lt;a2&gt;EnableExplicit&lt;/a2&gt; directive.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T090117Z" creationid="lansn-lan" creationdate="20160801T085926Z">
-        <seg>&lt;b0&gt;A&lt;/b0&gt;是一个整型（integer） - 但请注意，如果你用&lt;a2&gt;EnableExplicit&lt;/a2&gt;指示方式，就不能这样声明&lt;a1&gt;变量&lt;/a1&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T090131Z" creationid="lansn-lan" creationdate="20160801T085926Z">
+        <seg>&lt;b0&gt;A&lt;/b0&gt;是一个整型（integer） - 但请注意，如果你用&lt;a2&gt;EnableExplicit&lt;/a2&gt;指示，就不能这样声明&lt;a1&gt;变量&lt;/a1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
