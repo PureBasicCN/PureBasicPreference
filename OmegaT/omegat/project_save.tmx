@@ -2246,6 +2246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b12&gt;load only the main file of the default target&lt;/b12&gt; &lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144820Z" creationid="漂流瓶儿" creationdate="20160801T144820Z">
+        <seg>&lt;b12&gt;仅加载默认目标的主文件&lt;/b12&gt; &lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b13&gt;Compile with Debugger&lt;/b13&gt; &lt;br14&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T091314Z" creationid="plp" creationdate="20160730T091314Z">
@@ -2290,6 +2298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130704Z" creationid="漂流瓶儿" creationdate="20160801T130704Z">
         <seg>&lt;b16&gt;项目选项&lt;/b16&gt; &lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b16&gt;load no files&lt;/b16&gt; &lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144944Z" creationid="漂流瓶儿" creationdate="20160801T144944Z">
+        <seg>&lt;b16&gt;不加载任何文件&lt;/b16&gt; &lt;br17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2867,8 +2883,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b8&gt;load only sources marked in 'Project Files'&lt;/b8&gt; &lt;br9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144448Z" creationid="漂流瓶儿" creationdate="20160801T144448Z">
-        <seg>&lt;b8&gt;仅加载标记的项目文件&lt;/b8&gt;&lt;br9&gt;</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144838Z" creationid="漂流瓶儿" creationdate="20160801T144448Z">
+        <seg>&lt;b8&gt;仅加载项目文件中标记的源代码&lt;/b8&gt;&lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5835,6 +5851,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No source files are opened when the project is opened.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145019Z" creationid="漂流瓶儿" creationdate="20160801T145019Z">
+        <seg>打开的项目时不加载任何代码文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174240Z" creationid="MysticBoy" creationdate="20160723T174240Z">
@@ -7524,6 +7548,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The "Project Files" tabs shows the list of files in the project on the right and allows changing their settings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145042Z" creationid="漂流瓶儿" creationdate="20160801T145042Z">
+        <seg>"项目文件"选项卡在右边项目中显示的文件列表，并允许更改其设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The (x, y) coordinates are always absolute and not affected by calls to &lt;a0&gt;SetOrigin()&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T033625Z" creationid="oSilas" creationdate="20141128T033625Z">
@@ -8210,6 +8242,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T110038Z" creationid="MysticBoy" creationdate="20160721T110038Z">
         <seg>经验丰富的程序员可以毫不费力的使用OS中的结构或API对象。&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The explorer on the left is for the selection of new files to be added.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145112Z" creationid="漂流瓶儿" creationdate="20160801T145112Z">
+        <seg>在左边的资源管理器是用于选择要添加新文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10050,6 +10090,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144458Z" creationid="漂流瓶儿" creationdate="20160801T144458Z">
         <seg>当打开该项目时，将打开只标记项目文件选项卡中的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the project is opened, the main file of the default target will be opened too.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144933Z" creationid="漂流瓶儿" creationdate="20160801T144933Z">
+        <seg>当项目被打开，默认目标的主文件也会被打开。</seg>
       </tuv>
     </tu>
     <tu>
