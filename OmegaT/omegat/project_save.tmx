@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- &lt;a10&gt;String Manipulation&lt;/a10&gt; &lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T073446Z" creationid="lansn-lan" creationdate="20160801T073446Z">
+        <seg>- &lt;a10&gt;字符串操作&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- &lt;a2&gt;Variables and Processing of variables&lt;/a2&gt; &lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T073311Z" creationid="lansn-lan" creationdate="20160801T073311Z">
