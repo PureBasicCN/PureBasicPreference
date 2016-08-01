@@ -2743,6 +2743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b4&gt;Project Files&lt;/b4&gt; &lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151152Z" creationid="漂流瓶儿" creationdate="20160801T151152Z">
+        <seg>&lt;b4&gt;项目文件&lt;/b4&gt;&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b4&gt;Quit&lt;/b4&gt; &lt;br5&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022021Z" creationid="MysticBoy" creationdate="20160726T022021Z">
@@ -3553,6 +3561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u0&gt;Open&lt;/u0&gt; - Open the file in the IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151313Z" creationid="漂流瓶儿" creationdate="20160801T151313Z">
+        <seg>&lt;u0&gt;打开&lt;/u0&gt; - 在开发环境中打开文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u11&gt;Don't search in Strings&lt;/u11&gt; : Any match that is found inside a literal string (in " ") is ignored.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T113127Z" creationid="漂流瓶儿" creationdate="20160801T113127Z">
@@ -3565,6 +3581,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T113234Z" creationid="漂流瓶儿" creationdate="20160801T113234Z">
         <seg>&lt;u13&gt;在选中内容中查找&lt;/u13&gt; ：只搜索选定的代码区域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;u2&gt;Open in FileViewer&lt;/u2&gt; - Open the file in the FileViewer of the IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151349Z" creationid="漂流瓶儿" creationdate="20160801T151349Z">
+        <seg>&lt;u2&gt;在文件浏览器中打开&lt;/u2&gt; - 在文件查看器中打开文件。在Explorer中打开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;u4&gt;Open in Explorer&lt;/u4&gt; - Open the file in the operating systems file manager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151421Z" creationid="漂流瓶儿" creationdate="20160801T151421Z">
+        <seg>&lt;u4&gt;在Explorer中打开&lt;/u4&gt; - 在操作系统的文件管理器中打开文件，它会调用扩展名所关连的程序打开它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4543,6 +4575,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121408Z" creationid="漂流瓶儿" creationdate="20160801T121408Z">
         <seg>双击结果窗口中的条目，开发环境 IDE 会打开该文件，并跳转到匹配代码行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-clicking on one of the files opens the file in the IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151235Z" creationid="漂流瓶儿" creationdate="20160801T151235Z">
+        <seg>双击其中一个文件，开发环境将会打开该文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7220,6 +7260,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-clicking displays a context menu with further options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151250Z" creationid="漂流瓶儿" creationdate="20160801T151250Z">
+        <seg>右键打开时显示一个菜单列表，内容如下图所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Same as "Compile with Debugger" except that it forces the debugger to be off for this compilation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T092819Z" creationid="plp" creationdate="20160730T092819Z">
@@ -9834,6 +9882,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T065640Z" creationid="漂流瓶儿" creationdate="20160801T065640Z">
         <seg>同样这个概念也应用于关键字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section shows all files in the project and their settings from the Project Options window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151221Z" creationid="漂流瓶儿" creationdate="20160801T151221Z">
+        <seg>此区域内显示了工程所包含的所有文件以及它们在工程选项框中的设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section shows some general info about the project, such as the project filename, its comments or when and where the project was last opened.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151148Z" creationid="漂流瓶儿" creationdate="20160801T151148Z">
+        <seg>本部分显示一些有关的项目一般信息，如项目文件名、它的注释以及该项目的最后一个打开的地方。</seg>
       </tuv>
     </tu>
     <tu>
