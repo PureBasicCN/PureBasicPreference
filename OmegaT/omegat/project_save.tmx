@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This is only possible if the included file is written as a literal string, and not through for example a constant.) &lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064631Z" creationid="plp" creationdate="20160801T064631Z">
+        <seg>（仅当引用的文件是文本字串而不是常数时）。&lt;br7&gt;&lt;/br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- 486, Pentium (Pro, II, III) support&lt;br39&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174634Z" creationid="MysticBoy" creationdate="20160723T174634Z">
@@ -4153,6 +4161,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the same way, if you double-click on an IncludeBinary statement, the IDE will try to display that file in the internal &lt;a9&gt;file viewer&lt;/a9&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064646Z" creationid="plp" creationdate="20160801T064646Z">
+        <seg>在同样的方式，如果你双击 IncludeBinary 语句，IDE 将尝试在内部&lt;a9&gt;文件查看器&lt;/a9&gt;中显示该文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this "plain text" mode, code-related features such as coloring, case correction, auto complete are disabled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020910Z" creationid="MysticBoy" creationdate="20160726T020910Z">
@@ -7861,16 +7877,16 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>When double-clicking on an &lt;a5&gt;IncludeFile&lt;/a5&gt; or &lt;a6&gt;XincludeFile&lt;/a6&gt; statement, the IDE will try to open that file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T100528Z" creationid="blues" creationdate="20160730T100528Z">
-        <seg>双击  &lt;a5&gt;IncludeFile&lt;/a5&gt; 或者 &lt;a6&gt;XincludeFile&lt;/a6&gt; 声明,  IDE 将试着打开声明所指向的文件.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064549Z" creationid="blues" creationdate="20160730T100528Z">
+        <seg>当鼠标双击引用文件  &lt;a5&gt;IncludeFile&lt;/a5&gt; 或者 &lt;a6&gt;XincludeFile&lt;/a6&gt; 时,  开发环境 IDE 将尝试打开该引用文件。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>When double-clicking on the name of a &lt;a2&gt;procedure&lt;/a2&gt; that is defined in the current source while holding down the Ctrl Key, the cursor automatically jumps to the declaration of this procedure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T100344Z" creationid="blues" creationdate="20160730T100344Z">
-        <seg>按住Ctrl键的同时，双击当前源码定义的&lt;a2&gt;procedure过程 （函数）&lt;/a2&gt; 名，光标自动跳到本函数的声明处.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064352Z" creationid="blues" creationdate="20160730T100344Z">
+        <seg>当按住 Ctrl 键的同时在当前源代码中定义的&lt;a2&gt;procedure 过程&lt;/a2&gt; 名称上双击时，光标会自动跳到此 procedure 过程的声明处。</seg>
       </tuv>
     </tu>
     <tu>
