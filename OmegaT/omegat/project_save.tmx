@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5657,6 +5657,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting blocks of code:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063122Z" creationid="plp" creationdate="20160801T063122Z">
+        <seg>代码选择块：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SerialPort</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T082241Z" creationid="lansn-lan" creationdate="20160729T082241Z">
@@ -6955,6 +6963,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The shortcut Ctrl+M (CMD+M on OSX) can be used to select the block of code that contains caret position (i.e. the surrounding If block, loop or procedure).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063326Z" creationid="plp" creationdate="20160801T063200Z">
+        <seg>快捷键 Ctrl + M (在 OSX系统中为 CMD + M ) 可以用于快速选择包含插入符号位置的代码块 (即周围的 If 块、 循环或过程)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The size with which the image will be drawn.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T050316Z" creationid="oSilas" creationdate="20151013T050316Z">
@@ -7085,8 +7101,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The used shortcut can be configured in the &lt;a0&gt;preferences&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T062933Z" creationid="plp" creationdate="20160801T062933Z">
-        <seg>使用的快捷方式可以在&lt;a0&gt;preferences&lt;/a0&gt;中配置。</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063207Z" creationid="plp" creationdate="20160801T062933Z">
+        <seg>使用的快捷键可以在&lt;a0&gt;preferences&lt;/a0&gt;中配置。</seg>
       </tuv>
     </tu>
     <tu>
