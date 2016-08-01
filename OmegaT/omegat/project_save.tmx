@@ -6268,6 +6268,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opens the selected file(s) in the file list in the IDE or if they are binary files in the FileViewer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145616Z" creationid="漂流瓶儿" creationdate="20160801T145616Z">
+        <seg>在 IDE 中打开文件列表中选定的文件，如果选中文件是二进制文件则在 FileViewer 打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options for building projects:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071829Z" creationid="MysticBoy" creationdate="20160728T071829Z">
@@ -7977,6 +7985,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T034437Z" creationid="oSilas" creationdate="20141128T034437Z">
         <seg>锥形渐变的中心坐标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The checkboxes on the bottom specify the options for the files in the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145756Z" creationid="漂流瓶儿" creationdate="20160801T145712Z">
+        <seg>页面正文复选框是项目中指定的文件的选项。</seg>
       </tuv>
     </tu>
     <tu>
