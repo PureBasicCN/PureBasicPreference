@@ -5441,6 +5441,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the y position on the screen of the given window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025323Z" creationid="MysticBoy" creationdate="20160801T025310Z">
+        <seg>返回指定窗口的屏幕上的 y 位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the year component of the date.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095313Z" creationid="blues" creationdate="20160730T095313Z">
