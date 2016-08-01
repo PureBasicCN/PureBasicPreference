@@ -4107,8 +4107,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>If the cursor is on a Keyword such as "If", the IDE will underline this keyword and all keywords that belong to it such as "Else" or "EndIf".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T065724Z" creationid="漂流瓶儿" creationdate="20160801T065724Z">
-        <seg>如果光标位于关键字，如"If"，IDE 将强调此关键字，如"Else"或"EndIf"属于它的所有关键字。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T065830Z" creationid="漂流瓶儿" creationdate="20160801T065724Z">
+        <seg>如果光标位于关键字，如 "If"，IDE 将强调此关键字，如 "Else" 或 "EndIf" 属于它的所有关键字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4149,6 +4149,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T110635Z" creationid="plp" creationdate="20160730T110635Z">
         <seg>如果版本不匹配，则将使用选定的编译器的独立调试器进行调试，以避免版本冲突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is a mismatch in the keywords it will be underlined in red.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T070008Z" creationid="漂流瓶儿" creationdate="20160801T070008Z">
+        <seg>如果有不匹配的关键字将以红色加下划线进行标注提醒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6037,6 +6045,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T090959Z" creationid="plp" creationdate="20160730T090959Z">
         <seg>此“编译/运行”选项遵从编译器选项及调试器（启用或禁用）的调试器设置（他们设置相同）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The "Goto matching Keyword" menu entry described below can be used to quickly move between the matching keywords.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T070114Z" creationid="漂流瓶儿" creationdate="20160801T070114Z">
+        <seg>"转到匹配的关键字" 菜单项可以用于匹配关键字之间快速移动。</seg>
       </tuv>
     </tu>
     <tu>
