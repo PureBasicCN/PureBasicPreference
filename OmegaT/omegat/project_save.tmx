@@ -6684,6 +6684,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the section on &lt;a5&gt;command-line options&lt;/a5&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T124908Z" creationid="漂流瓶儿" creationdate="20160801T124908Z">
+        <seg>请查看 &lt;a5&gt;命令行选项 command-line options&lt;/a5&gt; 了解更多详情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selecting a file in this submenu will open it again.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022156Z" creationid="MysticBoy" creationdate="20160726T022156Z">
@@ -9010,6 +9018,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T134905Z">
         <seg>要结合红、绿、蓝和Alpha值的顺序创建一个32位颜色，那么轻使用 &lt;a0&gt;RGBA()&lt;/a0&gt; 函数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To compile a project from a script or makefile, the IDE provides command-line options to compile a project without opening a user interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T124743Z" creationid="漂流瓶儿" creationdate="20160801T124743Z">
+        <seg>编译一个项目从一个脚本或生成文件，开发环境 IDE 提供了编译脚本或 Makefile 命令，使你无需打开用户界面通过命令行选项来编译工程项目。</seg>
       </tuv>
     </tu>
     <tu>
