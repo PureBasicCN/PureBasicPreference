@@ -2262,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b2&gt;&lt;f3&gt;Debug&lt;/f3&gt;&lt;/b2&gt; d   &lt;f4&gt;; will output 4&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T083258Z" creationid="lansn-lan" creationdate="20160801T083258Z">
+        <seg>&lt;b2&gt;&lt;f3&gt;Debug&lt;/f3&gt;&lt;/b2&gt; d   &lt;f4&gt;; 将输出 4&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b2&gt;Run only one Instance&lt;/b2&gt; &lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T051040Z" creationid="oSilas" creationdate="20151013T051040Z">
