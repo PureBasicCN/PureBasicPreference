@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(*.* or an empty extension field searches all files).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121010Z" creationid="漂流瓶儿" creationdate="20160801T121010Z">
+        <seg>(使用 *.* 或不填内容会对所有文件进行搜索 )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This is only possible if the included file is written as a literal string, and not through for example a constant.) &lt;br7&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064631Z" creationid="plp" creationdate="20160801T064631Z">
@@ -3559,6 +3567,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112201Z">
         <seg>调用此函数后控制台上打印的所有字符都将使用您新指定的颜色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any number of filters can be given separated by ",".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T120906Z" creationid="漂流瓶儿" creationdate="20160801T120906Z">
+        <seg>可以使用“,”来对多种文件类型进行设定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9334,6 +9350,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can customize the searched files by specifying extension filters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T120755Z" creationid="漂流瓶儿" creationdate="20160801T120755Z">
+        <seg>您可以通过指定扩展名过滤器设定搜索的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can edit multiple source code files at the same time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020251Z" creationid="MysticBoy" creationdate="20160726T020251Z">
@@ -9386,6 +9410,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T075346Z" creationid="漂流瓶儿" creationdate="20160801T075237Z">
         <seg>然后你可以通过上下方向键（UP / DOWN键）进行选择，按Tab键自动完成插入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have to specify a search keyword, as well as a base directory ("root directory") in which to search.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T120726Z" creationid="漂流瓶儿" creationdate="20160801T120726Z">
+        <seg>你必须指定一个搜索关键字，以及一个搜索目录（“根目录”）来进行搜索。</seg>
       </tuv>
     </tu>
     <tu>
