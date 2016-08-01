@@ -6,6 +6,7 @@
 4、OmegaT文件夹是翻译项目的文件夹， 所有你翻译的内容都在这里保存， 包括词典等等，最终生成target_dir 文件夹都是依赖于此文件夹的内容来自动生成的。
 #翻译工具
  请使用OmegaT打开项目来进行翻译。 我们每隔一段时间会自动更新一次 [http://www.purebasic.cn/  ](http://www.purebasic.cn/  ) 中的内容。工具可以从OmegaT官网下载 也可以从 https://git.oschina.net/PureBasic/PureBasicPreference/attach_files  中下载
+  关于如何使用 微软的机器翻译 请参见  [Microsoft-Translator](http://https://git.oschina.net/PureBasic/PureBasicPreference/wikis/Microsoft-Translator-%E9%85%8D%E7%BD%AE)
 ### 软件使用视频教程
  -  优酷在线视频视频教程   [http://v.youku.com/v_show/id_XMTY1ODczMDc2OA==.html](http://v.youku.com/v_show/id_XMTY1ODczMDc2OA==.html)
  -  腾讯视频教程       [http://v.qq.com/x/page/u0316s3ctnr.html](http://v.qq.com/x/page/u0316s3ctnr.html)
