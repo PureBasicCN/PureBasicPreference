@@ -5307,6 +5307,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It makes it easier to write specific code, as simple names can be reused within each module without risk of conflict.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T134618Z" creationid="漂流瓶儿" creationdate="20160801T134618Z">
+        <seg>这使得它更易于编写一些指定的代码，而不用考虑可以重复的简单名称会在模块中发生冲突的风险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It must have the following form:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T035040Z" creationid="oSilas" creationdate="20141128T035040Z">
@@ -5367,6 +5375,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053813Z" creationid="MysticBoy" creationdate="20160726T053813Z">
         <seg>它的目的不是要取代像 SVN 或 GIT这样真正的源代码版本控制系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Items allowed in the &lt;b11&gt;&lt;f12&gt;DeclareModule&lt;/f12&gt;&lt;/b11&gt; section can be the following: procedure (only procedure declaration allowed), structure, macro, variable, constant, enumeration, array, list, map and label.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T134848Z" creationid="漂流瓶儿" creationdate="20160801T134848Z">
+        <seg> &lt;b11&gt;&lt;f12&gt;DeclareModule&lt;/f12&gt;&lt;/b11&gt; 部分中允许以下项目（成员） ：函数(仅允许函数声明)、结构、宏、变量、常量、举枚、数组、链表、映射和签标。</seg>
       </tuv>
     </tu>
     <tu>
