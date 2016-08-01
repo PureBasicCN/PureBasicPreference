@@ -2088,8 +2088,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;New Project&lt;/b0&gt; &lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T125244Z" creationid="漂流瓶儿" creationdate="20160801T125244Z">
-        <seg>&lt;b0&gt;新建工程&lt;/b0&gt; &lt;br1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130021Z" creationid="漂流瓶儿" creationdate="20160801T125244Z">
+        <seg>&lt;b0&gt;新建项目&lt;/b0&gt; &lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5788,6 +5788,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opens an existing project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130033Z" creationid="漂流瓶儿" creationdate="20160801T130033Z">
+        <seg>打开现有项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options for building projects:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071829Z" creationid="MysticBoy" creationdate="20160728T071829Z">
@@ -7215,8 +7223,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The Project menu</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T125234Z" creationid="漂流瓶儿" creationdate="20160801T125234Z">
-        <seg>工程菜单</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130016Z" creationid="漂流瓶儿" creationdate="20160801T125234Z">
+        <seg>项目菜单</seg>
       </tuv>
     </tu>
     <tu>
