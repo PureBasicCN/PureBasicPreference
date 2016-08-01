@@ -2190,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;load all sources that where open last time&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144229Z" creationid="漂流瓶儿" creationdate="20160801T144229Z">
+        <seg>&lt;b0&gt;加载最后一次打开的所有代码&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b10&gt;Comments&lt;/b10&gt; &lt;br11&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143623Z" creationid="漂流瓶儿" creationdate="20160801T143623Z">
@@ -2687,6 +2695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b4&gt;load all sources of the project&lt;/b4&gt; &lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144328Z" creationid="漂流瓶儿" creationdate="20160801T144328Z">
+        <seg>&lt;b4&gt;加载项目所有代码&lt;/b4&gt;&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b52&gt;Toggle current fold&lt;/b52&gt; &lt;br53&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085921Z" creationid="漂流瓶儿" creationdate="20160801T085921Z">
@@ -2845,6 +2861,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130450Z" creationid="漂流瓶儿" creationdate="20160801T130450Z">
         <seg>&lt;b8&gt;最近项目&lt;/b8&gt; &lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b8&gt;load only sources marked in 'Project Files'&lt;/b8&gt; &lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144448Z" creationid="漂流瓶儿" creationdate="20160801T144448Z">
+        <seg>&lt;b8&gt;仅加载标记的项目文件&lt;/b8&gt;&lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9994,6 +10018,30 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T065208Z" creationid="plp" creationdate="20160801T065024Z">
         <seg>当光标位于左括号或右括号上时，IDE 将突出显示并自动匹配此括号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the project is opened, all (source-)files of the project will be opened.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144357Z" creationid="漂流瓶儿" creationdate="20160801T144357Z">
+        <seg>当打开该项目时，将打开该项目的所有（代码）文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the project is opened, all the sources that were open when the project was closed will be opened again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144245Z" creationid="漂流瓶儿" creationdate="20160801T144245Z">
+        <seg>当打开该项目时，会再次打开该项目被关闭时其中打开的所有来代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the project is opened, only the files that are marked in the 'Project Files' tab will be opened.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144458Z" creationid="漂流瓶儿" creationdate="20160801T144458Z">
+        <seg>当打开该项目时，将打开只标记项目文件选项卡中的文件。</seg>
       </tuv>
     </tu>
     <tu>
