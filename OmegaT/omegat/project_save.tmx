@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Reference manual&lt;/a0&gt; | &lt;a1&gt;Next: First steps &gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T075227Z" creationid="lansn-lan" creationdate="20160801T075227Z">
+        <seg>&lt;a0&gt;手册首页l&lt;/a0&gt; | &lt;a1&gt;下一篇：  第一步 &gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a10&gt;'Include' Functions&lt;/a10&gt;&lt;br11&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083604Z" creationid="MysticBoy" creationdate="20160720T083604Z">
