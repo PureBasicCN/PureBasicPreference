@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;WindowVectorOutput()&lt;/a0&gt; - &lt;a1&gt;Window Index&lt;/a1&gt; - &lt;a2&gt;WindowX()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025804Z" creationid="MysticBoy" creationdate="20160801T025804Z">
+        <seg>&lt;- &lt;a0&gt;WindowVectorOutput()&lt;/a0&gt; - &lt;a1&gt;Window 索引&lt;/a1&gt; - &lt;a2&gt;WindowX()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;WindowWidth()&lt;/a0&gt; - &lt;a1&gt;Window Index&lt;/a1&gt; - &lt;a2&gt;WindowY()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025613Z" creationid="MysticBoy" creationdate="20160801T025613Z">
@@ -2351,6 +2359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_Window_InnerCoordinate&lt;/f0&gt;: width of the window inner area (where gadget can be added),</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025728Z" creationid="MysticBoy" creationdate="20160801T025728Z">
+        <seg>&lt;f0&gt;#PB_Window_InnerCoordinate&lt;/f0&gt;︰ 窗口内区域 （在这里可以添加小工具）宽度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;b1&gt;FANTAISIE SOFTWARE&lt;/b1&gt;&lt;/f0&gt; &lt;br2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084518Z" creationid="MysticBoy" creationdate="20160725T084518Z">
@@ -2467,6 +2483,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065320Z" creationid="lansn-lan" creationdate="20160729T065320Z">
         <seg>&lt;f1&gt;#PB_SerialPort_RTS&lt;/f1&gt;︰ 设置 RTS 信号状态 （值可以是 0 或 1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_Window_FrameCoordinate&lt;/f1&gt;: width of the window, including borders.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025756Z" creationid="MysticBoy" creationdate="20160801T025756Z">
+        <seg>&lt;f1&gt;#PB_Window_FrameCoordinate&lt;/f1&gt;︰ 窗口包括边框的宽度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4329,6 +4353,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will use the PureBasic &lt;a0&gt;VectorDrawing library&lt;/a0&gt; and can only be used within a &lt;a1&gt;StartVectorDrawing()&lt;/a1&gt; / &lt;a2&gt;StopVectorDrawing()&lt;/a2&gt; block.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025918Z" creationid="MysticBoy" creationdate="20160801T025918Z">
+        <seg>它将使用 PureBasic &lt;a0&gt;VectorDrawing 库&lt;/a0&gt;，并且只能使用在&lt;a1&gt;StartVectorDrawing()&lt;/a1&gt; / &lt;a2&gt;StopVectorDrawing()&lt;/a2&gt;之间的块中使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's complementary to have finer change trace.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053828Z" creationid="MysticBoy" creationdate="20160726T053828Z">
@@ -5201,6 +5233,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the OutputID of the given window to perform vector drawing operations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025829Z" creationid="MysticBoy" creationdate="20160801T025829Z">
+        <seg>返回给定窗口的 OutputID 来执行矢量绘图操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the address of the pixel data if direct access is possible or zero if the pixel data cannot be accessed directly.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T042510Z" creationid="oSilas" creationdate="20150312T042510Z">
@@ -5453,6 +5493,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070218Z" creationid="blues" creationdate="20160730T070218Z">
         <seg>返回指定日期的工作日&lt;星期几&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns the width (in pixels) of the given window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025703Z" creationid="MysticBoy" creationdate="20160801T025703Z">
+        <seg>返回给定窗口的宽度 （以像素为单位）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6607,6 +6655,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162632Z" creationid="MysticBoy" creationdate="20160723T162632Z">
         <seg>菜单命令在其他章节中解释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mode used to calculate the width of the window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025715Z" creationid="MysticBoy" creationdate="20160801T025715Z">
+        <seg>用于计算窗口宽度的模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7919,6 +7975,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071554Z" creationid="MysticBoy" creationdate="20160728T071554Z">
         <seg>显示的命令行参数的描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>excluding borders (default).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025739Z" creationid="MysticBoy" creationdate="20160801T025739Z">
+        <seg>不包括边框 （默认值）。</seg>
       </tuv>
     </tu>
     <tu>
