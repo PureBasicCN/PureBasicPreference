@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3225,6 +3225,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By clicking again, the code will again be shown ("unfolded") again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T073140Z" creationid="漂流瓶儿" creationdate="20160801T073140Z">
+        <seg>再次点击，则代码将再次展开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By clicking on the [-], you can hide ("fold") that section of source code to keep a better overview of larger source files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T072855Z" creationid="漂流瓶儿" creationdate="20160801T071953Z">
@@ -4817,6 +4825,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: Even though the state of these folded code lines is remembered when you save/reopen the file, the actual created code file always contains all lines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T073349Z" creationid="漂流瓶儿" creationdate="20160801T073349Z">
+        <seg>注意：尽管这些代码折叠线的状态，当你保存/打开文件被记住，实际创建的代码文件总是包含所有行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: The &lt;f2&gt;#PB_2DDrawing_CustomFilter&lt;/f2&gt; &lt;a3&gt;drawing mode&lt;/a3&gt; only works on &lt;a4&gt;ImageOutput()&lt;/a4&gt; and &lt;a5&gt;CanvasOutput()&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040643Z" creationid="oSilas" creationdate="20141128T040643Z">
@@ -6348,8 +6364,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The [-] will turn into a [+].</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T073008Z" creationid="漂流瓶儿" creationdate="20160801T073008Z">
-        <seg> [-] 会变成 [+]。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T073334Z" creationid="漂流瓶儿" creationdate="20160801T073008Z">
+        <seg>当点击 [-]，则该部分代码会折叠起来，开头标志变成 [+]。</seg>
       </tuv>
     </tu>
     <tu>
