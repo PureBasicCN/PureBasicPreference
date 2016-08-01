@@ -2639,6 +2639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b56&gt;&lt;f57&gt;UseModule&lt;/f57&gt;&lt;/b56&gt; Ferrari &lt;f58&gt;; Now import all public item directly in the main program scope&lt;/f58&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T142343Z" creationid="漂流瓶儿" creationdate="20160801T142343Z">
+        <seg>&lt;b56&gt;&lt;f57&gt;UseModule&lt;/f57&gt;&lt;/b56&gt; Ferrari &lt;f58&gt;; 现在，直接在主程序范围内接入所有公共项目（成员）&lt;/f58&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b56&gt;Toggle all Folds&lt;/b56&gt; &lt;br57&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T090008Z" creationid="漂流瓶儿" creationdate="20160801T090008Z">
