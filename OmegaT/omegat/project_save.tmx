@@ -3419,6 +3419,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A module can be seen as a blackbox, an empty code sheet where item names can not conflict with the main code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T134312Z" creationid="漂流瓶儿" creationdate="20160801T134312Z">
+        <seg>对于主程代码来说，模块可以看作是沙盒，空空如野的代码表的项目名称不会与主代码引起冲突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A module must have a &lt;b0&gt;&lt;f1&gt;DeclareModule&lt;/f1&gt;&lt;/b0&gt; section (which is the public interface) and an associated &lt;b2&gt;&lt;f3&gt;Module&lt;/f3&gt;&lt;/b2&gt; section (which is the implementation).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T133338Z" creationid="漂流瓶儿" creationdate="20160801T133338Z">
