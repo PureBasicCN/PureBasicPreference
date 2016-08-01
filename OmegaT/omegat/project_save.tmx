@@ -5363,6 +5363,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Items from main code like procedures, variables etc. won't be accessible inside the module, even if they are &lt;a8&gt;global&lt;/a8&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T134008Z" creationid="漂流瓶儿" creationdate="20160801T134008Z">
+        <seg>主要代码项目像程序、变量等即使是&lt;a8&gt;全局 global&lt;/a8&gt;声明过，也不能访问模块内部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just select "Compile/Run" (F5 by default) and your program will be compiled and executed for a testing run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T080553Z" creationid="plp" creationdate="20160728T111413Z">
