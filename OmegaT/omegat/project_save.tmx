@@ -3611,6 +3611,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All the code put in the &lt;b6&gt;&lt;f7&gt;Module&lt;/f7&gt;&lt;/b6&gt; section will be kept private to this module.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T133724Z" creationid="漂流瓶儿" creationdate="20160801T133724Z">
+        <seg>而在&lt;b6&gt;&lt;f7&gt;Module&lt;/f7&gt;&lt;/b6&gt;部分内的所有代码，将都严格保护在模块内部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All tools are provided in the full package.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174614Z" creationid="MysticBoy" creationdate="20160723T174614Z">
