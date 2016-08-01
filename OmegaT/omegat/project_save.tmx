@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3073,6 +3073,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A list of options is also displayed when you typed a structured variable or interface followed by a "\".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T075127Z" creationid="漂流瓶儿" creationdate="20160801T075127Z">
+        <seg>当你输入一个结构变量或接口后跟一个“\”会自动显示其子类选项列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mask string which defines how the date string is formatted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094401Z" creationid="blues" creationdate="20160730T094401Z">
@@ -3205,6 +3213,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083338Z" creationid="MysticBoy" creationdate="20160720T083338Z">
         <seg>高级关键词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After you have typed the beginning of a command, a list of possible matches to the word start you have just typed will be displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T075026Z" creationid="漂流瓶儿" creationdate="20160801T075026Z">
+        <seg>在你键入命令的开头几个字符后，一个以此匹配的关键字列表将会显示出来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8599,6 +8615,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140458Z" creationid="MysticBoy" creationdate="20160723T140458Z">
         <seg>您可以与位于正上方的选项卡之间进行切换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can then select one of these words with the up/down keys and insert it at the point you are by pressing the Tab key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T075237Z" creationid="漂流瓶儿" creationdate="20160801T075237Z">
+        <seg>然后你可以通过上下方向键（UP / DOWN键），你是按Tab键点插入。</seg>
       </tuv>
     </tu>
     <tu>
