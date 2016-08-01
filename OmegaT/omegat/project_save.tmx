@@ -3569,6 +3569,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u0&gt;Edit target&lt;/u0&gt; - Open the target in the compiler options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151839Z" creationid="漂流瓶儿" creationdate="20160801T151839Z">
+        <seg>&lt;u0&gt;编辑目标&lt;/u0&gt; - 在编译选项中打开该目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u0&gt;Open&lt;/u0&gt; - Open the file in the IDE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151313Z" creationid="漂流瓶儿" creationdate="20160801T151313Z">
@@ -3605,6 +3613,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151349Z" creationid="漂流瓶儿" creationdate="20160801T151349Z">
         <seg>&lt;u2&gt;在文件浏览器中打开&lt;/u2&gt; - 在文件查看器中打开文件。在Explorer中打开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;u2&gt;Set as default target&lt;/u2&gt; - Set this target as the default target.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151856Z" creationid="漂流瓶儿" creationdate="20160801T151856Z">
+        <seg>&lt;u2&gt;设为默认的目标&lt;/u2&gt; - 设置选中的目标为默认目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;u4&gt;Enable in 'Build all Targets'&lt;/u4&gt; - Include this target in the 'Build all Targets' compiler menu option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151919Z" creationid="漂流瓶儿" creationdate="20160801T151919Z">
+        <seg>&lt;u4&gt;启用'生成所有目标' &lt;/u4&gt; - 在生成所有目标编译选项中包含此目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4619,6 +4643,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-clicking on one of the targets opens this target in the &lt;a2&gt;compiler options&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151756Z" creationid="漂流瓶儿" creationdate="20160801T151756Z">
+        <seg>双击其中之一会在&lt;a2&gt;编译选项 compiler options&lt;/a2&gt;中打开该目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-clicking on source text:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064033Z" creationid="blues" creationdate="20160730T095650Z">
@@ -4951,6 +4983,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085429Z" creationid="漂流瓶儿" creationdate="20160801T085429Z">
         <seg>例如，如果你使用跳转功能切换代码行，或者使用&lt;a47&gt;浏览器程序 Procedure Browser&lt;/a47&gt;工具切换代码行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information see the &lt;a0&gt;built-in tools&lt;/a0&gt; section.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T152025Z" creationid="漂流瓶儿" creationdate="20160801T152025Z">
+        <seg>详情请查看 &lt;a0&gt;内置工具组 built-in tools&lt;/a0&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7300,6 +7340,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-clicking on one of the targets displays a context menu with further options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151820Z" creationid="漂流瓶儿" creationdate="20160801T151820Z">
+        <seg>右击其中之一会显示一个右键菜单列表：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Same as "Compile with Debugger" except that it forces the debugger to be off for this compilation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T092819Z" creationid="plp" creationdate="20160730T092819Z">
@@ -8942,6 +8990,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The project panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151929Z" creationid="漂流瓶儿" creationdate="20160801T151929Z">
+        <seg>项目面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The radius of the circle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041245Z" creationid="oSilas" creationdate="20141122T041245Z">
@@ -9274,6 +9330,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T110839Z" creationid="MysticBoy" creationdate="20160721T110839Z">
         <seg>这样就没有类似虚拟机或者代码解释器之类的性能瓶颈，生成的代码都针对这个操作系统编译的高度优化后的可执行文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is a sidepanel tool which allows quick access to the files belonging to the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151957Z" creationid="漂流瓶儿" creationdate="20160801T151957Z">
+        <seg>在边侧工具面板中的工程板块中会列出工程的所有文件，以方便访问。.</seg>
       </tuv>
     </tu>
     <tu>
