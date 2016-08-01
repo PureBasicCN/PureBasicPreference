@@ -6076,6 +6076,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opens the folder that contains the project file in whatever file manager is available on the system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143209Z" creationid="漂流瓶儿" creationdate="20160801T143209Z">
+        <seg>用系统中的文件管理器打开包含项目文件的文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Opens the project options window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T131127Z" creationid="漂流瓶儿" creationdate="20160801T131127Z">
@@ -8118,6 +8126,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following settings can be made on the "Project Options" tab: &lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143503Z" creationid="漂流瓶儿" creationdate="20160801T143503Z">
+        <seg>在 "项目选项" 页可以进行以下设置：&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following tokens in the mask string will be replaced according to the given date:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071040Z" creationid="blues" creationdate="20160730T071040Z">
@@ -8138,6 +8154,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043959Z" creationid="oSilas" creationdate="20150312T043959Z">
         <seg>要使用的字体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The general project settings as well as the settings for the individual files in the project can me made here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143339Z" creationid="漂流瓶儿" creationdate="20160801T143339Z">
+        <seg>常规项目设置，以及项目中的个别文件的设置可以在这里进行设定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8434,6 +8458,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T123456Z" creationid="漂流瓶儿" creationdate="20160801T123456Z">
         <seg>关闭该项目时，该工程管理功能会记住打开时的源文件状态，并在下一次重新打开工程时停在你上次工作的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The project options window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143230Z" creationid="漂流瓶儿" creationdate="20160801T143230Z">
+        <seg>项目选项窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The project options window is the central configuration for the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143253Z" creationid="漂流瓶儿" creationdate="20160801T143253Z">
+        <seg>项目选项窗口是项目的核心配置内容。</seg>
       </tuv>
     </tu>
     <tu>
