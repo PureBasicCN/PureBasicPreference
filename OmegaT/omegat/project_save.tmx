@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3297,6 +3297,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto complete:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T074628Z" creationid="漂流瓶儿" creationdate="20160801T074628Z">
+        <seg>自动完成：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic Keywords</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083303Z" creationid="MysticBoy" creationdate="20160720T083303Z">
@@ -4219,8 +4227,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>However, they provide the possibility to place custom fold points that do not correspond to a specific PB keyword.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T074452Z" creationid="漂流瓶儿" creationdate="20160801T074452Z">
-        <seg>然而，它们却提供了将不对应于特定的PB关键字定制折点的可能性。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T074620Z" creationid="漂流瓶儿" creationdate="20160801T074452Z">
+        <seg>然而，它们提供了一个自定义折叠区间的功能，却不用自定义折叠关键字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6141,6 +6149,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101624Z" creationid="MysticBoy" creationdate="20160721T101624Z">
         <seg>跳至内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So that you do not have to remember the exact name of every command, there is the Auto complete feature to make things easier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T074818Z" creationid="漂流瓶儿" creationdate="20160801T074818Z">
+        <seg>有自动完成功能，你就不必记住每一个命令的完整名称，使事情变得非常简单。</seg>
       </tuv>
     </tu>
     <tu>
