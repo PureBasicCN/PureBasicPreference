@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -666,6 +666,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070535Z" creationid="blues" creationdate="20160730T070535Z">
         <seg>2 : Tuesday【星期二】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>20 such past cursor positions are remembered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085548Z" creationid="漂流瓶儿" creationdate="20160801T085548Z">
+        <seg>最多保存20个历史指针位置信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4258,6 +4266,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example if you switch to a different line with the above Goto function, or with the &lt;a47&gt;Procedure Browser&lt;/a47&gt; tool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085429Z" creationid="漂流瓶儿" creationdate="20160801T085429Z">
+        <seg>例如，如果你使用跳转功能切换代码行，或者使用&lt;a47&gt;浏览器程序 Procedure Browser&lt;/a47&gt;工具切换代码行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information, refer to Windows's ODBC help document.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T033408Z" creationid="MysticBoy" creationdate="20160726T033408Z">
@@ -6781,8 +6797,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The IDE keeps track of the lines you view.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085208Z" creationid="漂流瓶儿" creationdate="20160801T085208Z">
-        <seg>开发环境 IDE 会返回到你浏览当前行前的历史keeps track of the lines you view.</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085245Z" creationid="漂流瓶儿" creationdate="20160801T085208Z">
+        <seg>开发环境 IDE 会返回到你浏览当前行前的代码行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8928,6 +8944,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043021Z" creationid="oSilas" creationdate="20150312T043021Z">
         <seg>&lt;a8&gt;ImageOutput()&lt;/a8&gt;与此命令允许直接访问目标图像的像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this menu option you can jump back to the previous position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085451Z" creationid="漂流瓶儿" creationdate="20160801T085451Z">
+        <seg>通过此菜单选项，您可以跳回到以前历史的位置行。</seg>
       </tuv>
     </tu>
     <tu>
