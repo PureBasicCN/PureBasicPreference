@@ -5804,6 +5804,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: modules are not mandatory in PureBasic but are recommended when building big projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T141205Z" creationid="漂流瓶儿" creationdate="20160801T141205Z">
+        <seg>注意︰ PureBasic 不是强制性的使用模块  但当创建大项目时建议使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: supported date/time values are 1970-01-01, 00:00:00 for the minimum and 2038-01-19, 03:14:07 for the maximum.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T053150Z" creationid="blues" creationdate="20160730T053117Z">
@@ -8730,6 +8738,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054200Z" creationid="MysticBoy" creationdate="20160726T054200Z">
         <seg>这些将在内部&lt;a8&gt;文件查看器&lt;/a8&gt;中显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They help to build more maintainable code, even if it is slightly more verbose than module-free code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T141339Z" creationid="漂流瓶儿" creationdate="20160801T141339Z">
+        <seg>他有助于构建易于维护的代码，即使它是比无模块的代码稍微显得有些累赘。</seg>
       </tuv>
     </tu>
     <tu>
