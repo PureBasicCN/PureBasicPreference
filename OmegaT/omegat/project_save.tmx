@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2531,6 +2531,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140515Z" creationid="MysticBoy" creationdate="20160723T140515Z">
         <seg>&lt;b4&gt;工具面板&lt;/b4&gt; （默认情况下在右侧） &lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b52&gt;Toggle current fold&lt;/b52&gt; &lt;br53&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085921Z" creationid="漂流瓶儿" creationdate="20160801T085921Z">
+        <seg>&lt;b52&gt;切换当前折叠&lt;/b52&gt; &lt;br53&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5250,6 +5258,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not if you just move up/down a few lines with the cursor keys.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085850Z" creationid="漂流瓶儿" creationdate="20160801T085850Z">
+        <seg>而不是记录像上下左右键这样的小动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that many of the Edit menu items are also accessible by right clicking on the source code, which opens a popup menu.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081705Z" creationid="漂流瓶儿" creationdate="20160801T081705Z">
@@ -5262,6 +5278,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T084241Z" creationid="plp" creationdate="20160730T084241Z">
         <seg>请注意，这种兼容不会无限期地保持，软件会在以后的更新中移除这些旧函数，因此建议更新并修复导致编译器警告的代码，而不是依赖于软件过渡过程中对旧函数的兼容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that this only records greater jumps in the code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085759Z" creationid="漂流瓶儿" creationdate="20160801T085738Z">
+        <seg>请注意，这里只记录大位置跳跃信息，</seg>
       </tuv>
     </tu>
     <tu>
