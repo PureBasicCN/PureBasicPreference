@@ -8478,6 +8478,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is really useful only together with the "Replace All" button, in which case it will replace any found match, but only inside the selected region.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T113408Z" creationid="漂流瓶儿" creationdate="20160801T113408Z">
+        <seg>这确实很有用，如果和“全部替换”按钮相配合，在这种情况下，它只会在选择的区域内替换匹配内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the correct way to ensure a serial port is ready to use.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044302Z" creationid="lansn-lan" creationdate="20160729T044001Z">
