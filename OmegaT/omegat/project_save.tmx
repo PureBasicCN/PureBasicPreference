@@ -2102,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Be aware, that in PureBasic the value of &lt;expression2&gt; ('To' value) can also be changed inside the For : Next loop.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160801T143448Z" creationid="jane" creationdate="20160801T143448Z">
+        <seg>&lt;b0&gt;注意:&lt;/b0&gt; Be aware, that in PureBasic the value of &lt;expression2&gt; ('To' value) can also be changed inside the For : Next loop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;PureBasic Chat&lt;/b0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105152Z" creationid="MysticBoy" creationdate="20160721T105152Z">
@@ -4955,6 +4963,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If another variable, is used the compiler will generate an error.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160801T143537Z" creationid="jane" creationdate="20160801T143537Z">
+        <seg>如果使用另一个变量，则编译器将生成一个错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any text is selected before this, it will be removed and replaced with the content of the Clipboard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083503Z" creationid="漂流瓶儿" creationdate="20160801T083503Z">
@@ -5367,6 +5383,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T050952Z" creationid="lansn-lan" creationdate="20160729T050952Z">
         <seg>它可以是下列值之一︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be useful to nest several "For/Next" loops.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160801T143517Z" creationid="jane" creationdate="20160801T143517Z">
+        <seg>它可以用于嵌套"For/Next" 循环.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8882,6 +8906,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T031501Z" creationid="oSilas" creationdate="20141128T031501Z">
         <seg>可以是一个24位RGB或32位的RGBA值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can lead to endless loops when wrongly used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160801T143426Z" creationid="jane" creationdate="20160801T143426Z">
+        <seg>用错时这可能导致无限循环。</seg>
       </tuv>
     </tu>
     <tu>
