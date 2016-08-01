@@ -5538,6 +5538,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or to quickly see the whole code again when some of the code is folded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T090557Z" creationid="漂流瓶儿" creationdate="20160801T090557Z">
+        <seg>或快速查看有多处折叠项的完整代码时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ordering</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054904Z" creationid="MysticBoy" creationdate="20160721T054904Z">
@@ -8792,6 +8800,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083431Z" creationid="MysticBoy" creationdate="20160720T083431Z">
         <seg>各种主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very useful to for example hide all procedures in the code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T090436Z" creationid="漂流瓶儿" creationdate="20160801T090436Z">
+        <seg>这非常有用的，例如收缩代码中的所有折叠项。</seg>
       </tuv>
     </tu>
     <tu>
