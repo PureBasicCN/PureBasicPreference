@@ -3611,6 +3611,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As with "Find/Replace", there are checkboxes to make the search more specific.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121042Z" creationid="漂流瓶儿" creationdate="20160801T121042Z">
+        <seg>如“查找/替换”一样，这里也有复选框，使搜索更加明确。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto complete:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T074628Z" creationid="漂流瓶儿" creationdate="20160801T074628Z">
@@ -6924,6 +6932,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The "Include sub-directories" checkbox makes it search (recursively) inside any subdirectory of the given root directory too.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121142Z" creationid="漂流瓶儿" creationdate="20160801T121142Z">
+        <seg>“包含子目录”复选框，会搜索指定目录下的所有子目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The "Insert" key controls whether text is inserted or overwritten.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T055713Z" creationid="blues" creationdate="20160729T132331Z">
@@ -9170,6 +9186,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T071351Z" creationid="漂流瓶儿" creationdate="20160801T071259Z">
         <seg>当遇到指定的可折叠关键字时 (默认是 &lt;b0&gt;&lt;f1&gt;Procedure 过程&lt;/f1&gt;&lt;/b0&gt; / &lt;b2&gt;&lt;f3&gt;EndProcedure&lt;/f3&gt;&lt;/b2&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When starting the search, a separate window will be opened displaying the search results, giving the file, line number as well as the matched line of each result.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121317Z" creationid="漂流瓶儿" creationdate="20160801T121317Z">
+        <seg>当开始搜索时，将会显示一个搜索结果列表窗口，其中有文件名及匹配内容的行号。</seg>
       </tuv>
     </tu>
     <tu>
