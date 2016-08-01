@@ -4147,6 +4147,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-clicking on an entry in the result window opens that file in the IDE and jumps to the selected result line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121408Z" creationid="漂流瓶儿" creationdate="20160801T121408Z">
+        <seg>双击结果窗口中的条目，开发环境 IDE 会打开该文件，并跳转到匹配代码行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-clicking on source text:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064033Z" creationid="blues" creationdate="20160730T095650Z">
