@@ -1806,6 +1806,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Example:&lt;/b0&gt; With default type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065730Z" creationid="MysticBoy" creationdate="20160801T065730Z">
+        <seg>&lt;b0&gt;示例︰&lt;/b0&gt;默认类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Example:&lt;/b0&gt; With variables</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065734Z" creationid="MysticBoy" creationdate="20160801T065721Z">
+        <seg>&lt;b0&gt;示例︰&lt;/b0&gt;变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Main source file&lt;/b0&gt; &lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T104204Z" creationid="plp" creationdate="20160730T103829Z">
@@ -2395,6 +2411,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025728Z" creationid="MysticBoy" creationdate="20160801T025728Z">
         <seg>&lt;f0&gt;#PB_Window_InnerCoordinate&lt;/f0&gt;︰ 窗口内区域 （在这里可以添加小工具）宽度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;; 'Angle' and 'Position' will be a float, as they didn't have a specified type&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065759Z" creationid="MysticBoy" creationdate="20160801T065759Z">
+        <seg>&lt;f0&gt;'Angle' 和 'Position' 将是一个浮点数，因为他们没有指定类型&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4179,8 +4203,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>In order to use local variables within a procedure, which have the same name as global variables, take a look at the &lt;a16&gt;Protected&lt;/a16&gt; and &lt;a17&gt;Static&lt;/a17&gt; keywords.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065527Z" creationid="MysticBoy" creationdate="20160801T065527Z">
-        <seg>为了使用局部变量的过程内, 有全局变量的名称相同，看看&lt;a16&gt;被保护&lt;/a16&gt;和&lt;a17&gt;静态&lt;/a17&gt;关键字。</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065655Z" creationid="MysticBoy" creationdate="20160801T065527Z">
+        <seg>针对过程内部使用的局部变量, 有和全局变量名称相同的，请查看&lt;a16&gt;Protected&lt;/a16&gt;和&lt;a17&gt;Static&lt;/a17&gt;关键字。</seg>
       </tuv>
     </tu>
     <tu>
