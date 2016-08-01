@@ -5737,6 +5737,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Similar to the special tab behavior above, the keyboard shortcuts Ctrl+E and Ctrl+Shift+E (CMD+E and CMD+Shift+E on OSX) can be used to change the indentation of only the comments in a selected block of code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T054821Z" creationid="lansn-lan" creationdate="20160801T054821Z">
+        <seg>类似于上面Tab的特殊行为，使用键盘快捷方式 Ctrl + E，Ctrl + Shift + E （ OSX系统使用 CMD + E 和 CMD + Shift + E ） 可用于改变选定代码块注释的缩进。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skip to content</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101624Z" creationid="MysticBoy" creationdate="20160721T101624Z">
