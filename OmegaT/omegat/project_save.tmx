@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- &lt;a22&gt;Structuring code in Procedures&lt;/a22&gt; &lt;br23&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074611Z" creationid="lansn-lan" creationdate="20160801T074611Z">
+        <seg>- &lt;a22&gt;结构化程序代码&lt;/a22&gt;&lt;br23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- &lt;a24&gt;Compiler directives (for different behavior on different OS)&lt;/a24&gt; &lt;br25&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074452Z" creationid="lansn-lan" creationdate="20160801T074437Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074535Z" creationid="lansn-lan" creationdate="20160801T074535Z">
         <seg>- &lt;a30&gt;使用#PB_Any动态编号&lt;/a30&gt;&lt;br31&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- &lt;a32&gt;Managing multiple windows with different content&lt;/a32&gt; &lt;br33&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074705Z" creationid="lansn-lan" creationdate="20160801T074705Z">
+        <seg>- &lt;a32&gt;多窗口管理&lt;/a32&gt; &lt;br33&gt;</seg>
       </tuv>
     </tu>
     <tu>
