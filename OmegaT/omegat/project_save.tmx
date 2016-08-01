@@ -2937,6 +2937,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b8&gt;Scan file for AutoComplete&lt;/b8&gt; &lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150336Z" creationid="漂流瓶儿" creationdate="20160801T150336Z">
+        <seg>&lt;b8&gt;自动完成扫描文件&lt;/b8&gt; &lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b8&gt;load only sources marked in 'Project Files'&lt;/b8&gt; &lt;br9&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144838Z" creationid="漂流瓶儿" creationdate="20160801T144448Z">
@@ -4735,6 +4743,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145958Z" creationid="漂流瓶儿" creationdate="20160801T145958Z">
         <seg>当项目处于打开状态并且"加载仅在项目文件中标记的来源"选项指定在"项目选项"选项卡上，使用此选项将加载文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files with this option will be scanned for AutoComplete data even when they are not currently loaded in the IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150350Z" creationid="漂流瓶儿" creationdate="20160801T150350Z">
+        <seg>将自动完成数据扫描文件使用此选项，即使他们不是当前在 IDE 中加载。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9254,6 +9270,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This allows to be notified when a file that is shared between multiple projects has been edited while working on another project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150255Z" creationid="漂流瓶儿" creationdate="20160801T150255Z">
+        <seg>这允许多个项目之间共享的文件已在另一个项目上被编辑时要通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This allows you to create several shortcuts that start the IDE with different configurations for different users, or for different projects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071548Z" creationid="MysticBoy" creationdate="20160728T071548Z">
@@ -9714,6 +9738,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T105435Z" creationid="plp" creationdate="20160730T105435Z">
         <seg>此选项允许选择使用不同的编译器来代替当前purebasic的版本编译器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option is on by default for all non-binary files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150358Z" creationid="漂流瓶儿" creationdate="20160801T150358Z">
+        <seg>对于所有非二进制文件，默认情况下，此选项处于打开状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option should be disabled for large data files to speed up project loading and saving, or for files which are changed frequently to avoid getting a warning every time the project is opened.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150307Z" creationid="漂流瓶儿" creationdate="20160801T150307Z">
+        <seg>对大型数据文件，以加快项目加载和保存，或频繁更换，避免每次打开该项目时收到警告的文件，应禁用此选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10218,6 +10258,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T065208Z" creationid="plp" creationdate="20160801T065024Z">
         <seg>当光标位于左括号或右括号上时，IDE 将突出显示并自动匹配此括号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the project is closed, the IDE will calculate a checksum of all files that have this option set and display a warning if the file has been modified when the project is opened the next time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150151Z" creationid="漂流瓶儿" creationdate="20160801T150151Z">
+        <seg>当关闭项目时，IDE 将调用有此选项设置并显示一条警告，如果该文件已被修改，当下次打开项目时将校验所有文件。</seg>
       </tuv>
     </tu>
     <tu>
