@@ -1792,8 +1792,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;&lt;f1&gt;Global&lt;/f1&gt;&lt;/b0&gt; provides the ability for &lt;a2&gt;variables&lt;/a2&gt; to be defined as global, i.e., variables defined as such may then be accessed within a &lt;a3&gt;Procedure&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T063648Z" creationid="MysticBoy" creationdate="20160801T063648Z">
-        <seg>&lt;b0&gt;&lt;f1&gt;Global&lt;/f1&gt;&lt;/b0&gt; 供 &lt;a2&gt;变量&lt;/a2&gt; 定义为全局 i.e., variables defined as such may then be accessed within a &lt;a3&gt;Procedure&lt;/a3&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065022Z" creationid="MysticBoy" creationdate="20160801T065022Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Global&lt;/f1&gt;&lt;/b0&gt; 提供将&lt;a2&gt;变量&lt;/a2&gt;定义为全局的能力,定义的变量随后可以在 &lt;a3&gt;Procedure&lt;/a3&gt;内部使用.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3641,6 +3641,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each variable may have a default value directly assigned to it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065200Z" creationid="MysticBoy" creationdate="20160801T065200Z">
+        <seg>每个变量可能具有直接分配给它的默认值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editing features</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T055126Z" creationid="MysticBoy" creationdate="20160720T084247Z">
@@ -4187,8 +4195,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>In this case the command &lt;b4&gt;&lt;f5&gt;Global&lt;/f5&gt;&lt;/b4&gt; must be called for the according variables, &lt;b6&gt;before&lt;/b6&gt; the declaration of the procedure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T064825Z" creationid="MysticBoy" creationdate="20160801T064825Z">
-        <seg>在这种情况下命令&lt;b4&gt;&lt;f5&gt;Global&lt;/f5&gt;&lt;/b4&gt;必须在&lt;b6&gt;之前&lt;/b6&gt;调用程序的声明。</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065135Z" creationid="MysticBoy" creationdate="20160801T065135Z">
+        <seg>在这种情况下 &lt;b4&gt;&lt;f5&gt;Global&lt;/f5&gt;&lt;/b4&gt; 命令必须在定义过程 &lt;b6&gt;之前&lt;/b6&gt; 将相关变量定义为全局。</seg>
       </tuv>
     </tu>
     <tu>
