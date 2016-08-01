@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -138,6 +138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074023Z" creationid="lansn-lan" creationdate="20160801T074023Z">
         <seg>- &lt;a20&gt;图形输出和简单绘图&lt;/a20&gt;&lt;br21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- &lt;a24&gt;Compiler directives (for different behavior on different OS)&lt;/a24&gt; &lt;br25&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074437Z" creationid="lansn-lan" creationdate="20160801T074437Z">
+        <seg>- &lt;a24&gt;编译器指令（在不同的操作系统指令会有所不同）&lt;/a24&gt;&lt;br25&gt;</seg>
       </tuv>
     </tu>
     <tu>
