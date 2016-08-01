@@ -3611,6 +3611,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All code put inside &lt;b29&gt;&lt;f30&gt;DeclareModule&lt;/f30&gt;&lt;/b29&gt; and &lt;b31&gt;&lt;f32&gt;Module&lt;/f32&gt;&lt;/b31&gt; sections is executed like any other code when the program flow reaches the module.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T140748Z" creationid="漂流瓶儿" creationdate="20160801T140748Z">
+        <seg>当进程流运行到模块时，内置在 &lt;b29&gt;&lt;f30&gt;DeclareModule&lt;/f30&gt;&lt;/b29&gt; 和 &lt;b31&gt;&lt;f32&gt;Module&lt;/f32&gt;&lt;/b31&gt; 部分中的所有代码都会被执行，就像其他代码一样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All filenames and paths in a project are stored relative to the project file which allows a project to be easily moved to another location as long as the relative directory structure remains intact.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T125214Z" creationid="漂流瓶儿" creationdate="20160801T125214Z">
@@ -8680,8 +8688,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Therefore module items can not be named like internal PureBasic commands, structure or constants.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T140454Z" creationid="漂流瓶儿" creationdate="20160801T140454Z">
-        <seg>因此模块项目不具名像内部的 PureBasic 命令、 结构或常量。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T140523Z" creationid="漂流瓶儿" creationdate="20160801T140454Z">
+        <seg>因此模块项目（成员）不能被命名为 PureBasic 内置的命令、结构、常量。</seg>
       </tuv>
     </tu>
     <tu>
