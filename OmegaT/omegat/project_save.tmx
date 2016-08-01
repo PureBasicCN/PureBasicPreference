@@ -2302,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b18&gt;Close all sources when closing the project&lt;/b18&gt; &lt;br19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143945Z" creationid="漂流瓶儿" creationdate="20160801T143945Z">
+        <seg>&lt;b18&gt;关闭项目时关闭所有代码&lt;/b18&gt;&lt;br19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b19&gt;&lt;f20&gt;UnuseModule&lt;/f20&gt;&lt;/b19&gt; remove the module items.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T135803Z" creationid="漂流瓶儿" creationdate="20160801T135803Z">
@@ -5011,6 +5019,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If enabled, all sources that belong to the project will be closed automatically when the project is closed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144006Z" creationid="漂流瓶儿" creationdate="20160801T144006Z">
+        <seg>如果启用，项目结束时，将自动关闭所有属于该项目的代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it was the only open code, the IDE will display a new empty file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053157Z" creationid="MysticBoy" creationdate="20160726T053157Z">
@@ -5125,8 +5141,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>If there is no default project, the IDE will load the project that was open when the IDE was closed last time if there was one.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143825Z" creationid="漂流瓶儿" creationdate="20160801T143825Z">
-        <seg>如果没有默认的项目中，IDE 将加载时在 IDE 关闭最后一次如果有一个打开的项目。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143905Z" creationid="漂流瓶儿" creationdate="20160801T143825Z">
+        <seg>如果没有默认项目，将加载在 IDE 关闭的最后一次项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9930,6 +9946,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T135252Z" creationid="漂流瓶儿" creationdate="20160801T135252Z">
         <seg>一旦确定模块名后，就可以在任何地方使用其项目成员，即使是在其它模块中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When opening the project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144058Z" creationid="漂流瓶儿" creationdate="20160801T144058Z">
+        <seg>打开项目加载文件...</seg>
       </tuv>
     </tu>
     <tu>
