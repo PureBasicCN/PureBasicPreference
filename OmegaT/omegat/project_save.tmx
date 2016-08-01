@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b19&gt;&lt;f20&gt;UnuseModule&lt;/f20&gt;&lt;/b19&gt; remove the module items.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T135803Z" creationid="漂流瓶儿" creationdate="20160801T135803Z">
+        <seg>&lt;b19&gt;&lt;f20&gt;UnuseModule&lt;/f20&gt;&lt;/b19&gt; 移除模块项目（成员）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b19&gt;Save All&lt;/b19&gt; &lt;br20&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022900Z" creationid="MysticBoy" creationdate="20160726T022900Z">
@@ -5103,6 +5111,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065135Z" creationid="MysticBoy" creationdate="20160801T065135Z">
         <seg>在这种情况下 &lt;b4&gt;&lt;f5&gt;Global&lt;/f5&gt;&lt;/b4&gt; 命令必须在定义过程 &lt;b6&gt;之前&lt;/b6&gt; 将相关变量定义为全局。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, if a module name conflict, the module items won't be imported and a compiler error will be raised.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T135710Z" creationid="漂流瓶儿" creationdate="20160801T135710Z">
+        <seg>在这种情况下，如果模块名称冲突（重名），模块项目（成员）不会被导入，并会引发编译器错误提示。</seg>
       </tuv>
     </tu>
     <tu>
