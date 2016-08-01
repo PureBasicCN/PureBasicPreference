@@ -4723,6 +4723,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Having a &lt;b43&gt;&lt;f44&gt;DeclareModule&lt;/f44&gt;&lt;/b43&gt; section make the module pretty much self-documented for use when reusing and sharing it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T141711Z" creationid="漂流瓶儿" creationdate="20160801T141711Z">
+        <seg>使用 &lt;b43&gt;&lt;f44&gt;DeclareModule&lt;/f44&gt;&lt;/b43&gt; 部分创建的模块，在自己重新使用或共享他人引用时更容易被理解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here all the source codes are displayed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140440Z" creationid="MysticBoy" creationdate="20160723T140440Z">
