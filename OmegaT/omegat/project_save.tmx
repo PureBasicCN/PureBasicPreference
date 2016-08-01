@@ -9606,6 +9606,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This way you can start a session always with this set of files open.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144646Z" creationid="漂流瓶儿" creationdate="20160801T144646Z">
+        <seg>这种方式可以在打开项目时启动标记文件会话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This way you have used variables "on the fly".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T085335Z" creationid="lansn-lan" creationdate="20160801T084650Z">
