@@ -8541,8 +8541,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>We now continue with a short example using the available variable types, arithmetic operators and displaying the result:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T082451Z" creationid="lansn-lan" creationdate="20160801T082451Z">
-        <seg>继续一个简短的例子，We now continue with a short example using the available variable types, arithmetic operators and displaying the result:</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T082636Z" creationid="lansn-lan" creationdate="20160801T082451Z">
+        <seg>继续一个简短的例子，使用可用的变量类型，算术运算符并显示结果:</seg>
       </tuv>
     </tu>
     <tu>
