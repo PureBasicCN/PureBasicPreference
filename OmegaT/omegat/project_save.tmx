@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4857,6 +4857,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many tools to make navigating/editing the source code easier can be added to the Tools Panel on the side of the editor window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081342Z" creationid="漂流瓶儿" creationdate="20160801T081342Z">
+        <seg>许多工具有助于浏览、编辑源代码等，可以添加到工具面板上的编辑器窗口的一侧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marking of matching Braces and Keywords:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064855Z" creationid="blues" creationdate="20160730T103844Z">
@@ -5067,8 +5075,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Note: You can configure what is displayed in the Auto complete list, as well as turning off the automatic popup (requiring a keyboard shortcut such as Ctrl+Space to open list) in the Preferences.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081016Z" creationid="漂流瓶儿" creationdate="20160801T081016Z">
-        <seg>注意：您可以在配置中设置自动完整列表的显示内容以及关闭快捷键（需要一个快捷键，如Ctrl  空格键打开列表）中的首选项。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081102Z" creationid="漂流瓶儿" creationdate="20160801T081016Z">
+        <seg>注意：您可以在配置中设置自动完整列表的显示内容以及关闭快捷键（如：快捷键 Ctrl +空格键打开列表）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6085,6 +6093,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110759Z">
         <seg>参阅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the Auto complete section of &lt;a8&gt;Customizing the IDE&lt;/a8&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081205Z" creationid="漂流瓶儿" creationdate="20160801T081205Z">
+        <seg>你可以在&lt;a8&gt;配置开发环境 Customizing the IDE&lt;/a8&gt; 中查看关于自动完成的更多信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8255,6 +8271,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045420Z" creationid="oSilas" creationdate="20150312T045420Z">
         <seg>要使用的几种方式你一次，必须使用 ' |'(OR) 运算符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools Panel on the side:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081219Z" creationid="漂流瓶儿" creationdate="20160801T081219Z">
+        <seg>侧面工具面板：</seg>
       </tuv>
     </tu>
     <tu>
