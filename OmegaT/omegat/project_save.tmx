@@ -2126,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Project Info&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150949Z" creationid="漂流瓶儿" creationdate="20160801T150949Z">
+        <seg>&lt;b0&gt;项目信息&lt;/b0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;PureBasic Chat&lt;/b0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105152Z" creationid="MysticBoy" creationdate="20160721T105152Z">
@@ -5255,6 +5263,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094706Z" creationid="blues" creationdate="20160730T094706Z">
         <seg>如果输入的字符串与掩码不匹配，则结果为  -1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the project has many files it may make sense to hide some of them from the panel to have a better overview and faster access to the important files in the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150837Z" creationid="漂流瓶儿" creationdate="20160801T150837Z">
+        <seg>如果项目有许多文件，它可能是有意义的，隐藏其中的一些，这样能更快的访问项目中的重要文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8838,6 +8854,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The project overview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150850Z" creationid="漂流瓶儿" creationdate="20160801T150850Z">
+        <seg>项目概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The radius of the circle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041245Z" creationid="oSilas" creationdate="20141122T041245Z">
@@ -10178,6 +10202,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091753Z" creationid="MysticBoy" creationdate="20160725T091753Z">
         <seg>当我购买了PureBasic，我可以免费获得所有更新？?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a project is open, the first tab of the file panel shows an overview of the project and its files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150904Z" creationid="漂流瓶儿" creationdate="20160801T150904Z">
+        <seg>打开一个项目时，文件面板中的第一个选项卡显示了该项目及其文件的概述。</seg>
       </tuv>
     </tu>
     <tu>
