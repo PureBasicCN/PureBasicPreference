@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;WindowWidth()&lt;/a0&gt; - &lt;a1&gt;Window Index&lt;/a1&gt; - &lt;a2&gt;WindowY()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025613Z" creationid="MysticBoy" creationdate="20160801T025613Z">
+        <seg>&lt;- &lt;a0&gt;WindowWidth()&lt;/a0&gt; - &lt;a1&gt;Window 索引&lt;/a1&gt; - &lt;a2&gt;WindowY()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;#PB_Any&lt;/a0&gt; can be used to auto-generate this number.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T045059Z" creationid="lansn-lan" creationdate="20160729T044801Z">
@@ -2327,6 +2335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_Window_FrameCoordinate&lt;/f0&gt;: x position of the window, including borders (default).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025446Z" creationid="MysticBoy" creationdate="20160801T025446Z">
+        <seg>&lt;f0&gt;#PB_Window_FrameCoordinate&lt;/f0&gt;: 窗口的x 位置，包括边框 （默认值） 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_Window_FrameCoordinate&lt;/f0&gt;: y position of the window, including borders (default).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153526Z" creationid="jane" creationdate="20160728T153526Z">
@@ -2451,6 +2467,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065320Z" creationid="lansn-lan" creationdate="20160729T065320Z">
         <seg>&lt;f1&gt;#PB_SerialPort_RTS&lt;/f1&gt;︰ 设置 RTS 信号状态 （值可以是 0 或 1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_Window_InnerCoordinate&lt;/f1&gt;: x position of the window inner area (where gadget can be added),</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025541Z" creationid="MysticBoy" creationdate="20160801T025541Z">
+        <seg>&lt;f1&gt;#PB_Window_InnerCoordinate&lt;/f1&gt;: x 窗口内区域 （在这里可以添加控件） 的位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -5433,6 +5457,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the x position (from the left) on the screen (in pixels) of the given window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025606Z" creationid="MysticBoy" creationdate="20160801T025606Z">
+        <seg>返回的 x 位置 （从左至右） 在给定窗口的屏幕 （以像素为单位）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns the x position on the screen of the given window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025337Z" creationid="MysticBoy" creationdate="20160801T025337Z">
+        <seg>返回指定窗口的屏幕上的 x 位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the y position (from the top) on the screen (in pixels) of the given window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153648Z" creationid="jane" creationdate="20160728T153648Z">
@@ -6567,6 +6607,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162632Z" creationid="MysticBoy" creationdate="20160723T162632Z">
         <seg>菜单命令在其他章节中解释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mode used to calculate the x position of the window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025400Z" creationid="MysticBoy" creationdate="20160801T025400Z">
+        <seg>用于计算窗口 x 位置的模式。</seg>
       </tuv>
     </tu>
     <tu>
