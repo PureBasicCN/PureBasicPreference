@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3169,6 +3169,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By clicking on the [-], you can hide ("fold") that section of source code to keep a better overview of larger source files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T071953Z" creationid="漂流瓶儿" creationdate="20160801T071953Z">
+        <seg>通过点击[ - ]，您可以隐藏（“折叠”）的源代码，该段以保持较大的源文件更好地了解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, it is saved at the end of the source code as a comment (invisible in the IDE).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T081641Z" creationid="plp" creationdate="20160730T081532Z">
@@ -4659,8 +4667,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>More can be added), the IDE marks the region between these keywords on the left side next to the line numbers with a [-] at the starting point, followed by a vertical line to the end point.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T071629Z" creationid="漂流瓶儿" creationdate="20160801T071629Z">
-        <seg>其他可以添加），开发环境 IDE 将在这些关键字的开头到结尾之间的区域用一个行号[ - ]在起点，随后的垂直线到结束点。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T071830Z" creationid="漂流瓶儿" creationdate="20160801T071629Z">
+        <seg>他可以添加），开发环境 IDE 将在这些关键字的开头和结尾左侧用[ - ]标志，随后用垂直线标记开头到结尾之间的区域。</seg>
       </tuv>
     </tu>
     <tu>
