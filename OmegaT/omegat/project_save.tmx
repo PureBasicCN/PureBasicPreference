@@ -2246,6 +2246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b20&gt;Find Next&lt;/b20&gt; &lt;br21&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T120229Z" creationid="漂流瓶儿" creationdate="20160801T120229Z">
+        <seg>&lt;b20&gt;查找下一个&lt;/b20&gt; &lt;br21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b20&gt;Insert comments&lt;/b20&gt; &lt;br21&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083514Z" creationid="漂流瓶儿" creationdate="20160801T083514Z">
@@ -3631,6 +3639,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T073140Z" creationid="漂流瓶儿" creationdate="20160801T073140Z">
         <seg>再次点击，则代码将再次展开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By clicking on "Replace All", all matches from the current position downwards will be replaced (unless "Search inside Selection only" is set).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T120217Z" creationid="漂流瓶儿" creationdate="20160801T120217Z">
+        <seg>通过点击“全部替换”，从当前位置以下的所有匹配内容将被替换（除非勾选“在选中内容查找”设定）。</seg>
       </tuv>
     </tu>
     <tu>
