@@ -1790,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Declare&lt;/f1&gt;&lt;/b0&gt; can help in this particular case by declaring only the header of the procedure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T070654Z" creationid="MysticBoy" creationdate="20160801T070654Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Declare&lt;/f1&gt;&lt;/b0&gt; 可以在这种特定情况下仅在头中声明过程.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;&lt;f1&gt;Global&lt;/f1&gt;&lt;/b0&gt; provides the ability for &lt;a2&gt;variables&lt;/a2&gt; to be defined as global, i.e., variables defined as such may then be accessed within a &lt;a3&gt;Procedure&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065022Z" creationid="MysticBoy" creationdate="20160801T065022Z">
@@ -3771,8 +3779,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>For advanced programmers &lt;b8&gt;&lt;f9&gt;DeclareC&lt;/f9&gt;&lt;/b8&gt; is available and will declare the procedure using 'CDecl' instead of 'StandardCall' calling convention.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T070227Z" creationid="MysticBoy" creationdate="20160801T070227Z">
-        <seg>针对高级程序员&lt;b8&gt;&lt;f9&gt;DeclareC&lt;/f9&gt;&lt;/b8&gt;是可用的并且将声明采用 'CDecl' 而不是 'StandardCall' 调用约定的程序。</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T070313Z" creationid="MysticBoy" creationdate="20160801T070227Z">
+        <seg>针对高级程序员&lt;b8&gt;&lt;f9&gt;DeclareC&lt;/f9&gt;&lt;/b8&gt;是可用的并且将声明过程采用 'CDecl' 而不是 'StandardCall' 调用约定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5905,6 +5913,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes a procedure need to call another procedure which isn't declared before its definition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T070430Z" creationid="MysticBoy" creationdate="20160801T070430Z">
+        <seg>有时一个程序需要调用另一个过程而不在其定义之前声明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special Tab behavior:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061243Z" creationid="blues" creationdate="20160729T140705Z">
@@ -7559,6 +7575,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T062002Z" creationid="blues" creationdate="20160729T141533Z">
         <seg>这增加了整个选定块的缩进。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is annoying because the compiler will complain 'Procedure &lt;name&gt; not found'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T070523Z" creationid="MysticBoy" creationdate="20160801T070523Z">
+        <seg>这是令人讨厌的因为编译器会抱怨“Procedure&lt;name&gt;无法找到”。</seg>
       </tuv>
     </tu>
     <tu>
