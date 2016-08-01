@@ -9,11 +9,7 @@ Text$ = <font color="#3A3966"><b>FormatDate</b></font>(Mask$, Date)</blockquote>
 </blockquote>
 <b>概要</b><br><blockquote>
 
-
-
-Returns a string representation of the given Date. 
-
- 
+返回给定日期，以字符串形式表示. 
 
 </blockquote><p><b>参数</b></p><blockquote>
 <style type="text/css">
@@ -23,46 +19,37 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <table width="90%" class="parameters">
 <tr><td width="10%"><i>Mask$</i></td>
 <td width="90%"> 
- 
-The mask used to format the date. The following tokens in the mask string will be replaced according to the given date: 
- 
-<pre><font face="Courier New, Courier, mono"size="2">  %yyyy: Will be replaced by the year value, on 4 digits.
-  %yy: Will be replaced by the year value, on 2 digits.
-  %mm: Will be replaced by the month value, on 2 digits.
-  %dd: Will be replaced by the day value, on 2 digits.
-  %hh: Will be replaced by the hour value, on 2 digits.
-  %ii: Will be replaced by the minute value, on 2 digits.
-  %ss: Will be replaced by the second value, on 2 digits.
+用于格式化日期的掩码. 在掩码字符串中的下面的标记将根据给定的日期替换: 
+<pre><font face="Courier New, Courier, mono"size="2">  %yyyy: 将替换为 年，4位数字.
+  %yy: 将替换为 年，2位数字.
+  %mm: 将替换为 月，2位数字.
+  %dd: 将替换为 日，2位数字.
+  %hh: 将替换为 小时，2位数字.
+  %ii: 将替换为 分钟，2位数字.
+  %ss: 将替换为 秒，2位数字.
 </font></pre>
 
 </td></tr>
 <tr><td><i>Date</i></td>
 <td> 
- 
-The date value to use. 
-
- 
+需要格式化显示的日期值. 
 
 </td></tr>
 </table>
 </blockquote><p><b>返回值</b></p><blockquote>
 
-
-
-Returns the mask string with all tokens replaced by the date values. 
-
- 
+返回由日期值所替换的所有标记的掩码字符串（根据掩码格式显示日期）. 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
 <pre><font face="Courier New, Courier, mono"size="2">
-  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">FormatDate</font>("Y=%yyyy, M= %mm, D=%dd",<font color="#3A3966"> Date</font>()) <font color="#3A3966">; Will display the actual date with</font>
-                                                     <font color="#3A3966">; the form "Y=2010, M=01, D=07"</font>
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">FormatDate</font>("Y=%yyyy, M= %mm, D=%dd",<font color="#3A3966"> Date</font>()) <font color="#3A3966">; 将显示当前系统日期</font>
+                                                     <font color="#3A3966">; 输出： "Y=2010, M=01, D=07"</font>
 
-  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">FormatDate</font>("%mm/%dd/%yyyy",<font color="#3A3966"> Date</font>()) <font color="#3A3966">; Will display the actual date with</font>
-                                            <font color="#3A3966">; the form "01/07/2010"</font>
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">FormatDate</font>("%mm/%dd/%yyyy",<font color="#3A3966"> Date</font>()) <font color="#3A3966">; 将显示当前系统日期</font>
+                                            <font color="#3A3966">; 输出： "01/07/2010"</font>
 
-  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">FormatDate</font>("%hh:%ii:%ss",<font color="#3A3966"> Date</font>())   <font color="#3A3966">; Will display the time using the 00:00:00 format</font>
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">FormatDate</font>("%hh:%ii:%ss",<font color="#3A3966"> Date</font>())   <font color="#3A3966">; 将以  15:20:02  时间格式显示</font>
 
 </font></pre>
 

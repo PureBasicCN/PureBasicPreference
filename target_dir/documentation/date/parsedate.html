@@ -9,11 +9,7 @@ Date = <font color="#3A3966"><b>ParseDate</b></font>(Mask$, String$)</blockquote
 </blockquote>
 <b>概要</b><br><blockquote>
 
-
-
-Transforms a string date into a regular date value which then can be used by other date functions. 
-
- 
+将字符串日期转换为日期格式，然后其他日期函数可以使用它. 
 
 </blockquote><p><b>参数</b></p><blockquote>
 <style type="text/css">
@@ -23,43 +19,33 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <table width="90%" class="parameters">
 <tr><td width="10%"><i>Mask$</i></td>
 <td width="90%"> 
- 
-A mask string which defines how the date string is formatted. Possible tokens are: 
- 
-<pre><font face="Courier New, Courier, mono"size="2">  %yyyy: Will be replaced by the year value, on 4 digits.
-  %yy: Will be replaced by the year value, on 2 digits.
-  %mm: Will be replaced by the month value, on 2 digits.
-  %dd: Will be replaced by the day value, on 2 digits.
-  %hh: Will be replaced by the hour value, on 2 digits.
-  %ii: Will be replaced by the minute value, on 2 digits.
-  %ss: Will be replaced by the second value, on 2 digits.
+掩码字符串，该字符串定义了日期字符串格式化的方式，用于格式化日期格式如下: 
+<pre><font face="Courier New, Courier, mono"size="2">  %yyyy: 将替换为 年，4位数字.
+  %yy: 将替换为 年，2位数字.
+  %mm: 将替换为 月，2位数字.
+  %dd: 将替换为 日，2位数字.
+  %hh: 将替换为 小时，2位数字.
+  %ii: 将替换为 分钟，2位数字.
+  %ss: 将替换为 秒，2位数字.
 </font></pre>
 
 </td></tr>
 <tr><td><i>String$</i></td>
 <td> 
- 
-The string with the date to be parsed. 
-
- 
+要解析的日期字符串. 
 
 </td></tr>
 </table>
 </blockquote><p><b>返回值</b></p><blockquote>
 
-
-
-Returns the date representing the parsed string. If the input string did not match the mask 
-then the result is -1. 
-
- 
+返回表示已解析字符串的日期. 如果输入的字符串与掩码不匹配，则结果为  -1. 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
 <pre><font face="Courier New, Courier, mono"size="2">
-  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">ParseDate</font>("%yy/%mm/%dd", "10/01/07")     <font color="#3A3966">; Returns the date value of "10/01/07"</font>
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">ParseDate</font>("%yy/%mm/%dd", "10/01/07")     <font color="#3A3966">; 返回日期格式 "10/01/07"</font>
 
-  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">ParseDate</font>("%mm/%dd/%yyyy", "01/07/2010") <font color="#3A3966">; Returns the date value of "01/07/2010"</font>
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">ParseDate</font>("%mm/%dd/%yyyy", "01/07/2010") <font color="#3A3966">; 返回日期格式 "01/07/2010"</font>
 
 </font></pre>
 

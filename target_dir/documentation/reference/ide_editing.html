@@ -1,75 +1,27 @@
 <html><head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>编辑功能</title></head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>编辑器功能</title></head>
 <body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
-<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">编辑功能</font></b></p>
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">编辑器功能</font></b></p>
 
-
-
-The PureBasic IDE acts like any other Text Editor when it comes to the basic editing features. 
-The cursor keys as well as Page Up/Page Down, Home and End keys can be used to navigate through the code. 
-Ctrl+Home navigates to the beginning of the file and Ctrl+End  to the End. 
-<br>
-<br>
-The default shortcuts Ctrl+C (copy), Ctrl+X (cut) and Ctrl+V (paste) can be used for editing. 
-The "Insert" key controls whether text is inserted or overwritten. The Delete key does a forward delete. 
-Holding down the Shift key and using the arrow keys selects text. 
-
-<br>
-<br>
-Furthermore, the IDE has many extra editing features specific to programming or PureBasic. 
-<br>
+PureBasic IDE用到基本的编辑功能时，就像任何其他的文本编辑器一样. 光标键以及 上翻页键 / 下翻页键，Home 键和 End 键可以用来浏览代码. Ctrl+Home定位到文件开始，按Ctrl +End定位到文件结束. <br><br>默认快捷键 Ctrl+C (复制), Ctrl+X (剪切) and Ctrl+V (粘贴) 用于代码编辑.  "Insert" 键控制文本是否插入或者覆盖 . Delete 删除键用于向前删除 . 按住 Shift 键和光标可以选择文本. <br><br>此外, IDE有很多额外的编辑功能，具体到编程或者PureBasict. <br>
 <br>
 
 
-<p><b>Indentation:</b></p><blockquote>
+<p><b>缩进:</b></p><blockquote>
 
-
-
-When you press enter, the indentation (number of space/tab at the beginning of the line) of the current 
-and next line will be automatically corrected depending on the <a href="general_rules.html">keywords</a> that exist on these lines. 
-A "block mode" is also available where the new line simply gets the same indentation as the previous one. 
-The details of this feature can be customized in the  <a href="ide_preferences.html">preferences</a>. 
-
-
- 
+当您按下回车键时，当前行和下一行的缩进（开头处的空格数/Tab数）将根据存在于这些行上的 <a href="general_rules.html">关键词</a>而自动更正 . “块模式”也可以在新的一行得到与前一个行相同的缩进. 此功能的详细信息可以在 <a href="ide_preferences.html">文件-配置</a>中定制. 
 
 
 </blockquote>
-<p><b>Tab characters:</b></p><blockquote>
+<p><b>Tab 制表符:</b></p><blockquote>
 
-
-
-By default, the IDE does not insert a real tab when pressing the Tab key, as many 
-programmers see it as a bad thing to use real tabs in source code. 
-<br>
-<br>
-It instead inserts two spaces. This behavior can be changed in the Preferences. 
-See <a href="ide_preferences.html">Customizing the IDE</a> for more information. 
-
-
- 
+默认情况下, PureBasic IDE 按下Tab键时，并不会插入一个真正的tab制表符, 正如许多程序员认为在源代码中使用真正的tab制表符是件很糟糕的事情. <br><br>tab符将被插入2个空格符所替代. 此行为方式可以在配置项中改变. 点击查看更多 <a href="ide_preferences.html">自定义 IDE</a>的信息. 
 
 
 </blockquote>
-<p><b>Special Tab behavior:</b></p><blockquote>
+<p><b>特殊的 Tab 行为:</b></p><blockquote>
 
-
-
-When the Tab key is pressed while nothing or only a few characters are selected, 
-the Tab key acts as mentioned above (inserting a number of spaces, or a real tab if 
-configured that way). 
-<br>
-<br>
-However when one or more full lines are selected, the reaction is 
-different. In that case at the beginning of each selected line, it will insert spaces or 
-a tab (depending on the configuration). This increases the indentation of the whole selected block. 
-<br>
-<br>
-Marking several lines of text and pressing Shift+Tab reverses this behavior. It removes 
-spaces/tabs at the start of each line in order to reduce the indentation of the whole block. 
-
-
- 
+无字符或者选择一些字符，当按下Tab键时，Tab键将会产生特殊行为  (根据配置方式，当前行前面将会插入一些空格符或者真正的tab制表). <br><br>当一行或者多行被选中时，. 在每一行的前面都将会插入空格符或者tab制表符. 这增加了整个选定块的缩进. <br><br>按下Shift+Tab时，多行文本将反转缩进. 它将在每一行开始处移除空格符 / tab符，为的是使整个选中区块减少缩进. 
 
 
 </blockquote>
@@ -106,31 +58,12 @@ The used shortcuts can be configured in the <a href="ide_preferences.html">prefe
  
 
 </blockquote>
-<p><b>Double-clicking on source text:</b></p><blockquote>
+<p><b>双击原码中的文本 :</b></p><blockquote>
 
-
-
-Double-clicking on a word selects the whole word as usual. However in some cases, 
-double-clicking has a special meaning: 
-<br>
-<br>
-When double-clicking on the name of a <a href="procedures.html">procedure</a> that is defined in the current 
-source while holding down the Ctrl Key, the cursor automatically jumps to the declaration of this procedure. 
-<br>
-<br>
-When double-clicking on an <a href="includes.html">IncludeFile</a> or 
-<a href="includes.html">XincludeFile</a> statement, the IDE will 
-try to open that file. (This is only possible if the included file is written 
-as a literal string, and not through for example a constant.) 
-<br>
-<br>
-In the same way, if you double-click on an IncludeBinary statement, the IDE will 
-try to display that file in the internal <a href="ide_tools.html">file viewer</a>. 
-
- 
+像往常一样，双击一个词可以选择整个单词. 然而在某些情况下，双击有特殊的意义: <br><br>按住Ctrl键的同时，双击当前源码定义的<a href="procedures.html">procedure过程 （函数）</a> 名，光标自动跳到本函数的声明处. <br><br>双击  <a href="includes.html">IncludeFile</a> 或者 <a href="includes.html">XincludeFile</a> 声明,  IDE 将试着打开声明所指向的文件. (This is only possible if the included file is written as a literal string, and not through for example a constant.) <br><br>In the same way, if you double-click on an IncludeBinary statement, the IDE will try to display that file in the internal <a href="ide_tools.html">file viewer</a>. 
 
 </blockquote>
-<p><b>Marking of matching Braces and Keywords:</b></p><blockquote>
+<p><b>匹配括号和标记关键字:</b></p><blockquote>
 
 
 <p><img src="images/ide_main_match.png"></p>
