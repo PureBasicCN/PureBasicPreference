@@ -6804,6 +6804,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The "Find Next" button starts the search.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T112028Z" creationid="漂流瓶儿" creationdate="20160801T112028Z">
+        <seg>“查找下一个”按钮开始搜索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The "Goto matching Keyword" menu entry described below can be used to quickly move between the matching keywords.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T070126Z" creationid="漂流瓶儿" creationdate="20160801T070114Z">
@@ -7482,6 +7490,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041106Z">
         <seg>使用 &lt;a0&gt;DrawingMode()&lt;/a0&gt;函数设置填充模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The find/replace dialog enables you to search for specific words in your code, and also to replace them with something else.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T111911Z" creationid="漂流瓶儿" creationdate="20160801T111911Z">
+        <seg>查找/替换 对话框用于在你的代码中搜索指定的文本内容，并且可以用其它内容来替代它们。</seg>
       </tuv>
     </tu>
     <tu>
