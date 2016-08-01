@@ -5275,6 +5275,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Managing projects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121819Z" creationid="漂流瓶儿" creationdate="20160801T121819Z">
+        <seg>管理项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many tools to make navigating/editing the source code easier can be added to the Tools Panel on the side of the editor window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081342Z" creationid="漂流瓶儿" creationdate="20160801T081342Z">
@@ -7077,6 +7085,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The IDE comes with features to easily handle larger projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121945Z" creationid="漂流瓶儿" creationdate="20160801T121945Z">
+        <seg>该开发环境 IDE 具有轻松管理更大的项目的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The IDE keeps track of the lines you view.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085245Z" creationid="漂流瓶儿" creationdate="20160801T085208Z">
@@ -8322,6 +8338,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T171113Z" creationid="MysticBoy" creationdate="20160723T171113Z">
         <seg>因此如果需要超过一次使用此值，数据必须存储在变量中，因为所有的后续调用将返回错误值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These features are completely optional.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121956Z" creationid="漂流瓶儿" creationdate="20160801T121956Z">
+        <seg>这些功能是完全可选的。</seg>
       </tuv>
     </tu>
     <tu>
