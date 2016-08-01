@@ -5459,6 +5459,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modules are an easy way to isolate code part from the main code, allowing code reuse and sharing without risk of name conflict.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T132913Z" creationid="漂流瓶儿" creationdate="20160801T132913Z">
+        <seg>模块是一种简单的(与主代码)代码隔离手段，允许引用和共享而无须担心代码重名的冲突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Money-transfer to bank-account is possible at german team member</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081739Z" creationid="MysticBoy" creationdate="20160725T081712Z">
