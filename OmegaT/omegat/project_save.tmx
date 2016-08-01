@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2250,6 +2250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022848Z" creationid="MysticBoy" creationdate="20160726T022848Z">
         <seg>&lt;b23&gt;重新加载&lt;/b23&gt; &lt;br24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b24&gt;Remove comments&lt;/b24&gt; &lt;br25&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083814Z" creationid="漂流瓶儿" creationdate="20160801T083814Z">
+        <seg>&lt;b24&gt;移除注释&lt;/b24&gt; &lt;br25&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5817,6 +5825,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Removes the comment characters at the beginning of each selected line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083924Z" creationid="漂流瓶儿" creationdate="20160801T083924Z">
+        <seg>将选定行的开头的注释符删掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repeated usage of the shortcut selects further surrounding code blocks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063633Z" creationid="plp" creationdate="20160801T063633Z">
@@ -8227,6 +8243,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This makes commenting large blocks of code easier than putting the ; before each line manually.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083759Z" creationid="漂流瓶儿" creationdate="20160801T083759Z">
+        <seg>这样做使得注释多行代码时比较容易，不用手动一行一行的进行注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This makes it easy to compile different versions of the same program (x86 and x64) without having to start up the IDE for the other compiler just for the compilation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T105552Z" creationid="plp" creationdate="20160730T105552Z">
@@ -8351,6 +8375,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041500Z" creationid="oSilas" creationdate="20141122T041500Z">
         <seg>此半径不包括圆心像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This reverts the "Insert comments" command, but also works on comments manually set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084102Z" creationid="漂流瓶儿" creationdate="20160801T084102Z">
+        <seg>这个功能可以恢复“插入注释”的代码行，同时也适用于手动设置的注释。</seg>
       </tuv>
     </tu>
     <tu>
