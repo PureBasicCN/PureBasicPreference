@@ -3787,8 +3787,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Furthermore, the IDE has many extra editing features specific to programming or PureBasic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T055959Z" creationid="blues" creationdate="20160729T132746Z">
-        <seg>此外, IDE 开发环境有很多额外的编辑功能，具体到编程或者PureBasict.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T060204Z" creationid="blues" creationdate="20160729T132746Z">
+        <seg>此外, IDE 开发环境有很多针对 PureBasic 编程的扩展功能。</seg>
       </tuv>
     </tu>
     <tu>
