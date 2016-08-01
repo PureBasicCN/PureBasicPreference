@@ -3769,6 +3769,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For advanced programmers &lt;b8&gt;&lt;f9&gt;DeclareC&lt;/f9&gt;&lt;/b8&gt; is available and will declare the procedure using 'CDecl' instead of 'StandardCall' calling convention.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T070227Z" creationid="MysticBoy" creationdate="20160801T070227Z">
+        <seg>针对高级程序员&lt;b8&gt;&lt;f9&gt;DeclareC&lt;/f9&gt;&lt;/b8&gt;是可用的并且将声明采用 'CDecl' 而不是 'StandardCall' 调用约定的程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For an example of how the drawing buffer can be used to create a nice visual effect, take a look here:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043043Z" creationid="oSilas" creationdate="20150312T043043Z">
@@ -4189,6 +4197,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080512Z" creationid="Silas" creationdate="20160720T080512Z">
         <seg>导入/导出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In PureBasic, a recurrence is fully supported for the procedures and any procedure can call it itself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T070155Z" creationid="MysticBoy" creationdate="20160801T070155Z">
+        <seg>在 PureBasic中，递归调用是完全受支持的，任何程序都可以自己调用自己。</seg>
       </tuv>
     </tu>
     <tu>
