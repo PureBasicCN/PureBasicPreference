@@ -2558,6 +2558,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b60&gt;Add/Remove Marker&lt;/b60&gt; &lt;br61&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T091455Z" creationid="漂流瓶儿" creationdate="20160801T091337Z">
+        <seg>&lt;b60&gt;添加/移除书签&lt;/b60&gt; &lt;br61&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>系统</note>
       <tuv lang="EN-US">
         <seg>&lt;b65&gt;Requirements&lt;/b65&gt;&lt;br66&gt;</seg>
