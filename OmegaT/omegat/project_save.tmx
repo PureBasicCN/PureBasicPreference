@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3787,8 +3787,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Furthermore, the IDE has many extra editing features specific to programming or PureBasic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T132746Z" creationid="blues" creationdate="20160729T132746Z">
-        <seg>此外, IDE有很多额外的编辑功能，具体到编程或者PureBasict.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T055959Z" creationid="blues" creationdate="20160729T132746Z">
+        <seg>此外, IDE 开发环境有很多额外的编辑功能，具体到编程或者PureBasict.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3915,8 +3915,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Holding down the Shift key and using the arrow keys selects text.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T132616Z" creationid="blues" creationdate="20160729T132616Z">
-        <seg>按住 Shift 键和光标可以选择文本.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T055914Z" creationid="blues" creationdate="20160729T132616Z">
+        <seg>按住 Shift 键与鼠标配合可以用来选择文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5907,8 +5907,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The "Insert" key controls whether text is inserted or overwritten.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T132331Z" creationid="blues" creationdate="20160729T132331Z">
-        <seg> "Insert" 键控制文本是否插入或者覆盖 .</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T055713Z" creationid="blues" creationdate="20160729T132331Z">
+        <seg> "Insert" 键控制输入文本是插入或者覆盖模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5972,8 +5972,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The Delete key does a forward delete.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T132458Z" creationid="blues" creationdate="20160729T132458Z">
-        <seg>Delete 删除键用于向前删除 .</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T055746Z" creationid="blues" creationdate="20160729T132458Z">
+        <seg>Delete 键用于删除后面文本内容。</seg>
       </tuv>
     </tu>
     <tu>
