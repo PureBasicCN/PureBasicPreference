@@ -8893,8 +8893,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>d / c      &lt;f1&gt;; we directly use the value of 'd' (= 12) divided by the value of 'c' (= 3) and save the result in 'd'&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T083140Z" creationid="lansn-lan" creationdate="20160801T083140Z">
-        <seg>d / c &lt;f1&gt;;我们直接使用“d”的值（= 12）除以“c”的值（= 3），并将结果保存到变量“d”&lt;/f1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T083231Z" creationid="lansn-lan" creationdate="20160801T083140Z">
+        <seg>d / c &lt;f1&gt;;我们直接使用“d”的值（= 12）除以“c”的值（= 3），并将结果（=4）保存到变量“d”&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
