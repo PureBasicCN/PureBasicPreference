@@ -4163,6 +4163,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default items available in modules are all PureBasic commands, structure and constants.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T140459Z" creationid="漂流瓶儿" creationdate="20160801T140437Z">
+        <seg>模块项目（成员）默认支持所有的 PureBasic 命令、结构、常量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default value is $11.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065512Z" creationid="lansn-lan" creationdate="20160729T065512Z">
@@ -8666,6 +8674,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T171113Z" creationid="MysticBoy" creationdate="20160723T171113Z">
         <seg>因此如果需要超过一次使用此值，数据必须存储在变量中，因为所有的后续调用将返回错误值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore module items can not be named like internal PureBasic commands, structure or constants.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T140454Z" creationid="漂流瓶儿" creationdate="20160801T140454Z">
+        <seg>因此模块项目不具名像内部的 PureBasic 命令、 结构或常量。</seg>
       </tuv>
     </tu>
     <tu>
