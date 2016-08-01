@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;AmbientColor()&lt;/a0&gt; - &lt;a1&gt;Engine3D Index&lt;/a1&gt; - &lt;a2&gt;CheckObjectVisibility()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T011243Z" creationid="MysticBoy" creationdate="20160801T011243Z">
+        <seg>&lt;- &lt;a0&gt;AmbientColor()&lt;/a0&gt; - &lt;a1&gt;Engine3D 索引&lt;/a1&gt; - &lt;a2&gt;CheckObjectVisibility()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;BackColor()&lt;/a0&gt; - &lt;a1&gt;2DDrawing Index&lt;/a1&gt; - &lt;a2&gt;Box()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T031309Z" creationid="oSilas" creationdate="20141128T031309Z">
@@ -7135,6 +7143,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T042915Z" creationid="oSilas" creationdate="20150312T042915Z">
         <seg>如果此库的其他绘图命令之前使用了像素操作，那么此函数可以再次调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This function has to be called before &lt;a0&gt;OpenScreen()&lt;/a0&gt; to have any effect.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T011012Z" creationid="MysticBoy" creationdate="20160801T011012Z">
+        <seg>此函数在调用 &lt;a0&gt;OpenScreen()&lt;/a0&gt; 之后调用才会有效果.</seg>
       </tuv>
     </tu>
     <tu>
