@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4025,6 +4025,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Following is an explanation of the Items in the Edit menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081509Z" creationid="漂流瓶儿" creationdate="20160801T081509Z">
+        <seg>以下是在编辑菜单中的项目的说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a detailed description of that see &lt;a46&gt;Customizing the IDE&lt;/a46&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053431Z" creationid="MysticBoy" creationdate="20160726T053431Z">
@@ -4045,6 +4053,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043043Z" creationid="oSilas" creationdate="20150312T043043Z">
         <seg>例如如何绘图缓冲区可用于创建一个很好的视觉效果的情况下，看看这里：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For an overview of them and how to configure them, see &lt;a0&gt;Built-in Tools&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081428Z" creationid="漂流瓶儿" creationdate="20160801T081428Z">
+        <seg>对于他们的概述，以及如何配置它们，请参阅&lt;a0&gt;内置工具 Built-in Tools&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5013,6 +5029,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T081718Z" creationid="lansn-lan" creationdate="20160801T081718Z">
         <seg>我们来个典型的 "Hello World" 吧.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that many of the Edit menu items are also accessible by right clicking on the source code, which opens a popup menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081705Z" creationid="漂流瓶儿" creationdate="20160801T081705Z">
+        <seg>请注意，许多编辑菜单项是在源代码处通过点击鼠标右键来访问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6494,6 +6518,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T055746Z" creationid="blues" creationdate="20160729T132458Z">
         <seg>Delete 键用于删除后面文本内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Edit Menu:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081434Z" creationid="漂流瓶儿" creationdate="20160801T081434Z">
+        <seg>编辑菜单：</seg>
       </tuv>
     </tu>
     <tu>
