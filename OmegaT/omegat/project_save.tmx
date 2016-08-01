@@ -3123,8 +3123,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>By default, the IDE does not insert a real tab when pressing the Tab key, as many programmers see it as a bad thing to use real tabs in source code.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T060648Z" creationid="blues" creationdate="20160729T140311Z">
-        <seg>默认情况下，按下 Tab 键时，开发环境并不会插入一个真正的 tab 制表符，正如许多程序员认为在源代码中使用真正的tab制表符是件很糟糕的事情.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T060844Z" creationid="blues" creationdate="20160729T140311Z">
+        <seg>默认情况下，按下 Tab 键时，开发环境并不会插入一个真正的 tab 制表符，因为很多程序员认为在源代码中插入 tab 制表符不是太好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4315,8 +4315,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>It instead inserts two spaces.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T141812Z" creationid="blues" creationdate="20160729T141812Z">
-        <seg>tab符将被插入2个空格符所替代.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T060921Z" creationid="blues" creationdate="20160729T141812Z">
+        <seg>tab 制表符将被插入的2个空格符所替代。</seg>
       </tuv>
     </tu>
     <tu>
