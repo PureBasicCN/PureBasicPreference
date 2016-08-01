@@ -4875,6 +4875,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is a project open at the time it will be closed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T125411Z" creationid="漂流瓶儿" creationdate="20160801T125411Z">
+        <seg>如果有一个项目正被打开时将会关闭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is no marker after the cursor position, it jumps to the first on in the source code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T111405Z" creationid="漂流瓶儿" creationdate="20160801T111405Z">
