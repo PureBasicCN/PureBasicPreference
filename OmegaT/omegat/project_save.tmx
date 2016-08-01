@@ -4645,8 +4645,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>However, once a program consists of a number of source code and maybe other related files, it can be simpler to handle them all in one project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T122113Z" creationid="漂流瓶儿" creationdate="20160801T122113Z">
-        <seg>然而，一旦一个程序由若干源代码和可能的其他相关文件的，它可以是简单的处理它们都在同一个项目。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T122425Z" creationid="漂流瓶儿" creationdate="20160801T122113Z">
+        <seg>然而，一旦一个程序由若干源代码和其他相关文件时（如一系列的代码文件等），使用此功能便可以简单的将它们在同一个项目中进行管理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5285,8 +5285,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Managing projects</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121819Z" creationid="漂流瓶儿" creationdate="20160801T121819Z">
-        <seg>管理项目</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T122459Z" creationid="漂流瓶儿" creationdate="20160801T121819Z">
+        <seg>管理工程</seg>
       </tuv>
     </tu>
     <tu>
@@ -5816,6 +5816,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T122121Z" creationid="漂流瓶儿" creationdate="20160801T122058Z">
         <seg>虽说不利用项目管理功能两样也可以创建、编译程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project management overview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T122509Z" creationid="漂流瓶儿" creationdate="20160801T122450Z">
+        <seg>项目工程概述</seg>
       </tuv>
     </tu>
     <tu>
