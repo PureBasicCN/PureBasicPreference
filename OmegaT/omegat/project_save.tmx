@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3627,8 +3627,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Editing features</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T131139Z" creationid="MysticBoy" creationdate="20160720T084247Z">
-        <seg>编辑器功能</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T055126Z" creationid="MysticBoy" creationdate="20160720T084247Z">
+        <seg>编辑功能菜单</seg>
       </tuv>
     </tu>
     <tu>
@@ -6028,8 +6028,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The PureBasic IDE acts like any other Text Editor when it comes to the basic editing features.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160729T132025Z" creationid="blues" creationdate="20160729T131608Z">
-        <seg>PureBasic IDE用到基本的编辑功能时，就像任何其他的文本编辑器一样.</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T055304Z" creationid="blues" creationdate="20160729T131608Z">
+        <seg>PureBasic 集成开发环境（IDE） 用到的编辑功能如同任何其他的文本编辑器一样。</seg>
       </tuv>
     </tu>
     <tu>
