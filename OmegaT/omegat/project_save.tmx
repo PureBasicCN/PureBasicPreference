@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4165,6 +4165,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140916Z" creationid="MysticBoy" creationdate="20160723T140916Z">
         <seg>在此区域显示编译器错误和调试消息的日志。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case the command &lt;b4&gt;&lt;f5&gt;Global&lt;/f5&gt;&lt;/b4&gt; must be called for the according variables, &lt;b6&gt;before&lt;/b6&gt; the declaration of the procedure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T064825Z" creationid="MysticBoy" creationdate="20160801T064825Z">
+        <seg>在这种情况下命令&lt;b4&gt;&lt;f5&gt;Global&lt;/f5&gt;&lt;/b4&gt;必须在&lt;b6&gt;之前&lt;/b6&gt;调用程序的声明。</seg>
       </tuv>
     </tu>
     <tu>
