@@ -7675,6 +7675,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This makes it easy to see any more parameters you still have to add to this function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T070752Z" creationid="漂流瓶儿" creationdate="20160801T070752Z">
+        <seg>这使得你很容易查看到要输入功能函数的参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means than when you buy PureBasic you will get all future updates for free, on this web site (it only applies if registered on this web site, not for boxed version of PureBasic).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081015Z" creationid="MysticBoy" creationdate="20160725T080813Z">
