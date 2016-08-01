@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- &lt;a20&gt;Displaying graphics output &amp; simple drawing&lt;/a20&gt; &lt;br21&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074023Z" creationid="lansn-lan" creationdate="20160801T074023Z">
+        <seg>- &lt;a20&gt;图形输出和简单绘图&lt;/a20&gt;&lt;br21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- &lt;a2&gt;Variables and Processing of variables&lt;/a2&gt; &lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T073311Z" creationid="lansn-lan" creationdate="20160801T073311Z">
