@@ -2046,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Add&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145140Z" creationid="漂流瓶儿" creationdate="20160801T145140Z">
+        <seg>&lt;b0&gt;添加&lt;/b0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Compile/Run&lt;/b0&gt; &lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T084415Z" creationid="plp" creationdate="20160730T084415Z">
@@ -2246,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b12&gt;Open&lt;/b12&gt; &lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145346Z" creationid="漂流瓶儿" creationdate="20160801T145346Z">
+        <seg>&lt;b12&gt;打开&lt;/b12&gt; &lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b12&gt;load only the main file of the default target&lt;/b12&gt; &lt;br13&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T144820Z" creationid="漂流瓶儿" creationdate="20160801T144820Z">
@@ -2298,6 +2314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130704Z" creationid="漂流瓶儿" creationdate="20160801T130704Z">
         <seg>&lt;b16&gt;项目选项&lt;/b16&gt; &lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b16&gt;View&lt;/b16&gt; &lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145432Z" creationid="漂流瓶儿" creationdate="20160801T145432Z">
+        <seg>&lt;b16&gt;查看&lt;/b16&gt; &lt;br17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2703,6 +2727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b4&gt;Remove&lt;/b4&gt; &lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145212Z" creationid="漂流瓶儿" creationdate="20160801T145212Z">
+        <seg>&lt;b4&gt;移除&lt;/b4&gt; &lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b4&gt;The tools panel&lt;/b4&gt; (on the right side by default) &lt;br5&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140515Z" creationid="MysticBoy" creationdate="20160723T140515Z">
@@ -2869,6 +2901,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T082009Z" creationid="漂流瓶儿" creationdate="20160801T082009Z">
         <seg>&lt;b8&gt;剪切&lt;/b8&gt; &lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b8&gt;New&lt;/b8&gt; &lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145235Z" creationid="漂流瓶儿" creationdate="20160801T145235Z">
+        <seg>&lt;b8&gt;新建&lt;/b8&gt; &lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3687,6 +3727,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062559Z" creationid="blues" creationdate="20160730T061805Z">
         <seg>给日期加一个时间.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add the selected file(s) in the explorer to the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145202Z" creationid="漂流瓶儿" creationdate="20160801T145202Z">
+        <seg>将资源管理器中所选的文件添加到项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6676,6 +6724,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove the selected files in the file list from the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145227Z" creationid="漂流瓶儿" creationdate="20160801T145227Z">
+        <seg>从项目中的文件列表中选定的文件删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removes the comment characters at the beginning of each selected line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083924Z" creationid="漂流瓶儿" creationdate="20160801T083924Z">
@@ -7276,6 +7332,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shows a file requester to select a filename for a new source file to create.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145324Z" creationid="漂流瓶儿" creationdate="20160801T145324Z">
+        <seg>通过系统文件请求创建的新的源码文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shows a file requester to select an existing file to open.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145412Z" creationid="漂流瓶儿" creationdate="20160801T145412Z">
+        <seg>通过系统文件请求选择并打开的现有文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shows the changes made to the current source code compared to its version that exists on the hard drive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053237Z" creationid="MysticBoy" creationdate="20160726T053237Z">
@@ -7869,6 +7941,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The buttons on the top have the following function:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145133Z" creationid="漂流瓶儿" creationdate="20160801T145133Z">
+        <seg>在顶部的按钮具有以下功能︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The callback has to calculate the color that the target pixel should have after the drawing and return that.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T040715Z" creationid="oSilas" creationdate="20141128T040715Z">
@@ -8270,6 +8350,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The file will be opened in the IDE and added to the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145425Z" creationid="漂流瓶儿" creationdate="20160801T145425Z">
+        <seg>在 IDE 中打开文件，并添加到项目中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The filling mode is determined by &lt;a0&gt;DrawingMode()&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041106Z">
@@ -8506,6 +8594,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041535Z" creationid="oSilas" creationdate="20151013T041535Z">
         <seg>被用作背景色的颜色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The new file will be created, opened in the IDE and also added to the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145340Z" creationid="漂流瓶儿" creationdate="20160801T145340Z">
+        <seg>新文件将创建，在 IDE 中打开并添加到项目中。</seg>
       </tuv>
     </tu>
     <tu>
