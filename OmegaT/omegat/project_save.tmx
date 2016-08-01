@@ -2576,6 +2576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b68&gt;Jump to Marker&lt;/b68&gt; &lt;br69&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T111112Z" creationid="漂流瓶儿" creationdate="20160801T111112Z">
+        <seg>&lt;b68&gt;跳转到书签&lt;/b68&gt; &lt;br69&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b68&gt;Requirements&lt;/b68&gt;&lt;br69&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174531Z" creationid="MysticBoy" creationdate="20160723T174531Z">
@@ -5378,6 +5386,15 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: You can also set/remove markers by holding down the Ctrl Key and clicking on the border that holds the markers (not the Line-number part of it).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T111055Z" creationid="漂流瓶儿" creationdate="20160801T111055Z">
+        <seg>注意:你也可以通过按住Ctrl键点击行号后面的空白位置来添加或移除书签标记。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: You can configure what is displayed in the Auto complete list, as well as turning off the automatic popup (requiring a keyboard shortcut such as Ctrl+Space to open list) in the Preferences.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081102Z" creationid="漂流瓶儿" creationdate="20160801T081016Z">
@@ -6734,6 +6751,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080846Z" creationid="MysticBoy" creationdate="20160725T080846Z">
         <seg>非常感谢您的支持！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The "Add/Remove Marker" sets or removes a marker from the current line you are editing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T110933Z" creationid="漂流瓶儿" creationdate="20160801T110933Z">
+        <seg>“添加/删除标记”将会新设定或删除正在编辑的当前行的书签标志。</seg>
       </tuv>
     </tu>
     <tu>
