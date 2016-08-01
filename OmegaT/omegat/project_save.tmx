@@ -2286,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b20&gt;Add File to Project&lt;/b20&gt; &lt;br21&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T131213Z" creationid="漂流瓶儿" creationdate="20160801T131213Z">
+        <seg>&lt;b20&gt;添加项目文件&lt;/b20&gt; &lt;br21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b20&gt;Find Next&lt;/b20&gt; &lt;br21&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T120229Z" creationid="漂流瓶儿" creationdate="20160801T120229Z">
@@ -5828,6 +5836,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opens the project options window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T131127Z" creationid="漂流瓶儿" creationdate="20160801T131127Z">
+        <seg>打开项目选项窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options for building projects:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071829Z" creationid="MysticBoy" creationdate="20160728T071829Z">
@@ -6760,6 +6776,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110759Z">
         <seg>参阅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See below for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T131202Z" creationid="漂流瓶儿" creationdate="20160801T131202Z">
+        <seg>查看了解更多项目信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8274,6 +8298,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T080939Z" creationid="plp" creationdate="20160728T111002Z">
         <seg>在这里所做的设置会与当前的源文件或项目关联，并且保存源码或工程时，设置信息同样也会被保存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The settings will be saved and the currently open source files of the project will be closed, depending on the project configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T131033Z" creationid="漂流瓶儿" creationdate="20160801T131033Z">
+        <seg>关闭并保存当前打开的工程项目及项目中所有被打开的代码文件并对其项目设置进行保存。</seg>
       </tuv>
     </tu>
     <tu>
