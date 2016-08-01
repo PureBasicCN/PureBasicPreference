@@ -8005,8 +8005,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>We start programming... this part of the PureBasic manual should guide you through some basic stuff, which you should learn while starting to program with PureBasic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T071252Z" creationid="lansn-lan" creationdate="20160801T071252Z">
-        <seg>我们开始使用PureBasic编程前，通过手册指导可以让你对PureBasic有个大概的了解.</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T071400Z" creationid="lansn-lan" creationdate="20160801T071252Z">
+        <seg>我们开始使用PureBasic编程前，通过手册指导可以让你对PureBasic有个基本的了解.</seg>
       </tuv>
     </tu>
     <tu>
