@@ -4674,6 +4674,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is no marker after the cursor position, it jumps to the first on in the source code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T111405Z" creationid="漂流瓶儿" creationdate="20160801T111405Z">
+        <seg>如果光标位置之后没有书签标记，将跳转到代码中的第一个书签处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If these parameters are not specified then the image will be drawn in its original size.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T050427Z" creationid="oSilas" creationdate="20151013T050427Z">
@@ -8465,6 +8473,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T070752Z" creationid="漂流瓶儿" creationdate="20160801T070752Z">
         <seg>这使得你很容易查看到要输入功能函数的参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This makes the cursor jump to the next marker position further down the code from the current cursor position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T111311Z" creationid="漂流瓶儿" creationdate="20160801T111311Z">
+        <seg>该命令使光标从当前位置跳转到下一个书签标记位置代码行。</seg>
       </tuv>
     </tu>
     <tu>
