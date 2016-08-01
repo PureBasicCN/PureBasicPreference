@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2439,6 +2439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b45&gt;Goto recent line&lt;/b45&gt; &lt;br46&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085001Z" creationid="漂流瓶儿" creationdate="20160801T085001Z">
+        <seg>&lt;b45&gt;返回历史行&lt;/b45&gt; &lt;br46&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b49&gt;Session history&lt;/b49&gt; &lt;br50&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022232Z" creationid="MysticBoy" creationdate="20160726T022232Z">
@@ -4548,8 +4556,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>If the cursor is currently on a keyword such as "If" this menu option jumps directly to the keyword that matches it (in this case "EndIf").</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084827Z" creationid="漂流瓶儿" creationdate="20160801T084827Z">
-        <seg>当光标指针指向一个关键字时，这个菜单选项会使光标直接跳到与其匹配的关键字上。（如光标指向“If”，在这种情况下是“endif”）</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084858Z" creationid="漂流瓶儿" creationdate="20160801T084827Z">
+        <seg>当光标指针指向一个关键字时，这个菜单选项会使光标直接跳到与其匹配的关键字上。（如光标指向“If”时，会跳转到“endif”）</seg>
       </tuv>
     </tu>
     <tu>
@@ -6767,6 +6775,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053310Z" creationid="MysticBoy" creationdate="20160726T053310Z">
         <seg>开发环境能设定文件编码为Ascii或UTF-8。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE keeps track of the lines you view.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085208Z" creationid="漂流瓶儿" creationdate="20160801T085208Z">
+        <seg>开发环境 IDE 会返回到你浏览当前行前的历史keeps track of the lines you view.</seg>
       </tuv>
     </tu>
     <tu>
