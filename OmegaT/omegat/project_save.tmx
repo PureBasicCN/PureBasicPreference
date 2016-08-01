@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b21&gt;&lt;f22&gt;UseModule&lt;/f22&gt;&lt;/b21&gt; is not mandatory to access a module item, but the module name needs to be specified.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T140013Z" creationid="漂流瓶儿" creationdate="20160801T140013Z">
+        <seg>使用&lt;b21&gt;&lt;f22&gt;UseModule&lt;/f22&gt;&lt;/b21&gt; 无需强制性地访问模块项目（成员），但必须要指定模块名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b21&gt;Restart Compiler&lt;/b21&gt; (not present on all OS) &lt;br22&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T092914Z" creationid="plp" creationdate="20160730T092914Z">
@@ -5399,6 +5407,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053813Z" creationid="MysticBoy" creationdate="20160726T053813Z">
         <seg>它的目的不是要取代像 SVN 或 GIT这样真正的源代码版本控制系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's the common way have global data available for all modules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T140154Z" creationid="漂流瓶儿" creationdate="20160801T140154Z">
+        <seg>这是可用于所有模块的全局数据的常用方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9338,6 +9354,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044357Z" creationid="oSilas" creationdate="20150312T044357Z">
         <seg>若要还原默认的系统字体，可以将 &lt;f3&gt;#PB_Default&lt;/f3&gt;作为 FontID。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To share information between modules, a common module can be created and then used in every modules which needs it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T140113Z" creationid="漂流瓶儿" creationdate="20160801T140113Z">
+        <seg>如果需要模块之间的信息共享，可以创建一个公共模块，然后在每个需要它的模块中使用这个通用模块。</seg>
       </tuv>
     </tu>
     <tu>
