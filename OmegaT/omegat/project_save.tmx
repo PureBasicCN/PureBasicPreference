@@ -9148,6 +9148,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can later jump to these markers with the "Jump to marker" command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T110803Z" creationid="漂流瓶儿" creationdate="20160801T110803Z">
+        <seg>你可以使用 "跳转到标签" 命令来将光标跳转制书签处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can switch between them using the panel located under the Toolbar.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020326Z" creationid="MysticBoy" creationdate="20160726T020326Z">
