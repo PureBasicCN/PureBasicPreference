@@ -2905,6 +2905,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;; Every items in this sections will be available from outside&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T141902Z" creationid="漂流瓶儿" creationdate="20160801T141902Z">
+        <seg>&lt;f0&gt;; 此部分的任意一个项目成员都可以被外部获取&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;b1&gt;FANTAISIE SOFTWARE&lt;/b1&gt;&lt;/f0&gt; &lt;br2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084518Z" creationid="MysticBoy" creationdate="20160725T084518Z">
@@ -2917,6 +2925,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061801Z" creationid="lansn-lan" creationdate="20160729T061801Z">
         <seg>&lt;f10&gt;#PB_SerialPort_XoffReceived&lt;/f10&gt;︰ 指定传输是否正在等待，因为接收到 XOFF 字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f10&gt;; Every items in this sections will be private.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T142035Z" creationid="漂流瓶儿" creationdate="20160801T142035Z">
+        <seg>&lt;f10&gt;; 本部分内的任意一个项目（成员）均为私有，</seg>
       </tuv>
     </tu>
     <tu>
@@ -4463,6 +4479,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T080747Z" creationid="漂流瓶儿" creationdate="20160801T080747Z">
         <seg>在任何时候都可以通过ESC键关闭自动完成列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every names can be used without conflict&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T142108Z" creationid="漂流瓶儿" creationdate="20160801T142108Z">
+        <seg>其外部即使重名，也不会引起冲突。&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
