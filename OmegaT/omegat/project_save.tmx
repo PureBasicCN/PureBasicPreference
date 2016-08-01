@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3225,6 +3225,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another default fold keyword is ";{" and ";}".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T074133Z" creationid="漂流瓶儿" creationdate="20160801T074133Z">
+        <seg>另一对折叠关键字是 ";{" 和 ";}".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any characters printed after calling this function will use the new colors.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112201Z">
@@ -4181,6 +4189,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061804Z" creationid="blues" creationdate="20160729T141344Z">
         <seg>当选中一行或者多行代码时，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, they provide the possibility to place custom fold points that do not correspond to a specific PB keyword.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T074452Z" creationid="漂流瓶儿" creationdate="20160801T074452Z">
+        <seg>然而，它们却提供了将不对应于特定的PB关键字定制折点的可能性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6085,6 +6101,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T062730Z" creationid="lansn-lan" creationdate="20160801T054821Z">
         <seg>类似于上面 Tab 的指定动作，使用键盘快捷方式 Ctrl + E，Ctrl + Shift + E （ OSX系统使用 CMD + E 和 CMD + Shift + E ） 可用于改变选定代码块注释的缩进。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since ";" marks a comment in PB, these will be totally ignored by the compiler.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T074332Z" creationid="漂流瓶儿" creationdate="20160801T074332Z">
+        <seg>以 ";" 开头表示为PB注释，这样在编译程序时会被编译器忽略。</seg>
       </tuv>
     </tu>
     <tu>
