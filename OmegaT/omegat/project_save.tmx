@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;WindowOutput()&lt;/a0&gt; - &lt;a1&gt;Window Index&lt;/a1&gt; - &lt;a2&gt;WindowWidth()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T030103Z" creationid="MysticBoy" creationdate="20160801T030103Z">
+        <seg>&lt;- &lt;a0&gt;WindowOutput()&lt;/a0&gt; - &lt;a1&gt;Window 索引&lt;/a1&gt; - &lt;a2&gt;WindowWidth()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;WindowVectorOutput()&lt;/a0&gt; - &lt;a1&gt;Window Index&lt;/a1&gt; - &lt;a2&gt;WindowX()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025804Z" creationid="MysticBoy" creationdate="20160801T025804Z">
@@ -5793,6 +5801,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specifies the unit used for measuring distances on the drawing output.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T030033Z" creationid="MysticBoy" creationdate="20160801T030033Z">
+        <seg>指定用于在绘图输出的测量距离的单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Support</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054613Z" creationid="MysticBoy" creationdate="20160721T054613Z">
@@ -6426,6 +6442,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default unit for windows is &lt;f0&gt;#PB_Unit_Pixel&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T030055Z" creationid="MysticBoy" creationdate="20160801T030055Z">
+        <seg>窗口的默认单位是 &lt;f0&gt;#PB_Unit_Pixel&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The defaults for newly created source codes can be set in the &lt;a41&gt;preferences&lt;/a41&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053408Z" creationid="MysticBoy" creationdate="20160726T053408Z">
@@ -6647,6 +6671,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060129Z" creationid="lansn-lan" creationdate="20160729T055930Z">
         <seg>读取数据的缓冲区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The memory allocated in &lt;a3&gt;WindowVectorOutput()&lt;/a3&gt; is released on &lt;a4&gt;StopVectorDrawing()&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T030012Z" creationid="MysticBoy" creationdate="20160801T030012Z">
+        <seg>在&lt;a3&gt;WindowVectorOutput()&lt;/a3&gt;中分配的内存在&lt;a4&gt;StopVectorDrawing()&lt;/a4&gt;函数中释放。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7639,6 +7671,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T135911Z" creationid="oSilas" creationdate="20141124T135911Z">
         <seg>在Windows下，控制台的标题现在启动栏和任务管理器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T030024Z" creationid="MysticBoy" creationdate="20160801T030024Z">
+        <seg>单位 (可选)</seg>
       </tuv>
     </tu>
     <tu>
