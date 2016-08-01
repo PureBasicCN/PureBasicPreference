@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4509,6 +4509,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T062452Z" creationid="blues" creationdate="20160729T142446Z">
         <seg>它将每一行前面的空格或制表符去除，来达到使整个选中块减少缩进。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It shouldn't replace any larger tutorial or the massive information, which can be found on the popular &lt;a2&gt;PureBasic forums&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T072159Z" creationid="lansn-lan" creationdate="20160801T072159Z">
+        <seg>本指南并不是完整的教程，有关PureBasic大量的信息，可以在&lt;a2&gt;的PureBasic论坛&lt;/a2&gt;流行中找到。</seg>
       </tuv>
     </tu>
     <tu>
