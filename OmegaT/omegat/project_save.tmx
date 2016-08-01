@@ -7987,6 +7987,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Topics in this chapter:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T072852Z" creationid="lansn-lan" creationdate="20160801T072852Z">
+        <seg>本章主题：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transforms a string date into a regular date value which then can be used by other date functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094240Z" creationid="blues" creationdate="20160730T094240Z">
