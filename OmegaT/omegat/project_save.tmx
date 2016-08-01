@@ -5145,6 +5145,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ok here we go with two examples:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T081834Z" creationid="lansn-lan" creationdate="20160801T081834Z">
+        <seg>好了下面我们就用两个例子：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On Microsoft Windows, there are two different executable formats: Win32 and Console.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082721Z" creationid="MysticBoy" creationdate="20160720T082721Z">
@@ -8687,6 +8695,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T075346Z" creationid="漂流瓶儿" creationdate="20160801T075237Z">
         <seg>然后你可以通过上下方向键（UP / DOWN键）进行选择，按Tab键自动完成插入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You want to see it?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T081758Z" creationid="lansn-lan" creationdate="20160801T081758Z">
+        <seg>你想看看吗？</seg>
       </tuv>
     </tu>
     <tu>
