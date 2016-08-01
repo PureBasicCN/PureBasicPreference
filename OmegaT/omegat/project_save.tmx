@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3777,6 +3777,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Folding options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T071114Z" creationid="漂流瓶儿" creationdate="20160801T071114Z">
+        <seg>折叠选项：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a detailed description of that see &lt;a46&gt;Customizing the IDE&lt;/a46&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053431Z" creationid="MysticBoy" creationdate="20160726T053431Z">
@@ -7419,6 +7427,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This also works for &lt;a0&gt;procedures&lt;/a0&gt;, &lt;a1&gt;prototypes&lt;/a1&gt;, &lt;a2&gt;interfaces&lt;/a2&gt; or &lt;a3&gt;imported functions&lt;/a3&gt; in your code as long as they are declared in the same source code or &lt;a4&gt;project&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T071107Z" creationid="漂流瓶儿" creationdate="20160801T071107Z">
+        <seg>这个特性，也适用于 &lt;a0&gt;procedures 过程&lt;/a0&gt;, &lt;a1&gt;prototypes 原型&lt;/a1&gt;, &lt;a2&gt;interfaces 接口&lt;/a2&gt;或 &lt;a3&gt;imported 引用函数&lt;/a3&gt; ，只要他们在相同的源代码或 &lt;a4&gt;project 工程&lt;/a4&gt;中已经声明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This behavior can be changed in the Preferences.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061051Z" creationid="blues" creationdate="20160729T141859Z">
@@ -8071,6 +8087,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T021129Z" creationid="MysticBoy" creationdate="20160726T021129Z">
         <seg>保存纯文本的文件时，IDE 不会将其设置附加到文件的末尾，即使已经配置为&lt;a4&gt;首选项&lt;/a4&gt;的代码文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When special folding keywords are encountered (&lt;b0&gt;&lt;f1&gt;Procedure&lt;/f1&gt;&lt;/b0&gt; / &lt;b2&gt;&lt;f3&gt;EndProcedure&lt;/f3&gt;&lt;/b2&gt; by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T071259Z" creationid="漂流瓶儿" creationdate="20160801T071259Z">
+        <seg>当遇到指定的可折叠关键字时 (&lt;b0&gt;&lt;f1&gt;Procedure 过程&lt;/f1&gt;&lt;/b0&gt; / &lt;b2&gt;&lt;f3&gt;EndProcedure&lt;/f3&gt;&lt;/b2&gt; by default.</seg>
       </tuv>
     </tu>
     <tu>
