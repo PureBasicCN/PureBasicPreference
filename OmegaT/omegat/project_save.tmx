@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6989,8 +6989,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The shortcut Ctrl+Shift+M (CMD+Shift+M on OSX) reverses the behavior and reverts the selection to the block that was selected before the last usage of the Ctrl+M shortcut.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063715Z" creationid="plp" creationdate="20160801T063715Z">
-        <seg>快捷键 Ctrl + Shift + M，(在 OSX 上为：CMD + Shift + M) 反转的行为，恢复到在最后一次使用 Ctrl + M 快捷方式之前被选中的块选择。</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063902Z" creationid="plp" creationdate="20160801T063715Z">
+        <seg>快捷键 Ctrl + Shift + M，(在 OSX 上为：CMD + Shift + M) 撤销选择动作，恢复到在最后一次使用 Ctrl + M 快捷键前的块选择。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7127,6 +7127,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063207Z" creationid="plp" creationdate="20160801T062933Z">
         <seg>使用的快捷键可以在&lt;a0&gt;preferences&lt;/a0&gt;中配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The used shortcuts can be configured in the &lt;a4&gt;preferences&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063933Z" creationid="plp" creationdate="20160801T063933Z">
+        <seg>使用的快捷键可以在&lt;a4&gt;preferences&lt;/a4&gt;中配置。</seg>
       </tuv>
     </tu>
     <tu>
