@@ -3233,6 +3233,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u5&gt;Case Sensitive&lt;/u5&gt; : Only text that matches the exact case of the search word will be found.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T112441Z" creationid="漂流瓶儿" creationdate="20160801T112441Z">
+        <seg>&lt;u5&gt;区分大小写&lt;/u5&gt; ：只有保证确切的搜索内容的情况下，匹配的文本才会被搜索到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;u7&gt;Whole Words only&lt;/u7&gt; : Search for the given word as a whole word.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T112644Z" creationid="漂流瓶儿" creationdate="20160801T112644Z">
+        <seg>&lt;u7&gt;全字匹配&lt;/u7&gt; ：搜索到的内容是指定的整个单词，而不是某个词的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>=== Characteristics ===
 PureBasic is a native 32 bit and 64 bit BASIC compiler.</seg>
       </tuv>
@@ -4007,6 +4023,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110627Z">
         <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not display results where the search word is part of another word.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T112734Z" creationid="漂流瓶儿" creationdate="20160801T112734Z">
+        <seg>如果搜索词是另一个词的一部分则不作为搜索结果。</seg>
       </tuv>
     </tu>
     <tu>
