@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b16&gt;Project Options&lt;/b16&gt; &lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130704Z" creationid="漂流瓶儿" creationdate="20160801T130704Z">
+        <seg>&lt;b16&gt;项目选项&lt;/b16&gt; &lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b17&gt;Compile without Debugger&lt;/b17&gt; &lt;br18&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T092654Z" creationid="plp" creationdate="20160730T092654Z">
