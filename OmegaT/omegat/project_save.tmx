@@ -8030,6 +8030,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The project can also remember the source files that are open when the project is closed and reopen them the next time to continue working exactly where you left off.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T123456Z" creationid="漂流瓶儿" creationdate="20160801T123456Z">
+        <seg>关闭该项目时，该工程管理功能会记住打开时的源文件状态，并在下一次重新打开工程时停在你上次工作的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The radius of the circle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041245Z" creationid="oSilas" creationdate="20141122T041245Z">
