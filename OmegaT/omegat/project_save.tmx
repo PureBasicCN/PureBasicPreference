@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- &lt;a2&gt;Variables and Processing of variables&lt;/a2&gt; &lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T073311Z" creationid="lansn-lan" creationdate="20160801T073311Z">
+        <seg>- &lt;a2&gt;变量和变量处理&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- All Standard &lt;f47&gt;&lt;b48&gt;BASIC keywords: If-Else-EndIf, Repeat-Until, etc.&lt;br49&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175356Z" creationid="MysticBoy" creationdate="20160723T175356Z">
