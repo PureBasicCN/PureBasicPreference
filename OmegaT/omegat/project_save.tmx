@@ -8918,6 +8918,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This way functions, constants, variables etc. from the entire project can be used with AutoComplete.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T123138Z" creationid="漂流瓶儿" creationdate="20160801T123138Z">
+        <seg>包括功能函数、常量、 变量等从整个工程项目中要使用到的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This way you have used variables "on the fly".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T085335Z" creationid="lansn-lan" creationdate="20160801T084650Z">
