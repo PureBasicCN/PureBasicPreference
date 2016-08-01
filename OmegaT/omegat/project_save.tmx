@@ -2134,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Project Targets&lt;/b0&gt; &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151636Z" creationid="漂流瓶儿" creationdate="20160801T151636Z">
+        <seg>&lt;b0&gt;项目目标&lt;/b0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;PureBasic Chat&lt;/b0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105152Z" creationid="MysticBoy" creationdate="20160721T105152Z">
@@ -3569,6 +3577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u10&gt;Refresh AutoComplete data&lt;/u10&gt; - Rescan the file for AutoComplete items.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151553Z" creationid="漂流瓶儿" creationdate="20160801T151553Z">
+        <seg>&lt;u10&gt;刷新自动完成数据&lt;/u10&gt; - 重新扫描自动完成的项目文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u11&gt;Don't search in Strings&lt;/u11&gt; : Any match that is found inside a literal string (in " ") is ignored.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T113127Z" creationid="漂流瓶儿" creationdate="20160801T113127Z">
@@ -3609,10 +3625,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u6&gt;Add File to Project&lt;/u6&gt; - Add a new file to the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151443Z" creationid="漂流瓶儿" creationdate="20160801T151443Z">
+        <seg>&lt;u6&gt;添加文件到项目&lt;/u6&gt; - 添加一个新文件到工程项目中来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u7&gt;Whole Words only&lt;/u7&gt; : Search for the given word as a whole word.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T112644Z" creationid="漂流瓶儿" creationdate="20160801T112644Z">
         <seg>&lt;u7&gt;全字匹配&lt;/u7&gt; ：搜索到的内容是指定的整个单词，而不是某个词的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;u8&gt;Remove File from Project&lt;/u8&gt; - Remove the selected file(s) from the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151508Z" creationid="漂流瓶儿" creationdate="20160801T151508Z">
+        <seg>&lt;u8&gt;从项目中移除&lt;/u8&gt; - 将选中的一个或多个文件从工程项目中移除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9882,6 +9914,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T065640Z" creationid="漂流瓶儿" creationdate="20160801T065640Z">
         <seg>同样这个概念也应用于关键字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section shows all compile targets in the project and some of their settings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151706Z" creationid="漂流瓶儿" creationdate="20160801T151627Z">
+        <seg>该区域内显示了工程的所有的编译目标，并包含一部分设置信息。</seg>
       </tuv>
     </tu>
     <tu>
