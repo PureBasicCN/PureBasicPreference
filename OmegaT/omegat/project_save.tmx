@@ -5243,6 +5243,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this example, the program will loop 10 times (10 to 1 backwards), then quit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160801T143616Z" creationid="jane" creationdate="20160801T143616Z">
+        <seg>在此示例中，该程序将循环 10 倍次(10 到 1 向后)，然后退出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this example, the program will loop 11, time (0 to 10), then quit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160801T143651Z" creationid="jane" creationdate="20160801T143651Z">
+        <seg>在此示例中，程序将循环 11次 (0 到 10)，然后退出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this submenu you can select the text encoding as well as the newline format which should be used when the currently active source code is saved to disk.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053300Z" creationid="MysticBoy" creationdate="20160726T053300Z">
@@ -7457,6 +7473,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T034355Z" creationid="oSilas" creationdate="20141128T034355Z">
         <seg> &lt;a7&gt;Plot()&lt;/a7&gt; 和 &lt;a8&gt;Point()&lt;/a8&gt; 命令因为执行无边界检查的性能原因，因此不影响此命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b16&gt;&lt;f17&gt;For : Next&lt;/f17&gt;&lt;/b16&gt; loop works only with integer values, at the expressions as well at the &lt;b18&gt;&lt;f19&gt;Step&lt;/f19&gt;&lt;/b18&gt; constant.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160801T143920Z" creationid="jane" creationdate="20160801T143920Z">
+        <seg> &lt;b16&gt;&lt;f17&gt;For : Next&lt;/f17&gt;&lt;/b16&gt; 循环制适用于整数值，loop works only with integer values, at the expressions as well at the &lt;b18&gt;&lt;f19&gt;Step&lt;/f19&gt;&lt;/b18&gt; constant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b20&gt;&lt;f21&gt;Step&lt;/f21&gt;&lt;/b20&gt; constant can also be negative.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jane" changedate="20160801T143823Z" creationid="jane" creationdate="20160801T143823Z">
+        <seg> &lt;b20&gt;&lt;f21&gt;Step&lt;/f21&gt;&lt;/b20&gt; 常量也可以是负数.</seg>
       </tuv>
     </tu>
     <tu>
