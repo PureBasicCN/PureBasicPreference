@@ -2206,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b12&gt;Close Project&lt;/b12&gt; &lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130610Z" creationid="漂流瓶儿" creationdate="20160801T130610Z">
+        <seg>&lt;b12&gt;关闭项目&lt;/b12&gt;&lt;br13&gt;&lt;/br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b12&gt;Copy&lt;/b12&gt; &lt;br13&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083300Z" creationid="漂流瓶儿" creationdate="20160801T083300Z">
@@ -2725,6 +2733,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T082009Z" creationid="漂流瓶儿" creationdate="20160801T082009Z">
         <seg>&lt;b8&gt;剪切&lt;/b8&gt; &lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b8&gt;Recent Projects&lt;/b8&gt; &lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130450Z" creationid="漂流瓶儿" creationdate="20160801T130450Z">
+        <seg>&lt;b8&gt;最近项目&lt;/b8&gt; &lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3887,6 +3903,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053150Z" creationid="MysticBoy" creationdate="20160726T053150Z">
         <seg>关闭当前激活的源码.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Closes the currently open project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130622Z" creationid="漂流瓶儿" creationdate="20160801T130615Z">
+        <seg>关闭当前打开的工程项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5876,6 +5900,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Previously open source codes of the project will be opened as well, depending on the project configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130416Z" creationid="漂流瓶儿" creationdate="20160801T130416Z">
+        <seg>工程项目中设定的随项目一起打开的代码文件等将会自动打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Procedure Support</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083358Z" creationid="MysticBoy" creationdate="20160720T083358Z">
@@ -6752,6 +6784,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063122Z" creationid="plp" creationdate="20160801T063122Z">
         <seg>代码选择块：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selecting one of the entries opens this project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130603Z" creationid="漂流瓶儿" creationdate="20160801T130603Z">
+        <seg>点击选择其中一项将调用打开项目命令载入此工程项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9002,6 +9042,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105415Z" creationid="MysticBoy" creationdate="20160721T105415Z">
         <seg>这个软件已经开发了用于Windows操作系统版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This submenu shows a list of recently opened project files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130510Z" creationid="漂流瓶儿" creationdate="20160801T130510Z">
+        <seg>此子菜单显示最近打开的项目文件的列表。</seg>
       </tuv>
     </tu>
     <tu>
