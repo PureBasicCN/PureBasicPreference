@@ -5947,8 +5947,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>So the following information texts are short, but they include some "keywords" and links to further information, which are included in this reference manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T072357Z" creationid="lansn-lan" creationdate="20160801T072357Z">
-        <seg>因此，以下信息是简短的，但包括一些“关键词”和链接的详细信息，其中包括在本参考手册中的</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T072509Z" creationid="lansn-lan" creationdate="20160801T072357Z">
+        <seg>因此，以下信息是简短的，但在本参考手册中包括一些“关键词”和链接的详细信息。</seg>
       </tuv>
     </tu>
     <tu>
