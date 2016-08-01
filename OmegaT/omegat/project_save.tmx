@@ -2255,6 +2255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_AntialiasingMode_None&lt;/f0&gt;: No antialiasing (default).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010837Z" creationid="MysticBoy" creationdate="20160801T010805Z">
+        <seg>&lt;f0&gt;#PB_AntialiasingMode_None&lt;/f0&gt;: 反锯齿 (默认).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_Ascii&lt;/f0&gt;   : the string will be written in ascii format (default, even in &lt;a1&gt;unicode&lt;/a1&gt; mode).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070707Z" creationid="lansn-lan" creationdate="20160729T070707Z">
@@ -2383,6 +2391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_AntialiasingMode_x2&lt;/f1&gt;  : x2 fullscreen antialiasing (FSAA).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010830Z" creationid="MysticBoy" creationdate="20160801T010830Z">
+        <seg>&lt;f1&gt;#PB_AntialiasingMode_x2&lt;/f1&gt;  : x2 全屏反锯齿 (FSAA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;#PB_Date_Month&lt;/f1&gt;  : Will add 'Value' Months to the date</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063153Z" creationid="blues" creationdate="20160730T063111Z">
@@ -2439,6 +2455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_AntialiasingMode_x4&lt;/f2&gt;  : x4 fullscreen antialiasing (FSAA).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010847Z" creationid="MysticBoy" creationdate="20160801T010847Z">
+        <seg>&lt;f2&gt;#PB_AntialiasingMode_x4&lt;/f2&gt;  : x4 全屏反锯齿 (FSAA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f2&gt;#PB_Date_Week&lt;/f2&gt;   : Will add 'Value' Weeks to the date</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063147Z" creationid="blues" creationdate="20160730T063121Z">
@@ -2491,6 +2515,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070736Z" creationid="lansn-lan" creationdate="20160729T070736Z">
         <seg>&lt;f2&gt;#PB_UTF8&lt;/f2&gt;    : 字符串将以 UTF8 格式写入.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f3&gt;#PB_AntialiasingMode_x6&lt;/f3&gt;  : x6 fullscreen antialiasing (FSAA).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010858Z" creationid="MysticBoy" creationdate="20160801T010858Z">
+        <seg>&lt;f3&gt;#PB_AntialiasingMode_x6&lt;/f3&gt;  : x6 全屏反锯齿 (FSAA).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3105,6 +3137,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changes the fullscreen antialiasing mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010934Z" creationid="MysticBoy" creationdate="20160801T010934Z">
+        <seg>更改全屏反锯齿模式.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changes the specified serial port status.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065231Z" creationid="lansn-lan" creationdate="20160729T065231Z">
@@ -3373,6 +3413,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T050351Z" creationid="lansn-lan" creationdate="20160729T050351Z">
         <seg>定义串口通信连接速度（波特率），可以是下列值之一︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending of the graphic card, this command can have a severe impact on rendering performance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010745Z" creationid="MysticBoy" creationdate="20160801T010745Z">
+        <seg>取决于图形卡，此命令可以对严重影响渲染性能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4139,8 +4187,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>It can be one of the following constants:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062823Z" creationid="blues" creationdate="20160730T062823Z">
-        <seg>它可以是下列值之一:</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010720Z" creationid="blues" creationdate="20160730T062823Z">
+        <seg>它可以是下列常量之一:</seg>
       </tuv>
     </tu>
     <tu>
