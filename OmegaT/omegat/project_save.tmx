@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Windows XP, Windows Vista, Windows 7, Windows 8 or Windows 10&lt;br36&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121710Z" creationid="漂流瓶儿" creationdate="20160801T121710Z">
+        <seg>- Windows XP, Windows Vista, Windows 7, Windows 8 or Windows 10&lt;br36&gt;- Windows XP, Windows Vista, Windows 7, Windows 8 or Windows 10&lt;br36&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/A &lt;tools file&gt;          loads/saves the configuration of the external tool from/to this file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071727Z" creationid="MysticBoy" creationdate="20160728T071727Z">
