@@ -5019,6 +5019,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In some other programming languages, modules are known as 'namespaces'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T132957Z" creationid="漂流瓶儿" creationdate="20160801T132957Z">
+        <seg>在有些编程语言中，模块被称为“命名空间”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In spite of its beginner-friendly syntax, the possibilities are endless with PureBasic's advanced features such as pointers, structures, procedures, dynamically linked lists and much more.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T030155Z" creationid="MysticBoy" creationdate="20160725T030155Z">
