@@ -8478,8 +8478,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>This way you have used variables "on the fly".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T085320Z" creationid="lansn-lan" creationdate="20160801T084650Z">
-        <seg>这种方式使用变量，“瞬间”你就会了。 </seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T085335Z" creationid="lansn-lan" creationdate="20160801T084650Z">
+        <seg>这种使用变量的方式，“瞬间”你就会了。 </seg>
       </tuv>
     </tu>
     <tu>
