@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2383,6 +2383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b37&gt;Goto&lt;/b37&gt; &lt;br38&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084448Z" creationid="漂流瓶儿" creationdate="20160801T084448Z">
+        <seg>&lt;b37&gt;跳转...&lt;/b37&gt; &lt;br38&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b38&gt;Product information&lt;/b38&gt;&lt;br39&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070148Z" creationid="MysticBoy" creationdate="20160728T070148Z">
@@ -2411,6 +2419,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173614Z" creationid="MysticBoy" creationdate="20160721T055409Z">
         <seg>&lt;b41&gt;你想知道用户如何评价 PureBasic？&lt;/b41&gt;&lt;br42&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b41&gt;Goto matching Keyword&lt;/b41&gt; &lt;br42&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084603Z" creationid="漂流瓶儿" creationdate="20160801T084603Z">
+        <seg>&lt;b41&gt;跳转到匹配的关键字&lt;/b41&gt;&lt;br42&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4526,6 +4542,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T110334Z" creationid="plp" creationdate="20160730T110334Z">
         <seg>如果编译器版本与默认编译器相匹配，但目标处理器是不同的则IDE的内置调试器仍然可以用于调试编译的可执行文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the cursor is currently on a keyword such as "If" this menu option jumps directly to the keyword that matches it (in this case "EndIf").</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084827Z" creationid="漂流瓶儿" creationdate="20160801T084827Z">
+        <seg>当光标指针指向一个关键字时，这个菜单选项会使光标直接跳到与其匹配的关键字上。（如光标指向“If”，在这种情况下是“endif”）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8256,6 +8280,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T092624Z" creationid="plp" creationdate="20160730T092624Z">
         <seg>当启用调试器开关关闭，但你又想对程序进行调试编译时，用此菜单项是很有用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This lets you jump to a specific line in your source code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084544Z" creationid="漂流瓶儿" creationdate="20160801T084544Z">
+        <seg>允许你将光标跳转到指定的代码行。</seg>
       </tuv>
     </tu>
     <tu>
