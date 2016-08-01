@@ -2286,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b24&gt;Find in Files&lt;/b24&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T120434Z" creationid="漂流瓶儿" creationdate="20160801T120434Z">
+        <seg>&lt;b24&gt;在文件中查找&lt;/b24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b24&gt;Remove comments&lt;/b24&gt; &lt;br25&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083814Z" creationid="漂流瓶儿" creationdate="20160801T083814Z">
@@ -6981,6 +6989,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Find in Files Dialog lets you carry out a search inside many files in a specific directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T120623Z" creationid="漂流瓶儿" creationdate="20160801T120623Z">
+        <seg>通过“在文件中查找”对话框您可以针对指定目录中的许多文件进行搜索查找。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The FontID can be easily obtained with the &lt;a0&gt;FontID()&lt;/a0&gt; function from the font library.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044554Z" creationid="oSilas" creationdate="20150312T044554Z">
@@ -8394,6 +8410,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T084530Z" creationid="plp" creationdate="20160730T084530Z">
         <seg>编译器会按照设置的编译选项对当前的源代码进行编译并执行它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This continues the search for the next match of the last search started by the Find/Replace dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T120424Z" creationid="漂流瓶儿" creationdate="20160801T120424Z">
+        <seg>继续“查找/替换”命令中最后一次搜索位置开始进行查找搜索。</seg>
       </tuv>
     </tu>
     <tu>
