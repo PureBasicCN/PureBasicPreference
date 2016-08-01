@@ -8571,6 +8571,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also continue typing while the list is open.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T075507Z" creationid="漂流瓶儿" creationdate="20160801T075507Z">
+        <seg>你也可以继续输入以减少列表选项达到更精确的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also load binary files with the Open menu.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054148Z" creationid="MysticBoy" creationdate="20160726T054148Z">
@@ -8621,8 +8629,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>You can then select one of these words with the up/down keys and insert it at the point you are by pressing the Tab key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T075237Z" creationid="漂流瓶儿" creationdate="20160801T075237Z">
-        <seg>然后你可以通过上下方向键（UP / DOWN键），你是按Tab键点插入。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T075346Z" creationid="漂流瓶儿" creationdate="20160801T075237Z">
+        <seg>然后你可以通过上下方向键（UP / DOWN键）进行选择，按Tab键自动完成插入。</seg>
       </tuv>
     </tu>
     <tu>
