@@ -5193,6 +5193,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repeated usage of the shortcut selects further surrounding code blocks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063633Z" creationid="plp" creationdate="20160801T063633Z">
+        <seg>继续按下快捷键会进一步扩大选择代码块的范围。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return value</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110643Z">
@@ -6973,8 +6981,16 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The shortcut Ctrl+M (CMD+M on OSX) can be used to select the block of code that contains caret position (i.e. the surrounding If block, loop or procedure).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063326Z" creationid="plp" creationdate="20160801T063200Z">
-        <seg>快捷键 Ctrl + M (在 OSX系统中为 CMD + M ) 可以用于快速选择包含插入符号位置的代码块 (即周围的 If 块、 循环或过程)。</seg>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063446Z" creationid="plp" creationdate="20160801T063200Z">
+        <seg>快捷键 Ctrl + M (在 OSX系统中为 CMD + M ) 可以用于快速选择包含插入符号位置的代码块 (如：If 块、 循环或过程等)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The shortcut Ctrl+Shift+M (CMD+Shift+M on OSX) reverses the behavior and reverts the selection to the block that was selected before the last usage of the Ctrl+M shortcut.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063715Z" creationid="plp" creationdate="20160801T063715Z">
+        <seg>快捷键 Ctrl + Shift + M，(在 OSX 上为：CMD + Shift + M) 反转的行为，恢复到在最后一次使用 Ctrl + M 快捷方式之前被选中的块选择。</seg>
       </tuv>
     </tu>
     <tu>
