@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"Hello World" in a &lt;a0&gt;MessageRequester()&lt;/a0&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T082154Z" creationid="lansn-lan" creationdate="20160801T082154Z">
+        <seg>在 &lt;a0&gt;对话框窗口&lt;/a0&gt;输出 "Hello World" :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Hello World" in the &lt;a0&gt;Debug&lt;/a0&gt; output window:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T081942Z" creationid="lansn-lan" creationdate="20160801T081942Z">
