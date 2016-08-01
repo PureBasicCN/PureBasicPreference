@@ -3233,6 +3233,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u11&gt;Don't search in Strings&lt;/u11&gt; : Any match that is found inside a literal string (in " ") is ignored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T113127Z" creationid="漂流瓶儿" creationdate="20160801T113127Z">
+        <seg>&lt;u11&gt;忽略字串内部&lt;/u11&gt; ：这将忽略掉把有字符串内找到的所有匹配内容 (带 " "的字串)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;u13&gt;Search inside Selection only&lt;/u13&gt; : Searches only the selected region of code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T113234Z" creationid="漂流瓶儿" creationdate="20160801T113234Z">
+        <seg>&lt;u13&gt;在选中内容中查找&lt;/u13&gt; ：只搜索选定的代码区域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u5&gt;Case Sensitive&lt;/u5&gt; : Only text that matches the exact case of the search word will be found.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T112441Z" creationid="漂流瓶儿" creationdate="20160801T112441Z">
