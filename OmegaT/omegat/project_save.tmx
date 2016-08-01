@@ -3249,6 +3249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u9&gt;Don't search in Comments&lt;/u9&gt; : Any match that is found inside a comment is ignored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T112912Z" creationid="漂流瓶儿" creationdate="20160801T112912Z">
+        <seg>&lt;u9&gt;忽略注释内容&lt;/u9&gt; ：进行搜索时会将忽略掉注释内的搜索到的匹配内。容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>=== Characteristics ===
 PureBasic is a native 32 bit and 64 bit BASIC compiler.</seg>
       </tuv>
