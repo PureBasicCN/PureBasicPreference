@@ -2921,6 +2921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;; The common module, which will be used by others to share data&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T142428Z" creationid="漂流瓶儿" creationdate="20160801T142428Z">
+        <seg>&lt;f0&gt;; 公共模块可以用来共享数据&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;b1&gt;FANTAISIE SOFTWARE&lt;/b1&gt;&lt;/f0&gt; &lt;br2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084518Z" creationid="MysticBoy" creationdate="20160725T084518Z">
