@@ -9662,6 +9662,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the statements &lt;b35&gt;&lt;f36&gt;Define&lt;/f36&gt;&lt;/b35&gt;, &lt;b37&gt;&lt;f38&gt;EnableExplicit&lt;/f38&gt;&lt;/b37&gt;, &lt;b39&gt;&lt;f40&gt;EnableASM&lt;/f40&gt;&lt;/b39&gt; are used inside a module, they have no effect outside the respective module, and vice versa.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T141051Z" creationid="漂流瓶儿" creationdate="20160801T141051Z">
+        <seg>在模块内使用 &lt;b35&gt;&lt;f36&gt;Define&lt;/f36&gt;&lt;/b35&gt;, &lt;b37&gt;&lt;f38&gt;EnableExplicit&lt;/f38&gt;&lt;/b37&gt;, &lt;b39&gt;&lt;f40&gt;EnableASM&lt;/f40&gt;&lt;/b39&gt; 作声明时，是用于模块内部，不会影响到个部模块，反之亦然。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you press enter, the indentation (number of space/tab at the beginning of the line) of the current and next line will be automatically corrected depending on the &lt;a0&gt;keywords&lt;/a0&gt; that exist on these lines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T060415Z" creationid="blues" creationdate="20160729T133733Z">
