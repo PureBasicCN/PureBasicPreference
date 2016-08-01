@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3953,6 +3953,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Escape closes the auto complete list at any time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T080747Z" creationid="漂流瓶儿" creationdate="20160801T080747Z">
+        <seg>在任何时候都可以通过ESC键关闭自动完成列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T111620Z">
@@ -4617,6 +4625,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also closes if you click with the mouse anywhere within the IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T080842Z" creationid="漂流瓶儿" creationdate="20160801T080842Z">
+        <seg>在IDE中的任意位置单击鼠标同样可以关闭自动完成列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be a combination of the following flags: &lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044908Z" creationid="oSilas" creationdate="20150312T044908Z">
@@ -4757,14 +4773,6 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162640Z" creationid="MysticBoy" creationdate="20160723T162640Z">
         <seg>它显示相应的菜单命令。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>It will select the first match that is still possible after what you typed, and close automatically when either you have just typed an exact match or if there are no more possible matches in the list.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T075955Z" creationid="漂流瓶儿" creationdate="20160801T075955Z">
-        <seg>这将选择仍然是可能的，你键入的内容后的第一场比赛，并自动关闭时，无论你刚才输入的精确匹配，或如果在列表中没有更多的可能匹配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5053,6 +5061,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T104700Z" creationid="plp" creationdate="20160730T104700Z">
         <seg>注意：使用此选项时，您必须编译之前保存源代码，因为只有写入到磁盘文件才会被主源文件所包含引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: You can configure what is displayed in the Auto complete list, as well as turning off the automatic popup (requiring a keyboard shortcut such as Ctrl+Space to open list) in the Preferences.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081016Z" creationid="漂流瓶儿" creationdate="20160801T081016Z">
+        <seg>注意：您可以在配置中设置自动完整列表的显示内容以及关闭快捷键（需要一个快捷键，如Ctrl  空格键打开列表）中的首选项。</seg>
       </tuv>
     </tu>
     <tu>
