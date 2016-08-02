@@ -12015,6 +12015,46 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\": double quote    &lt;b14&gt;&lt;f15&gt;Chr&lt;/f15&gt;&lt;/b14&gt;(34)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053401Z" creationid="漂流瓶儿" creationdate="20160802T053401Z">
+        <seg>\": 双引号   &lt;b14&gt;&lt;f15&gt;Chr&lt;/f15&gt;&lt;/b14&gt;(34)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\\: backslash       &lt;b16&gt;&lt;f17&gt;Chr&lt;/f17&gt;&lt;/b16&gt;(92)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053413Z" creationid="漂流瓶儿" creationdate="20160802T053413Z">
+        <seg>\\: 反斜杠       &lt;b16&gt;&lt;f17&gt;Chr&lt;/f17&gt;&lt;/b16&gt;(92)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\t: horizontal tab  &lt;b10&gt;&lt;f11&gt;Chr&lt;/f11&gt;&lt;/b10&gt;(9)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053500Z" creationid="漂流瓶儿" creationdate="20160802T053500Z">
+        <seg>\t: 水平制表符  &lt;b10&gt;&lt;f11&gt;Chr&lt;/f11&gt;&lt;/b10&gt;(9)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\v: vertical tab    &lt;b12&gt;&lt;f13&gt;Chr&lt;/f13&gt;&lt;/b12&gt;(11)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053449Z" creationid="漂流瓶儿" creationdate="20160802T053449Z">
+        <seg>\v: 垂直制表符    &lt;b12&gt;&lt;f13&gt;Chr&lt;/f13&gt;&lt;/b12&gt;(11)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a$ =  "Hello world"  &lt;f0&gt;; standard string&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053323Z" creationid="漂流瓶儿" creationdate="20160802T053323Z">
+        <seg>a$ =  "Hello world"  &lt;f0&gt;; 标准字符串&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>alphasnd@purebasic.com</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093301Z" creationid="MysticBoy" creationdate="20160725T092838Z">
@@ -12027,6 +12067,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093405Z" creationid="MysticBoy" creationdate="20160725T093405Z">
         <seg> tsliuhaitao@qq.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>b$ = ~"Escape\nMe !" &lt;f1&gt;; string with escape sequences&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053351Z" creationid="漂流瓶儿" creationdate="20160802T053351Z">
+        <seg>b$ = ~"Escape\nMe !" &lt;f1&gt;; 使用转义序列的字符串&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
