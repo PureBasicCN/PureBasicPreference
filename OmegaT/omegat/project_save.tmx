@@ -2696,8 +2696,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;K&lt;/b0&gt; will be a new, empty, &lt;a1&gt;list&lt;/a1&gt; of strings at main scope.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T083726Z" creationid="lansn-lan" creationdate="20160802T083726Z">
-        <seg>&lt;b0&gt;K&lt;/b0&gt; 将是一个新的，空的，在主范围内的字符串链 &lt;a1&gt;list&lt;/a1&gt; .</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T084555Z" creationid="lansn-lan" creationdate="20160802T083726Z">
+        <seg>&lt;b0&gt;K&lt;/b0&gt; 将是一个新的，空的，在主范围内的字符串链表 &lt;a1&gt;list&lt;/a1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
