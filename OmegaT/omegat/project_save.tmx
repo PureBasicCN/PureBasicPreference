@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>...         &lt;f3&gt;; is a variable used inside an expression.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T051630Z" creationid="漂流瓶儿" creationdate="20160802T051630Z">
+        <seg>...         &lt;f3&gt;; 是一个表达式中使用的变量。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/A &lt;tools file&gt;          loads/saves the configuration of the external tool from/to this file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071727Z" creationid="MysticBoy" creationdate="20160728T071727Z">
@@ -2326,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/b0&gt; a = 1      &lt;f2&gt;; If, Else and EndIf are keywords; while 'a = 1'&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T051606Z" creationid="漂流瓶儿" creationdate="20160802T051532Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/b0&gt; a = 1      &lt;f2&gt;; If, Else 和 EndIf 是关键字; 条件 'a = 1'&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/b0&gt; a = 10 &lt;f2&gt;; This is a comment to indicate something.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050841Z" creationid="漂流瓶儿" creationdate="20160802T050841Z">
@@ -2410,6 +2426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065734Z" creationid="MysticBoy" creationdate="20160801T065721Z">
         <seg>&lt;b0&gt;示例︰&lt;/b0&gt;变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Keywords&lt;/b0&gt; are regularly described in the chapters on the left side of the index page in the reference manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T051718Z" creationid="漂流瓶儿" creationdate="20160802T051718Z">
+        <seg>&lt;b0&gt;关键字 Keywords&lt;/b0&gt; 的详细内容可以在帮助手册索引页左侧找到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4317,8 +4341,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>All &lt;b0&gt;keywords&lt;/b0&gt; are used for general things inside PureBasic, like creating arrays (Dim) or lists (NewList), or controlling the program flow (If : Else : EndIf).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050936Z" creationid="漂流瓶儿" creationdate="20160802T050936Z">
-        <seg>所有 &lt;b0&gt;关键字 keywords&lt;/b0&gt; 在 PureBasic 中都是, like creating arrays (Dim) or lists (NewList), or controlling the program flow (If : Else : EndIf).</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T051345Z" creationid="漂流瓶儿" creationdate="20160802T050936Z">
+        <seg>所有 &lt;b0&gt;关键字 keywords&lt;/b0&gt; 在 PureBasic 中都是常用的东西,像创建数组 (Dim) 或列表 lists (NewList), 或是控制程序流 (If : Else : EndIf)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10163,6 +10187,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034111Z" creationid="漂流瓶儿" creationdate="20160802T034111Z">
         <seg>他们是为列入高版本清单，所以它们在较旧版本的 windows 上将被忽略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are not followed by the brackets '()', which are typically for PureBasic &lt;b1&gt;functions&lt;/b1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T051513Z" creationid="漂流瓶儿" creationdate="20160802T051513Z">
+        <seg>关键字不含有括号 '()', 括号常用于 PureBasic &lt;b1&gt;功能函数 functions&lt;/b1&gt;使用。</seg>
       </tuv>
     </tu>
     <tu>
