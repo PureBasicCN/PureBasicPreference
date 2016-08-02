@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13635,6 +13635,70 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082830Z" creationid="MysticBoy" creationdate="20160725T082830Z">
         <seg>         &lt;a20&gt;&lt;i21&gt;&lt;/a20&gt;  &lt;a22&gt;俄语 语言包 for purebasic 1.50&lt;/a22&gt;&lt;br23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>� &lt;b12&gt;&lt;f13&gt;Shared&lt;/f13&gt;&lt;/b12&gt; F,&lt;f14&gt; K&lt;/f14&gt;()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T090433Z" creationid="lansn-lan" creationdate="20160802T090433Z">
+        <seg> &lt;b12&gt;&lt;f13&gt;Shared&lt;/f13&gt;&lt;/b12&gt; F,&lt;f14&gt; K&lt;/f14&gt;()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>� &lt;b4&gt;&lt;f5&gt;Define&lt;/f5&gt;&lt;/b4&gt;.l N</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T090414Z" creationid="lansn-lan" creationdate="20160802T090414Z">
+        <seg> &lt;b4&gt;&lt;f5&gt;Define&lt;/f5&gt;&lt;/b4&gt;.l N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>� &lt;b6&gt;&lt;f7&gt;Protected&lt;/f7&gt;&lt;/b6&gt;.l P</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T090418Z" creationid="lansn-lan" creationdate="20160802T090418Z">
+        <seg> &lt;b6&gt;&lt;f7&gt;Protected&lt;/f7&gt;&lt;/b6&gt;.l P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>� &lt;b9&gt;&lt;f10&gt;Static&lt;/f10&gt;&lt;/b9&gt;.l Q</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T090425Z" creationid="lansn-lan" creationdate="20160802T090425Z">
+        <seg> &lt;b9&gt;&lt;f10&gt;Static&lt;/f10&gt;&lt;/b9&gt;.l Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>� &lt;f11&gt;; The main scope variable F and the string list K will be available within this procedure.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T090430Z" creationid="lansn-lan" creationdate="20160802T090430Z">
+        <seg> &lt;f11&gt;; The main scope variable F and the string list K will be available within this procedure.&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>� &lt;f15&gt;; The global scope variable J will be available here implicitly.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T090439Z" creationid="lansn-lan" creationdate="20160802T090439Z">
+        <seg> &lt;f15&gt;; The global scope variable J will be available here implicitly.&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>� &lt;f3&gt;; N and P will be local.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T090412Z" creationid="lansn-lan" creationdate="20160802T090412Z">
+        <seg> &lt;f3&gt;; N and P will be local.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>� &lt;f8&gt;; Q will be a static local.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T090423Z" creationid="lansn-lan" creationdate="20160802T090423Z">
+        <seg> &lt;f8&gt;; Q will be a static local.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
