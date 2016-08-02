@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6989,8 +6989,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>It will appear in all procedures, but maybe a better way would be to use the &lt;a2&gt;Shared&lt;/a2&gt; keyword inside a procedure on a main scope variable, so that the chances of accidental changes are minimized.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T083439Z" creationid="lansn-lan" creationdate="20160802T082318Z">
-        <seg>它将在所有（procedure）过程中使用，在主作用域变量的过程中使用&lt;a2&gt;（Shared ）&lt;/a2&gt;共享关键词，让出现意外的可能性最小化。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T085533Z" creationid="lansn-lan" creationdate="20160802T082318Z">
+        <seg>作为一个全局变量，不光会作用于主代码区，同时，也会在后续所有的子函数（procedure）过程中起作用，在主代码区中使用&lt;a2&gt;（Shared ）&lt;/a2&gt;共享关键词，让出现意外的可能性最小化。</seg>
       </tuv>
     </tu>
     <tu>
