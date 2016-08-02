@@ -6061,8 +6061,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>It is recommended to use the /USER switch to turn of virtualization for all programs that comply to the standard user privileges, as it is only intended for compatibility for older programs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034239Z" creationid="漂流瓶儿" creationdate="20160802T034239Z">
-        <seg>t is recommended to use the /USER switch to turn of virtualization for all programs that comply to the standard user privileges, as it is only intended for compatibility for older programs.</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034353Z" creationid="漂流瓶儿" creationdate="20160802T034239Z">
+        <seg>建议使用 /USER 选项来关闭虚拟化的所有程序的遵守的标准用户权限，因为它仅适用于旧版本的程序的兼容性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9786,6 +9786,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T135003Z">
         <seg>这些函数对于执行&lt;a1&gt;绘图操作&lt;/a1&gt;非常有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These options are also available in the &lt;a21&gt;IDE compiler options&lt;/a21&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034513Z" creationid="漂流瓶儿" creationdate="20160802T034513Z">
+        <seg>这些选项也可在开发环境中的 &lt;a21&gt;IDE 编译器选项&lt;/a21&gt;中设置。</seg>
       </tuv>
     </tu>
     <tu>
