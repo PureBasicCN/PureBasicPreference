@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3665,6 +3665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b7&gt;&lt;f8&gt;Debug&lt;/f8&gt;&lt;/b7&gt; "In Procedure: "+&lt;f9&gt;Str&lt;/f9&gt;(a) &lt;f10&gt;; Will print 1, 2, 3 as the variable increments at each procedure call.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090051Z" creationid="MysticBoy" creationdate="20160802T090051Z">
+        <seg>&lt;b7&gt;&lt;f8&gt;Debug&lt;/f8&gt;&lt;/b7&gt; "In Procedure: "+&lt;f9&gt;Str&lt;/f9&gt;(a) &lt;f10&gt;; 将打印 1, 2, 3 as the variable increments at each procedure call.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b7&gt;&lt;f8&gt;Static&lt;/f8&gt;&lt;/b7&gt; can also be used with &lt;a9&gt;arrays&lt;/a9&gt;, &lt;a10&gt;lists&lt;/a10&gt; and &lt;a11&gt;maps&lt;/a11&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T085329Z" creationid="MysticBoy" creationdate="20160802T085329Z">
@@ -5011,6 +5019,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beside &lt;b16&gt;&lt;f17&gt;Static&lt;/f17&gt;&lt;/b16&gt; you can use the keyword &lt;a18&gt;Protected&lt;/a18&gt;, to separate global from local variables, but with &lt;a19&gt;Protected&lt;/a19&gt; the local variables will not keep their values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090029Z" creationid="MysticBoy" creationdate="20160802T090029Z">
+        <seg>在&lt;b16&gt;&lt;f17&gt;Static&lt;/f17&gt;&lt;/b16&gt; 旁边你可以使用关键词 &lt;a18&gt;Protected&lt;/a18&gt;, 来分开来自本地变量的全局变量，但是 与 &lt;a19&gt;Protected&lt;/a19&gt; 在一起的本地变量将不会保持他们的值.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Better still, you get the four versions of PureBasic (Amiga, Linux Windows and MacOS X) for the same price !</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081058Z" creationid="MysticBoy" creationdate="20160725T080820Z">
@@ -5719,6 +5735,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T041541Z" creationid="oSilas" creationdate="20141128T041541Z">
         <seg>绘制图像使用alpha混合当前绘图输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each variable can have a default value directly assigned to it, but it has to be a constant value.&lt;br14&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T085823Z" creationid="MysticBoy" creationdate="20160802T085823Z">
+        <seg>每个变量可以有一个默认值，直接分配给它，但它必须是一个常量值。&lt;br14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10761,8 +10785,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The value of the variable isn't reinitialized at each procedure call, means you can use local variables parallel to global variables (with the same name), and both will keep their values.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T085713Z" creationid="MysticBoy" creationdate="20160802T085713Z">
-        <seg>变量的值不在每个过程调用时重新初始化，意味着您可以使用本地变量与全局变量 （具有相同的名称），两者都将保持它们的值。</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T085806Z" creationid="MysticBoy" creationdate="20160802T085713Z">
+        <seg>变量的值不在每个过程调用时重新初始化，意味着您可以使用本地变量平行与全局变量 （具有相同的名称），两者都将保持它们的值。</seg>
       </tuv>
     </tu>
     <tu>
