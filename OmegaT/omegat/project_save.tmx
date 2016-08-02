@@ -4579,6 +4579,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All labels must be followed by a &lt;b0&gt;&lt;f1&gt;:&lt;/f1&gt;&lt;/b0&gt; (colon).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053713Z" creationid="漂流瓶儿" creationdate="20160802T053713Z">
+        <seg>所有标签后面必须都紧跟&lt;b0&gt;&lt;f1&gt;:&lt;/f1&gt;&lt;/b0&gt; （冒号）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All remaining opened serial ports are automatically closed when the program ends.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081422Z" creationid="lansn-lan" creationdate="20160729T081422Z">
@@ -6711,6 +6719,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050848Z" creationid="漂流瓶儿" creationdate="20160802T050848Z">
         <seg>关键字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Label names may not contain any operators (+,-,...) as well special characters (ß,ä,ö,ü,...).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053756Z" creationid="漂流瓶儿" creationdate="20160802T053756Z">
+        <seg>标签名称不能包含任何运算符 (+,-,...) 以及特殊字符 (ß,ä,ö,ü,...)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Labels</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053701Z" creationid="漂流瓶儿" creationdate="20160802T053701Z">
+        <seg>标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -12027,6 +12051,38 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053413Z" creationid="漂流瓶儿" creationdate="20160802T053413Z">
         <seg>\\: 反斜杠       &lt;b16&gt;&lt;f17&gt;Chr&lt;/f17&gt;&lt;/b16&gt;(92)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\b: backspace       &lt;b2&gt;&lt;f3&gt;Chr&lt;/f3&gt;&lt;/b2&gt;(8)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053600Z" creationid="漂流瓶儿" creationdate="20160802T053600Z">
+        <seg>\b: 退格键       &lt;b2&gt;&lt;f3&gt;Chr&lt;/f3&gt;&lt;/b2&gt;(8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\f: formfeed        &lt;b4&gt;&lt;f5&gt;Chr&lt;/f5&gt;&lt;/b4&gt;(12)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053537Z" creationid="漂流瓶儿" creationdate="20160802T053537Z">
+        <seg>\f: 换页符        &lt;b4&gt;&lt;f5&gt;Chr&lt;/f5&gt;&lt;/b4&gt;(12)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\n: newline         &lt;b6&gt;&lt;f7&gt;Chr&lt;/f7&gt;&lt;/b6&gt;(10)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053517Z" creationid="漂流瓶儿" creationdate="20160802T053517Z">
+        <seg>\n: 换行符         &lt;b6&gt;&lt;f7&gt;Chr&lt;/f7&gt;&lt;/b6&gt;(10)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\r: carriage return &lt;b8&gt;&lt;f9&gt;Chr&lt;/f9&gt;&lt;/b8&gt;(14)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053508Z" creationid="漂流瓶儿" creationdate="20160802T053508Z">
+        <seg>\r: 回车 &lt;b8&gt;&lt;f9&gt;Chr&lt;/f9&gt;&lt;/b8&gt;(14)</seg>
       </tuv>
     </tu>
     <tu>
