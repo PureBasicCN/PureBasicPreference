@@ -2544,8 +2544,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;B&lt;/b0&gt; is a long integer, &lt;b1&gt;C&lt;/b1&gt; is a floating-point number, they will be initialized to zero.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T074649Z" creationid="lansn-lan" creationdate="20160802T074649Z">
-        <seg>&lt;b0&gt;B&lt;/b0&gt;  是一个长整型（ long integer）, &lt;b1&gt;C&lt;/b1&gt;  是一个单精度数值型（ floating-point number），它们被初始化为 0 is a they will be initialized to zero.</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T074659Z" creationid="lansn-lan" creationdate="20160802T074649Z">
+        <seg>&lt;b0&gt;B&lt;/b0&gt;  是一个长整型（ long integer）, &lt;b1&gt;C&lt;/b1&gt;  是一个单精度数值型（ floating-point number），它们被初始化为 0 .</seg>
       </tuv>
     </tu>
     <tu>
