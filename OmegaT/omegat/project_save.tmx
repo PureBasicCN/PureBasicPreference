@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8744,6 +8744,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T111530Z" creationid="漂流瓶儿" creationdate="20160801T111530Z">
         <seg>因此，通过多次按“跳转到标记”快捷键（默认F2），您可以跳转到代码中的所有书签标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So is &lt;b0&gt;G$&lt;/b0&gt;, however, if you declare strings this way, you must always use the $ notation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T075515Z" creationid="lansn-lan" creationdate="20160802T075515Z">
+        <seg>那么，如果你使用  &lt;b0&gt;G$&lt;/b0&gt;, 这种方式声明字符串变量，在后面使用此变量时，必须始终在变量后带上$符号.</seg>
       </tuv>
     </tu>
     <tu>
