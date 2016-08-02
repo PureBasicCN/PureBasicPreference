@@ -6283,6 +6283,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the array is resized larger, its original contents will be preserved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T081342Z" creationid="lansn-lan" creationdate="20160802T081342Z">
+        <seg>如果数组长度被调整，那它原来存储的值将会被保留.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the compiler version matches that of the default compiler but the target processor is different then the built-in debugger of the IDE can still be used to debug the compiled executable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T110334Z" creationid="plp" creationdate="20160730T110334Z">
