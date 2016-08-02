@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/DYNAMICCPU: Creates a executable containing all the available processor specific routines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T033110Z" creationid="漂流瓶儿" creationdate="20160802T033110Z">
+        <seg>/DYNAMICCPU: 创建一个支持所有CPU类型的可执行程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/E &lt;Explorer path&gt;       starts the Explorer tool with the given path</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071908Z" creationid="MysticBoy" creationdate="20160728T071908Z">
@@ -682,6 +690,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T072201Z" creationid="MysticBoy" creationdate="20160728T072201Z">
         <seg>/LOCAL                  使用 PureBasic 目录代替用户路径来存放所有配置信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/MMX, /3DNOW, /SSE or /SSE2: Creates a processor specific executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032815Z" creationid="漂流瓶儿" creationdate="20160802T032815Z">
+        <seg>/MMX, /3DNOW, /SSE or /SSE2: 创建一个指定 CPU 类型的可执行文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -730,6 +746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032606Z" creationid="漂流瓶儿" creationdate="20160802T032606Z">
         <seg>/REASM: 重建 PureBasic.asm 文件为可执行文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/RESOURCE "Filename": Add a Windows resource file (.rc) to the created executable or DLL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T033325Z" creationid="漂流瓶儿" creationdate="20160802T033325Z">
+        <seg>/RESOURCE "Filename": 添加一个 Windows资源文件（.rc）到程序或动态库 dll 文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9702,6 +9726,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, the executable will run correctly only on computer with this kind of CPU.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T033041Z" creationid="漂流瓶儿" creationdate="20160802T033041Z">
+        <seg>因此，该可执行文件将仅在用这样 CPU 的计算机上正确运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These features are completely optional.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121956Z" creationid="漂流瓶儿" creationdate="20160801T121956Z">
@@ -10134,6 +10166,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This makes a bigger executable, but result in the fastest possible program.&lt;br14&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T033225Z" creationid="漂流瓶儿" creationdate="20160802T033225Z">
+        <seg>这会使程序体积更大一些，但生成的程序更快。&lt;br14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This makes commenting large blocks of code easier than putting the ; before each line manually.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083759Z" creationid="漂流瓶儿" creationdate="20160801T083759Z">
@@ -10162,6 +10202,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T111311Z" creationid="漂流瓶儿" creationdate="20160801T111311Z">
         <seg>该命令使光标从当前位置跳转到下一个书签标记位置代码行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means if a processor specific routine is available it will be used for this executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032956Z" creationid="漂流瓶儿" creationdate="20160802T032956Z">
+        <seg>这意味着该可执行文件可用于执行某种处理器的特定例程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10362,6 +10410,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151148Z" creationid="漂流瓶儿" creationdate="20160801T151148Z">
         <seg>本部分显示一些有关的项目一般信息，如项目文件名、它的注释以及该项目的最后一个打开的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This should be not a compiled resource file, but an ascii file with the directives in it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T033443Z" creationid="漂流瓶儿" creationdate="20160802T033443Z">
+        <seg>资源文件不可以是一个已经编译的，但可以是一个包含指令的Ascii文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10850,6 +10906,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T065208Z" creationid="plp" creationdate="20160801T065024Z">
         <seg>当光标位于左括号或右括号上时，IDE 将突出显示并自动匹配此括号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the program is started, it looks for the processor type and then select the more appropriates routines to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T033152Z" creationid="漂流瓶儿" creationdate="20160802T033152Z">
+        <seg>当程序启动时，它会查找处理器的类型，然后选择相对合适的方式运行例程。</seg>
       </tuv>
     </tu>
     <tu>
