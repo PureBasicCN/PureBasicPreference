@@ -2656,8 +2656,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;J&lt;/b0&gt; will appear at &lt;a1&gt;Global&lt;/a1&gt;, rather than Main, scope.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T081733Z" creationid="lansn-lan" creationdate="20160802T081733Z">
-        <seg>&lt;b0&gt;J&lt;/b0&gt;  是一个全局变量（&lt;a1&gt;Global&lt;/a1&gt;）, rather than Main, scope.</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T082206Z" creationid="lansn-lan" creationdate="20160802T081733Z">
+        <seg>&lt;b0&gt;J&lt;/b0&gt;  是一个全局变量（&lt;a1&gt;Global&lt;/a1&gt;）,.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6831,6 +6831,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162640Z" creationid="MysticBoy" creationdate="20160723T162640Z">
         <seg>它显示相应的菜单命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will appear in all procedures, but maybe a better way would be to use the &lt;a2&gt;Shared&lt;/a2&gt; keyword inside a procedure on a main scope variable, so that the chances of accidental changes are minimized.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T082318Z" creationid="lansn-lan" creationdate="20160802T082318Z">
+        <seg>它将出现在所有（procedure）过程中，但也许更好的方法是使用了&lt;a2&gt;共享&lt;/a2&gt;在主范围的变量的程序里面关键字，使意外改变的可能性最小化。</seg>
       </tuv>
     </tu>
     <tu>
