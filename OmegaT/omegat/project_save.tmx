@@ -494,10 +494,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-dc or --dynamiccpu: Creates a executable containing all the available processor specific routines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T045736Z" creationid="漂流瓶儿" creationdate="20160802T045736Z">
+        <seg>-dc or --dynamiccpu: 创建一个支持所有CPU类型的可执行程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-dl or --dylib "filename": Create a dynamic library (dylib object).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050004Z" creationid="漂流瓶儿" creationdate="20160802T050004Z">
+        <seg>-dl or --dylib "filename": 创建一个动态库（dylib对象）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-e, --executable, /EXE "filename": creates a standalone executable or DLL specified by the filename at the desired path location.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T023500Z" creationid="漂流瓶儿" creationdate="20160802T023500Z">
         <seg>-e, --executable, /EXE "filename": 在指定路径位置创建一个独立的可执行文件或DLL文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-f or --front: put the launched process to front.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050134Z" creationid="漂流瓶儿" creationdate="20160802T050134Z">
+        <seg>-f or --front: 把启动过程放在前面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-ibp or --ignorebundlepath: don't use the bundle path as current directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050211Z" creationid="漂流瓶儿" creationdate="20160802T050211Z">
+        <seg>-ibp or --ignorebundlepath: 不使用捆绑路径作为当前目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-ir, --ignoreresident, /IGNORERESIDENT "filename": doesn't load the specified resident file when the compiler starts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T024843Z" creationid="漂流瓶儿" creationdate="20160802T024843Z">
@@ -530,6 +562,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T024025Z" creationid="漂流瓶儿" creationdate="20160802T024025Z">
         <seg>-l or --linenumbering, /LINENUMBERING: 添加行或文件信息到可执行文件中，这大大的减缓文件的执行速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-mmx, -3dnow, -sse or -sse2: Creates a processor specific executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T045529Z" creationid="漂流瓶儿" creationdate="20160802T045529Z">
+        <seg>-mmx, -3dnow, -sse or -sse2: 创建指定处理器的可执行文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-n or --icon "filename.icns" : add the specified icon to the executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T045832Z" creationid="漂流瓶儿" creationdate="20160802T045832Z">
+        <seg>-n or --icon "filename.icns" : 给可执行文件添加指定图标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -586,6 +634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T024601Z" creationid="漂流瓶儿" creationdate="20160802T024601Z">
         <seg>-sb, --standby, /STANDBY: 加载编译器到内存中，并等待外部命令(编辑器、脚本...)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-so or --sharedobject "filename": Create a dynamic library (shared object).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T045454Z" creationid="漂流瓶儿" creationdate="20160802T045454Z">
+        <seg>-so or --sharedobject "filename": 创建一个动态库（共享对象）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6267,6 +6323,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linux specific command switches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T045226Z" creationid="漂流瓶儿" creationdate="20160802T045226Z">
+        <seg>Linux 的具体命令选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MacOS X: The icon must be in ICNS format (Macintosh Icon).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T112721Z" creationid="plp" creationdate="20160730T112721Z">
@@ -6640,6 +6704,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063924Z" creationid="blues" creationdate="20160730T063924Z">
         <seg>注意: 当值类型使用 &lt;f0&gt;#PB_Date_Month&lt;/f0&gt; 时, 程序将自动根据每个月的实际天数来计算添加值,  例如: 2008年03月31日加 1 个月之后结果是2008年04月30日， 因为4月份没有31天.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OS X specific command switches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T045806Z" creationid="漂流瓶儿" creationdate="20160802T045806Z">
+        <seg>OS X 编译命令选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -10307,6 +10379,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T033642Z" creationid="lansn-lan" creationdate="20160729T033642Z">
         <seg>此类库提供完全访问计算机上可用的串行端口的权限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This makes a bigger executable, but result in the fastest possible program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T045741Z" creationid="漂流瓶儿" creationdate="20160802T045741Z">
+        <seg>这会使程序体积更大一些，但生成的程序更快。</seg>
       </tuv>
     </tu>
     <tu>
