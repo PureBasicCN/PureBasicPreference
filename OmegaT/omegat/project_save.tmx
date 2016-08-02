@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- &lt;b2&gt;Return values&lt;/b2&gt; of commands are always &lt;a3&gt;Integer&lt;/a3&gt; if no other type is specified in the Syntax line of the command description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055447Z" creationid="漂流瓶儿" creationdate="20160802T055447Z">
+        <seg>- 如果没有给命令指定类型，&lt;b2&gt;返回值  Return values&lt;/b2&gt; 都是按 &lt;a3&gt;整数 Integer&lt;/a3&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- All Standard &lt;f47&gt;&lt;b48&gt;BASIC keywords: If-Else-EndIf, Repeat-Until, etc.&lt;br49&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175356Z" creationid="MysticBoy" creationdate="20160723T175356Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111746Z" creationid="MysticBoy" creationdate="20160721T111746Z">
         <seg>- 表达式reducer和优化（分组常量和显示的数字加在一起）&lt;br18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- In this guide, all topics are listed in alphabetical order to decrease any search time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055247Z" creationid="漂流瓶儿" creationdate="20160802T055247Z">
+        <seg>- 在本指南中，所有的主题都已经按字母顺序列出，以减少搜索时间。</seg>
       </tuv>
     </tu>
     <tu>
