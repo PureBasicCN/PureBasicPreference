@@ -5307,6 +5307,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For advanced programmers &lt;b42&gt;&lt;f43&gt;ProcedureC&lt;/f43&gt;&lt;/b42&gt; is available and will declare the procedure using 'CDecl' instead of 'StandardCall' calling convention.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T051108Z" creationid="MysticBoy" creationdate="20160802T051108Z">
+        <seg>针对高级程序员 &lt;b42&gt;&lt;f43&gt;ProcedureC&lt;/f43&gt;&lt;/b42&gt; 可用并且定义引用 'CDecl' 替换 'StandardCall' 的调用约定.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For advanced programmers &lt;b8&gt;&lt;f9&gt;DeclareC&lt;/f9&gt;&lt;/b8&gt; is available and will declare the procedure using 'CDecl' instead of 'StandardCall' calling convention.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T070313Z" creationid="MysticBoy" creationdate="20160801T070227Z">
@@ -5405,8 +5413,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>For this purpose pass the array, the list or the map as parameter to the procedure.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050751Z" creationid="MysticBoy" creationdate="20160802T050751Z">
-        <seg>因此数组、 列表或地图将作为参数传递给过程。</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050812Z" creationid="MysticBoy" creationdate="20160802T050751Z">
+        <seg>因此数组、 列表或地图通过作为参数传递给过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5719,6 +5727,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T102136Z" creationid="plp" creationdate="20160730T102136Z">
         <seg>如果设置不是'.app'，那么会创建一个常规控制台的可执行文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no value is specified for &lt;b36&gt;&lt;f37&gt;ProcedureReturn&lt;/f37&gt;&lt;/b36&gt;, the returned value will be undefined (see &lt;a38&gt;inline assembly&lt;/a38&gt; for more information).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050928Z" creationid="MysticBoy" creationdate="20160802T050928Z">
+        <seg>如果没有指定值给 &lt;b36&gt;&lt;f37&gt;ProcedureReturn&lt;/f37&gt;&lt;/b36&gt;，则返回值为未定义的 (请查看 &lt;a38&gt;行内嵌汇编&lt;/a38&gt; 了解更多信息).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6679,6 +6695,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045455Z" creationid="oSilas" creationdate="20150312T045455Z">
         <seg>注： 这种模式不能与&lt;a2&gt;PrinterOutput()&lt;/a2&gt;同时工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: To return strings from DLLs, see &lt;a41&gt;DLLs&lt;/a41&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050946Z" creationid="MysticBoy" creationdate="20160802T050946Z">
+        <seg>注意︰ 若要从 Dll 返回字符串，请参见&lt;a41&gt;Dll&lt;/a41&gt;。</seg>
       </tuv>
     </tu>
     <tu>
