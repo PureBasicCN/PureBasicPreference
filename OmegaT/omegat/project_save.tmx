@@ -9662,6 +9662,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This allows an easier parsing of a PureBasic source file, as all is expanded and is available in a flat file format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T031228Z" creationid="漂流瓶儿" creationdate="20160802T031228Z">
+        <seg>这更容易解析一个purebasic 的源文件，因为所有的扩展，都集中在一个文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This allows the &lt;a12&gt;OnError library&lt;/a12&gt; to report the file and line-number of an error.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T024326Z" creationid="漂流瓶儿" creationdate="20160802T024326Z">
