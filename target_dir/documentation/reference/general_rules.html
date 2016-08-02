@@ -24,112 +24,80 @@ PureBasic 既定的规则，请不要随便改变。分别有:
 <p><b>关键字</b></p><blockquote>
 
 
-所有 <b>关键字 keywords</b> 在 PureBasic 中都是, like creating arrays (Dim) or lists (NewList), or controlling the program flow (If : Else : EndIf). They are not followed by the brackets '()', which are typically for PureBasic <b>functions</b>. 
+所有 <b>关键字 keywords</b> 在 PureBasic 中都是常用的东西,像创建数组 (Dim) 或列表 lists (NewList), 或是控制程序流 (If : Else : EndIf)。关键字不含有括号 '()', 括号常用于 PureBasic <b>功能函数 functions</b>使用。 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
 
-<pre><font face="Courier New, Courier, mono"size="2">    <b><font color="#3A3966">If</font></b> a = 1      <font color="#3A3966">; If, Else and EndIf are keywords; while 'a = 1'</font>
-      ...         <font color="#3A3966">; is a variable used inside an expression.</font>
+<pre><font face="Courier New, Courier, mono"size="2">    <b><font color="#3A3966">If</font></b> a = 1      <font color="#3A3966">; If, Else 和 EndIf 是关键字; 条件 'a = 1'</font>
+      ...         <font color="#3A3966">; 是一个表达式中使用的变量。</font>
     <b><font color="#3A3966">Else</font></b>
       ...
     <b><font color="#3A3966">EndIf</font></b>
 </font></pre>
 
-<b>Keywords</b> are regularly described in the chapters on the left side of 
-the index page in the reference manual. 
-
-
-
- 
+<b>关键字 Keywords</b> 的详细内容可以在帮助手册索引页左侧找到。 
 
 
 
 </blockquote>
-<p><b>Functions</b></p><blockquote>
+<p><b>函数</b></p><blockquote>
 
 
-
-
-
-All <b>functions</b> must be followed by a ( or else it will not be considered as a function, (even for null parameter functions). 
-
- 
+所有 <b>函数 functions</b> 后面必须紧跟着括号“( ”，否则将不被视为一个函数。 (函数就是没有参数也要加括号)。 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
 
-<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">    EventWindow</font>() <font color="#3A3966">; it is a function.</font>
-    EventWindow   <font color="#3A3966">; it is a variable.</font>
+<pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">    EventWindow</font>() <font color="#3A3966">; 这是一个函数。</font>
+    EventWindow   <font color="#3A3966">; 这是一个变量。</font>
 </font></pre>
 
-<b>Functions</b> are regularly included in the PureBasic "Command libraries", described on the right side of 
-the index page in the reference manual. 
-
-
- 
+<b>Functions</b> 通常被列入 PureBasic  "命令库 Command libraries" 中, 在帮助手册索引页右侧可以找到函数命令列表。 
 
 
 </blockquote>
-<p><b>Constants</b></p><blockquote>
+<p><b>常量</b></p><blockquote>
 
 
-
-
-
-All constants are preceded by <b><font color="#3A3966"></font></b>#. They can only be declared once in the source and always keep their predefined values. 
-(The compiler replaces all constant names with their corresponding values when compiling the executable.) 
-
- 
+所有的常量前面都有一个标志符号 <b><font color="#3A3966">#</font></b>。它们只需要在代码中声明一次，就会始终保持其给定的值。(编译器在编译可执行文件时会将所有常量替换成所对应的值。) 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
 
-<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#Hello</font> = 10 <font color="#3A3966">; it is a constant.</font>
-  Hello  = 10 <font color="#3A3966">; it is a variable.</font>
+<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#Hello</font> = 10 <font color="#3A3966">; 这是一个常量。</font>
+  Hello  = 10 <font color="#3A3966">; 这是一个变量。</font>
 </font></pre>
 
 
 </blockquote>
-<p><b>Literal strings</b></p><blockquote>
+<p><b>文本字符串</b></p><blockquote>
 
 
-
-
-
-Literal strings are declared using the " character. Escape sequences are supported using the ~ 
-character before the literal string. The allowed escape sequences are: 
- 
+文本字符串声明使用  "  引号符指定。转义序列支持使用 ~ 字符，放在文本字符串的前面。允许的转义序列如下︰ 
 <pre><font face="Courier New, Courier, mono"size="2">  \a: alarm           <b><font color="#3A3966">Chr</font></b>(7)
-  \b: backspace       <b><font color="#3A3966">Chr</font></b>(8)
-  \f: formfeed        <b><font color="#3A3966">Chr</font></b>(12)
-  \n: newline         <b><font color="#3A3966">Chr</font></b>(10)
-  \r: carriage return <b><font color="#3A3966">Chr</font></b>(14)
-  \t: horizontal tab  <b><font color="#3A3966">Chr</font></b>(9)
-  \v: vertical tab    <b><font color="#3A3966">Chr</font></b>(11)
-  \": double quote    <b><font color="#3A3966">Chr</font></b>(34)
-  \\: backslash       <b><font color="#3A3966">Chr</font></b>(92)
+  \b: 退格键       <b><font color="#3A3966">Chr</font></b>(8)
+  \f: 换页符        <b><font color="#3A3966">Chr</font></b>(12)
+  \n: 换行符         <b><font color="#3A3966">Chr</font></b>(10)
+  \r: 回车 <b><font color="#3A3966">Chr</font></b>(14)
+  \t: 水平制表符  <b><font color="#3A3966">Chr</font></b>(9)
+  \v: 垂直制表符    <b><font color="#3A3966">Chr</font></b>(11)
+  \": 双引号   <b><font color="#3A3966">Chr</font></b>(34)
+  \\: 反斜杠       <b><font color="#3A3966">Chr</font></b>(92)
 </font></pre>
 
 </blockquote><p><b>示例</b></p><blockquote>
 
-<pre><font face="Courier New, Courier, mono"size="2">  a$ =  "Hello world"  <font color="#3A3966">; standard string</font>
-  b$ = ~"Escape\nMe !" <font color="#3A3966">; string with escape sequences</font>
+<pre><font face="Courier New, Courier, mono"size="2">  a$ =  "Hello world"  <font color="#3A3966">; 标准字符串</font>
+  b$ = ~"Escape\nMe !" <font color="#3A3966">; 使用转义序列的字符串</font>
 </font></pre>
 
 
 </blockquote>
-<p><b>Labels</b></p><blockquote>
+<p><b>标签</b></p><blockquote>
 
 
-
-
-
-All labels must be followed by a <b><font color="#3A3966">:</font></b> (colon). Label names may not contain any operators (+,-,...) as 
-well special characters (ß,ä,ö,ü,...). When defined in a <a href="procedures.html">procedure</a>, the label will be only available in this 
-procedure. 
-
- 
+所有标签后面必须都紧跟<b><font color="#3A3966">:</font></b> （冒号）。标签名称不能包含任何运算符 (+,-,...) 以及特殊字符 (ß,ä,ö,ü,...)。当<a href="procedures.html">自定义函数 procedure</a>中声明时，此标签仅在此过程中可用。 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
@@ -140,18 +108,10 @@ procedure.
 
 
 </blockquote>
-<p><b>Expressions</b></p><blockquote>
+<p><b>表达式</b></p><blockquote>
 
 
-
-
-
-An expression is something which can be evaluated. An expression can mix any variables, constants, 
-or functions, of the same type. When you use numbers in an expression, you can add the Keyword $ sign 
-in front of it to mean a hexadecimal number, or a Keyword % sign to mean a binary number. 
-Without either of those, the number will be treated as decimal. Strings must be enclosed by inverted commas. 
-
- 
+表达式是一个用来计算的求值项，可以混合使用同类型的变更、常量或函数。当在表达式中使用数字时，您可以在它前面添加一个关键字 $ 符号，来表示十六进制数或关键字 % 符号来表示一个二进制数。如果没有这类符号，数将被视为十进制。字符串必须用引号括住。 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
@@ -166,21 +126,16 @@ Without either of those, the number will be treated as decimal. Strings must be 
 
   a$ = b$ + "this is a string value" + c$
 
-  Foo = Foo + $69 / %1001  <font color="#3A3966">; Hexadecimal and binary number usage</font>
+  Foo = Foo + $69 / %1001  <font color="#3A3966">;  十六进制数和二进制数的用法</font>
 </font></pre>
 
 
 
 </blockquote>
-<p><b>Concatenation of commands</b></p><blockquote>
+<p><b>串联命令</b></p><blockquote>
 
 
-
-
-
-Any number of commands can be added to the same line by using the <b><font color="#3A3966">:</font></b> option. 
-
- 
+任意数量的命令都可以通过使用“<b><font color="#3A3966">:</font></b>”冒号串联到一行代码里。 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
@@ -190,16 +145,10 @@ Any number of commands can be added to the same line by using the <b><font color
 
 
 </blockquote>
-<p><b>Line continuation</b></p><blockquote>
+<p><b>行继续符</b></p><blockquote>
 
 
-
-
-
-If the line contains a big expression, it can be split on several lines. A split line has to end 
-with one of the following operator: plus (+), comma (,), or (|), And, Or, Xor. 
-
- 
+如果某一代码行包含一个很长的表达式，可将它拆分在几行上。拆分符包含:  加号 (+), 逗号 (,),坚号 (|), And, Or, Xor。 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
@@ -216,44 +165,21 @@ with one of the following operator: plus (+), comma (,), or (|), And, Or, Xor.
 
 
 </blockquote>
-<p><b>Typical words in this manual</b></p><blockquote>
+<p><b>本手册中的类型词</b></p><blockquote>
 
 
-
-
-
-Words used in this manual: 
-
- 
+使用的词语︰ 
 
 <blockquote>
 
-
-
-&lt;variable&gt; : a basic variable. <br>
-&lt;expression&gt; : an expression as explained above. <br>
-&lt;constant&gt; : a numeric constant. <br>
-&lt;label&gt; : a program label. <br>
-&lt;type&gt; : any type, (standard or structured). <br>
+&lt;variable&gt; : 一个Basic 变量。<br>&lt;expression&gt; : 如上面所述的表达式。<br>&lt;constant&gt; : 一个数值常量<br>&lt;label&gt; : 程序标签<br>&lt;type&gt; : 任何类型, (标准 standard 或 结构 structured). <br>
 </blockquote>
 
 
 
 </blockquote>
-<p><b>Others</b></p><blockquote>
+<p><b>其他</b></p><blockquote>
 
 
-
-
-
-- In this guide, all topics are listed in alphabetical order to decrease any search time. 
-<br>
-<br>
-- <b>Return values</b> of commands are always <a href="variables.html">Integer</a> if no other type 
-is specified in the Syntax line of the command description. 
-<br>
-- In the PureBasic documentation are used the terms "commands" and "functions" as well - this is one and the same, 
-independently of a return-value. If a value is returned by the command or function, you can read in the 
-related command description. 
-<br>
+- 在本指南中，所有的主题都已经按字母顺序列出，以减少搜索时间。<br><br>- 如果没有给命令指定类型，<b>返回值  Return values</b> 都是按 <a href="variables.html">整数 Integer</a> 。<br>- 在文档中使用purebasic 的术语“命令 commands”和“函数 functions”是相同的，拥有独立的返回值。如果该命令或函数有返回值，你可以阅读相关的命令的描述。<br>
 </body></html>

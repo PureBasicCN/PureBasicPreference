@@ -1,81 +1,10 @@
 <html><head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Using the debugger</title></head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>使用调试器</title></head>
 <body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
-<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">Using the debugger</font></b></p>
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">使用调试器</font></b></p>
 
 
-
-
-
-PureBasic provides a powerful debugger that helps you find mistakes and bugs in your 
-source code. It lets you control the program execution, watch your <a href="variables.html">variables</a>, 
-<a href="dim.html">arrays</a> or <a href="newlist.html">lists</a> or display 
-debug output of your programs. It also provides advanced 
-features for <a href="inlinedasm.html">assembly</a> programmer to examine and modify the CPU registers or view the 
-program stack, or the Memory of your program. It also provides the possibility to debug a program remotely 
-over the network. 
-
-<br>
-<br>
-
-To enable the debugger for your program, you can select "Use Debugger" from the debugger 
-menu, or set it in your programs Compiler options. By using the "Compile with Debugger" 
-command from the Compiler menu, you can enable the debugger for just one compilation. 
-
-<br>
-<br>
-
-You can directly use <a href="debugger.html">debugger commands</a> in your source, such 
-as <b><font color="#3A3966">CallDebugger</font></b>, <b><font color="#3A3966">Debug</font></b>, <b><font color="#3A3966">DebugLevel</font></b>, <b><font color="#3A3966">DisableDebugger</font></b> and 
-<b><font color="#3A3966">EnableDebugger</font></b>. 
-
-<br>
-<br>
-
-
-The PureBasic debugger comes in 3 forms: 
-
-<br>
-<br>
-
-A Debugger integrated directly with the IDE, for an easy to use, quick way to debug 
-your programs directly from the programming environment. This debugger also 
-provides the most features. 
-
-<br>
-<br>
-
-A separate, standalone debugger, that is useful for some special purposes (for example, 
-when the same program must be executed and debugged several times at once) or to be used 
-with third party code Editors. It provides most of the features of the integrated IDE debugger, 
-but because it is separate from the IDE, some of the efficiency of the direct access from the IDE is lost. 
-The standalone debugger can be used to debug programs remotely through a network connection. 
-
-
-<br>
-<br>
-
-A <a href="../console/index.html">console</a> only debugger. This debuggers primary use is for testing non-graphical 
-environment like on Linux systems without an X server, or to remotely develop through ssh. 
-
-<br>
-<br>
-
-The type of debugger that is used can be selected in the <a href="ide_preferences.html">preferences</a>. 
-
-<br>
-<br>
-
-All this debugging functionality however comes at a price. Running a program in debug mode is 
-significantly slower in its execution that running it without the debugger. This should be no problem 
-however, since this is for testing only anyway. 
-<br>
-If you need to use the debugger, but have some parts in you program that require the full execution 
-speed, you can disable the debugger in just that section with the <b><font color="#3A3966">DisableDebugger</font></b> / 
-<b><font color="#3A3966">EnableDebugger</font></b> keywords. 
-
-
- 
+PureBasic 提供了一个功能强大的调试器，可以帮助你在你的源代码中查找错误和 bug。It lets you control the program execution, watch your <a href="variables.html">variables</a>, <a href="dim.html">arrays</a> or <a href="newlist.html">lists</a> or display debug output of your programs. It also provides advanced features for <a href="inlinedasm.html">assembly</a> programmer to examine and modify the CPU registers or view the program stack, or the Memory of your program. It also provides the possibility to debug a program remotely over the network. <br><br>To enable the debugger for your program, you can select "Use Debugger" from the debugger menu, or set it in your programs Compiler options. By using the "Compile with Debugger" command from the Compiler menu, you can enable the debugger for just one compilation. <br><br>You can directly use <a href="debugger.html">debugger commands</a> in your source, such as <b><font color="#3A3966">CallDebugger</font></b>, <b><font color="#3A3966">Debug</font></b>, <b><font color="#3A3966">DebugLevel</font></b>, <b><font color="#3A3966">DisableDebugger</font></b> and <b><font color="#3A3966">EnableDebugger</font></b>. <br><br>The PureBasic debugger comes in 3 forms: <br><br>A Debugger integrated directly with the IDE, for an easy to use, quick way to debug your programs directly from the programming environment. This debugger also provides the most features. <br><br>A separate, standalone debugger, that is useful for some special purposes (for example, when the same program must be executed and debugged several times at once) or to be used with third party code Editors. It provides most of the features of the integrated IDE debugger, but because it is separate from the IDE, some of the efficiency of the direct access from the IDE is lost. The standalone debugger can be used to debug programs remotely through a network connection. <br><br>A <a href="../console/index.html">console</a> only debugger. This debuggers primary use is for testing non-graphical environment like on Linux systems without an X server, or to remotely develop through ssh. <br><br>The type of debugger that is used can be selected in the <a href="ide_preferences.html">preferences</a>. <br><br>All this debugging functionality however comes at a price. Running a program in debug mode is significantly slower in its execution that running it without the debugger. This should be no problem however, since this is for testing only anyway. <br>If you need to use the debugger, but have some parts in you program that require the full execution speed, you can disable the debugger in just that section with the <b><font color="#3A3966">DisableDebugger</font></b> / <b><font color="#3A3966">EnableDebugger</font></b> keywords. 
 
 
 <p><b>The Debugger integrated into the IDE</b></p><blockquote>

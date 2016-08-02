@@ -3,101 +3,74 @@
 <body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
 <font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">用户指南 - 变量和变量处理</font></b></p>
 
-<b>A</b>是一个整型（integer） - 但请注意，如果你用<a href="compilerdirectives.html">EnableExplicit</a>指示，就不能这样声明<a href="variables.html">变量</a>。在 <a href="procedures.html">过程</a> 之外的 A 属于外部变量，过程之内的 A 属于局部变量. 
+<b>A</b> 是一个整型（integer） - 但请注意，如果你用<a href="compilerdirectives.html">EnableExplicit</a>指令，就不能这样声明<a href="variables.html">变量</a>。在 <a href="procedures.html">过程</a> 之外的 A 属于外部变量，过程之内的 A 属于局部变量. 
 <pre><font face="Courier New, Courier, mono"size="2">  A = 0
 </font></pre>
 
 <br>
-<b>B</b> is a long integer, <b>C</b> is a floating-point number, they will be initialized to zero. 
- 
+<b>B</b>  是一个长整型（ long integer）, <b>C</b>  是一个单精度数值型（ floating-point number），它们被初始化为 0 . 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Define</font></b> B.l, C.f
 </font></pre>
 
 <br>
-<b>D</b> and <b>E</b> are long integers too. However, they will be initialized to the stated 
-constants. Notice too the alternative syntax of <a href="define.html">Define</a> used. 
- 
+<b>D</b>  和  <b>E</b>  也是长整. 然而，它们将被初始化 声明为常量。查看  <a href="define.html">Define</a>  的其他使用语法. 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Define</font></b>.l D = 10, E = 20
 </font></pre>
 
 <br>
-<b>F</b> is a string. 
- 
+<b>F</b>  是一个字符串型（ string）. 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Define</font></b>.s F
 </font></pre>
 
 <br>
-
-So is <b>G$</b>, however, if you declare strings this way, you must always use the $ notation. 
- 
+  <b>G$</b>  如果你使用这种方式声明字符串变量，在后面使用此变量时，就必须始终在变量名后带上$符号. 
 <pre><font face="Courier New, Courier, mono"size="2">  G$ = "Hello, "
 </font></pre>
 
-
-
-This won't work. (G becomes a new integer variable and a compiler error occurs). 
- 
+以下代码不能正常编译. (G 会被编译器视为一个新的整型变量，并且编译器会抛出一个error错误异常，G$ 和 G 是两个不同的变量). 
 <pre><font face="Courier New, Courier, mono"size="2">  G = "Goodbye, World!"
 </font></pre>
 
 <br>
-<b>H</b> is an <a href="dim.html">array</a> of 20 strings, array indexing begins at zero. 
- 
+<b>H</b>  是一个长度为 20 的字符串型 <a href="dim.html">array</a> 数组，数组索从 0 开始（0 到 19）. 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Dim</font></b> <font color="#3A3966">H</font>.s(19)
 </font></pre>
 
-
-
-Now H is an array of 25 strings. If the array is resized larger, its original contents 
-will be preserved. 
- 
+这里 H 是一个长度为 25 的字符串型数组. 如果数组大小被调整（ReDim），那它原来存储的值将会被保留. 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">ReDim</font></b> <font color="#3A3966">H</font>.s(24)
 </font></pre>
 
 <br>
-<b>J</b> will appear at <a href="global.html">Global</a>, rather than Main, scope. It will 
-appear in all procedures, but maybe a better way would be to use the <a href="shared.html">Shared</a> 
-keyword inside a procedure on a main scope variable, so that the chances of accidental 
-changes are minimized. 
- 
+<b>J</b>  是一个全局变量（<a href="global.html">Global</a>）,. 作为一个全局变量，不光会作用于主代码区，同时，也会在后续所有的子函数（procedure）过程中起作用，在主代码区中使用<a href="shared.html">（Shared ）</a>共享关键词，让出现意外的可能性最小化。 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Global</font></b>.i J
 </font></pre>
 
 <br>
-<b>K</b> will be a new, empty, <a href="newlist.html">list</a> of strings at main scope. 
- 
+<b>K</b> 是一个新的，空的 字符串列表 <a href="newlist.html">list</a> . 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">NewList</font></b> <font color="#3A3966">K</font>.s()
 </font></pre>
 
 <br>
-<b>M</b> will be a new, empty, <a href="newmap.html">map</a> of strings at main scope. 
- 
+<b>M</b>  是一个新的，空的 映射（ <a href="newmap.html">map</a>）. 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">NewMap</font></b> <font color="#3A3966">M</font>.s()
 </font></pre>
 
 <br>
-
-Note that you can't use the alternative syntax of the <a href="define.html">Define</a> 
-keyword with <a href="newlist.html">NewList</a> or <a href="newmap.html">NewMap</a> 
-though. A compiler error will result. 
-<br>
-<br>
-Within a procedure: 
- 
+请注意，您不能使用  <a href="define.html">Define</a> 关键词来定义  <a href="newlist.html">NewList</a> 或 <a href="newmap.html">NewMap</a> . 否则，将导致编译器报错. <br><br>在过程函数中: 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Procedure</font></b> <font color="#3A3966">TestVariables</font>()
-  � 
-  � <font color="#3A3966">; N and P will be local.</font>
-  � <b><font color="#3A3966">Define</font></b>.l N
-  � <b><font color="#3A3966">Protected</font></b>.l P
-  � 
-  � <font color="#3A3966">; Q will be a static local.</font>
-  � <b><font color="#3A3966">Static</font></b>.l Q
-  � 
-  � <font color="#3A3966">; The main scope variable F and the string list K will be available within this procedure.</font>
-  � <b><font color="#3A3966">Shared</font></b> F,<font color="#3A3966"> K</font>()
-  � 
-  � <font color="#3A3966">; The global scope variable J will be available here implicitly.</font>
-  � 
+  �
+   <font color="#3A3966">; N and P will be local.</font>
+   <b><font color="#3A3966">Define</font></b>.l N
+   <b><font color="#3A3966">Protected</font></b>.l P
+  �
+   <font color="#3A3966">; Q will be a static local.</font>
+   <b><font color="#3A3966">Static</font></b>.l Q
+  �
+   <font color="#3A3966">; The main scope variable F and the string list K will be available within this procedure.</font>
+   <b><font color="#3A3966">Shared</font></b> F,<font color="#3A3966"> K</font>()
+  �
+   <font color="#3A3966">; The global scope variable J will be available here implicitly.</font>
+  �
   <b><font color="#3A3966">EndProcedure</font></b>
 </font></pre>
 

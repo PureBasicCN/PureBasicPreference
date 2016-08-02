@@ -8,13 +8,9 @@
 <b>概要</b><br><blockquote>
 
 
-<b><font color="#3A3966">Shared</font></b> allows a <a href="variables.html">variable</a>, an <a href="dim.html">array</a>, a <a href="newlist.html">list</a> 
-or a <a href="newmap.html">map</a> to be accessed within a <a href="procedures.html">procedure</a>. 
-When <b><font color="#3A3966">Shared</font></b> is used with an array, a list or a map, only the name followed by '()' must be specified. 
+<b><font color="#3A3966">Shared</font></b> 允许 <a href="variables.html">变量</a>,  <a href="dim.html">数组</a>,   <a href="newlist.html">列表</a>或者 <a href="newmap.html">映射</a>在 <a href="procedures.html">过程</a>内访问. 当 <b><font color="#3A3966">Shared</font></b>使用数组、列表或者映射时，只能在名称后指定 "()' . 
 
- 
-
-</blockquote><p><b>Example:</b> With variable</p><blockquote>
+</blockquote><p><b>示例︰</b>用于变量</p><blockquote>
 
 
 <pre><font face="Courier New, Courier, mono"size="2">  a = 10
@@ -25,11 +21,11 @@ When <b><font color="#3A3966">Shared</font></b> is used with an array, a list or
   <b><font color="#3A3966">EndProcedure</font></b>
   
 <font color="#3A3966">  Change</font>()
-  <b><font color="#3A3966">Debug</font></b> a   <font color="#3A3966">; Will print 20, as the variable has been shared.</font>
+  <b><font color="#3A3966">Debug</font></b> a   <font color="#3A3966">; 将打印 20, 因为变量被共享.</font>
 </font></pre>
 
 <br>
-</blockquote><p><b>Example:</b> With array and list</p><blockquote>
+</blockquote><p><b>示例︰</b>用与数组和列表</p><blockquote>
 
 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Dim</font></b> <b><font color="#3A3966">Array</font></b>(2)
@@ -43,7 +39,7 @@ When <b><font color="#3A3966">Shared</font></b> is used with an array, a list or
   <b><font color="#3A3966">EndProcedure</font></b>
   
 <font color="#3A3966">  Change</font>()
-  <b><font color="#3A3966">Debug</font></b> <b><font color="#3A3966">Array</font></b>(0)  <font color="#3A3966">; Will print 1, as the array has been shared.</font>
-  <b><font color="#3A3966">Debug</font></b> <b><font color="#3A3966">List</font></b>()    <font color="#3A3966">; Will print 2, as the list has been shared.</font>
+  <b><font color="#3A3966">Debug</font></b> <b><font color="#3A3966">Array</font></b>(0)  <font color="#3A3966">;将打印 1, 因为数组被保护.</font>
+  <b><font color="#3A3966">Debug</font></b> <b><font color="#3A3966">List</font></b>()    <font color="#3A3966">; 将打印2, 因为列表被保护了.</font>
 </font></pre>
 </body></html>
