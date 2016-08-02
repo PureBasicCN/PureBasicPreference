@@ -8277,6 +8277,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The command line compiler is located in the subdirectory 'compilers' from the PureBasic folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T022150Z" creationid="漂流瓶儿" creationdate="20160802T022150Z">
+        <seg>命令行编译器位于 PureBasic 文件夹的子目录'compilers' 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The compiler menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T084356Z" creationid="plp" creationdate="20160730T084356Z">
@@ -8505,6 +8513,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T033845Z" creationid="oSilas" creationdate="20141128T033845Z">
         <seg>图形原点不被调用此功能修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The easier way to access it is to add this directory in the PATH variable, which will give access to all the commands of this directory at all times.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T022345Z" creationid="漂流瓶儿" creationdate="20160802T022345Z">
+        <seg>将该目录添加在系统的 PATH 环境变量中，就可以方便的访问到此目录中的所有命令。</seg>
       </tuv>
     </tu>
     <tu>
