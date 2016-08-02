@@ -4395,6 +4395,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A split line has to end with one of the following operator: plus (+), comma (,), or (|), And, Or, Xor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054832Z" creationid="漂流瓶儿" creationdate="20160802T054832Z">
+        <seg>拆分符包含:  加号 (+), 逗号 (,),坚号 (|), And, Or, Xor。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A table with ASCII codes is available &lt;a2&gt;here&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T081938Z" creationid="MysticBoy" creationdate="20160720T081938Z">
@@ -4671,6 +4679,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112201Z">
         <seg>调用此函数后控制台上打印的所有字符都将使用您新指定的颜色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any number of commands can be added to the same line by using the &lt;b0&gt;&lt;f1&gt;:&lt;/f1&gt;&lt;/b0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054541Z" creationid="漂流瓶儿" creationdate="20160802T054541Z">
+        <seg>任意数量的命令都可以通过使用“&lt;b0&gt;&lt;f1&gt;:&lt;/f1&gt;&lt;/b0&gt;”冒号串联到一行代码里。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6203,6 +6219,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the line contains a big expression, it can be split on several lines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054653Z" creationid="漂流瓶儿" creationdate="20160802T054653Z">
+        <seg>如果某一代码行包含一个很长的表达式，可将它拆分在几行上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the project has many files it may make sense to hide some of them from the panel to have a better overview and faster access to the important files in the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150837Z" creationid="漂流瓶儿" creationdate="20160801T150837Z">
@@ -6799,6 +6823,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052432Z" creationid="MysticBoy" creationdate="20160802T052432Z">
         <seg>法律信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line continuation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054606Z" creationid="漂流瓶儿" creationdate="20160802T054606Z">
+        <seg>行继续符</seg>
       </tuv>
     </tu>
     <tu>
