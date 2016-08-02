@@ -2358,6 +2358,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Example:&lt;/b0&gt; Array as parameter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T051339Z" creationid="MysticBoy" creationdate="20160802T051339Z">
+        <seg>&lt;b0&gt;示例︰&lt;/b0&gt;数组作为参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Example:&lt;/b0&gt; List as parameter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T051327Z" creationid="MysticBoy" creationdate="20160802T051327Z">
+        <seg>&lt;b0&gt;示例︰&lt;/b0&gt;作为参数列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Example:&lt;/b0&gt; Parameter with default value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T051319Z" creationid="MysticBoy" creationdate="20160802T051319Z">
+        <seg>&lt;b0&gt;示例︰&lt;/b0&gt;具有默认值的参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Example:&lt;/b0&gt; Procedure with a numeric variable as return-value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T051258Z" creationid="MysticBoy" creationdate="20160802T051258Z">
+        <seg>&lt;b0&gt;示例︰&lt;/b0&gt;具有数字变量作为返回值的过程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Example:&lt;/b0&gt; Procedure with a string as return-value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T051309Z" creationid="MysticBoy" creationdate="20160802T051309Z">
+        <seg>&lt;b0&gt;示例︰&lt;/b0&gt;具有一个字符串作为返回值的过程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Example:&lt;/b0&gt; With default type</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065730Z" creationid="MysticBoy" creationdate="20160801T065730Z">
@@ -5333,8 +5373,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>For advanced programmers &lt;b42&gt;&lt;f43&gt;ProcedureC&lt;/f43&gt;&lt;/b42&gt; is available and will declare the procedure using 'CDecl' instead of 'StandardCall' calling convention.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T051108Z" creationid="MysticBoy" creationdate="20160802T051108Z">
-        <seg>针对高级程序员 &lt;b42&gt;&lt;f43&gt;ProcedureC&lt;/f43&gt;&lt;/b42&gt; 可用并且定义引用 'CDecl' 替换 'StandardCall' 的调用约定.</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T051153Z" creationid="MysticBoy" creationdate="20160802T051108Z">
+        <seg>针对高级程序员 &lt;b42&gt;&lt;f43&gt;ProcedureC&lt;/f43&gt;&lt;/b42&gt; 可用并且声明采用 'CDecl' 替换 'StandardCall' 的调用约定的程序.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6575,6 +6615,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T134709Z" creationid="oSilas" creationdate="20141124T134709Z">
         <seg>使用字符坐标移动光标到指定的位置。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, the &lt;b2&gt;&lt;f3&gt;Declare&lt;/f3&gt;&lt;/b2&gt; and real &lt;b4&gt;&lt;f5&gt;Procedure&lt;/f5&gt;&lt;/b4&gt; declaration must be identical (including the correct type and optional parameters, if any).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T051455Z" creationid="MysticBoy" creationdate="20160802T051455Z">
+        <seg>然而使用 &lt;b2&gt;&lt;f3&gt;Declare&lt;/f3&gt;&lt;/b2&gt; 和实际的 &lt;b4&gt;&lt;f5&gt;Procedure&lt;/f5&gt;&lt;/b4&gt; 定义必须相同 (包括正确的类型和可选的参数，如果有的话。)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8008,6 +8056,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T124908Z" creationid="漂流瓶儿" creationdate="20160801T124908Z">
         <seg>请查看 &lt;a5&gt;命令行选项 command-line options&lt;/a5&gt; 了解更多详情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected procedures can be executed asynchronously to the main program by using of &lt;a46&gt;threads&lt;/a46&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T051245Z" creationid="MysticBoy" creationdate="20160802T051245Z">
+        <seg>所选的程序可以异步执行但需在主程序使用&lt;a46&gt;线程&lt;/a46&gt;</seg>
       </tuv>
     </tu>
     <tu>
