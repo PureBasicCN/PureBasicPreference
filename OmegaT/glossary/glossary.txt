@@ -19,3 +19,4 @@ serial port	串口
 the given window	指定
 General	常规	常规
 Introduction	简介
+Will print	将打印
