@@ -2648,8 +2648,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;H&lt;/b0&gt; is an &lt;a1&gt;array&lt;/a1&gt; of 20 strings, array indexing begins at zero.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T080334Z" creationid="lansn-lan" creationdate="20160802T080334Z">
-        <seg>&lt;b0&gt;H&lt;/b0&gt;  是一个长度为 20 的字符串型 &lt;a1&gt;array&lt;/a1&gt; 数组，数组索引编号从 0 开始到 19.</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T080413Z" creationid="lansn-lan" creationdate="20160802T080334Z">
+        <seg>&lt;b0&gt;H&lt;/b0&gt;  是一个长度为 20 的字符串型 &lt;a1&gt;array&lt;/a1&gt; 数组，数组索从 0 开始（0 到 19）.</seg>
       </tuv>
     </tu>
     <tu>
