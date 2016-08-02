@@ -3939,6 +3939,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;b0&gt;&lt;f1&gt;Procedure&lt;/f1&gt;&lt;/b0&gt; is a part of code independent from the main code which can have any parameters and it's own &lt;a2&gt;variables&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T045831Z" creationid="MysticBoy" creationdate="20160802T045831Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Procedure&lt;/f1&gt;&lt;/b0&gt;独立于主体代码，它的任何参数都是自有&lt;a2&gt;变量&lt;/a2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A color table with common colors is available &lt;a5&gt;here&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041716Z" creationid="oSilas" creationdate="20151013T041716Z">
@@ -10627,6 +10635,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T135118Z" creationid="漂流瓶儿" creationdate="20160801T135118Z">
         <seg>若要从外部模块访问的模块项目（成员）时，必须在前面加指定模块名称和“::”符号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access main code variables, they have to be shared them by using &lt;a3&gt;Shared&lt;/a3&gt; or &lt;a4&gt;Global&lt;/a4&gt; keywords (see also the &lt;a5&gt;Protected&lt;/a5&gt; and &lt;a6&gt;Static&lt;/a6&gt; keywords).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050028Z" creationid="MysticBoy" creationdate="20160802T050028Z">
+        <seg>若要访问主代码变量, 必须要引用&lt;a3&gt;Shared&lt;/a3&gt; 或者 &lt;a4&gt;Global&lt;/a4&gt; 关键词 (请查看 &lt;a5&gt;Protected&lt;/a5&gt; 和 &lt;a6&gt;Static&lt;/a6&gt; 关键词).</seg>
       </tuv>
     </tu>
     <tu>
