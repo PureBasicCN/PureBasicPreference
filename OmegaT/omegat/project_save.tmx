@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-o, --constant, /CONSTANT name=value: creates the specified constant with the given expression.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T025128Z" creationid="漂流瓶儿" creationdate="20160802T025128Z">
+        <seg>-o, --constant, /CONSTANT name=value: 用给定的表达式创建指定的常数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-pf, --purifier, /PURIFIER: enables the purifier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T023311Z" creationid="漂流瓶儿" creationdate="20160802T023311Z">
@@ -4919,6 +4927,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071230Z" creationid="MysticBoy" creationdate="20160728T071230Z">
         <seg>示例:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: 'pbcompiler test.pb /CONSTANT MyConstant=10'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T025144Z" creationid="漂流瓶儿" creationdate="20160802T025144Z">
+        <seg>例如： 'pbcompiler test.pb /CONSTANT MyConstant=10'。</seg>
       </tuv>
     </tu>
     <tu>
