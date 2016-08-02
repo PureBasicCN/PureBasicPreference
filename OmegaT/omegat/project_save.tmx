@@ -1438,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Using the command line compiler&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052347Z" creationid="MysticBoy" creationdate="20160802T052347Z">
+        <seg>&lt;a0&gt;使用命令行编译器&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a10&gt;'Include' Functions&lt;/a10&gt;&lt;br11&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083604Z" creationid="MysticBoy" creationdate="20160720T083604Z">
@@ -1478,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a10&gt;Using the debugger&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052239Z" creationid="MysticBoy" creationdate="20160802T052239Z">
+        <seg>&lt;a10&gt;使用调试器&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a11&gt;&lt;b12&gt;PureBasic 5.41 LTS (all OS)&lt;/b12&gt;&lt;/a11&gt;&lt;i13&gt; (12/23/2015)&lt;/i13&gt;&lt;br14&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070031Z" creationid="MysticBoy" creationdate="20160728T070031Z">
@@ -1490,6 +1506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050303Z" creationid="MysticBoy" creationdate="20160802T050303Z">
         <seg>&lt;a11&gt;数组&lt;/a11&gt; 可以通过引用 &lt;b12&gt;&lt;f13&gt;Array&lt;/f13&gt;&lt;/b12&gt; 关键词, &lt;a14&gt;列表&lt;/a14&gt; 可以引用 &lt;b15&gt;&lt;f16&gt;List&lt;/f16&gt;&lt;/b15&gt; 关键词并且&lt;a17&gt;映射&lt;/a17&gt;可以使用 &lt;b18&gt;&lt;f19&gt;Map&lt;/f19&gt;&lt;/b18&gt; 关键词.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a11&gt;Useful Internet links about PureBasic&lt;/a11&gt;&lt;br12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052552Z" creationid="MysticBoy" creationdate="20160802T052552Z">
+        <seg>&lt;a11&gt;关于 PureBasic 使用互联网链接。&lt;/a11&gt;&lt;br12&gt;&lt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1514,6 +1538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084009Z" creationid="MysticBoy" creationdate="20160720T084009Z">
         <seg>&lt;a12&gt;控制台&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a12&gt;Form designer&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052243Z" creationid="MysticBoy" creationdate="20160802T052243Z">
+        <seg>&lt;a12&gt;窗体设计器&lt;/a12&gt;&lt;br13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,6 +1622,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a14&gt;Using the debugging Tools&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052246Z" creationid="MysticBoy" creationdate="20160802T052246Z">
+        <seg>&lt;a14&gt;使用调试工具&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a16&gt;Built-in Tools&lt;/a16&gt;&lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052250Z" creationid="MysticBoy" creationdate="20160802T052250Z">
+        <seg>&lt;a16&gt;内置工具&lt;/a16&gt;&lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a16&gt;ClipOutput&lt;/a16&gt;&lt;br17&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040825Z" creationid="oSilas" creationdate="20151013T040825Z">
@@ -1638,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a18&gt;External Tools&lt;/a18&gt;&lt;br19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052254Z" creationid="MysticBoy" creationdate="20160802T052254Z">
+        <seg>&lt;a18&gt;外部工具&lt;/a18&gt;&lt;br19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a18&gt;ParseDate&lt;/a18&gt;&lt;br19&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T061225Z" creationid="blues" creationdate="20160730T061225Z">
@@ -1666,6 +1722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084115Z" creationid="MysticBoy" creationdate="20160720T084115Z">
         <seg>&lt;a20&gt;桌面&lt;/a20&gt;&lt;br21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a20&gt;Getting help&lt;/a20&gt;&lt;br21&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052301Z" creationid="MysticBoy" creationdate="20160802T052301Z">
+        <seg>&lt;a20&gt;获取帮助&lt;/a20&gt;&lt;br21&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1702,10 +1766,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a22&gt;Customizing the IDE&lt;/a22&gt;&lt;br23&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052305Z" creationid="MysticBoy" creationdate="20160802T052305Z">
+        <seg>&lt;a22&gt;自定义 IDE&lt;/a22&gt;&lt;br23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a22&gt;Dialog&lt;/a22&gt;&lt;br23&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084123Z" creationid="MysticBoy" creationdate="20160720T084123Z">
         <seg>&lt;a22&gt;对话框&lt;/a22&gt;&lt;br23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a22&gt;Subsystems&lt;/a22&gt;&lt;br23&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052418Z" creationid="MysticBoy" creationdate="20160802T052418Z">
+        <seg>&lt;a22&gt;子系统&lt;/a22&gt;&lt;br23&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1730,6 +1810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040931Z" creationid="oSilas" creationdate="20151013T040931Z">
         <seg>绘制α图&lt;a24&gt;DrawAlphaImage&lt;/a24&gt;&lt;br25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a24&gt;IDE Command-line options&lt;/a24&gt;&lt;br25&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052309Z" creationid="MysticBoy" creationdate="20160802T052309Z">
+        <seg>&lt;a24&gt;IDE 的命令行选项&lt;/a24&gt;&lt;br25&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a3&gt;ASCII-Codes and their figures&lt;/a3&gt;&lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052450Z" creationid="MysticBoy" creationdate="20160802T052450Z">
+        <seg>&lt;a3&gt;ASCII 码和他们的数字&lt;/a3&gt;&lt;br4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a40&gt;DrawingMode&lt;/a40&gt;&lt;br41&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041038Z" creationid="oSilas" creationdate="20151013T041038Z">
@@ -2070,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a5&gt;Mathematical formulas&lt;/a5&gt;&lt;br6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052443Z" creationid="MysticBoy" creationdate="20160802T052443Z">
+        <seg>&lt;a5&gt;数学公式&lt;/a5&gt;&lt;br6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a5&gt;SQLite SQL functions&lt;/a5&gt; &lt;br6&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T032630Z" creationid="MysticBoy" creationdate="20160726T032630Z">
@@ -2110,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a6&gt;Managing projects&lt;/a6&gt;&lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052232Z" creationid="MysticBoy" creationdate="20160802T052232Z">
+        <seg>&lt;a6&gt;管理项目&lt;/a6&gt;&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a6&gt;Music&lt;/a6&gt;&lt;br7&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083844Z" creationid="MysticBoy" creationdate="20160720T083844Z">
@@ -2122,6 +2234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070348Z" creationid="MysticBoy" creationdate="20160728T070348Z">
         <seg>&lt;a74&gt;正则表达式&lt;/a74&gt;&lt;br75&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a7&gt;Color table&lt;/a7&gt;&lt;br8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052455Z" creationid="MysticBoy" creationdate="20160802T052455Z">
+        <seg>&lt;a7&gt;颜色表&lt;/a7&gt;&lt;br8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2170,6 +2290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083956Z" creationid="MysticBoy" creationdate="20160720T083956Z">
         <seg>&lt;a8&gt;加密&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a8&gt;Compiling your programs&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052235Z" creationid="MysticBoy" creationdate="20160802T052235Z">
+        <seg>&lt;a8&gt;编译您的程序&lt;/a8&gt;&lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +2362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T041235Z" creationid="oSilas" creationdate="20151013T041235Z">
         <seg>取消绘图区限制&lt;a96&gt;UnclipOutput&lt;/a96&gt;&lt;br97&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a9&gt;Port numbers&lt;/a9&gt; (for internet)&lt;br10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052506Z" creationid="MysticBoy" creationdate="20160802T052506Z">
+        <seg>&lt;a9&gt;端口号&lt;/a9&gt;（针对互联网）&lt;br10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4275,6 +4411,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional Information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052439Z" creationid="MysticBoy" creationdate="20160802T052439Z">
+        <seg>附加信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional coder :</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T011715Z" creationid="MysticBoy" creationdate="20160725T084706Z">
@@ -5579,6 +5723,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General Topics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052330Z" creationid="MysticBoy" creationdate="20160802T052330Z">
+        <seg>常规主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General options:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070613Z" creationid="MysticBoy" creationdate="20160728T070613Z">
@@ -6471,6 +6623,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105345Z" creationid="MysticBoy" creationdate="20160721T105345Z">
         <seg>学习 PureBasic 非常容易!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Legal Information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052432Z" creationid="MysticBoy" creationdate="20160802T052432Z">
+        <seg>法律信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -11143,6 +11303,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User guide - Overview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052320Z" creationid="MysticBoy" creationdate="20160802T052320Z">
+        <seg>用户指南-概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UserGuide - First steps with the Debug output (variables &amp; operators)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T081618Z" creationid="lansn-lan" creationdate="20160801T081339Z">
@@ -11243,6 +11411,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T082636Z" creationid="lansn-lan" creationdate="20160801T082451Z">
         <seg>继续一个简短的例子，使用可用的变量类型，算术运算符并显示结果:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We start programming</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052316Z" creationid="MysticBoy" creationdate="20160802T052316Z">
+        <seg>我们开始编程</seg>
       </tuv>
     </tu>
     <tu>
