@@ -2326,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/b0&gt; a = 10 &lt;f2&gt;; This is a comment to indicate something.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050841Z" creationid="漂流瓶儿" creationdate="20160802T050841Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/b0&gt; a = 10 &lt;f2&gt;; 这是一个注释说明的内容&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;A&lt;/b0&gt; is an integer - but note that you can't declare &lt;a1&gt;variables&lt;/a1&gt; this way if you use the &lt;a2&gt;EnableExplicit&lt;/a2&gt; directive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T090131Z" creationid="lansn-lan" creationdate="20160801T085926Z">
@@ -4267,6 +4275,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All &lt;b0&gt;keywords&lt;/b0&gt; are used for general things inside PureBasic, like creating arrays (Dim) or lists (NewList), or controlling the program flow (If : Else : EndIf).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050936Z" creationid="漂流瓶儿" creationdate="20160802T050936Z">
+        <seg>所有 &lt;b0&gt;关键字 keywords&lt;/b0&gt; 在 PureBasic 中都是, like creating arrays (Dim) or lists (NewList), or controlling the program flow (If : Else : EndIf).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All code put inside &lt;b29&gt;&lt;f30&gt;DeclareModule&lt;/f30&gt;&lt;/b29&gt; and &lt;b31&gt;&lt;f32&gt;Module&lt;/f32&gt;&lt;/b31&gt; sections is executed like any other code when the program flow reaches the module.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T140748Z" creationid="漂流瓶儿" creationdate="20160801T140748Z">
@@ -4303,6 +4319,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081422Z" creationid="lansn-lan" creationdate="20160729T081422Z">
         <seg>当程序结束时，所有剩余的打开的串行端口都会自动关闭.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All text entered after &lt;b2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/b2&gt;; is ignored by the compiler.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050817Z" creationid="漂流瓶儿" creationdate="20160802T050817Z">
+        <seg>在注释符 &lt;b2&gt;&lt;f3&gt;;&lt;/f3&gt;&lt;/b2&gt; 后所有的文本内容都会在编译程序时被编译器忽略掉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6359,6 +6383,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T080553Z" creationid="plp" creationdate="20160728T111413Z">
         <seg>只要在菜单中选择“编译/运行”（快捷键默认为F5），你的程序将会被编译并进行一次测试运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keywords</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050848Z" creationid="漂流瓶儿" creationdate="20160802T050848Z">
+        <seg>关键字</seg>
       </tuv>
     </tu>
     <tu>
