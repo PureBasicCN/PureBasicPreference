@@ -7388,6 +7388,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now H is an array of 25 strings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T081150Z" creationid="lansn-lan" creationdate="20160802T081150Z">
+        <seg>这里 H 是一个长度为 25 的字符串型数组.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OS X specific command switches</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T045806Z" creationid="漂流瓶儿" creationdate="20160802T045806Z">
