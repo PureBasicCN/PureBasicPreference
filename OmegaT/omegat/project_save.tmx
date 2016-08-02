@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-q, --quiet, /QUIET: disables all unnecessary text output, very useful when using another editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T024425Z" creationid="漂流瓶儿" creationdate="20160802T024425Z">
+        <seg>-q, --quiet, /QUIET: 取消所有不必要的文本输出，这在使用其他编辑器编译时非常有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-r, --resident, /RESIDENT "filename": creates a resident file specified by the filename.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T023823Z" creationid="漂流瓶儿" creationdate="20160802T023823Z">
@@ -9546,6 +9554,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143701Z" creationid="漂流瓶儿" creationdate="20160801T143701Z">
         <seg>他们将显示在项目信息选项页中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This allows the &lt;a12&gt;OnError library&lt;/a12&gt; to report the file and line-number of an error.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T024326Z" creationid="漂流瓶儿" creationdate="20160802T024326Z">
+        <seg>这将允许程序通过&lt;a12&gt;OnError 库&lt;/a12&gt;生成文件和行号错误报告。</seg>
       </tuv>
     </tu>
     <tu>
