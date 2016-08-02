@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2534,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Protected&lt;/f1&gt;&lt;/b0&gt; allows a &lt;a2&gt;variable&lt;/a2&gt; to be accessed only in a &lt;a3&gt;Procedure&lt;/a3&gt; even if the same variable has been declared as &lt;a4&gt;Global&lt;/a4&gt; in the main program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083242Z" creationid="MysticBoy" creationdate="20160802T083242Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Protected&lt;/f1&gt;&lt;/b0&gt; 允许一个  &lt;a2&gt;变量&lt;/a2&gt; 的访问仅限 &lt;a3&gt;Procedure&lt;/a3&gt; 内，如果是同样的变量定义为 &lt;a4&gt;Global&lt;/a4&gt; 在主程序中时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;A&lt;/b0&gt; is an integer - but note that you can't declare &lt;a1&gt;variables&lt;/a1&gt; this way if you use the &lt;a2&gt;EnableExplicit&lt;/a2&gt; directive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T074427Z" creationid="lansn-lan" creationdate="20160801T085926Z">
@@ -3443,6 +3451,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055349Z" creationid="lansn-lan" creationdate="20160729T055349Z">
         <seg>&lt;b5&gt;&lt;f6&gt;Debug&lt;/f6&gt;&lt;/b5&gt; "成功"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b5&gt;&lt;f6&gt;Protected&lt;/f6&gt;&lt;/b5&gt; in its function is often known as 'Local' from other BASIC dialects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083410Z" creationid="MysticBoy" creationdate="20160802T083410Z">
+        <seg>&lt;b5&gt;&lt;f6&gt;Protected&lt;/f6&gt;&lt;/b5&gt;的功能通常在其他BASIC中被称之为"Local"(本地变量).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5587,6 +5603,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each variable can have a default value directly assigned to it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083441Z" creationid="MysticBoy" creationdate="20160802T083441Z">
+        <seg>每个变量可以直接分配一个默认值给它.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each variable may have a default value directly assigned to it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065200Z" creationid="MysticBoy" creationdate="20160801T065200Z">
@@ -6207,6 +6231,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060358Z" creationid="lansn-lan" creationdate="20160729T060358Z">
         <seg>如果出现读取错误，它将返回零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a type is specified after &lt;b7&gt;&lt;f8&gt;Protected&lt;/f8&gt;&lt;/b7&gt;, the default type is changed for this declaration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083605Z" creationid="MysticBoy" creationdate="20160802T083605Z">
+        <seg>如果类型在&lt;b7&gt;&lt;f8&gt;Protected&lt;/f8&gt;&lt;/b7&gt;之后指定,则默认类型被换成此定义.</seg>
       </tuv>
     </tu>
     <tu>
