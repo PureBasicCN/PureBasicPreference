@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10751,6 +10751,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The value of the variable isn't reinitialized at each procedure call, means you can use local variables parallel to global variables (with the same name), and both will keep their values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T085713Z" creationid="MysticBoy" creationdate="20160802T085713Z">
+        <seg>变量的值不在每个过程调用时重新初始化，意味着您可以使用本地变量与全局变量 （具有相同的名称），两者都将保持它们的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The value to add to the date.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064106Z" creationid="blues" creationdate="20160730T064022Z">
@@ -12083,6 +12091,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T102903Z" creationid="plp" creationdate="20160730T102903Z">
         <seg>当一个项目打开时，这个子菜单就会显示所有编译目标，并允许快速切换当前默认目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When declaring a static array, the dimension parameter has to be a constant value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T085558Z" creationid="MysticBoy" creationdate="20160802T085558Z">
+        <seg>当声明一个静态数组，纬数必须是常量值。</seg>
       </tuv>
     </tu>
     <tu>
