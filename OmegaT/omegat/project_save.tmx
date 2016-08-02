@@ -1422,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a11&gt;Arrays&lt;/a11&gt; can be passed as parameters using the &lt;b12&gt;&lt;f13&gt;Array&lt;/f13&gt;&lt;/b12&gt; keyword, &lt;a14&gt;lists&lt;/a14&gt; using the &lt;b15&gt;&lt;f16&gt;List&lt;/f16&gt;&lt;/b15&gt; keyword and &lt;a17&gt;maps&lt;/a17&gt; using the &lt;b18&gt;&lt;f19&gt;Map&lt;/f19&gt;&lt;/b18&gt; keyword.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050303Z" creationid="MysticBoy" creationdate="20160802T050303Z">
+        <seg>&lt;a11&gt;数组&lt;/a11&gt; 可以通过引用 &lt;b12&gt;&lt;f13&gt;Array&lt;/f13&gt;&lt;/b12&gt; 关键词, &lt;a14&gt;列表&lt;/a14&gt; 可以引用 &lt;b15&gt;&lt;f16&gt;List&lt;/f16&gt;&lt;/b15&gt; 关键词并且&lt;a17&gt;映射&lt;/a17&gt;可以使用 &lt;b18&gt;&lt;f19&gt;Map&lt;/f19&gt;&lt;/b18&gt; 关键词.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a12&gt;Circle&lt;/a12&gt;&lt;br13&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T040751Z" creationid="oSilas" creationdate="20151013T040751Z">
@@ -4039,6 +4047,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091725Z" creationid="MysticBoy" creationdate="20160725T091725Z">
         <seg>一个强大的 Visual Designer包含在安装包中并且允许你创建任何种类的应用程序.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A procedure can return a value or a string if necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050325Z" creationid="MysticBoy" creationdate="20160802T050325Z">
+        <seg>如有必要，过程可以返回值或字符串。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9123,6 +9139,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055114Z" creationid="MysticBoy" creationdate="20160721T055114Z">
         <seg>PureBasic 的主要特点是可移植性 （Windows、 Linux 和 MacOS X 目前均支持），生成非常快速和高度优化的可执行文件，当然，BASIC也语法非常简单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The last parameters can have a default value (need to be a constant expression), so if these parameters are omitted when the procedure is called, the default value will be used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050114Z" creationid="MysticBoy" creationdate="20160802T050114Z">
+        <seg>后面的参数可以有一个默认值 （必须是一个常数表达式），所以如果在调用过程时省略这些参数，将使用默认值。</seg>
       </tuv>
     </tu>
     <tu>
