@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7455,6 +7455,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085759Z" creationid="漂流瓶儿" creationdate="20160801T085738Z">
         <seg>请注意，这里只记录大位置跳跃信息，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that you can't use the alternative syntax of the &lt;a0&gt;Define&lt;/a0&gt; keyword with &lt;a1&gt;NewList&lt;/a1&gt; or &lt;a2&gt;NewMap&lt;/a2&gt; though.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T090117Z" creationid="lansn-lan" creationdate="20160802T090117Z">
+        <seg>请注意，您不能使用  &lt;a0&gt;Define&lt;/a0&gt; 关键词来定义  &lt;a1&gt;NewList&lt;/a1&gt; 或 &lt;a2&gt;NewMap&lt;/a2&gt; though.</seg>
       </tuv>
     </tu>
     <tu>
