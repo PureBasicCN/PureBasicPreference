@@ -7356,6 +7356,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notice too the alternative syntax of &lt;a2&gt;Define&lt;/a2&gt; used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T075121Z" creationid="lansn-lan" creationdate="20160802T075121Z">
+        <seg>查看  &lt;a2&gt;Define&lt;/a2&gt;  的使用语法.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OS X specific command switches</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T045806Z" creationid="漂流瓶儿" creationdate="20160802T045806Z">
