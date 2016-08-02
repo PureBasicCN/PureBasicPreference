@@ -8268,6 +8268,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic provides a powerful debugger that helps you find mistakes and bugs in your source code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T091436Z" creationid="MysticBoy" creationdate="20160802T091436Z">
+        <seg>PureBasic 提供了一个功能强大的调试器，可以帮助你在你的源代码中查找错误和 bug。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic provides full access to them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T111335Z" creationid="MysticBoy" creationdate="20160729T111335Z">
@@ -12091,6 +12099,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T022030Z" creationid="漂流瓶儿" creationdate="20160802T022030Z">
         <seg>使用命令行编译器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the debugger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T091413Z" creationid="MysticBoy" creationdate="20160802T091413Z">
+        <seg>使用调试器</seg>
       </tuv>
     </tu>
     <tu>
