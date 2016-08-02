@@ -7324,6 +7324,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic - Index</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052126Z" creationid="MysticBoy" creationdate="20160802T052126Z">
+        <seg>PureBasic - 索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic : Native compiler, easy &amp; optimized BASIC programming language</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174117Z" creationid="MysticBoy" creationdate="20160721T053643Z">
