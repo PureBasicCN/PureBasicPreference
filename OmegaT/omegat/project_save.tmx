@@ -8750,8 +8750,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>So is &lt;b0&gt;G$&lt;/b0&gt;, however, if you declare strings this way, you must always use the $ notation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T075551Z" creationid="lansn-lan" creationdate="20160802T075515Z">
-        <seg>那么，如果你使用  &lt;b0&gt;G$&lt;/b0&gt;, 这种方式声明字符串变量，在后面使用此变量时，就必须始终在变量名后带上$符号.</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T075711Z" creationid="lansn-lan" creationdate="20160802T075515Z">
+        <seg>  &lt;b0&gt;G$&lt;/b0&gt;  如果你使用这种方式声明字符串变量，在后面使用此变量时，就必须始终在变量名后带上$符号.</seg>
       </tuv>
     </tu>
     <tu>
