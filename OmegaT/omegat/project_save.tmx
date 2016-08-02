@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2622,10 +2622,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Example:&lt;/b0&gt; With array</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083826Z" creationid="MysticBoy" creationdate="20160802T083826Z">
+        <seg>&lt;b0&gt;示例︰&lt;/b0&gt;与数组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Example:&lt;/b0&gt; With default type</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065730Z" creationid="MysticBoy" creationdate="20160801T065730Z">
         <seg>&lt;b0&gt;示例︰&lt;/b0&gt;默认类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Example:&lt;/b0&gt; With variable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083819Z" creationid="MysticBoy" creationdate="20160802T083819Z">
+        <seg>&lt;b0&gt;示例︰&lt;/b0&gt;与变量</seg>
       </tuv>
     </tu>
     <tu>
@@ -2838,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b10&gt;&lt;f11&gt;Debug&lt;/f11&gt;&lt;/b10&gt; a &lt;f12&gt;; Will print 10, as the variable has been protected.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083941Z" creationid="MysticBoy" creationdate="20160802T083941Z">
+        <seg>&lt;b10&gt;&lt;f11&gt;Debug&lt;/f11&gt;&lt;/b10&gt; a &lt;f12&gt;; 将打印10,因为变量已经被保护.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b10&gt;Comments&lt;/b10&gt; &lt;br11&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143623Z" creationid="漂流瓶儿" creationdate="20160801T143623Z">
@@ -2850,6 +2874,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111125Z" creationid="MysticBoy" creationdate="20160721T111125Z">
         <seg>&lt;b10&gt;技术特点&lt;/b10&gt;&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b11&gt;&lt;f12&gt;Protected&lt;/f12&gt;&lt;/b11&gt; &lt;b13&gt;&lt;f14&gt;Dim&lt;/f14&gt;&lt;/b13&gt; &lt;b15&gt;&lt;f16&gt;Array&lt;/f16&gt;&lt;/b15&gt;(2) &lt;f17&gt;; This array is protected, it will be local.&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083919Z" creationid="MysticBoy" creationdate="20160802T083919Z">
+        <seg>&lt;b11&gt;&lt;f12&gt;Protected&lt;/f12&gt;&lt;/b11&gt; &lt;b13&gt;&lt;f14&gt;Dim&lt;/f14&gt;&lt;/b13&gt; &lt;b15&gt;&lt;f16&gt;Array&lt;/f16&gt;&lt;/b15&gt;(2) &lt;f17&gt;; 此数组被保护，它将是本地变量.&lt;/f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,6 +3082,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T092914Z" creationid="plp" creationdate="20160730T092914Z">
         <seg>&lt;b21&gt;重新启动编译器&lt;/b21&gt; （不适用于所有系统） &lt;br22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b23&gt;&lt;f24&gt;Debug&lt;/f24&gt;&lt;/b23&gt; &lt;b25&gt;&lt;f26&gt;Array&lt;/f26&gt;&lt;/b25&gt;(0) &lt;f27&gt;; Will print 10, as the array has been protected.&lt;/f27&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083859Z" creationid="MysticBoy" creationdate="20160802T083859Z">
+        <seg>&lt;b23&gt;&lt;f24&gt;Debug&lt;/f24&gt;&lt;/b23&gt; &lt;b25&gt;&lt;f26&gt;Array&lt;/f26&gt;&lt;/b25&gt;(0) &lt;f27&gt;; 将打印 10,数组已经被保护.&lt;/f27&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3637,6 +3677,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065511Z" creationid="MysticBoy" creationdate="20160801T065511Z">
         <seg>&lt;b9&gt;&lt;f10&gt;Global&lt;/f10&gt;&lt;/b9&gt; 也可以用于 &lt;a11&gt;数组&lt;/a11&gt;, &lt;a12&gt;列表&lt;/a12&gt; 和 &lt;a13&gt;映射&lt;/a13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b9&gt;&lt;f10&gt;Protected&lt;/f10&gt;&lt;/b9&gt; can also be used with &lt;a11&gt;arrays&lt;/a11&gt;, &lt;a12&gt;lists&lt;/a12&gt; and &lt;a13&gt;maps&lt;/a13&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083636Z" creationid="MysticBoy" creationdate="20160802T083636Z">
+        <seg>&lt;b9&gt;&lt;f10&gt;Protected&lt;/f10&gt;&lt;/b9&gt; 同样可以用于 &lt;a11&gt;数组&lt;/a11&gt;, &lt;a12&gt;列表&lt;/a12&gt; 和 &lt;a13&gt;映射&lt;/a13&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10631,6 +10679,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The value of the local variable will be reinitialized at each procedure call.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083644Z" creationid="MysticBoy" creationdate="20160802T083644Z">
+        <seg>本地变量的值将在每个过程调用重新初始化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The value to add to the date.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064106Z" creationid="blues" creationdate="20160730T064022Z">
@@ -11587,6 +11643,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050028Z" creationid="MysticBoy" creationdate="20160802T050028Z">
         <seg>若要访问主代码变量, 必须要引用&lt;a3&gt;Shared&lt;/a3&gt; 或者 &lt;a4&gt;Global&lt;/a4&gt; 关键词 (请查看 &lt;a5&gt;Protected&lt;/a5&gt; 和 &lt;a6&gt;Static&lt;/a6&gt; 关键词).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To avoid this, you can use the keyword &lt;a16&gt;Static&lt;/a16&gt;, to separate global from local variables while keeping their values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083807Z" creationid="MysticBoy" creationdate="20160802T083807Z">
+        <seg>要避免此问题，可以使用关键字&lt;a16&gt;Static&lt;/a16&gt;，同时保持它们的值分开全局从本地变量。</seg>
       </tuv>
     </tu>
     <tu>
