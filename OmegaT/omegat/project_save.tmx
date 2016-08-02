@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2638,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Example:&lt;/b0&gt; With array and list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T084400Z" creationid="MysticBoy" creationdate="20160802T084342Z">
+        <seg>&lt;b0&gt;示例︰&lt;/b0&gt;用与数组和列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Example:&lt;/b0&gt; With default type</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065730Z" creationid="MysticBoy" creationdate="20160801T065730Z">
@@ -2648,8 +2656,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;Example:&lt;/b0&gt; With variable</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083819Z" creationid="MysticBoy" creationdate="20160802T083819Z">
-        <seg>&lt;b0&gt;示例︰&lt;/b0&gt;与变量</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T084347Z" creationid="MysticBoy" creationdate="20160802T083819Z">
+        <seg>&lt;b0&gt;示例︰&lt;/b0&gt;用于变量</seg>
       </tuv>
     </tu>
     <tu>
@@ -3158,6 +3166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b27&gt;&lt;f28&gt;Debug&lt;/f28&gt;&lt;/b27&gt; &lt;b29&gt;&lt;f30&gt;Array&lt;/f30&gt;&lt;/b29&gt;(0)  &lt;f31&gt;; Will print 1, as the array has been shared.&lt;/f31&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T084424Z" creationid="MysticBoy" creationdate="20160802T084424Z">
+        <seg>&lt;b27&gt;&lt;f28&gt;Debug&lt;/f28&gt;&lt;/b27&gt; &lt;b29&gt;&lt;f30&gt;Array&lt;/f30&gt;&lt;/b29&gt;(0)  &lt;f31&gt;;将打印 1, 因为数组被保护.&lt;/f31&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b27&gt;Close&lt;/b27&gt; &lt;br28&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022851Z" creationid="MysticBoy" creationdate="20160726T022851Z">
@@ -3234,6 +3250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053208Z" creationid="MysticBoy" creationdate="20160726T053208Z">
         <seg>&lt;b31&gt;关闭全部&lt;/b31&gt; &lt;br32&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b32&gt;&lt;f33&gt;Debug&lt;/f33&gt;&lt;/b32&gt; &lt;b34&gt;&lt;f35&gt;List&lt;/f35&gt;&lt;/b34&gt;()    &lt;f36&gt;; Will print 2, as the list has been shared.&lt;/f36&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T084534Z" creationid="MysticBoy" creationdate="20160802T084534Z">
+        <seg>&lt;b32&gt;&lt;f33&gt;Debug&lt;/f33&gt;&lt;/b32&gt; &lt;b34&gt;&lt;f35&gt;List&lt;/f35&gt;&lt;/b34&gt;()    &lt;f36&gt;; 将打印2, 因为列表被保护了.&lt;/f36&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3629,6 +3653,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T105122Z" creationid="plp" creationdate="20160730T105122Z">
         <seg>&lt;b7&gt;使用编译器&lt;/b7&gt;&lt;br8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b8&gt;&lt;f9&gt;Debug&lt;/f9&gt;&lt;/b8&gt; a   &lt;f10&gt;; Will print 20, as the variable has been shared.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T084334Z" creationid="MysticBoy" creationdate="20160802T084334Z">
+        <seg>&lt;b8&gt;&lt;f9&gt;Debug&lt;/f9&gt;&lt;/b8&gt; a   &lt;f10&gt;; 将打印 20, 因为变量被共享.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
