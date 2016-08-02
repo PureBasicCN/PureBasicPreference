@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6837,8 +6837,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>It will appear in all procedures, but maybe a better way would be to use the &lt;a2&gt;Shared&lt;/a2&gt; keyword inside a procedure on a main scope variable, so that the chances of accidental changes are minimized.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T082539Z" creationid="lansn-lan" creationdate="20160802T082318Z">
-        <seg>它将出现在所有（procedure）过程中，但是更好的方法是使用&lt;a2&gt;（Shared ）共享&lt;/a2&gt;关键词，在主范围的变量的程序里面关键字，使意外改变的可能性最小化。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T083057Z" creationid="lansn-lan" creationdate="20160802T082318Z">
+        <seg>它在所有（procedure）过程中使用，在过程中使用&lt;a2&gt;（Shared ）共享&lt;/a2&gt;关键词，在主范围的变量的程序里面关键字，使意外改变的可能性最小化。</seg>
       </tuv>
     </tu>
     <tu>
