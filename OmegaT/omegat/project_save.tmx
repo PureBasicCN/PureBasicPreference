@@ -2542,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Shared&lt;/f1&gt;&lt;/b0&gt; allows a &lt;a2&gt;variable&lt;/a2&gt;, an &lt;a3&gt;array&lt;/a3&gt;, a &lt;a4&gt;list&lt;/a4&gt; or a &lt;a5&gt;map&lt;/a5&gt; to be accessed within a &lt;a6&gt;procedure&lt;/a6&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T084132Z" creationid="MysticBoy" creationdate="20160802T084102Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Shared&lt;/f1&gt;&lt;/b0&gt; 允许 &lt;a2&gt;变量&lt;/a2&gt;,  &lt;a3&gt;数组&lt;/a3&gt;,   &lt;a4&gt;列表&lt;/a4&gt;或者 &lt;a5&gt;映射&lt;/a5&gt;在 &lt;a6&gt;过程&lt;/a6&gt;内访问.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;A&lt;/b0&gt; is an integer - but note that you can't declare &lt;a1&gt;variables&lt;/a1&gt; this way if you use the &lt;a2&gt;EnableExplicit&lt;/a2&gt; directive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T074427Z" creationid="lansn-lan" creationdate="20160801T085926Z">
@@ -3088,8 +3096,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b23&gt;&lt;f24&gt;Debug&lt;/f24&gt;&lt;/b23&gt; &lt;b25&gt;&lt;f26&gt;Array&lt;/f26&gt;&lt;/b25&gt;(0) &lt;f27&gt;; Will print 10, as the array has been protected.&lt;/f27&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083859Z" creationid="MysticBoy" creationdate="20160802T083859Z">
-        <seg>&lt;b23&gt;&lt;f24&gt;Debug&lt;/f24&gt;&lt;/b23&gt; &lt;b25&gt;&lt;f26&gt;Array&lt;/f26&gt;&lt;/b25&gt;(0) &lt;f27&gt;; 将打印 10,数组已经被保护.&lt;/f27&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083948Z" creationid="MysticBoy" creationdate="20160802T083859Z">
+        <seg>&lt;b23&gt;&lt;f24&gt;Debug&lt;/f24&gt;&lt;/b23&gt; &lt;b25&gt;&lt;f26&gt;Array&lt;/f26&gt;&lt;/b25&gt;(0) &lt;f27&gt;; 将打印 10,因为数组已经被保护.&lt;/f27&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11971,6 +11979,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093503Z" creationid="MysticBoy" creationdate="20160725T084830Z">
         <seg>其他成员 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When &lt;b7&gt;&lt;f8&gt;Shared&lt;/f8&gt;&lt;/b7&gt; is used with an array, a list or a map, only the name followed by '()' must be specified.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T084258Z" creationid="MysticBoy" creationdate="20160802T084258Z">
+        <seg>当 &lt;b7&gt;&lt;f8&gt;Shared&lt;/f8&gt;&lt;/b7&gt;使用数组、列表或者映射时，只能在名称后指定 "()' .</seg>
       </tuv>
     </tu>
     <tu>
