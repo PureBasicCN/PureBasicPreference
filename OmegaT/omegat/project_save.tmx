@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/ADMINISTRATOR: Will cause the program to request admin privileges at start.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034713Z" creationid="漂流瓶儿" creationdate="20160802T034713Z">
+        <seg>/ADMINISTRATOR: 将导致程序执行时要求管理员权限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/BUILD &lt;file&gt;            specifies the project file to build</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T072234Z" creationid="MysticBoy" creationdate="20160728T072234Z">
@@ -9334,6 +9342,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The program will not run without it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034742Z" creationid="漂流瓶儿" creationdate="20160802T034742Z">
+        <seg>否则程序将无法运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The project can also remember the source files that are open when the project is closed and reopen them the next time to continue working exactly where you left off.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T123456Z" creationid="漂流瓶儿" creationdate="20160801T123456Z">
@@ -10386,6 +10402,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T023146Z" creationid="漂流瓶儿" creationdate="20160802T023146Z">
         <seg>此选项只适合高级程序员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option is needed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034808Z" creationid="漂流瓶儿" creationdate="20160802T034808Z">
+        <seg>需要此选项。</seg>
       </tuv>
     </tu>
     <tu>
