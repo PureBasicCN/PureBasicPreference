@@ -4635,6 +4635,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An expression can mix any variables, constants, or functions, of the same type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054208Z" creationid="漂流瓶儿" creationdate="20160802T054208Z">
+        <seg>可以混合使用同类型的变更、常量或函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An expression is something which can be evaluated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054123Z" creationid="漂流瓶儿" creationdate="20160802T054123Z">
@@ -5039,6 +5047,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160728T110914Z" creationid="plp" creationdate="20160728T110719Z">
         <seg>编译你的程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concatenation of commands</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054425Z" creationid="漂流瓶儿" creationdate="20160802T054425Z">
+        <seg>串联命令</seg>
       </tuv>
     </tu>
     <tu>
@@ -5631,6 +5647,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081509Z" creationid="漂流瓶儿" creationdate="20160801T081509Z">
         <seg>以下是在编辑菜单中的项目的说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Foo = Foo + $69 / %1001  &lt;f7&gt;; Hexadecimal and binary number usage&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054409Z" creationid="漂流瓶儿" creationdate="20160802T054409Z">
+        <seg>Foo = Foo + $69 / %1001  &lt;f7&gt;;  十六进制数和二进制数的用法&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8672,6 +8696,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T030033Z" creationid="MysticBoy" creationdate="20160801T030033Z">
         <seg>指定用于在绘图输出的测量距离的单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strings must be enclosed by inverted commas.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054344Z" creationid="漂流瓶儿" creationdate="20160802T054344Z">
+        <seg>字符串必须用引号括住。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11799,6 +11831,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you use numbers in an expression, you can add the Keyword $ sign in front of it to mean a hexadecimal number, or a Keyword % sign to mean a binary number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054257Z" creationid="漂流瓶儿" creationdate="20160802T054257Z">
+        <seg>当在表达式中使用数字时，您可以在它前面添加一个关键字 $ 符号，来表示十六进制数或关键字 % 符号来表示一个二进制数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whether or not a file is considered a code-file or not depends on the file extension.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T021204Z" creationid="MysticBoy" creationdate="20160726T021204Z">
@@ -11891,6 +11931,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T085451Z" creationid="漂流瓶儿" creationdate="20160801T085451Z">
         <seg>通过此菜单选项，您可以跳回到以前历史的位置行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without either of those, the number will be treated as decimal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054328Z" creationid="漂流瓶儿" creationdate="20160802T054328Z">
+        <seg>如果没有这类符号，数将被视为十进制。</seg>
       </tuv>
     </tu>
     <tu>
