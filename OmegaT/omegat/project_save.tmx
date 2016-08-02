@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/CONSOLE: output file in &lt;a2&gt;Console&lt;/a2&gt; format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032414Z" creationid="漂流瓶儿" creationdate="20160802T032414Z">
+        <seg>/CONSOLE: 以 &lt;a2&gt;控制台 Console&lt;/a2&gt; 格式输出文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/E &lt;Explorer path&gt;       starts the Explorer tool with the given path</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071908Z" creationid="MysticBoy" creationdate="20160728T071908Z">
@@ -642,6 +650,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071959Z" creationid="MysticBoy" creationdate="20160728T071959Z">
         <seg>/H &lt;HistoryDatabase&gt;     指定会话历史数据库文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/ICON "IconName.ico" : add the specified icon to the executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032310Z" creationid="漂流瓶儿" creationdate="20160802T032310Z">
+        <seg>/ICON "IconName.ico" : 为可执行文件添加指定图标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4639,6 +4655,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T082013Z" creationid="lansn-lan" creationdate="20160801T082013Z">
         <seg>Debug 调试输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default format is Win32.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032427Z" creationid="漂流瓶儿" creationdate="20160802T032427Z">
+        <seg>默认格式为 Win32。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10898,6 +10922,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T111306Z" creationid="MysticBoy" creationdate="20160729T111306Z">
         <seg>Windows是现代界面必备的组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows specific command switches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032227Z" creationid="漂流瓶儿" creationdate="20160802T032227Z">
+        <seg>Windows 指定命令参数</seg>
       </tuv>
     </tu>
     <tu>
