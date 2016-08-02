@@ -486,10 +486,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-d, --debugger, /DEBUGGER: enables the debugger support.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T023214Z" creationid="漂流瓶儿" creationdate="20160802T023214Z">
+        <seg>-d, --debugger, /DEBUGGER: 启用调试器支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-h, --help, /?: displays a quick help about the compiler.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T022831Z" creationid="漂流瓶儿" creationdate="20160802T022831Z">
         <seg>-h, --help, /?: 显示编译器帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-pf, --purifier, /PURIFIER: enables the purifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T023311Z" creationid="漂流瓶儿" creationdate="20160802T023311Z">
+        <seg>-pf, --purifier, /PURIFIER: 启用净化器 purifier。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8485,6 +8501,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The debugger needs to be activated to have any effect.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T023359Z" creationid="漂流瓶儿" creationdate="20160802T023359Z">
+        <seg>调试器需要激活才产生影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default files for /P /T and /A are saved in the %APPDATA%\PureBasic\ directory on the system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T073559Z" creationid="MysticBoy" creationdate="20160728T073559Z">
@@ -9978,6 +10002,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T105435Z" creationid="plp" creationdate="20160730T105435Z">
         <seg>此选项允许选择使用不同的编译器来代替当前purebasic的版本编译器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option is for advanced programmers only.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T023146Z" creationid="漂流瓶儿" creationdate="20160802T023146Z">
+        <seg>此选项只适合高级程序员。</seg>
       </tuv>
     </tu>
     <tu>
