@@ -9158,6 +9158,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The processed file is a single file with all macro expanded, compiler directive handled and multiline resolved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T031104Z" creationid="漂流瓶儿" creationdate="20160802T031104Z">
+        <seg>处理后的文件是具所有的宏、编译器指令等的单个文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The project can also remember the source files that are open when the project is closed and reopen them the next time to continue working exactly where you left off.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T123456Z" creationid="漂流瓶儿" creationdate="20160801T123456Z">
