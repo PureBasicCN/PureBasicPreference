@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Constant: the object name is '#Constantame' (case insensitive).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090539Z" creationid="MysticBoy" creationdate="20160802T090539Z">
+        <seg>- Constant: 对象名称是 '#Constantame' (不区分大小写).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Constants, binary and hexadecimal numbers supported&lt;br17&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111321Z" creationid="MysticBoy" creationdate="20160721T111321Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070129Z" creationid="MysticBoy" creationdate="20160728T070129Z">
         <seg>- 系统方便，易于安装和使用&lt;br30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Variable: the object name is 'VariableName' (case insensitive).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090512Z" creationid="MysticBoy" creationdate="20160802T090512Z">
+        <seg>- Variable:︰ 对象名称是变量名 （不区分大小写）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6075,6 +6091,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information about the runtime concept, see &lt;a0&gt;Runtime&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090438Z" creationid="MysticBoy" creationdate="20160802T090438Z">
+        <seg>有关运行时概念的详细信息，请参见&lt;a0&gt;运行库&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information see the &lt;a0&gt;built-in tools&lt;/a0&gt; section.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T152025Z" creationid="漂流瓶儿" creationdate="20160801T152025Z">
@@ -8652,6 +8676,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the string value of specified object, or an empty string if not found.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090605Z" creationid="MysticBoy" creationdate="20160802T090605Z">
+        <seg>返回指定的对象或空字符串的字符串值，如果没找到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns the string value of the runtime object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090447Z" creationid="MysticBoy" creationdate="20160802T090447Z">
+        <seg>返回运行时对象的字符串值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the unique system identifier of the serial port.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T062837Z" creationid="lansn-lan" creationdate="20160729T062837Z">
@@ -8752,6 +8792,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151820Z" creationid="漂流瓶儿" creationdate="20160801T151820Z">
         <seg>右击其中之一会显示一个右键菜单列表：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Runtime objects are accessible even when the program is compiled, using their string references.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090423Z" creationid="MysticBoy" creationdate="20160802T090423Z">
+        <seg>运行时对象进行访问的即使该程序在编译时，使用他们的字符串的引用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10099,6 +10147,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045410Z" creationid="oSilas" creationdate="20150312T045410Z">
         <seg>以下是一个示例，因为 XOR'ed 空心形状：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following objects are supported: &lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090453Z" creationid="MysticBoy" creationdate="20160802T090453Z">
+        <seg>支持下列对象︰ &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
