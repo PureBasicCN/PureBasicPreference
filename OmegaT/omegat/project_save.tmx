@@ -544,8 +544,8 @@
       <tuv lang="EN-US">
         <seg>-ibp or --ignorebundlepath: don't use the bundle path as current directory.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050211Z" creationid="漂流瓶儿" creationdate="20160802T050211Z">
-        <seg>-ibp or --ignorebundlepath: 不使用捆绑路径作为当前目录。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050238Z" creationid="漂流瓶儿" creationdate="20160802T050211Z">
+        <seg>-ibp or --ignorebundlepath: 不用捆绑路径作为当前目录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4691,6 +4691,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050535Z" creationid="漂流瓶儿" creationdate="20160802T050535Z">
+        <seg>注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comments are marked by &lt;b0&gt;&lt;f1&gt;;&lt;/f1&gt;&lt;/b0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050606Z" creationid="漂流瓶儿" creationdate="20160802T050606Z">
+        <seg>注释的标志符为“ &lt;b0&gt;&lt;f1&gt;;&lt;/f1&gt;&lt;/b0&gt;”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compilation time is really fast.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105352Z" creationid="MysticBoy" creationdate="20160721T105352Z">
@@ -5455,6 +5471,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T052104Z" creationid="oSilas" creationdate="20151013T052104Z">
         <seg>常规 - 主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Rules</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050424Z" creationid="漂流瓶儿" creationdate="20160802T050424Z">
+        <seg>常用规则</seg>
       </tuv>
     </tu>
     <tu>
@@ -7256,6 +7280,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055207Z" creationid="MysticBoy" creationdate="20160721T055207Z">
         <seg>PureBasic 针对初学者创建并且专业人士也非常喜欢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic has established rules which never change.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050509Z" creationid="漂流瓶儿" creationdate="20160802T050509Z">
+        <seg>PureBasic 既定的规则，请不要随便改变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9955,6 +9987,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T033041Z" creationid="漂流瓶儿" creationdate="20160802T033041Z">
         <seg>因此，该可执行文件将仅在用这样 CPU 的计算机上正确运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050530Z" creationid="漂流瓶儿" creationdate="20160802T050530Z">
+        <seg>分别有:</seg>
       </tuv>
     </tu>
     <tu>
