@@ -2622,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;F&lt;/b0&gt; is a string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T075229Z" creationid="lansn-lan" creationdate="20160802T075229Z">
+        <seg>&lt;b0&gt;F&lt;/b0&gt;  是一个字符串型（ string）.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Functions&lt;/b0&gt; are regularly included in the PureBasic "Command libraries", described on the right side of the index page in the reference manual.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052622Z" creationid="漂流瓶儿" creationdate="20160802T052622Z">
