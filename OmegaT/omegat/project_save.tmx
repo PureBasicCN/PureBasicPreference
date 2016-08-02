@@ -3561,6 +3561,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;constant&gt; : a numeric constant.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055049Z" creationid="漂流瓶儿" creationdate="20160802T055049Z">
+        <seg>&lt;constant&gt; : 一个数值常量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;expression&gt; : an expression as explained above.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055023Z" creationid="漂流瓶儿" creationdate="20160802T055023Z">
+        <seg>&lt;expression&gt; : 如上面所述的表达式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;    EventWindow&lt;/f0&gt;() &lt;f1&gt;; it is a function.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052420Z" creationid="漂流瓶儿" creationdate="20160802T052420Z">
@@ -4129,6 +4145,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;label&gt; : a program label.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055104Z" creationid="漂流瓶儿" creationdate="20160802T055104Z">
+        <seg>&lt;label&gt; : 程序标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;type&gt; : any type, (standard or structured).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055135Z" creationid="漂流瓶儿" creationdate="20160802T055135Z">
+        <seg>&lt;type&gt; : 任何类型, (标准 standard 或 结构 structured).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u0&gt;Edit target&lt;/u0&gt; - Open the target in the compiler options.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151839Z" creationid="漂流瓶儿" creationdate="20160801T151839Z">
@@ -4237,6 +4269,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T112912Z" creationid="漂流瓶儿" creationdate="20160801T112912Z">
         <seg>&lt;u9&gt;忽略注释内容&lt;/u9&gt; ：进行搜索时会将忽略掉注释内的搜索到的匹配内。容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;variable&gt; : a basic variable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055003Z" creationid="漂流瓶儿" creationdate="20160802T055003Z">
+        <seg>&lt;variable&gt; : 一个Basic 变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7496,6 +7536,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T162607Z" creationid="MysticBoy" creationdate="20160723T162607Z">
         <seg>其他的在主菜单和工具栏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Others</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055140Z" creationid="漂流瓶儿" creationdate="20160802T055140Z">
+        <seg>其他</seg>
       </tuv>
     </tu>
     <tu>
@@ -11511,6 +11559,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typical words in this manual</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054921Z" creationid="漂流瓶儿" creationdate="20160802T054921Z">
+        <seg>本手册中的类型词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Under Windows, the console title is also the text shown in the start bar and in the task manager representing your console application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T135911Z" creationid="oSilas" creationdate="20141124T135911Z">
@@ -11971,6 +12027,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054328Z" creationid="漂流瓶儿" creationdate="20160802T054328Z">
         <seg>如果没有这类符号，数将被视为十进制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Words used in this manual:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054939Z" creationid="漂流瓶儿" creationdate="20160802T054939Z">
+        <seg>使用的词语︰</seg>
       </tuv>
     </tu>
     <tu>
