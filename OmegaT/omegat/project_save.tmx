@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/DLL: output file is a &lt;a5&gt;DLL&lt;/a5&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032451Z" creationid="漂流瓶儿" creationdate="20160802T032451Z">
+        <seg>/DLL: 输出文件是一个 &lt;a5&gt;动态库 DLL&lt;/a5&gt;文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/E &lt;Explorer path&gt;       starts the Explorer tool with the given path</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071908Z" creationid="MysticBoy" creationdate="20160728T071908Z">
@@ -718,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/REASM: Reassemble the PureBasic.asm file into an executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032606Z" creationid="漂流瓶儿" creationdate="20160802T032606Z">
+        <seg>/REASM: 重建 PureBasic.asm 文件为可执行文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/S &lt;Source path&gt;         overwrites the "Source path" setting from the preferences</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071807Z" creationid="MysticBoy" creationdate="20160728T071807Z">
@@ -746,6 +762,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070631Z" creationid="MysticBoy" creationdate="20160728T070631Z">
         <seg>/VERSION                 显示IDE 版本并退出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/XP: Add the Windows XP theme support to the executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032528Z" creationid="漂流瓶儿" creationdate="20160802T032528Z">
+        <seg>/XP: 为可执行文件添加 Windows XP 主题支持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9738,6 +9762,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143701Z" creationid="漂流瓶儿" creationdate="20160801T143701Z">
         <seg>他们将显示在项目信息选项页中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This allow to use the /COMMENTED function, modify the ASM output and creates the executable again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032712Z" creationid="漂流瓶儿" creationdate="20160802T032712Z">
+        <seg>它允许使用 /COMMENTED 函数，修改 ASM 输出并重新创建可执行文件。</seg>
       </tuv>
     </tu>
     <tu>
