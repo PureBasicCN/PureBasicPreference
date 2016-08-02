@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-pp, --preprocess, /PREPROCESS "filename": preprocess the source code and write the output in the specified "Filename".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T030401Z" creationid="漂流瓶儿" creationdate="20160802T030401Z">
+        <seg>-pp, --preprocess, /PREPROCESS "filename": 预处理源代码并将结果以指定文件名输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-q, --quiet, /QUIET: disables all unnecessary text output, very useful when using another editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T024425Z" creationid="漂流瓶儿" creationdate="20160802T024425Z">
@@ -558,10 +566,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-s, --subsystem, /SUBSYSTEM "name": uses the specific subsystem to replace a set of internal functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T030027Z" creationid="漂流瓶儿" creationdate="20160802T030027Z">
+        <seg>-s, --subsystem, /SUBSYSTEM "name": 使用指定子系统替换一组内部函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-sb, --standby, /STANDBY: loads the compiler in memory and wait for external commands (editor, scripts...).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T024601Z" creationid="漂流瓶儿" creationdate="20160802T024601Z">
         <seg>-sb, --standby, /STANDBY: 加载编译器到内存中，并等待外部命令(编辑器、脚本...)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-t, --thread, /THREAD: uses thread safe runtime for strings and general routines.&lt;br26&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T025942Z" creationid="漂流瓶儿" creationdate="20160802T025942Z">
+        <seg>-t, --thread, /THREAD: 对字串和一般的例程使用线程安全运行模式。&lt;br26&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-u, --unicode, /UNICODE: uses unicode instead ascii for strings management.&lt;br24&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T025853Z" creationid="漂流瓶儿" creationdate="20160802T025853Z">
+        <seg>-u, --unicode, /UNICODE: 在字串管理中，使用Unicode格式而非Ascii格式。&lt;br24&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5115,6 +5147,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information, see &lt;a28&gt;subsystems&lt;/a28&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T030109Z" creationid="漂流瓶儿" creationdate="20160802T030109Z">
+        <seg>更多详情请查看 &lt;a28&gt;subsystems&lt;/a28&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>French Pure Basic forum</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174955Z" creationid="MysticBoy" creationdate="20160723T174955Z">
@@ -8473,6 +8513,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T111913Z">
         <seg>您的程序结束后控制台窗口会自动关闭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The constant &lt;f21&gt;#MyConstant&lt;/f21&gt; will be created on the fly with a value of 10 before the program gets compiled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T025751Z" creationid="漂流瓶儿" creationdate="20160802T025751Z">
+        <seg>在编译此程序前将常量 &lt;f21&gt;#MyConstant&lt;/f21&gt; 的值设定为10。</seg>
       </tuv>
     </tu>
     <tu>
