@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2550,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Static&lt;/f1&gt;&lt;/b0&gt; allows to create a local persistent &lt;a2&gt;variable&lt;/a2&gt; in a &lt;a3&gt;Procedure&lt;/a3&gt; even if the same variable has been declared as &lt;a4&gt;Global&lt;/a4&gt; in the main program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T085223Z" creationid="MysticBoy" creationdate="20160802T085223Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Static&lt;/f1&gt;&lt;/b0&gt; 允许创建一个本地持久的allows to create a local persistent &lt;a2&gt;variable&lt;/a2&gt; in a &lt;a3&gt;Procedure&lt;/a3&gt; even if the same variable has been declared as &lt;a4&gt;Global&lt;/a4&gt; in the main program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;A&lt;/b0&gt; is an integer - but note that you can't declare &lt;a1&gt;variables&lt;/a1&gt; this way if you use the &lt;a2&gt;EnableExplicit&lt;/a2&gt; directive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T074427Z" creationid="lansn-lan" creationdate="20160801T085926Z">
@@ -3645,6 +3653,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174542Z" creationid="MysticBoy" creationdate="20160723T174542Z">
         <seg>&lt;b75&gt;产品信息 &lt;/b75&gt;&lt;br76&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b7&gt;&lt;f8&gt;Static&lt;/f8&gt;&lt;/b7&gt; can also be used with &lt;a9&gt;arrays&lt;/a9&gt;, &lt;a10&gt;lists&lt;/a10&gt; and &lt;a11&gt;maps&lt;/a11&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T085329Z" creationid="MysticBoy" creationdate="20160802T085329Z">
+        <seg>&lt;b7&gt;&lt;f8&gt;Static&lt;/f8&gt;&lt;/b7&gt; 同样可以用于 &lt;a9&gt;数组&lt;/a9&gt;, &lt;a10&gt;列表&lt;/a10&gt; 和 &lt;a11&gt;映射&lt;/a11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6327,6 +6343,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060358Z" creationid="lansn-lan" creationdate="20160729T060358Z">
         <seg>如果出现读取错误，它将返回零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a type is specified after &lt;b5&gt;&lt;f6&gt;Static&lt;/f6&gt;&lt;/b5&gt;, the default type is changed for this declaration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T085250Z" creationid="MysticBoy" creationdate="20160802T085250Z">
+        <seg>如果在= &lt;b5&gt;&lt;f6&gt;Static&lt;/f6&gt;&lt;/b5&gt;之后指定类型， 则默认类型更改为此定义.</seg>
       </tuv>
     </tu>
     <tu>
