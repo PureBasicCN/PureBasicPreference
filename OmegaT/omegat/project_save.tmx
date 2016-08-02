@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-g, --language, /LANGUAGE \"language\": uses the specified language for the compiler error messages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032013Z" creationid="漂流瓶儿" creationdate="20160802T032013Z">
+        <seg>-g, --language, /LANGUAGE \"language\": 为编译器错误消息使用指定语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-h, --help, /?: displays a quick help about the compiler.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T022831Z" creationid="漂流瓶儿" creationdate="20160802T022831Z">
@@ -594,6 +602,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T025853Z" creationid="漂流瓶儿" creationdate="20160802T025853Z">
         <seg>-u, --unicode, /UNICODE: 在字串管理中，使用Unicode格式而非Ascii格式。&lt;br24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-v, --version, /VERSION: displays the compiler version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032034Z" creationid="漂流瓶儿" creationdate="20160802T032034Z">
+        <seg>-v, --version, /VERSION: 显示编译器版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2755,6 +2771,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070148Z" creationid="MysticBoy" creationdate="20160728T070148Z">
         <seg>&lt;b38&gt;产品信息&lt;/b38&gt;&lt;br39&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b39&gt;Examples:&lt;/b39&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032044Z" creationid="漂流瓶儿" creationdate="20160802T032044Z">
+        <seg>&lt;b39&gt;例子:&lt;/b39&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8473,6 +8497,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T084356Z" creationid="plp" creationdate="20160730T084356Z">
         <seg>编译菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The compiler will compile the source code and execute it with debugger.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032122Z" creationid="漂流瓶儿" creationdate="20160802T032122Z">
+        <seg>编译器将源代码编译和执行时使用调试器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The compiler will compile the source code and execute it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032054Z" creationid="漂流瓶儿" creationdate="20160802T032054Z">
+        <seg>编译器将源代码编译并执行它。</seg>
       </tuv>
     </tu>
     <tu>
