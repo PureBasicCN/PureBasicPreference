@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-sb, --standby, /STANDBY: loads the compiler in memory and wait for external commands (editor, scripts...).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T024601Z" creationid="漂流瓶儿" creationdate="20160802T024601Z">
+        <seg>-sb, --standby, /STANDBY: 加载编译器到内存中，并等待外部命令(编辑器、脚本...)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/A &lt;tools file&gt;          loads/saves the configuration of the external tool from/to this file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071727Z" creationid="MysticBoy" creationdate="20160728T071727Z">
