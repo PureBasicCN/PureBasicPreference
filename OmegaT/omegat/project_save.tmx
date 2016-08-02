@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -90,6 +90,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121010Z" creationid="漂流瓶儿" creationdate="20160801T121010Z">
         <seg>(使用 *.* 或不填内容会对所有文件进行搜索 )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(G becomes a new integer variable and a compiler error occurs).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T080130Z" creationid="lansn-lan" creationdate="20160802T080130Z">
+        <seg>(G 会被编译器视为一个新的整型变量，并且编译器会抛出一个error错误异常，G$ 和 G 是两个不同的变量).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11465,8 +11473,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>This won't work.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T075937Z" creationid="lansn-lan" creationdate="20160802T075937Z">
-        <seg>以下代码不能正常编译This won't work.</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T080003Z" creationid="lansn-lan" creationdate="20160802T075937Z">
+        <seg>以下代码不能正常编译.</seg>
       </tuv>
     </tu>
     <tu>
