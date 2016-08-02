@@ -6251,6 +6251,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No comments are included by default, but the flag '--commented' can be used to have all untouched original source as comments and allow comments processing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T031631Z" creationid="漂流瓶儿" creationdate="20160802T031631Z">
+        <seg>默认情况下是没有注释的, 但参数 '--commented' 可以用于所有未被修改的原始代码作为注释，并允许注释处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No source files are opened when the project is opened.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145019Z" creationid="漂流瓶儿" creationdate="20160801T145019Z">
@@ -9146,6 +9154,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T050102Z" creationid="oSilas" creationdate="20151013T050102Z">
         <seg>绘制图片的位置，即左上角坐标位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The preprocessed file can be recompiled as any other PureBasic source file to create the final executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T031805Z" creationid="漂流瓶儿" creationdate="20160802T031805Z">
+        <seg>预处理的文件可以重新编译为任何其他的PureBasic源文件，用以创建最终的可执行文件。</seg>
       </tuv>
     </tu>
     <tu>
