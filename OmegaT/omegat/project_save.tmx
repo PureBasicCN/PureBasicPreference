@@ -6285,8 +6285,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>If the array is resized larger, its original contents will be preserved.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T081401Z" creationid="lansn-lan" creationdate="20160802T081342Z">
-        <seg>如果数组大小被调整，那它原来存储的值将会被保留.</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T081445Z" creationid="lansn-lan" creationdate="20160802T081342Z">
+        <seg>如果数组大小被调整（ReDim），那它原来存储的值将会被保留.</seg>
       </tuv>
     </tu>
     <tu>
