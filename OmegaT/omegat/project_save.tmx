@@ -2814,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b29&gt;&lt;f30&gt;ProcedureReturn&lt;/f30&gt;&lt;/b29&gt; can't be used to return an &lt;a31&gt;array&lt;/a31&gt;, &lt;a32&gt;list&lt;/a32&gt; or a &lt;a33&gt;map&lt;/a33&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050722Z" creationid="MysticBoy" creationdate="20160802T050722Z">
+        <seg>&lt;b29&gt;&lt;f30&gt;ProcedureReturn&lt;/f30&gt;&lt;/b29&gt; 不能用于返回 &lt;a31&gt;数组&lt;/a31&gt;, &lt;a32&gt;列表&lt;/a32&gt; 或 一个 &lt;a33&gt;映射&lt;/a33&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b29&gt;Create executable&lt;/b29&gt; &lt;br30&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093732Z" creationid="plp" creationdate="20160730T093732Z">
@@ -4007,6 +4015,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T045831Z" creationid="MysticBoy" creationdate="20160802T045831Z">
         <seg>&lt;b0&gt;&lt;f1&gt;Procedure&lt;/f1&gt;&lt;/b0&gt;独立于主体代码，它的任何参数都是自有&lt;a2&gt;变量&lt;/a2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A call of &lt;b26&gt;&lt;f27&gt;ProcedureReturn&lt;/f27&gt;&lt;/b26&gt; exits immediately the procedure, even when its called inside a loop.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050621Z" creationid="MysticBoy" creationdate="20160802T050621Z">
+        <seg>调用 &lt;b26&gt;&lt;f27&gt;ProcedureReturn&lt;/f27&gt;&lt;/b26&gt; 将立即退出过程,即便它在一个循环内.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5367,6 +5383,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T030109Z" creationid="漂流瓶儿" creationdate="20160802T030109Z">
         <seg>更多详情请查看 &lt;a28&gt;subsystems&lt;/a28&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For this purpose pass the array, the list or the map as parameter to the procedure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050751Z" creationid="MysticBoy" creationdate="20160802T050751Z">
+        <seg>因此数组、 列表或地图将作为参数传递给过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11451,6 +11475,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T075346Z" creationid="漂流瓶儿" creationdate="20160801T075237Z">
         <seg>然后你可以通过上下方向键（UP / DOWN键）进行选择，按Tab键自动完成插入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have to set the type after &lt;b22&gt;&lt;f23&gt;Procedure&lt;/f23&gt;&lt;/b22&gt; and use the &lt;b24&gt;&lt;f25&gt;ProcedureReturn&lt;/f25&gt;&lt;/b24&gt; keyword at any moment inside the procedure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050541Z" creationid="MysticBoy" creationdate="20160802T050541Z">
+        <seg>如果需要设置类型您可以在过程的 &lt;b22&gt;&lt;f23&gt;Procedure&lt;/f23&gt;&lt;/b22&gt; 之后同且在使用 &lt;b24&gt;&lt;f25&gt;ProcedureReturn&lt;/f25&gt;&lt;/b24&gt; 关键词之前的任何时候.</seg>
       </tuv>
     </tu>
     <tu>
