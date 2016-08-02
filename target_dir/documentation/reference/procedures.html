@@ -11,48 +11,10 @@
 <b>概要</b><br><blockquote>
 
 
+<b><font color="#3A3966">Procedure</font></b>独立于主体代码，它的任何参数都是自有<a href="variables.html">变量</a>。在 PureBasic中，递归调用是完全受支持的，任何程序都可以自己调用自己。在每次调用该过程内的变量初始值将为 0 （null）。若要访问主代码变量, 必须要引用<a href="shared.html">Shared</a> 或者 <a href="global.html">Global</a> 关键词 (请查看 <a href="protected.html">Protected</a> 和 <a href="static.html">Static</a> 关键词). <br><br>后面的参数可以有一个默认值 （必须是一个常数表达式），所以如果在调用过程时省略这些参数，将使用默认值。<br><br><a href="dim.html">数组</a> 可以通过引用 <b><font color="#3A3966">Array</font></b> 关键词, <a href="newlist.html">列表</a> 可以引用 <b><font color="#3A3966">List</font></b> 关键词并且<a href="newmap.html">映射</a>可以使用 <b><font color="#3A3966">Map</font></b> 关键词. <br><br>如有必要，过程可以返回值或字符串。如果需要设置类型您可以在过程的 <b><font color="#3A3966">Procedure</font></b> 之后同且在使用 <b><font color="#3A3966">ProcedureReturn</font></b> 关键词之前的任何时候. 调用 <b><font color="#3A3966">ProcedureReturn</font></b> 将立即退出过程,即便它在一个循环内. <br><b><font color="#3A3966">ProcedureReturn</font></b> 不能用于返回 <a href="dim.html">数组</a>, <a href="newlist.html">列表</a> 或 一个 <a href="newmap.html">映射</a>. 因此数组、 列表或地图通过作为参数传递给过程。<br><br>如果没有指定值给 <b><font color="#3A3966">ProcedureReturn</font></b>，则返回值为未定义的 (请查看 <a href="inlinedasm.html">行内嵌汇编</a> 了解更多信息). <br><br>注意︰ 若要从 Dll 返回字符串，请参见<a href="dll.html">Dll</a>。针对高级程序员 <b><font color="#3A3966">ProcedureC</font></b> 可用并且声明采用 'CDecl' 替换 'StandardCall' 的调用约定的程序. <br><br>所选的程序可以异步执行但需在主程序使用<a href="../thread/index.html">线程</a> 
 
 
-
-A <b><font color="#3A3966">Procedure</font></b> is a part of code independent from the main code which can have any parameters 
-and it's own <a href="variables.html">variables</a>. In PureBasic, a recurrence is fully supported for the procedures 
-and any procedure can call it itself. At each call of the procedure the variables inside 
-will start with a value of 0 (null). To access main code variables, they have to be shared 
-them by using <a href="shared.html">Shared</a> or <a href="global.html">Global</a> keywords 
-(see also the <a href="protected.html">Protected</a> and <a href="static.html">Static</a> keywords). 
-<br>
-<br>
-The last parameters can have a default value (need to be a constant 
-expression), so if these parameters are omitted when the procedure is called, the default value will be used. 
-<br>
-<br>
-<a href="dim.html">Arrays</a> can be passed as parameters using the <b><font color="#3A3966">Array</font></b> keyword, 
-<a href="newlist.html">lists</a> using the <b><font color="#3A3966">List</font></b> keyword and <a href="newmap.html">maps</a> using the <b><font color="#3A3966">Map</font></b> keyword. 
-<br>
-<br>
-A procedure can return a value or a string if necessary. You have to set the type after <b><font color="#3A3966">Procedure</font></b> 
-and use the <b><font color="#3A3966">ProcedureReturn</font></b> keyword at any moment inside the procedure. 
-A call of <b><font color="#3A3966">ProcedureReturn</font></b> exits immediately the procedure, even when its called inside a loop. 
-<br>
-<b><font color="#3A3966">ProcedureReturn</font></b> can't be used to return an <a href="dim.html">array</a>, <a href="newlist.html">list</a> or a <a href="newmap.html">map</a>. 
-For this purpose pass the array, the list or the map as parameter to the procedure. 
-<br>
-<br>
-If no value is specified for <b><font color="#3A3966">ProcedureReturn</font></b>, the returned value will be undefined 
-(see <a href="inlinedasm.html">inline assembly</a> for more information). 
-<br>
-<br>
-Note: To return strings from DLLs, see <a href="dll.html">DLLs</a>. For advanced programmers <b><font color="#3A3966">ProcedureC</font></b> is available 
-and will declare the procedure using 'CDecl' instead of 'StandardCall' calling convention. 
-<br>
-<br>
-Selected procedures can be executed asynchronously to the main program by using of <a href="../thread/index.html">threads</a>. 
-
-
- 
-
-
-</blockquote><p><b>Example:</b> Procedure with a numeric variable as return-value</p><blockquote>
+</blockquote><p><b>示例︰</b>具有数字变量作为返回值的过程</p><blockquote>
 
 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Procedure</font></b> <font color="#3A3966">Maximum</font>(nb1, nb2)
@@ -70,7 +32,7 @@ Selected procedures can be executed asynchronously to the main program by using 
 </font></pre>
 
 
-</blockquote><p><b>Example:</b> Procedure with a string as return-value</p><blockquote>
+</blockquote><p><b>示例︰</b>具有一个字符串作为返回值的过程</p><blockquote>
 
 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Procedure</font></b>.s <font color="#3A3966">Attach</font>(String1$, String2$)
@@ -82,7 +44,7 @@ Selected procedures can be executed asynchronously to the main program by using 
 </font></pre>
 
 
-</blockquote><p><b>Example:</b> Parameter with default value</p><blockquote>
+</blockquote><p><b>示例︰</b>具有默认值的参数</p><blockquote>
 
 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Procedure</font></b> <font color="#3A3966">a</font>(a, b, c=2)
@@ -93,7 +55,7 @@ Selected procedures can be executed asynchronously to the main program by using 
 <font color="#3A3966">  a</font>(10, 12, 15) 
 </font></pre>
 
-</blockquote><p><b>Example:</b> List as parameter</p><blockquote>
+</blockquote><p><b>示例︰</b>作为参数列表</p><blockquote>
 
 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">NewList</font></b> <font color="#3A3966">Test</font>.Point()
@@ -117,7 +79,7 @@ Selected procedures can be executed asynchronously to the main program by using 
 <font color="#3A3966">  DebugList</font>(10,<font color="#3A3966"> Test</font>())
 </font></pre>
 
-</blockquote><p><b>Example:</b> Array as parameter</p><blockquote>
+</blockquote><p><b>示例︰</b>数组作为参数</p><blockquote>
 
 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Dim</font></b> <font color="#3A3966">Table</font>.Point(10, 15)
@@ -145,19 +107,7 @@ Selected procedures can be executed asynchronously to the main program by using 
 <b>概要</b><br><blockquote>
 
 
-
-
-
-Sometimes a procedure need to call another procedure which isn't declared before its definition. 
-This is annoying because the compiler will complain 'Procedure &lt;name&gt; not found'. <b><font color="#3A3966">Declare</font></b> can help 
-in this particular case by declaring only the header of the procedure. Nevertheless, the <b><font color="#3A3966">Declare</font></b> 
-and real <b><font color="#3A3966">Procedure</font></b> declaration must be identical (including the correct type and optional parameters, if any). 
-<br>
-<br>
-For advanced programmers <b><font color="#3A3966">DeclareC</font></b> is available and will declare the procedure using 'CDecl' 
-instead of 'StandardCall' calling convention. 
-
- 
+有时一个程序需要调用另一个过程而不在其定义之前声明。这是令人讨厌的因为编译器会抱怨“Procedure&lt;name&gt;无法找到”。<b><font color="#3A3966">Declare</font></b> 可以在这种特定情况下仅在头中声明过程. 然而使用 <b><font color="#3A3966">Declare</font></b> 和实际的 <b><font color="#3A3966">Procedure</font></b> 定义必须相同 (包括正确的类型和可选的参数，如果有的话。)。<br><br>针对高级程序员<b><font color="#3A3966">DeclareC</font></b>是可用的并且将声明过程采用 'CDecl' 而不是 'StandardCall' 调用约定。 
 
 </blockquote><p><b>示例</b></p><blockquote>
 

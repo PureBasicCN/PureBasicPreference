@@ -1,408 +1,104 @@
 <html><head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>编辑器功能</title></head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>编辑功能菜单</title></head>
 <body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
-<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">编辑器功能</font></b></p>
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">编辑功能菜单</font></b></p>
 
-PureBasic IDE用到基本的编辑功能时，就像任何其他的文本编辑器一样. 光标键以及 上翻页键 / 下翻页键，Home 键和 End 键可以用来浏览代码. Ctrl+Home定位到文件开始，按Ctrl +End定位到文件结束. <br><br>默认快捷键 Ctrl+C (复制), Ctrl+X (剪切) and Ctrl+V (粘贴) 用于代码编辑.  "Insert" 键控制文本是否插入或者覆盖 . Delete 删除键用于向前删除 . 按住 Shift 键和光标可以选择文本. <br><br>此外, IDE有很多额外的编辑功能，具体到编程或者PureBasict. <br>
+PureBasic 集成开发环境（IDE） 用到的编辑功能如同任何其他的文本编辑器一样。光标键、上翻 / 下翻页键（Page Up/Page Down），Home 键和 End 键都用来编辑和浏览代码使用。Ctrl+Home 会将光标定位到文件开头，按Ctrl +End 则将光标定位到文件结束。<br><br>默认的快捷键 Ctrl+C (复制)、 Ctrl+X (剪切) 和 Ctrl+V (粘贴) 用于代码编辑。 "Insert" 键控制输入文本是插入或者覆盖模式。Delete 键用于删除后面文本内容。按住 Shift 键与鼠标配合可以用来选择文本。<br><br>此外, IDE 开发环境有很多针对 PureBasic 编程的扩展功能。<br>
 <br>
 
 
-<p><b>缩进:</b></p><blockquote>
+<p><b>缩进：</b></p><blockquote>
 
-当您按下回车键时，当前行和下一行的缩进（开头处的空格数/Tab数）将根据存在于这些行上的 <a href="general_rules.html">关键词</a>而自动更正 . “块模式”也可以在新的一行得到与前一个行相同的缩进. 此功能的详细信息可以在 <a href="ide_preferences.html">文件-配置</a>中定制. 
-
-
-</blockquote>
-<p><b>Tab 制表符:</b></p><blockquote>
-
-默认情况下, PureBasic IDE 按下Tab键时，并不会插入一个真正的tab制表符, 正如许多程序员认为在源代码中使用真正的tab制表符是件很糟糕的事情. <br><br>tab符将被插入2个空格符所替代. 此行为方式可以在配置项中改变. 点击查看更多 <a href="ide_preferences.html">自定义 IDE</a>的信息. 
+当您按下回车键时，当前行和下一行的缩进（行着的空格数或制表符Tab数）会根据存在于这些行上的 <a href="general_rules.html">关键词</a>而自动更正。“块模式”也可以在新的一行得到与上一个行代码相同的缩进. 此功能的详细信息可以在 <a href="ide_preferences.html">preferences </a>中定制。 
 
 
 </blockquote>
-<p><b>特殊的 Tab 行为:</b></p><blockquote>
+<p><b>Tab 制表符：</b></p><blockquote>
 
-无字符或者选择一些字符，当按下Tab键时，Tab键将会产生特殊行为  (根据配置方式，当前行前面将会插入一些空格符或者真正的tab制表). <br><br>当一行或者多行被选中时，. 在每一行的前面都将会插入空格符或者tab制表符. 这增加了整个选定块的缩进. <br><br>按下Shift+Tab时，多行文本将反转缩进. 它将在每一行开始处移除空格符 / tab符，为的是使整个选中区块减少缩进. 
-
-
-</blockquote>
-<p><b>Indentation/Alignment of comments:</b></p><blockquote>
-
-
-
-Similar to the special tab behavior above, the keyboard shortcuts Ctrl+E and Ctrl+Shift+E 
-(CMD+E and CMD+Shift+E on OSX) can be used to change the indentation of only the comments 
-in a selected block of code. This helps in aligning comments at the end of code lines to 
-make the code more readable. The used shortcut can be configured in the 
-<a href="ide_preferences.html">preferences</a>. 
-
-
- 
+默认情况下，按下 Tab 键时，开发环境并不会插入一个真正的 tab 制表符，因为很多程序员认为在源代码中插入 tab 制表符不是太好。<br><br>tab 制表符将被插入的2个空格符所替代。此处可以在配置首选项中更改。点击 <a href="ide_preferences.html">自定义 IDE</a>了解更多详情。 
 
 
 </blockquote>
-<p><b>Selecting blocks of code:</b></p><blockquote>
+<p><b>指定 Tab 动作：</b></p><blockquote>
 
+在无字符或者选择一些字符时，按下 Tab 键，将会发生指定动作  (根据制表符设置，当前行前面将会插入设定数量的空格符或者 tab 制表符)。<br><br>当选中一行或者多行代码时，在每一行的前面都将会插入空格符或者 tab 制表符。这增加了整个选定块的缩进。<br><br>按下 Shift+Tab 时会将选中的多行文本进行反缩进动作。它将每一行前面的空格或制表符去除，来达到使整个选中块减少缩进。 
 
-
-The shortcut Ctrl+M (CMD+M on OSX) can be used to select the block of code that 
-contains caret position (i.e. the surrounding If block, loop or procedure). 
-Repeated usage of the shortcut selects further surrounding code blocks. 
-<br>
-<br>
-The shortcut Ctrl+Shift+M (CMD+Shift+M on OSX) reverses the behavior and reverts the 
-selection to the block that was selected before the last usage of the Ctrl+M shortcut. 
-<br>
-<br>
-The used shortcuts can be configured in the <a href="ide_preferences.html">preferences</a>. 
-
- 
 
 </blockquote>
-<p><b>双击原码中的文本 :</b></p><blockquote>
+<p><b>注释的缩进/对齐：</b></p><blockquote>
 
-像往常一样，双击一个词可以选择整个单词. 然而在某些情况下，双击有特殊的意义: <br><br>按住Ctrl键的同时，双击当前源码定义的<a href="procedures.html">procedure过程 （函数）</a> 名，光标自动跳到本函数的声明处. <br><br>双击  <a href="includes.html">IncludeFile</a> 或者 <a href="includes.html">XincludeFile</a> 声明,  IDE 将试着打开声明所指向的文件. (This is only possible if the included file is written as a literal string, and not through for example a constant.) <br><br>In the same way, if you double-click on an IncludeBinary statement, the IDE will try to display that file in the internal <a href="ide_tools.html">file viewer</a>. 
+类似于上面 Tab 的指定动作，使用键盘快捷方式 Ctrl + E，Ctrl + Shift + E （ OSX系统使用 CMD + E 和 CMD + Shift + E ） 可用于改变选定代码块注释的缩进。在代码行末尾对注释进行对齐，有助于使代码更具可读性。使用的快捷键可以在<a href="ide_preferences.html">preferences</a>中配置。 
+
 
 </blockquote>
-<p><b>匹配括号和标记关键字:</b></p><blockquote>
+<p><b>代码选择块：</b></p><blockquote>
+
+快捷键 Ctrl + M (在 OSX系统中为 CMD + M ) 可以用于快速选择包含插入符号位置的代码块 (如：If 块、 循环或过程等)。继续按下快捷键会进一步扩大选择代码块的范围。<br><br>快捷键 Ctrl + Shift + M，(在 OSX 上为：CMD + Shift + M) 撤销选择动作，恢复到在最后一次使用 Ctrl + M 快捷键前的块选择。<br><br>使用的快捷键可以在<a href="ide_preferences.html">preferences</a>中配置。 
+
+</blockquote>
+<p><b>双击原码中的文本：</b></p><blockquote>
+
+通常情况下在一个单词上双击鼠标用来选择整个单词。然而在某些情况下，双击有特殊的意义：<br><br>当按住 Ctrl 键的同时在当前源代码中定义的<a href="procedures.html">procedure 过程</a> 名称上双击时，光标会自动跳到此 procedure 过程的声明处。<br><br>当鼠标双击引用文件  <a href="includes.html">IncludeFile</a> 或者 <a href="includes.html">XincludeFile</a> 时,  开发环境 IDE 将尝试打开该引用文件。（仅当引用的文件是文本字串而不是常数时）。<br>&lt;/br7&gt;<br>同样，当你鼠标双击二进制文件引用 IncludeBinary 语句时，开发环境 IDE 将尝试使用内部<a href="ide_tools.html">文件查看器</a>打开该文件。 
+
+</blockquote>
+<p><b>标记括号和关键字:</b></p><blockquote>
 
 
 <p><img src="images/ide_main_match.png"></p>
 
-
-
-When the cursor is on an opening or closing brace the IDE will highlight the other brace that matches it. If a 
-matching brace could not be found (which is a syntax error in PureBasic) the IDE will highlight the current 
-brace in red. This same concept is applied to keywords. If the cursor is on a Keyword such as "If", the IDE 
-will underline this keyword and all keywords that belong to it such as "Else" or "EndIf". If there is a mismatch 
-in the keywords it will be underlined in red. The "Goto matching Keyword" menu entry described below can be 
-used to quickly move between the matching keywords. 
-<br>
-<br>
-The brace and keyword matching can be configured in the <a href="ide_preferences.html">Preferences</a>. 
-
-
- 
+当光标位于左括号或右括号上时，IDE 将突出显示并自动匹配此括号。若未找到匹配的括号（可能是 PureBasic 中的语法错误）IDE 将对此高亮提示。同样这个概念也应用于关键字。如果光标位于关键字，如 "If"，IDE 将强调此关键字，如 "Else" 或 "EndIf" 属于它的所有关键字。如果有不匹配的关键字将以红色加下划线进行标注提醒。"转到匹配的关键字" 菜单项可以用于匹配关键字之间快速切换。<br><br>括号和关键字匹配可以在<a href="ide_preferences.html">配置</a>中进行设置。 
 
 
 </blockquote>
-<p><b>Command help in the status bar:</b></p><blockquote>
+<p><b>状态栏中命令帮助：</b></p><blockquote>
 
 
 <p><img src="images/ide_main_commandhelp.png"></p>
 
-
-
-While typing, the IDE will show the needed parameters for any PureBasic function 
-whose parameters you are currently typing. This makes it easy to see any more 
-parameters you still have to add to this function. This also works for <a href="procedures.html">procedures</a>, 
-<a href="prototypes.html">prototypes</a>, <a href="interfaces.html">interfaces</a> or 
-<a href="import_endimport.html">imported functions</a> in your code as long as they are declared in the same source 
-code or <a href="ide_projects.html">project</a>. 
-
- 
+当输入代码时，开发环境 IDE 将会显示PureBasic 功能函数命令的原型和参数。这使得你很容易查看到要输入功能函数的参数。这个特性，也适用于 <a href="procedures.html">procedures 过程</a>, <a href="prototypes.html">prototypes 原型</a>, <a href="interfaces.html">interfaces 接口</a>或 <a href="import_endimport.html">imported 引用函数</a> ，只要他们在相同的源代码或 <a href="ide_projects.html">project 工程</a>中已经声明。 
 
 </blockquote>
-<p><b>Folding options:</b></p><blockquote>
+<p><b>折叠选项：</b></p><blockquote>
 
 
 <p><img src="images/ide_main_folding.png"></p>
-
-When special folding keywords are encountered (<b><font color="#3A3966">Procedure</font></b> / <b><font color="#3A3966">EndProcedure</font></b> by default. 
-More can be added), the IDE marks the region between these keywords on the left side 
-next to the line numbers with a [-] at the starting point, followed by a vertical line to the end point. 
-<br>
-<br>
-By clicking on the [-], you can hide ("fold") that section of source code to keep a better 
-overview of larger source files. The [-] will turn into a [+]. By clicking again, the code will 
-again be shown ("unfolded") again. 
-<br>
-<br>
-Note: Even though the state of these folded code lines is remembered when you save/reopen the file, 
-the actual created code file always contains all lines. This only affects the display of the code 
-in the IDE, not the code itself. 
-<br>
-<br>
-Another default fold keyword is ";{" and ";}". Since ";" marks a comment in PB, these will be 
-totally ignored by the compiler. However, they provide the possibility to place custom fold 
-points that do not correspond to a specific PB keyword. 
-
-
- 
+当遇到指定的可折叠关键字时 (默认是 <b><font color="#3A3966">Procedure 过程</font></b> / <b><font color="#3A3966">EndProcedure</font></b> 。他可以添加），开发环境 IDE 将在这些关键字的开头和结尾左侧用[ - ]标志，随后用垂直线标记开头到结尾之间的区域。<br><br>通过点击[ - ]，您可以隐藏（“折叠”）的源代码，来达到能更好的最大限度浏览源文件。当点击 [-]，则该部分代码会折叠起来，开头标志变成 [+]。再次点击，则代码将再次展开。<br><br>注意：尽管这些代码以折叠状态保存且当你打开文件也会保持折叠状态，却依然是包含所有代码行。只是影响代码在IDE中显示，并不会影响代码的完整性。<br><br>另一对折叠关键字是 ";{" 和 ";}". 以 ";" 开头表示为PB注释，这样在编译程序时会被编译器忽略。然而，它们提供了一个自定义折叠区间的功能，却不用自定义折叠关键字。 
 
 
 </blockquote>
-<p><b>Auto complete:</b></p><blockquote>
+<p><b>自动完成：</b></p><blockquote>
 
 
 <p><img src="images/ide_main_autocomplete.png"></p>
-
-So that you do not have to remember the exact name of every command, there is the Auto complete 
-feature to make things easier. 
-<br>
-<br>
-After you have typed the beginning of a command, a list of possible matches to the word start 
-you have just typed will be displayed. A list of options is also displayed when you typed a 
-structured variable or interface followed by a "\". 
-<br>
-<br>
-You can then select one of these words with the up/down keys and insert it at the point you 
-are by pressing the Tab key. You can also continue typing while the list is open. It will select the 
-first match that is still possible after what you typed, and close automatically when either 
-you have just typed an exact match or if there are no more possible matches in the list. 
-<br>
-<br>
-Escape closes the auto complete list at any time. It also closes if you click with the mouse 
-anywhere within the IDE. 
-<br>
-<br>
-Note: You can configure what is displayed in the Auto complete list, as well as turning off the 
-automatic popup (requiring a keyboard shortcut such as Ctrl+Space to open list) in the 
-Preferences. 
-See the Auto complete section of <a href="ide_preferences.html">Customizing the IDE</a> for more information. 
-
-
- 
+有自动完成功能，你就不必记住每一个命令的完整名称，使事情变得非常简单。<br><br>在你键入命令的开头几个字符后，一个以此匹配的关键字列表将会显示出来。当你输入一个结构变量或接口后跟一个“\”会自动显示其子类选项列表。<br><br>然后你可以通过上下方向键（UP / DOWN键）进行选择，按Tab键自动完成插入。你也可以继续输入以减少列表选项达到更精确的内容。It will select the first match that is still possible after what you typed, and close automatically when either you have just typed an exact match or if there are no more possible matches in the list. <br><br>在任何时候都可以通过ESC键关闭自动完成列表。在IDE中的任意位置单击鼠标同样可以关闭自动完成列表。<br><br>注意：您可以在配置中设置自动完整列表的显示内容以及关闭快捷键（如：快捷键 Ctrl +空格键打开列表）。你可以在<a href="ide_preferences.html">配置开发环境 Customizing the IDE</a> 中查看关于自动完成的更多信息。 
 
 
 </blockquote>
-<p><b>Tools Panel on the side:</b></p><blockquote>
+<p><b>侧面工具面板：</b></p><blockquote>
 
 
 <p><img src="images/ide_main_toolspanel.png"></p>
-
-Many tools to make navigating/editing the source code easier can be added to the Tools Panel 
-on the side of the editor window. For an overview of them and how to configure them, 
-see <a href="ide_tools.html">Built-in Tools</a>. 
-
-
- 
+许多工具有助于浏览、编辑源代码等，可以添加到工具面板上的编辑器窗口的一侧。对于他们的概述，以及如何配置它们，请参阅<a href="ide_tools.html">内置工具 Built-in Tools</a>。 
 
 
 </blockquote>
-<p><b>The Edit Menu:</b></p><blockquote>
+<p><b>编辑菜单：</b></p><blockquote>
 
-
-
-Following is an explanation of the Items in the Edit menu. Note that many of the Edit 
-menu items are also accessible by right clicking on the source code, which opens a popup menu. 
-
- 
+以下是在编辑菜单中的项目的说明。请注意，许多编辑菜单项是在源代码处通过点击鼠标右键来访问。 
 
 <p><img src="images/ide_menu_edit.png"></p>
 
-<b>Undo</b> 
-<br>
-Undoes the last done action in the code editing area. There is an undo buffer, 
-so several actions can be undone. 
-
-<br>
-<br>
-
-<b>Redo</b> 
-<br>
-Redo the last action undone by the undo function. 
-
-<br>
-<br>
-
-<b>Cut</b> 
-<br>
-Copy the selected part of the source code to the clipboard and remove it from the code. 
-
-<br>
-<br>
-
-<b>Copy</b> 
-<br>
-Copy the selected text to the Clipboard without deleting it from the code. 
-
-<br>
-<br>
-
-<b>Paste</b> 
-<br>
-Insert the content of the Clipboard at the current position in the code. If any text is 
-selected before this, it will be removed and replaced with the content of the Clipboard. 
-
-<br>
-<br>
-
-<b>Insert comments</b> 
-<br>
-Inserts a comment (";") before every line of the selected code block. This makes 
-commenting large blocks of code easier than putting the ; before each line manually. 
-
-<br>
-<br>
-
-<b>Remove comments</b> 
-<br>
-Removes the comment characters at the beginning of each selected line. This reverts the 
-"Insert comments" command, but also works on comments manually set. 
-
-<br>
-<br>
-
-<b>Format indentation</b> 
-<br>
-Reformats the indentation of the selected lines to align with the code above them and to 
-reflect the <a href="general_rules.html">keywords</a> that they contain. The rules for the indentation can be specified in the 
-<a href="ide_preferences.html">preferences</a>. 
-
-<br>
-<br>
-
-<b>Select all</b> 
-Selects the whole source code. 
-
-<br>
-<br>
-
-<b>Goto</b> 
-<br>
-This lets you jump to a specific line in your source code. 
-
-<br>
-<br>
-
-<b>Goto matching Keyword</b> 
-<br>
-If the cursor is currently on a keyword such as "If" this menu option jumps directly to the keyword 
-that matches it (in this case "EndIf"). 
-
-<br>
-<br>
-
-<b>Goto recent line</b> 
-<br>
-The IDE keeps track of the lines you view. For example if you switch to a different line 
-with the above Goto function, or with the <a href="ide_tools.html">Procedure Browser</a> tool. With this menu option 
-you can jump back to the previous position. 20 such past cursor positions are remembered. 
-<br>
-<br>
-Note that this only records greater jumps in the code. Not if you just move up/down a few 
-lines with the cursor keys. 
-
-<br>
-<br>
-
-<b>Toggle current fold</b> 
-<br>
-This opens/closes the fold point in which the cursor is currently located. 
-
-<br>
-<br>
-
-<b>Toggle all Folds</b> 
-<br>
-This opens/closes all fold points in the current source. Very useful to for example hide 
-all procedures in the code. Or to quickly see the whole code again when some of the code is folded. 
-
-<br>
-<br>
-
-<b>Add/Remove Marker</b> 
-<br>
-Markers act like Bookmarks in the source code. There presence is indicated by a little arrow 
-next to the line numbers. You can later jump to these markers with the "Jump to marker" command. 
-<br>
-<br>
-The "Add/Remove Marker" sets or removes a marker from the current line you are editing. 
-<br>
-<br>
-Note: You can also set/remove markers by holding down the Ctrl Key and clicking on the border that 
-holds the markers (not the Line-number part of it). 
-
-<br>
-<br>
-
-<b>Jump to Marker</b> 
-<br>
-This makes the cursor jump to the next marker position further down the code from the current 
-cursor position. If there is no marker after the cursor position, it jumps to the first on in the 
-source code. So by pressing the "Jump to Marker" shortcut (F2 by default) several times, you can 
-jump to all the markers in the code. 
-
-<br>
-<br>
-
-<b>Clear Markers</b> 
-This removes all markers from the current source code. 
-
-<br>
-<br>
-
-<b>Find/Replace</b> 
+<b>撤消</b> <br>取消在代码编辑区中的最后完成的动作。由于自带一个撤销缓冲区，所以可以进行多次撤销动作而不单单只能撤消一次。<br><br><b>重做</b> <br>重新执行被撤消功能撤消的最后一个动作。<br><br><b>剪切</b> <br>将源代码的选定部分复制到剪贴板，并将其删除。<br><br><b>复制</b> <br>选定的文本复制到剪贴板，而不从代码中删除。<br><br><b>粘贴</b> <br>将剪贴板中的内容，插入到代码的当前位置。如果执行粘贴操作时有文本内容被选中，选中内容将会被删除并用剪贴板的内容替换。<br><br><b>插入注释</b><br>在所选择的代码块的每一个前行插入一个注释符（“;”）。这样做使得注释多行代码时比较容易，不用手动一行一行的进行注释。<br><br><b>移除注释</b> <br>将选定行的开头的注释符删掉。这个功能可以恢复“插入注释”的代码行，同时也适用于手动设置的注释。<br><br><b>自动缩进</b> <br>重新根据 <a href="general_rules.html">关键字 keywords</a> 及代码结构对选中行进行自动缩进操作。缩进规则可以在 <a href="ide_preferences.html">配置 preferences</a>中进行设置。<br><br><b>全选</b> 
+选中所有代码。<br><br><b>跳转...</b> <br>允许你将光标跳转到指定的代码行。<br><br><b>跳转到匹配的关键字</b><br>当光标指针指向一个关键字时，这个菜单选项会使光标直接跳到与其匹配的关键字上。（如光标指向“If”时，会跳转到“endif”）<br><br><b>返回历史行</b> <br>开发环境 IDE 会返回到你浏览当前行前的代码行。例如，如果你使用跳转功能切换代码行，或者使用<a href="ide_tools.html">浏览器程序 Procedure Browser</a>工具切换代码行。通过此菜单选项，您可以跳回到以前历史的位置行。最多保存20个历史指针位置信息。<br><br>请注意，这里只记录大位置跳跃信息，而不是记录像上下左右键这样的小动作。<br><br><b>切换当前折叠</b> <br>展开或收缩光标位置的折叠项。<br><br><b>切换所有折叠</b> <br>展开或收缩当前代码的所有折叠项。这非常有用的，例如收缩代码中的所有折叠项。或快速查看有多处折叠项的完整代码时。<br><br><b>添加/移除书签</b> <br>在源代码中的标志就像书签。在行号旁边出现一个小箭头的标记。你可以使用 "跳转到标签" 命令来将光标跳转制书签处。<br><br>“添加/删除标记”将会新设定或删除正在编辑的当前行的书签标志。<br><br>注意:你也可以通过按住Ctrl键点击行号后面的空白位置来添加或移除书签标记。
+<br><br><b>跳转到书签</b> <br>该命令使光标从当前位置跳转到下一个书签标记位置代码行。如果光标位置之后没有书签标记，将跳转到代码中的第一个书签处。因此，通过多次按“跳转到标记”快捷键（默认F2），您可以跳转到代码中的所有书签标记。<br><br><b>清除所有书签</b>
+这将从当前的源代码将所有书签标记清除掉。<br><br><b>查找/替换</b> 
 
 <p><img src="images/ide_edit_search.png"></p>
 
-
-
-The find/replace dialog enables you to search for specific words in your code, and 
-also to replace them with something else. 
-<br>
-<br>
-The "Find Next" button starts the search. The search can be continued after a match is found with the 
-Find Next menu command (F3 by default). 
-<br>
-<br>
-You can make the search more specific by enabling one of the checkboxes: 
-<br>
-<u>Case Sensitive</u> : Only text that matches the exact case of the search word will be found. 
-<br>
-<u>Whole Words only</u> : Search for the given word as a whole word. Do not display results where the search word is part of another word. 
-<br>
-<u>Don't search in Comments</u> : Any match that is found inside a comment is ignored. 
-<br>
-<u>Don't search in Strings</u> : Any match that is found inside a literal string (in " ") is ignored. 
-<br>
-<u>Search inside Selection only</u> : Searches only the selected region of code. This is really useful 
-only together with the "Replace All" button, in which case it will replace any found match, but only inside the selected region. 
-<br>
-<br>
-By enabling the "Replace with" checkbox, you go into replace mode. "Find Next" will still only search, but 
-with each click on the "Replace" button, the next match of the search word will be replaced by whatever is 
-inside the "Replace with" box. 
-<br>
-<br>
-By clicking on "Replace All", all matches from the current position downwards will be replaced 
-(unless "Search inside Selection only" is set). 
-
-<br>
-<br>
-
-<b>Find Next</b> 
-<br>
-This continues the search for the next match of the last search started by the Find/Replace dialog. 
-
-<br>
-<br>
-
-<b>Find in Files</b> 
+查找/替换 对话框用于在你的代码中搜索指定的文本内容，并且可以用其它内容来替代它们。<br><br>“查找下一个”按钮开始搜索。找到一个匹配内容后，可以继续按“查找下一个”菜单命令（默认F3），接着进行搜索。<br><br>您可以通过下列选项使搜索更加具体： <br><u>区分大小写</u> ：只有保证确切的搜索内容的情况下，匹配的文本才会被搜索到。<br><u>全字匹配</u> ：搜索到的内容是指定的整个单词，而不是某个词的一部分。如果搜索词是另一个词的一部分则不作为搜索结果。<br><u>忽略注释内容</u> ：进行搜索时会将忽略掉注释内的搜索到的匹配内。容<br><u>忽略字串内部</u> ：这将忽略掉把有字符串内找到的所有匹配内容 (带 " "的字串)。<br><u>在选中内容中查找</u> ：只搜索选定的代码区域。这确实很有用，如果和“全部替换”按钮相配合，在这种情况下，它只会在选择的区域内替换匹配内容。<br><br>通过启用“替换为”复选框，你进入替换模式。“查找下一个”将仍然只搜索，但点击“替换”按钮时，会在下一次搜索内容时会将匹配的内容用“替换为”文本行的内容替换掉。<br><br>通过点击“全部替换”，从当前位置以下的所有匹配内容将被替换（除非勾选“在选中内容查找”设定）。<br><br><b>查找下一个</b> <br>继续“查找/替换”命令中最后一次搜索位置开始进行查找搜索。<br><br><b>在文件中查找</b> 
 
 <p><img src="images/ide_edit_searchfiles.png"></p>
 
-
-
-The Find in Files Dialog lets you carry out a search inside many files in a specific directory. 
-<br>
-<br>
-You have to specify a search keyword, as well as a base directory ("root directory") in which to 
-search. You can customize the searched files by specifying extension filters. 
-Any number of filters can be given separated by ",". (*.* or an empty extension field searches all files). 
-As with "Find/Replace", there are checkboxes to make the search more specific. 
-<br>
-<br>
-The "Include sub-directories" checkbox makes it search (recursively) inside any subdirectory of the given root directory too. 
-<br>
-<br>
-When starting the search, a separate window will be opened displaying the search results, giving the file, 
-line number as well as the matched line of each result. 
-<br>
-<br>
-Double-clicking on an entry in the result window opens 
-that file in the IDE and jumps to the selected result line. 
-
- 
+通过“在文件中查找”对话框您可以针对指定目录中的许多文件进行搜索查找。<br><br>你必须指定一个搜索关键字，以及一个搜索目录（“根目录”）来进行搜索。您可以通过指定扩展名过滤器设定搜索的文件。可以使用“,”来对多种文件类型进行设定。(使用 *.* 或不填内容会对所有文件进行搜索 )如“查找/替换”一样，这里也有复选框，使搜索更加明确。<br><br>“包含子目录”复选框，会搜索指定目录下的所有子目录。<br><br>当开始搜索时，将会显示一个搜索结果列表窗口，其中有文件名及匹配内容的行号。<br><br>双击结果窗口中的条目，开发环境 IDE 会打开该文件，并跳转到匹配代码行。 
 
 </body></html>

@@ -1,76 +1,48 @@
 <html><head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>UserGuide - First steps with the Debug output (variables &amp; operators)</title></head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>用户指南 - 第一步  使用Debug调试输出  (变量 &amp; 操作)</title></head>
 <body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
-<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">UserGuide - First steps with the Debug output (variables &amp; operators)</font></b></p>
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">用户指南 - 第一步  使用Debug调试输出  (变量 &amp; 操作)</font></b></p>
+
+我们来个典型的 "Hello World" 吧. 你想看看吗？Ok，看下面两个例子： 
+
+<p><b>Debug 调试输出</b></p><blockquote>
 
 
-
-Normally we would present here the typical "Hello World". You want to see it? 
-Ok here we go with two examples: 
-
- 
-
-<p><b>Debug output</b></p><blockquote>
-
-
-
-
-
-"Hello World" in the <a href="debugger.html">Debug</a> output window: 
-
- 
+在 <a href="debugger.html">Debug</a> 窗口输出 "Hello World" : 
 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Debug</font></b> "Hello World!"
 </font></pre>
 
 </blockquote>
-<p><b>MessageRequester</b></p><blockquote>
+<p><b>对话框输出</b></p><blockquote>
 
 
-
-
-
-"Hello World" in a <a href="../requester/messagerequester.html">MessageRequester()</a>: 
-
- 
+在 <a href="../requester/messagerequester.html">对话框窗口</a>输出 "Hello World" : 
 
 <pre><font face="Courier New, Courier, mono"size="2"><font color="#3A3966">  MessageRequester</font>("", "Hello World!")
 </font></pre>
 
 </blockquote>
-<p><b>Advanced Debug example</b></p><blockquote>
+<p><b>高级Debug调试例子</b></p><blockquote>
 
 
-
-
-
-We now continue with a short example using the available variable types, 
-arithmetic operators and displaying the result: 
-
- 
+继续一个简短的例子，使用可用的变量类型，算术运算符并显示结果: 
 
 <pre><font face="Courier New, Courier, mono"size="2">  a = 5
   b = 7
   c = 3
 
-  d = a + b  <font color="#3A3966">; we use the values stored in variables 'a' and 'b' and save the sum of them in 'd'</font>
-  d / c      <font color="#3A3966">; we directly use the value of 'd' (= 12) divided by the value of 'c' (= 3) and save the result in 'd'</font>
+  d = a + b  <font color="#3A3966">; 将变量  'a' 加 'b' 的和存储到变量 'd'</font>
+  d / c <font color="#3A3966">;我们直接使用“d”的值（= 12）除以“c”的值（= 3），并将结果（=4）保存到变量“d”</font>
 
-  <b><font color="#3A3966">Debug</font></b> d   <font color="#3A3966">; will output 4</font>
+  <b><font color="#3A3966">Debug</font></b> d   <font color="#3A3966">; 将输出 4</font>
 </font></pre>
 
-
-
-This way you have used variables "on the fly". To force the compiler always 
-declaring variables before their first use, just use the keyword 
-<a href="compilerdirectives.html">EnableExplicit</a>. 
-
-
- 
+这种使用变量的方式，“瞬间”你就会了。 要强制编译器总是要求变量第一次使用前必须声明变量，只需使用关键字<a href="compilerdirectives.html">EnableExplicit</a>。 
 
 
 </blockquote>
-<p><b>UserGuide Navigation</b></p><blockquote>
+<p><b>用户指南导航</b></p><blockquote>
 
-<a href="ug_overview.html">Overview</a> | <a href="ug_variables.html">Next: Variables &gt;</a> 
+<a href="ug_overview.html">概述</a> | <a href="ug_variables.html">下一篇： 变量 &gt;</a> 
 </body></html>

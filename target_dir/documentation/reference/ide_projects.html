@@ -1,415 +1,103 @@
 <html><head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Managing projects</title></head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>管理项目</title></head>
 <body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
-<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">Managing projects</font></b></p>
+<font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="5">管理项目</font></b></p>
+
+该开发环境 IDE 具有轻松管理更大的项目的功能。这些功能是完全可选的。虽说不利用项目管理功能两样也可以创建、编译程序。然而，一旦一个程序由若干源代码和其他相关文件时（如一系列的代码文件等），使用此功能便可以简单的将它们在同一个项目中进行管理。 
 
 
-
-The IDE comes with features to easily handle larger projects. These features are 
-completely optional. Programs can be created and compiled without making use of the 
-project management. However, once a program consists of a number of source code 
-and maybe other related files, it can be simpler to handle them all in one project. 
+<p><b>项目工程概述</b></p><blockquote>
 
 
- 
-
-
-<p><b>Project management overview</b></p><blockquote>
-
-
-
-
-
-A project allows the management of multiple source codes and other related files in one place 
-with quick access to the files through the <a href="ide_tools.html">project tool</a>. 
-Source files included in a project can be scanned for AutoComplete even if they are not currently 
-open in the IDE. This way functions, constants, variables etc. from the entire project can be 
-used with AutoComplete. The project can also remember the source files that are open when the project 
-is closed and reopen them the next time to continue working exactly where you left off. 
-<br>
-<br>
-Furthermore, a project keeps all the compiler settings in one place (the project file) and 
-even allows to manage multiple "compile targets" per project. A compile target is just a set 
-of compiler options. This way multiple versions of the same program, or multiple smaller programs 
-in one project can be easily compiled at once. 
-<br>
-<br>
-To compile a project from a script or makefile, the IDE provides command-line options to compile 
-a project without opening a user interface. See the section on <a href="ide_commandline.html">command-line options</a> 
-for more details. 
-<br>
-<br>
-All filenames and paths in a project are stored relative to the project file which allows a project 
-to be easily moved to another location as long as the relative directory structure remains intact. 
-
-
- 
+一个工程项目允许管理多个源代码和其他相关文件，并可以通过<a href="ide_tools.html">工程工具</a>进行统一的快速访问。即使有些文件没有在 IDE 中打开，IDE 依然会自动扫描项目中源代码文件及所包含资源。包括功能函数、常量、 变量等从整个工程项目中要使用到的内容。关闭该项目时，该工程管理功能会记住打开时的源文件状态，并在下一次重新打开工程时停在你上次工作的地方。<br><br>此外，一个工程项目会将编译器的所有设置保存在一个地方 （工程文件），甚至允许你管理每个项目的多个"编译目标"。编译目标是只是一整套的编译器选项。以此方式，相同的程序的不同版本，或者在一个项目中多个较小的程序可以容易地一次通过所有的编译。<br><br>编译一个项目从一个脚本或生成文件，开发环境 IDE 提供了编译脚本或 Makefile 命令，使你无需打开用户界面通过命令行选项来编译工程项目。请查看 <a href="ide_commandline.html">命令行选项 command-line options</a> 了解更多详情。<br><br>在项目中所有的文件名和路径都相对于项目文件存储，所以只要相对目录结构保持不变，可以将工程项目轻易移动到另一个位置。 
 
 
 </blockquote>
-<p><b>The Project menu</b></p><blockquote>
+<p><b>项目菜单</b></p><blockquote>
 
 
 <p><img src="images/ide_menu_project.png"></p>
 
-<b>New Project</b> 
-<br>
-Creates a new project. If there is a project open at the time it will be closed. The project options 
-window will be opened where the project filename has to be specified and the project can be configured. 
-
-<br>
-<br>
-
-<b>Open Project</b> 
-<br>
-Opens an existing project. If there is a project open at the time it will be closed. 
-Previously open source codes of the project will be opened as well, depending on the project configuration. 
-
-<br>
-<br>
-
-<b>Recent Projects</b> 
-<br>
-This submenu shows a list of recently opened project files. Selecting one of the entries opens this project. 
-
-<br>
-<br>
-
-<b>Close Project</b> 
-<br>
-Closes the currently open project. The settings will be saved and the currently open source files of the 
-project will be closed, depending on the project configuration. 
-
-<br>
-<br>
-
-<b>Project Options</b> 
-<br>
-Opens the project options window. See below for more information. 
-
-<br>
-<br>
-
-<b>Add File to Project</b> 
-<br>
-Adds the currently active source code to the current project. Files belonging to the project are marked with 
-a "&gt;" in the file panel. 
-
-<br>
-<br>
-
-<b>Remove File from Project</b> 
-<br>
-Removes the currently active source from the current project. 
-
-<br>
-<br>
-
-<b>Open Project folder</b> 
-<br>
-Opens the folder that contains the project file in whatever file manager is available on the system. 
-
-
- 
+<b>新建项目</b> <br>创建一个新的工程项目。如果有一个项目正被打开时将会关闭。并打开新建项目窗口，并将光标停在指定项目文件位置，来对项目配置。<br><br><b>打开项目</b> <br>打开现有项目。如果有一个项目正被打开时将会关闭。工程项目中设定的随项目一起打开的代码文件等将会自动打开。<br><br><b>最近项目</b> <br>此子菜单显示最近打开的项目文件的列表。点击选择其中一项将调用打开项目命令载入此工程项目。<br><br><b>关闭项目</b><br>&lt;/br13&gt;关闭当前打开的工程项目。关闭并保存当前打开的工程项目及项目中所有被打开的代码文件并对其项目设置进行保存。<br><br><b>项目选项</b> <br>打开项目选项窗口。查看了解更多项目信息。<br><br><b>添加项目文件</b> <br>将当前处于活动状态的源代码添加到当前项目。属于工程项目的文件在文件面板上被标记一个"&gt;"符号。<br><br><b>移除项目文件</b> <br>从当前项目中移除当前处于活动状态的代码文件。<br><br><b>打开项目目录</b><br>用系统中的文件管理器打开包含项目文件的文件夹。 
 
 
 </blockquote>
-<p><b>The project options window</b></p><blockquote>
+<p><b>项目选项窗口</b></p><blockquote>
 
 
-
-
-
-The project options window is the central configuration for the project. The general project settings 
-as well as the settings for the individual files in the project can me made here. 
-
- 
+项目选项窗口是项目的核心配置内容。常规项目设置，以及项目中的个别文件的设置可以在这里进行设定。 
 
 <p><img src="images/ide_project_options.png"></p>
 
-
-
-The following settings can be made on the "Project Options" tab: 
-<br>
-<br>
-
-<b>Project File</b> 
-<br>
-Shows the filename of the project file. This can only be changed during project creation. 
-
-<br>
-<br>
-
-<b>Project Name</b> 
-<br>
-The name of the project. This name is displayed in the IDE title bar and in the "Recent Projects" menu. 
-
-<br>
-<br>
-
-<b>Comments</b> 
-<br>
-This field allows to add some comments to the project. They will be displayed in the project info tab. 
-
-<br>
-<br>
-
-<b>Set as default project</b> 
-<br>
-The default project will be loaded on every start of the IDE. Only one project can be the default 
-project at a time. If there is no default project, the IDE will load the project that was open 
-when the IDE was closed last time if there was one. 
-
-<br>
-<br>
-
-<b>Close all sources when closing the project</b> 
-<br>
-If enabled, all sources that belong to the project will be closed automatically when the project is closed. 
-
-<br>
-<br>
-
-When opening the project... 
- 
+在 "项目选项" 页可以进行以下设置：<br><br><b>项目文件</b><br>显示项目文件的文件名。这只能在项目创建期间更改。<br><br><b>项目名称</b><br>项目的名称。此名称被显示在 IDE 的标题栏和"最近项目"菜单中。<br><br><b>注释</b> <br>此字段允许向项目中添加一些注释。他们将显示在项目信息选项页中。<br><br><b>设置为默认项目</b><br>在每次启动 IDE，将加载该默认项目。只允许设置一个项目作为默认项目。如果没有默认项目，将加载在 IDE 关闭的最后一次项目。<br><br><b>关闭项目时关闭所有代码</b><br>如果启用，项目结束时，将自动关闭所有属于该项目的代码。<br><br>打开项目加载文件... 
 <blockquote>
 
 
-<b>load all sources that where open last time</b> 
-<br>
-When the project is opened, all the sources that were open when the project was closed will be opened again. 
-
-<br>
-<br>
-
-<b>load all sources of the project</b> 
-<br>
-When the project is opened, all (source-)files of the project will be opened. 
-
-<br>
-<br>
-
-<b>load only sources marked in 'Project Files'</b> 
-<br>
-When the project is opened, only the files that are marked in the 'Project Files' tab will be opened. This way you 
-can start a session always with this set of files open. 
-
-<br>
-<br>
-
-<b>load only the main file of the default target</b> 
-<br>
-When the project is opened, the main file of the default target will be opened too. 
-
-<br>
-<br>
-
-<b>load no files</b> 
-<br>
-No source files are opened when the project is opened. 
-
- 
+<b>加载最后一次打开的所有代码</b> <br>当打开该项目时，会再次打开该项目被关闭时其中打开的所有来代码。<br><br><b>加载项目所有代码</b><br>当打开该项目时，将打开该项目的所有（代码）文件。<br><br><b>仅加载项目文件中标记的源代码</b><br>当打开该项目时，将打开只标记项目文件选项卡中的文件。这种方式可以在打开项目时启动标记文件会话。<br><br><b>仅加载默认目标的主文件</b> <br>当项目被打开，默认目标的主文件也会被打开。<br><br><b>不加载任何文件</b> <br>打开的项目时不加载任何代码文件。 
 
 </blockquote>
 
 
-
-
-
-The "Project Files" tabs shows the list of files in the project on the right and allows changing their settings. 
-The explorer on the left is for the selection of new files to be added. 
-
- 
+"项目文件"选项卡在右边项目中显示的文件列表，并允许更改其设置。在左边的资源管理器是用于选择要添加新文件。 
 
 <p><img src="images/ide_project_files.png"></p>
 
-
-
-The buttons on the top have the following function: 
-
- 
+在顶部的按钮具有以下功能︰ 
 
 <blockquote>
 
-<b>Add</b> 
-<br>
-Add the selected file(s) in the explorer to the project. 
-
-<br>
-<br>
-
-<b>Remove</b> 
-<br>
-Remove the selected files in the file list from the project. 
-
-<br>
-<br>
-
-<b>New</b> 
-<br>
-Shows a file requester to select a filename for a new source file to create. The new file will 
-be created, opened in the IDE and also added to the project. 
-
-<br>
-<br>
-
-<b>Open</b> 
-<br>
-Shows a file requester to select an existing file to open. The file will be opened in the IDE and added to the project. 
-
-<br>
-<br>
-
-<b>View</b> 
-<br>
-Opens the selected file(s) in the file list in the IDE or if they are binary files in the FileViewer. 
-
- 
+<b>添加</b><br>将资源管理器中所选的文件添加到项目。<br><br><b>移除</b> <br>从项目中的文件列表中选定的文件删除。<br><br><b>新建</b> <br>通过系统文件请求创建的新的源码文件。新文件将创建，在 IDE 中打开并添加到项目中。<br><br><b>打开</b> <br>通过系统文件请求选择并打开的现有文件。在 IDE 中打开文件，并添加到项目中。<br><br><b>查看</b> <br>在 IDE 中打开文件列表中选定的文件，如果选中文件是二进制文件则在 FileViewer 打开。 
 
 </blockquote>
 
 
 
-
-
-
-
-The checkboxes on the bottom specify the options for the files in the project. They can be applied to a single file 
-or to multiple files at once by selecting the files and changing the state of the checkboxes. The settings have the 
-following meaning: 
-
- 
+页面正文复选框是项目中指定的文件的选项。复选框可以应用到单个文件或多个文件。设置具有以下含义︰ 
 
 <blockquote>
 
 
-<b>Load file when opening the project</b> 
-<br>
-Files with this option will be loaded when the project is open and the "load only sources marked in 'Project Files'" 
-option is specified on the "Project Options" tab. 
-
-<br>
-<br>
-
-<b>Display a warning if file changed</b> 
-<br>
-When the project is closed, the IDE will calculate a checksum of all files that have this option set and display 
-a warning if the file has been modified when the project is opened the next time. This allows to be notified when 
-a file that is shared between multiple projects has been edited while working on another project. 
-This option should be disabled for large data files to speed up project loading and saving, or for files which 
-are changed frequently to avoid getting a warning every time the project is opened. 
-
-<br>
-<br>
-
-<b>Scan file for AutoComplete</b> 
-<br>
-Files with this option will be scanned for AutoComplete data even when they are not currently loaded in the IDE. 
-This option is on by default for all non-binary files. It should be turned off for all files that do not contain 
-source code as well as for any files where you do not want the items to turn up in the AutoComplete list. 
-
-<br>
-<br>
-
-<b>Show file in Project panel</b> 
-<br>
-Files with this option will be displayed in the project side-panel. If the project has many files it may make sense 
-to hide some of them from the panel to have a better overview and faster access to the important files in the project. 
-
- 
+<b>打开的项目时加载文件</b><br>当项目处于打开状态并且"加载仅在项目文件中标记的来源"选项指定在"项目选项"选项卡上，使用此选项将加载文件。<br><br><b>当文件发生变化时提示</b> <br>当关闭项目时，IDE 将调用有此选项设置并显示一条警告，如果该文件已被修改，当下次打开项目时将校验所有文件。这允许多个项目之间共享的文件已在另一个项目上被编辑时要通知。对大型数据文件，以加快项目加载和保存，或频繁更换，避免每次打开该项目时收到警告的文件，应禁用此选项。<br><br><b>自动完成扫描文件</b> <br>将自动完成数据扫描文件使用此选项，即使他们不是当前在 IDE 中加载。对于所有非二进制文件，默认情况下，此选项处于打开状态。It should be turned off for all files that do not contain source code as well as for any files where you do not want the items to turn up in the AutoComplete list. <br><br><b>在项目面板中显示文件</b> <br>此选项的文件将显示在项目侧面板。如果项目有许多文件，它可能是有意义的，隐藏其中的一些，这样能更快的访问项目中的重要文件。 
 
 </blockquote>
 
 
 </blockquote>
-<p><b>The project overview</b></p><blockquote>
+<p><b>项目概述</b></p><blockquote>
 
 
-
-
-
-When a project is open, the first tab of the file panel shows an overview of the project and its files. 
-
- 
+打开一个项目时，文件面板中的第一个选项卡显示了该项目及其文件的概述。 
 
 <p><img src="images/ide_project_info.png"></p>
 
-<b>Project Info</b> 
-<br>
-This section shows some general info about the project, such as the project filename, its comments 
-or when and where the project was last opened. 
-
-<br>
-<br>
-
-<b>Project Files</b> 
-<br>
-This section shows all files in the project and their settings from the Project Options window. 
-Double-clicking on one of the files opens the file in the IDE. Right-clicking displays a context menu 
-with further options: 
-
- 
+<b>项目信息</b><br>本部分显示一些有关的项目一般信息，如项目文件名、它的注释以及该项目的最后一个打开的地方。<br><br><b>项目文件</b><br>此区域内显示了工程所包含的所有文件以及它们在工程选项框中的设置。双击其中一个文件，开发环境将会打开该文件。右键打开时显示一个菜单列表，内容如下图所示： 
 
 <blockquote>
 
 <p><img src="images/ide_popupmenu_project.png"></p>
 
-<u>Open</u> - Open the file in the IDE. 
-<br>
-<u>Open in FileViewer</u> - Open the file in the FileViewer of the IDE. 
-<br>
-<u>Open in Explorer</u> - Open the file in the operating systems file manager. 
-<br>
-<u>Add File to Project</u> - Add a new file to the project. 
-<br>
-<u>Remove File from Project</u> - Remove the selected file(s) from the project. 
-<br>
-<u>Refresh AutoComplete data</u> - Rescan the file for AutoComplete items. 
-
- 
+<u>打开</u> - 在开发环境中打开文件。<br><u>在文件浏览器中打开</u> - 在文件查看器中打开文件。在Explorer中打开<br><u>在Explorer中打开</u> - 在操作系统的文件管理器中打开文件，它会调用扩展名所关连的程序打开它。<br><u>添加文件到项目</u> - 添加一个新文件到工程项目中来。<br><u>从项目中移除</u> - 将选中的一个或多个文件从工程项目中移除。<br><u>刷新自动完成数据</u> - 重新扫描自动完成的项目文件 
 
 </blockquote>
 
 
 
-<b>Project Targets</b> 
-<br>
-This section shows all compile targets in the project and some of their settings. 
-Double-clicking on one of the targets opens this target in the <a href="ide_compiler.html">compiler options</a>. 
-Right-clicking on one of the targets displays a context menu with further options: 
-
- 
+<b>项目目标</b><br>该区域内显示了工程的所有的编译目标，并包含一部分设置信息。双击其中之一会在<a href="ide_compiler.html">编译选项 compiler options</a>中打开该目标。右击其中之一会显示一个右键菜单列表： 
 
 <blockquote>
 
 
-<u>Edit target</u> - Open the target in the compiler options. 
-<br>
-<u>Set as default target</u> - Set this target as the default target. 
-<br>
-<u>Enable in 'Build all Targets'</u> - Include this target in the 'Build all Targets' compiler menu option. 
-
- 
+<u>编辑目标</u> - 在编译选项中打开该目标。<br><u>设为默认的目标</u> - 设置选中的目标为默认目标。<br><u>启用'生成所有目标' </u> - 在生成所有目标编译选项中包含此目标。 
 
 </blockquote>
 
 
 
 </blockquote>
-<p><b>The project panel</b></p><blockquote>
+<p><b>项目面板</b></p><blockquote>
 
 
-
-
-
-There is a sidepanel tool which allows quick access to the files belonging to the project. For more information 
-see the <a href="ide_tools.html">built-in tools</a> section. 
-
-
-
-
-
- 
+在边侧工具面板中的工程板块中会列出工程的所有文件，以方便访问。. 详情请查看 <a href="ide_tools.html">内置工具组 built-in tools</a> 。 
 
 
 

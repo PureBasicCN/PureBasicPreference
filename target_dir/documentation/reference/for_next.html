@@ -10,19 +10,7 @@
 <b>概要</b><br><blockquote>
 
 
-<b><font color="#3A3966">For</font></b> : <b><font color="#3A3966">Next</font></b> is used to create a loop within a program with the given parameters. 
-At each loop the &lt;variable&gt; value is increased by a 1, (or of the "Step value" if a <b><font color="#3A3966">Step</font></b> value 
-is specified) and when the &lt;variable&gt; value is above the &lt;expression2&gt; value, the loop stop. 
-<br>
-<br>
-With the <a href="break_continue.html">Break</a> command its possible to exit the <b><font color="#3A3966">For</font></b> : <b><font color="#3A3966">Next</font></b> loop at any moment, 
-with the <a href="break_continue.html">Continue</a> command the end of the current iteration can be skipped. 
-<br>
-<br>
-The <b><font color="#3A3966">For : Next</font></b> loop works only with integer values, at the expressions as well 
-at the <b><font color="#3A3966">Step</font></b> constant. The <b><font color="#3A3966">Step</font></b> constant can also be negative. 
-
- 
+<b><font color="#3A3966">For</font></b> : <b><font color="#3A3966">Next</font></b> is used to create a loop within a program with the given parameters. At each loop the &lt;variable&gt; value is increased by a 1, (or of the "Step value" if a <b><font color="#3A3966">Step</font></b> value is specified) and when the &lt;variable&gt; value is above the &lt;expression2&gt; value, the loop stop. <br><br>With the <a href="break_continue.html">Break</a> command its possible to exit the <b><font color="#3A3966">For</font></b> : <b><font color="#3A3966">Next</font></b> loop at any moment, with the <a href="break_continue.html">Continue</a> command the end of the current iteration can be skipped. <br><br> <b><font color="#3A3966">For : Next</font></b> 循环制适用于整数值， 在  <b><font color="#3A3966">Step</font></b> 常数的表达式中.  <b><font color="#3A3966">Step</font></b> 常量也可以是负数. 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
@@ -32,11 +20,7 @@ at the <b><font color="#3A3966">Step</font></b> constant. The <b><font color="#3
   <b><font color="#3A3966">Next</font></b>
 </font></pre>
 
-
-
-In this example, the program will loop 11, time (0 to 10), then quit. 
-
- 
+在此示例中，程序将循环 11次 (0 到 10)，然后退出。 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
@@ -46,11 +30,7 @@ In this example, the program will loop 11, time (0 to 10), then quit.
   <b><font color="#3A3966">Next</font></b>
 </font></pre>
 
-
-
-In this example, the program will loop 10 times (10 to 1 backwards), then quit. 
-
- 
+在此示例中，该程序将循环 10 倍次(10 到 1 向后)，然后退出。 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
@@ -62,13 +42,7 @@ In this example, the program will loop 10 times (10 to 1 backwards), then quit.
   <b><font color="#3A3966">Next</font></b> k  
 </font></pre>
 
-
-
-Here, the program will loop 4 times before quitting, (k is increased by a value of 2 at each loop, 
-so the k value is: 4-6-8-10). The "k" after the "Next" indicates that "Next" is ending the "For k" loop. 
-If another variable, is used the compiler will generate an error. It can be useful to nest several "For/Next" loops. 
-
- 
+Here, the program will loop 4 times before quitting, (k is increased by a value of 2 at each loop, so the k value is: 4-6-8-10). The "k" after the "Next" indicates that "Next" is ending the "For k" loop. 如果使用另一个变量，则编译器将生成一个错误。它可以用于嵌套"For/Next" 循环. 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
@@ -80,7 +54,5 @@ If another variable, is used the compiler will generate an error. It can be usef
   <b><font color="#3A3966">Next</font></b> x
 </font></pre>
 
-<b>Note:</b> Be aware, that in PureBasic the value of &lt;expression2&gt; ('To' value) can also be changed inside 
-the For : Next loop. This can lead to endless loops when wrongly used. 
- 
+<b>注意:</b> Be aware, that in PureBasic the value of &lt;expression2&gt; ('To' value) can also be changed inside the For : Next loop. 用错时这可能导致无限循环。 
 </body></html>

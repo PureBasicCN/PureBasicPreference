@@ -8,20 +8,9 @@
 <b>概要</b><br><blockquote>
 
 
-<b><font color="#3A3966">Global</font></b> provides the ability for <a href="variables.html">variables</a> to be defined as global, i.e., 
-variables defined as such may then be accessed within a <a href="procedures.html">Procedure</a>. In this case the 
-command <b><font color="#3A3966">Global</font></b> must be called for the according variables, <b>before</b> the declaration of the procedure. 
-Each variable may have a default value directly assigned to it. If a type is specified for a variable after <b><font color="#3A3966">Global</font></b>, 
-the default type is changed through the use of this declaration.  <b><font color="#3A3966">Global</font></b> may also be used with <a href="dim.html">arrays</a>, 
-<a href="newlist.html">lists</a> and <a href="newmap.html">maps</a>. <br>
+<b><font color="#3A3966">Global</font></b> 提供将<a href="variables.html">变量</a>定义为全局的能力,定义的变量随后可以在 <a href="procedures.html">Procedure</a>内部使用. 在这种情况下 <b><font color="#3A3966">Global</font></b> 命令必须在定义过程 <b>之前</b> 将相关变量定义为全局。每个变量可能具有直接分配给它的默认值。如果在<b><font color="#3A3966">Global</font></b>之后为变量指定了类型，通过这一声明更改默认类型。<b><font color="#3A3966">Global</font></b> 也可以用于 <a href="dim.html">数组</a>, <a href="newlist.html">列表</a> 和 <a href="newmap.html">映射</a>. <br><br>针对过程内部使用的局部变量, 有和全局变量名称相同的，请查看<a href="protected.html">Protected</a>和<a href="static.html">Static</a>关键字。 
 
-<br>
-In order to use local variables within a procedure, which have the same name as global variables, 
-take a look at the <a href="protected.html">Protected</a> and <a href="static.html">Static</a> keywords. 
-
- 
-
-</blockquote><p><b>Example:</b> With variables</p><blockquote>
+</blockquote><p><b>示例︰</b>变量</p><blockquote>
 
 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Global</font></b> a.l, b.b, c, d = 20
@@ -49,10 +38,10 @@ take a look at the <a href="protected.html">Protected</a> and <a href="static.ht
 </font></pre>
 
 <br>
-</blockquote><p><b>Example:</b> With default type</p><blockquote>
+</blockquote><p><b>示例︰</b>默认类型</p><blockquote>
 
 
-<pre><font face="Courier New, Courier, mono"size="2">  <font color="#3A3966">; 'Angle' and 'Position' will be a float, as they didn't have a specified type</font>
+<pre><font face="Courier New, Courier, mono"size="2">  <font color="#3A3966">'Angle' 和 'Position' 将是一个浮点数，因为他们没有指定类型</font>
   <font color="#3A3966">;</font>
   <b><font color="#3A3966">Global</font></b>.f Angle, Length.b, Position
 
