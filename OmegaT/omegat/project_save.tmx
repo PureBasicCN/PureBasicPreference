@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;License file for PureBasic applications (without using 3D engine commands)&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090745Z" creationid="MysticBoy" creationdate="20160802T090745Z">
+        <seg>&lt;a0&gt;PureBasic 应用程序 （未使用3D 引擎命令） 的许可证文件&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Overview&lt;/a0&gt; | &lt;a1&gt;Next: Variables &gt;&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T082242Z" creationid="lansn-lan" creationdate="20160801T082242Z">
@@ -1994,6 +2002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083839Z" creationid="MysticBoy" creationdate="20160720T083839Z">
         <seg>&lt;a2&gt;键盘&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a2&gt;License file for the 3D engine integrated with PureBasic&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090931Z" creationid="MysticBoy" creationdate="20160802T090931Z">
+        <seg>&lt;a2&gt; PureBasic 集成的3D 引擎的许可证文件&lt;/a2&gt;&lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
