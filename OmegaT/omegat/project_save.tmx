@@ -478,6 +478,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-c, --commented, /COMMENTED: creates a commented '.asm' output file when creating an executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T023004Z" creationid="漂流瓶儿" creationdate="20160802T022939Z">
+        <seg>-c, --commented, /COMMENTED: 创建一个可执行文件时创建一个注释的".asm"文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-h, --help, /?: displays a quick help about the compiler.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T022831Z" creationid="漂流瓶儿" creationdate="20160802T022831Z">
+        <seg>-h, --help, /?: 显示编译器帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/A &lt;tools file&gt;          loads/saves the configuration of the external tool from/to this file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071727Z" creationid="MysticBoy" creationdate="20160728T071727Z">
@@ -9634,6 +9650,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143643Z" creationid="漂流瓶儿" creationdate="20160801T143643Z">
         <seg>此字段允许向项目中添加一些注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This file can be re-assembled later when the needed modifications have been made.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T023121Z" creationid="漂流瓶儿" creationdate="20160802T023121Z">
+        <seg>当需要进行了修改此文件可以重新生成。</seg>
       </tuv>
     </tu>
     <tu>
