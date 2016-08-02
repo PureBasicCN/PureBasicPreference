@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3006,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b16&gt;&lt;f17&gt;Debug&lt;/f17&gt;&lt;/b16&gt; a &lt;f18&gt;; Will print 10, as the static variable doesn't affect global one.&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090207Z" creationid="MysticBoy" creationdate="20160802T090207Z">
+        <seg>&lt;b16&gt;&lt;f17&gt;Debug&lt;/f17&gt;&lt;/b16&gt; a &lt;f18&gt;; 将打印 10, 因为静态变量无法影响全局.&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b16&gt;Paste&lt;/b16&gt; &lt;br17&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083319Z" creationid="漂流瓶儿" creationdate="20160801T083319Z">
@@ -3058,6 +3066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143945Z" creationid="漂流瓶儿" creationdate="20160801T143945Z">
         <seg>&lt;b18&gt;关闭项目时关闭所有代码&lt;/b18&gt;&lt;br19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b19&gt;&lt;f20&gt;Debug&lt;/f20&gt;&lt;/b19&gt; "In Procedure: "+&lt;f21&gt;Str&lt;/f21&gt;(&lt;b22&gt;&lt;f23&gt;Array&lt;/f23&gt;&lt;/b22&gt;(0)) &lt;f24&gt;; Will print 1, 2, 3 as the value of the array field increments at each procedure call.&lt;/f24&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090255Z" creationid="MysticBoy" creationdate="20160802T090255Z">
+        <seg>&lt;b19&gt;&lt;f20&gt;Debug&lt;/f20&gt;&lt;/b19&gt; "In Procedure: "+&lt;f21&gt;Str&lt;/f21&gt;(&lt;b22&gt;&lt;f23&gt;Array&lt;/f23&gt;&lt;/b22&gt;(0)) &lt;f24&gt;; 将打印 1, 2, 3 因为在每次调用后数组字段会递增.&lt;/f24&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3258,6 +3274,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T051040Z" creationid="oSilas" creationdate="20151013T051040Z">
         <seg>&lt;b2&gt;只允许一个实例&lt;/b2&gt; &lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b30&gt;&lt;f31&gt;Debug&lt;/f31&gt;&lt;/b30&gt; &lt;b32&gt;&lt;f33&gt;Array&lt;/f33&gt;&lt;/b32&gt;(0) &lt;f34&gt;; Will print 10, as the static array doesn't affect global one.&lt;/f34&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090405Z" creationid="MysticBoy" creationdate="20160802T090405Z">
+        <seg>&lt;b30&gt;&lt;f31&gt;Debug&lt;/f31&gt;&lt;/b30&gt; &lt;b32&gt;&lt;f33&gt;Array&lt;/f33&gt;&lt;/b32&gt;(0) &lt;f34&gt;; 将打印 10, 因为静态数组无法影响全局.&lt;/f34&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3667,8 +3691,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b7&gt;&lt;f8&gt;Debug&lt;/f8&gt;&lt;/b7&gt; "In Procedure: "+&lt;f9&gt;Str&lt;/f9&gt;(a) &lt;f10&gt;; Will print 1, 2, 3 as the variable increments at each procedure call.&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090051Z" creationid="MysticBoy" creationdate="20160802T090051Z">
-        <seg>&lt;b7&gt;&lt;f8&gt;Debug&lt;/f8&gt;&lt;/b7&gt; "In Procedure: "+&lt;f9&gt;Str&lt;/f9&gt;(a) &lt;f10&gt;; 将打印 1, 2, 3 as the variable increments at each procedure call.&lt;/f10&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090123Z" creationid="MysticBoy" creationdate="20160802T090051Z">
+        <seg>&lt;b7&gt;&lt;f8&gt;Debug&lt;/f8&gt;&lt;/b7&gt; "In Procedure: "+&lt;f9&gt;Str&lt;/f9&gt;(a) &lt;f10&gt;; 将打印 1, 2, 3 因为变量在每次过程调用中递增.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
