@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The compiler replaces all constant names with their corresponding values when compiling the executable.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052851Z" creationid="漂流瓶儿" creationdate="20160802T052851Z">
+        <seg>(编译器在编译可执行文件时会将所有常量替换成所对应的值。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This is only possible if the included file is written as a literal string, and not through for example a constant.) &lt;br7&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064631Z" creationid="plp" creationdate="20160801T064631Z">
@@ -3561,6 +3569,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#Hello&lt;/f0&gt; = 10 &lt;f1&gt;; it is a constant.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052902Z" creationid="漂流瓶儿" creationdate="20160802T052902Z">
+        <seg>&lt;f0&gt;#Hello&lt;/f0&gt; = 10 &lt;f1&gt;; 这是一个常量。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_AntialiasingMode_None&lt;/f0&gt;: No antialiasing (default).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010837Z" creationid="MysticBoy" creationdate="20160801T010805Z">
@@ -5459,6 +5475,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Escape sequences are supported using the ~ character before the literal string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053102Z" creationid="漂流瓶儿" creationdate="20160802T053102Z">
+        <seg>转义序列支持使用 ~ 字符，放在文本字符串的前面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EventWindow   &lt;f2&gt;; it is a variable.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052429Z" creationid="漂流瓶儿" creationdate="20160802T052429Z">
@@ -5847,6 +5871,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T141711Z" creationid="漂流瓶儿" creationdate="20160801T141711Z">
         <seg>使用 &lt;b43&gt;&lt;f44&gt;DeclareModule&lt;/f44&gt;&lt;/b43&gt; 部分创建的模块，在自己重新使用或共享他人引用时更容易被理解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hello  = 10 &lt;f2&gt;; it is a variable.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052910Z" creationid="漂流瓶儿" creationdate="20160802T052910Z">
+        <seg>Hello  = 10 &lt;f2&gt;; 这是一个变量。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6719,6 +6751,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T045226Z" creationid="漂流瓶儿" creationdate="20160802T045226Z">
         <seg>Linux 的具体命令选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Literal strings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052938Z" creationid="漂流瓶儿" creationdate="20160802T052938Z">
+        <seg>文本字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Literal strings are declared using the " character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053035Z" creationid="漂流瓶儿" creationdate="20160802T053035Z">
+        <seg>文本字符串声明使用  "  引号符指定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8953,6 +9001,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T041259Z" creationid="oSilas" creationdate="20141128T041259Z">
         <seg>回调过程的地址来定义渐变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The allowed escape sequences are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053125Z" creationid="漂流瓶儿" creationdate="20160802T053125Z">
+        <seg>允许的转义序列如下︰</seg>
       </tuv>
     </tu>
     <tu>
