@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- In the PureBasic documentation are used the terms "commands" and "functions" as well - this is one and the same, independently of a return-value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055801Z" creationid="漂流瓶儿" creationdate="20160802T055801Z">
+        <seg>- 在文档中使用purebasic 的术语“命令 commands”和“函数 functions”是相同的，拥有独立的返回值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- In this guide, all topics are listed in alphabetical order to decrease any search time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055247Z" creationid="漂流瓶儿" creationdate="20160802T055247Z">
@@ -6151,6 +6159,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065430Z" creationid="MysticBoy" creationdate="20160801T065430Z">
         <seg>如果在&lt;b7&gt;&lt;f8&gt;Global&lt;/f8&gt;&lt;/b7&gt;之后为变量指定了类型，通过这一声明更改默认类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a value is returned by the command or function, you can read in the related command description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055827Z" creationid="漂流瓶儿" creationdate="20160802T055827Z">
+        <seg>如果该命令或函数有返回值，你可以阅读相关的命令的描述。</seg>
       </tuv>
     </tu>
     <tu>
