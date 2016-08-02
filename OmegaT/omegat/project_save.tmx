@@ -4635,6 +4635,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An expression is something which can be evaluated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054123Z" creationid="漂流瓶儿" creationdate="20160802T054123Z">
+        <seg>表达式是一个用来计算的求值项，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>André Beer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093334Z" creationid="MysticBoy" creationdate="20160725T084812Z">
@@ -5543,6 +5551,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T030538Z" creationid="MysticBoy" creationdate="20160725T030538Z">
         <seg>有经验的程序员可以访问任何已经定义的OS结构或APi函数，PureBasic甚至允许行内嵌汇编。&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expressions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053937Z" creationid="漂流瓶儿" creationdate="20160802T053937Z">
+        <seg>表达式</seg>
       </tuv>
     </tu>
     <tu>
@@ -11635,6 +11651,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T102903Z" creationid="plp" creationdate="20160730T102903Z">
         <seg>当一个项目打开时，这个子菜单就会显示所有编译目标，并允许快速切换当前默认目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When defined in a &lt;a2&gt;procedure&lt;/a2&gt;, the label will be only available in this procedure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T053923Z" creationid="漂流瓶儿" creationdate="20160802T053923Z">
+        <seg>当&lt;a2&gt;自定义函数 procedure&lt;/a2&gt;中声明时，此标签仅在此过程中可用。</seg>
       </tuv>
     </tu>
     <tu>
