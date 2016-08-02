@@ -11689,8 +11689,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>To avoid this, you can use the keyword &lt;a16&gt;Static&lt;/a16&gt;, to separate global from local variables while keeping their values.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083807Z" creationid="MysticBoy" creationdate="20160802T083807Z">
-        <seg>要避免此问题，可以使用关键字&lt;a16&gt;Static&lt;/a16&gt;，同时保持它们的值分开全局从本地变量。</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T084829Z" creationid="MysticBoy" creationdate="20160802T083807Z">
+        <seg>要避免此问题，可以使用关键字&lt;a16&gt;Static&lt;/a16&gt;从局部变量分离全局变量并且保持他们的值不变。</seg>
       </tuv>
     </tu>
     <tu>
