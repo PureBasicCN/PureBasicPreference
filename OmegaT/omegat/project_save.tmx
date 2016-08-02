@@ -6059,6 +6059,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is recommended to use the /USER switch to turn of virtualization for all programs that comply to the standard user privileges, as it is only intended for compatibility for older programs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034239Z" creationid="漂流瓶儿" creationdate="20160802T034239Z">
+        <seg>t is recommended to use the /USER switch to turn of virtualization for all programs that comply to the standard user privileges, as it is only intended for compatibility for older programs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It makes it easier to write specific code, as simple names can be reused within each module without risk of conflict.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T134618Z" creationid="漂流瓶儿" creationdate="20160801T134618Z">
@@ -9806,6 +9814,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are both options for the included manifest, so they are ignored on older windows versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034111Z" creationid="漂流瓶儿" creationdate="20160802T034111Z">
+        <seg>他们是为列入高版本清单，所以它们在较旧版本的 windows 上将被忽略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They can be applied to a single file or to multiple files at once by selecting the files and changing the state of the checkboxes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145846Z" creationid="漂流瓶儿" creationdate="20160801T145846Z">
@@ -11082,6 +11098,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043021Z" creationid="oSilas" creationdate="20150312T043021Z">
         <seg>&lt;a8&gt;ImageOutput()&lt;/a8&gt;与此命令允许直接访问目标图像的像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With none of these switches, the exe will run as a normal user as well, but with virtualization turned on (i.e. registry and file redirection).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034255Z" creationid="漂流瓶儿" creationdate="20160802T034159Z">
+        <seg>没有这些参数选项，exe 将作为普通用户运行，但是虚拟化是打开的 （即注册表和文件重定向）。</seg>
       </tuv>
     </tu>
     <tu>
