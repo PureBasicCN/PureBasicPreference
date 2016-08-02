@@ -1422,14 +1422,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;a0&gt;Define&lt;br1&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083419Z" creationid="MysticBoy" creationdate="20160720T083419Z">
-        <seg>&lt;a0&gt;定义&lt;br1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Deutsch&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054533Z" creationid="MysticBoy" creationdate="20160726T054533Z">
@@ -1720,8 +1712,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a16&gt;Inlined x86 ASM&lt;/a16&gt;&lt;br17&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052933Z" creationid="MysticBoy" creationdate="20160802T052933Z">
-        <seg>&lt;a16&gt;行内嵌 x86 ASM&lt;/a16&gt;&lt;br17&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T091122Z" creationid="MysticBoy" creationdate="20160802T052933Z">
+        <seg>&lt;a16&gt;内联 x86 ASM&lt;/a16&gt;&lt;br17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1744,8 +1736,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a18&gt;Building a DLL&lt;/a18&gt;&lt;br19&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083537Z" creationid="MysticBoy" creationdate="20160720T083537Z">
-        <seg>&lt;a18&gt;构建一个DLL&lt;/a18&gt;&lt;br19&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T091109Z" creationid="MysticBoy" creationdate="20160720T083537Z">
+        <seg>&lt;a18&gt;生成DLL&lt;/a18&gt;&lt;br19&gt;</seg>
       </tuv>
     </tu>
     <tu>
