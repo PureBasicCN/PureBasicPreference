@@ -2558,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;D&lt;/b0&gt; and &lt;b1&gt;E&lt;/b1&gt; are long integers too.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T074747Z" creationid="lansn-lan" creationdate="20160802T074747Z">
+        <seg>&lt;b0&gt;D&lt;/b0&gt;  和  &lt;b1&gt;E&lt;/b1&gt;  也是长整.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Example:&lt;/b0&gt; Array as parameter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T051339Z" creationid="MysticBoy" creationdate="20160802T051339Z">
@@ -6111,6 +6119,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T074620Z" creationid="漂流瓶儿" creationdate="20160801T074452Z">
         <seg>然而，它们提供了一个自定义折叠区间的功能，却不用自定义折叠关键字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, they will be initialized to the stated constants.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T074922Z" creationid="lansn-lan" creationdate="20160802T074922Z">
+        <seg>然而，它们将被初始化 声明为常量。</seg>
       </tuv>
     </tu>
     <tu>
