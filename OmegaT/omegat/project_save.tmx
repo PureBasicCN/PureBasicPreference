@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/USER: The program will run as the user who started it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T035154Z" creationid="漂流瓶儿" creationdate="20160802T035125Z">
+        <seg>/USER: 程序将以USER 用户身份启动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/VERSION                 displays the IDE version and exits</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070631Z" creationid="MysticBoy" creationdate="20160728T070631Z">
@@ -6535,6 +6543,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T104700Z" creationid="plp" creationdate="20160730T104700Z">
         <seg>注意：使用此选项时，您必须编译之前保存源代码，因为只有写入到磁盘文件才会被主源文件所包含引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: You can also &lt;a24&gt;debug&lt;/a24&gt; programs with this flag, but only with the standalone gui debugger (as it must run in elevated mode as well).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T035107Z" creationid="漂流瓶儿" creationdate="20160802T035107Z">
+        <seg>注意: 你也可以使用此选项&lt;a24&gt;调试 debug&lt;/a24&gt; 程序,但只与独立的Gui调试器运行。(因为它必须在 elevated 模式下运行)</seg>
       </tuv>
     </tu>
     <tu>
