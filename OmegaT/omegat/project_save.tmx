@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/LINKER "ResponseFile": Specify a file which contains commands to be passed directly to the linker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T033712Z" creationid="漂流瓶儿" creationdate="20160802T033712Z">
+        <seg>/LINKER "ResponseFile": 指定一个文件，其中包含要传递直接给链接器的命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/LOCAL                   puts all preferences in the PureBasic directory instead of the user profile location</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T072201Z" creationid="MysticBoy" creationdate="20160728T072201Z">
@@ -6131,6 +6139,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's possible to specify only one resource, but this file can include other resource script if needed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T033613Z" creationid="漂流瓶儿" creationdate="20160802T033613Z">
+        <seg>也可以指定只有一个资源，如果需要此文件也可以包含其他资源脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's the common way have global data available for all modules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T140154Z" creationid="漂流瓶儿" creationdate="20160801T140154Z">
@@ -6608,6 +6624,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082721Z" creationid="MysticBoy" creationdate="20160720T082721Z">
         <seg>在Microsoft Windows中，有两种不同的可执行文件格式：Win32和控制台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Windows, PureBasic use the PellesC linker (polink), more information about the possible options can be found in the related documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T033802Z" creationid="漂流瓶儿" creationdate="20160802T033802Z">
+        <seg>在 Windows 系统中，PureBasic 使用 PellesC 链接器 （polink），可以在相关的文档中找到详细信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8954,6 +8978,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T071657Z" creationid="lansn-lan" creationdate="20160801T071657Z">
         <seg>本章中的下列主题，让你了解PureBasic编程应该是从哪里开始的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following two compiler options are needed for creating programs running on Microsoft Vista OS or above (Windows 7/8/10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034000Z" creationid="漂流瓶儿" creationdate="20160802T034000Z">
+        <seg>下列两个编译选项需要在 Microsoft Vista 及高级版本 (Windows 7/8/10)。</seg>
       </tuv>
     </tu>
     <tu>
