@@ -2566,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Functions&lt;/b0&gt; are regularly included in the PureBasic "Command libraries", described on the right side of the index page in the reference manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052622Z" creationid="漂流瓶儿" creationdate="20160802T052622Z">
+        <seg>&lt;b0&gt;Functions&lt;/b0&gt; 通常被列入 PureBasic  "命令库 Command libraries" 中, 在帮助手册索引页右侧可以找到函数命令列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Keywords&lt;/b0&gt; are regularly described in the chapters on the left side of the index page in the reference manual.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T051718Z" creationid="漂流瓶儿" creationdate="20160802T051718Z">
@@ -3537,6 +3545,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;    EventWindow&lt;/f0&gt;() &lt;f1&gt;; it is a function.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052420Z" creationid="漂流瓶儿" creationdate="20160802T052420Z">
+        <seg>&lt;f0&gt;    EventWindow&lt;/f0&gt;() &lt;f1&gt;; 这是一个函数。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_AntialiasingMode_None&lt;/f0&gt;: No antialiasing (default).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010837Z" creationid="MysticBoy" creationdate="20160801T010805Z">
@@ -4483,6 +4499,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All &lt;b0&gt;functions&lt;/b0&gt; must be followed by a ( or else it will not be considered as a function, (even for null parameter functions).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T051903Z" creationid="漂流瓶儿" creationdate="20160802T051903Z">
+        <seg>所有 &lt;b0&gt;函数 functions&lt;/b0&gt; 后面必须紧跟着括号“( ”，否则将不被视为一个函数。 (函数就是没有参数也要加括号)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All &lt;b0&gt;keywords&lt;/b0&gt; are used for general things inside PureBasic, like creating arrays (Dim) or lists (NewList), or controlling the program flow (If : Else : EndIf).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T051345Z" creationid="漂流瓶儿" creationdate="20160802T050936Z">
@@ -4495,6 +4519,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T140748Z" creationid="漂流瓶儿" creationdate="20160801T140748Z">
         <seg>当进程流运行到模块时，内置在 &lt;b29&gt;&lt;f30&gt;DeclareModule&lt;/f30&gt;&lt;/b29&gt; 和 &lt;b31&gt;&lt;f32&gt;Module&lt;/f32&gt;&lt;/b31&gt; 部分中的所有代码都会被执行，就像其他代码一样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All constants are preceded by &lt;b0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/b0&gt;#.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052704Z" creationid="漂流瓶儿" creationdate="20160802T052704Z">
+        <seg>所有的常量前面都有一个标志符号 &lt;b0&gt;&lt;f1&gt;#&lt;/f1&gt;&lt;/b0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4971,6 +5003,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Constants</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052627Z" creationid="漂流瓶儿" creationdate="20160802T052627Z">
+        <seg>常量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contents of the "File" menu:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022931Z" creationid="MysticBoy" creationdate="20160726T022931Z">
@@ -5411,6 +5451,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EventWindow   &lt;f2&gt;; it is a variable.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052429Z" creationid="漂流瓶儿" creationdate="20160802T052429Z">
+        <seg>EventWindow   &lt;f2&gt;; 这是一个变量。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every command switch which starts with '/' are Windows only.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T022650Z" creationid="漂流瓶儿" creationdate="20160802T022650Z">
@@ -5663,6 +5711,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093008Z" creationid="MysticBoy" creationdate="20160725T084638Z">
         <seg>麦壳饼 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Functions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T051726Z" creationid="漂流瓶儿" creationdate="20160802T051726Z">
+        <seg>函数</seg>
       </tuv>
     </tu>
     <tu>
@@ -10371,6 +10427,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145846Z" creationid="漂流瓶儿" creationdate="20160801T145846Z">
         <seg>复选框可以应用到单个文件或多个文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They can only be declared once in the source and always keep their predefined values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052803Z" creationid="漂流瓶儿" creationdate="20160802T052803Z">
+        <seg>它们只需要在代码中声明一次，就会始终保持其给定的值。</seg>
       </tuv>
     </tu>
     <tu>
