@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b29&gt;Examples:&lt;/b29&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T035228Z" creationid="漂流瓶儿" creationdate="20160802T035228Z">
+        <seg>&lt;b29&gt;例子:&lt;/b29&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b2&gt;&lt;f3&gt;Debug&lt;/f3&gt;&lt;/b2&gt; d   &lt;f4&gt;; will output 4&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T083258Z" creationid="lansn-lan" creationdate="20160801T083258Z">
@@ -8629,6 +8637,15 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The compiler will compile the source code (here with full path) and create the DLL "project.dll" in the given directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T035338Z" creationid="漂流瓶儿" creationdate="20160802T035338Z">
+        <seg>编译器将编译的源代码 （完整路径） 并在给定的目录中创建的 "project.dll"。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The compiler will compile the source code and execute it with debugger.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T032122Z" creationid="漂流瓶儿" creationdate="20160802T032122Z">
@@ -10834,6 +10851,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T090436Z" creationid="漂流瓶儿" creationdate="20160801T090436Z">
         <seg>这非常有用的，例如收缩代码中的所有折叠项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Virtualization for the exe is turned off.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T035221Z" creationid="漂流瓶儿" creationdate="20160802T035221Z">
+        <seg>Exe 文件虚拟化，处于关闭状态。</seg>
       </tuv>
     </tu>
     <tu>
