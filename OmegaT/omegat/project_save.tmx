@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-ir, --ignoreresident, /IGNORERESIDENT "filename": doesn't load the specified resident file when the compiler starts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T024843Z" creationid="漂流瓶儿" creationdate="20160802T024843Z">
+        <seg>-ir, --ignoreresident, /IGNORERESIDENT "filename": 编译器启动时不加载指定的常驻文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-l or --linenumbering, /LINENUMBERING: adds lines and files information to the executable, which can slow it considerably.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T024025Z" creationid="漂流瓶儿" creationdate="20160802T024025Z">
@@ -5955,6 +5963,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's mostly useful when updating a resident which already exists, so it won't load it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T025039Z" creationid="漂流瓶儿" creationdate="20160802T025039Z">
+        <seg>大多时有用，如更新的常驻文件已经存在，所以不用再加载时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's not aimed to replace a real source code version control system like SVN or GIT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053813Z" creationid="MysticBoy" creationdate="20160726T053813Z">
@@ -6135,6 +6151,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054440Z" creationid="MysticBoy" creationdate="20160726T054440Z">
         <seg>更多的文件扩展名可以被视为代码文件通过的&lt;a5&gt;首选项&lt;/a5&gt;中的"编辑器"配置其扩展名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More information about using this flag is available in the file 'CompilerInterface.txt' from the PureBasic 'SDK' directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T024755Z" creationid="漂流瓶儿" creationdate="20160802T024755Z">
+        <seg>有关使用此标志的详细信息可查看在 PureBasic 主目录里 'SDK' 目录中的 'CompilerInterface.txt' 。</seg>
       </tuv>
     </tu>
     <tu>
