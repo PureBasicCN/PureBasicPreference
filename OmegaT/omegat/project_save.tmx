@@ -4451,6 +4451,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cross-platform command switches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T022726Z" creationid="漂流瓶儿" creationdate="20160802T022726Z">
+        <seg>跨平台命令参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ctrl+Home navigates to the beginning of the file and Ctrl+End to the End.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T055546Z" creationid="blues" creationdate="20160729T131934Z">
@@ -4799,6 +4807,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T080747Z" creationid="漂流瓶儿" creationdate="20160801T080747Z">
         <seg>在任何时候都可以通过ESC键关闭自动完成列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every command switch which starts with '/' are Windows only.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T022650Z" creationid="漂流瓶儿" creationdate="20160802T022650Z">
+        <seg>Windows 系统中使用时，每一个命令参数都要前缀 '/' 符号。</seg>
       </tuv>
     </tu>
     <tu>
