@@ -1512,8 +1512,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a11&gt;Useful Internet links about PureBasic&lt;/a11&gt;&lt;br12&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052552Z" creationid="MysticBoy" creationdate="20160802T052552Z">
-        <seg>&lt;a11&gt;关于 PureBasic 使用互联网链接。&lt;/a11&gt;&lt;br12&gt;&lt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052829Z" creationid="MysticBoy" creationdate="20160802T052552Z">
+        <seg>&lt;a11&gt;关于 PureBasic 使用互联网链接。&lt;/a11&gt;&lt;br12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1650,6 +1650,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T084019Z" creationid="MysticBoy" creationdate="20160720T084019Z">
         <seg>&lt;a16&gt;日期&lt;/a16&gt;&lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a16&gt;Inlined x86 ASM&lt;/a16&gt;&lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052933Z" creationid="MysticBoy" creationdate="20160802T052933Z">
+        <seg>&lt;a16&gt;行内嵌 x86 ASM&lt;/a16&gt;&lt;br17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5767,6 +5775,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T052104Z" creationid="oSilas" creationdate="20151013T052104Z">
         <seg>常规 - 主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Libraries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052647Z" creationid="MysticBoy" creationdate="20160802T052647Z">
+        <seg>常规库</seg>
       </tuv>
     </tu>
     <tu>
