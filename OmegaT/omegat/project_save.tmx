@@ -13777,8 +13777,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>� &lt;f3&gt;; N and P will be local.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T090412Z" creationid="lansn-lan" creationdate="20160802T090412Z">
-        <seg> &lt;f3&gt;; N and P will be local.&lt;/f3&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T011905Z" creationid="lansn-lan" creationdate="20160802T090412Z">
+        <seg>&lt;f3&gt;; N 和 P 是局部变量。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
