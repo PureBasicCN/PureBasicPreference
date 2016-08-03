@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;&lt; Previous: First steps&lt;/a0&gt; | &lt;a1&gt;Overview&lt;/a1&gt; | &lt;a2&gt;Next: Constants &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T013205Z" creationid="lansn-lan" creationdate="20160803T013205Z">
+        <seg>&lt;a0&gt;&lt; 上一篇： 第一步&lt;/a0&gt; | &lt;a1&gt;用户指南 - 概述&lt;/a1&gt; | &lt;a2&gt;下一篇：常量 &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;&lt;b1&gt;PureBasic 5.42 LTS (all OS)&lt;/b1&gt;&lt;/a0&gt;&lt;i2&gt; (03/01/2016)&lt;/i2&gt;&lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070044Z" creationid="MysticBoy" creationdate="20160728T070044Z">
