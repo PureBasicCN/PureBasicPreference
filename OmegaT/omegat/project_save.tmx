@@ -4121,6 +4121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;; Bitwise Or with 21 (A will become 23)&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012532Z" creationid="lansn-lan" creationdate="20160803T012532Z">
+        <seg>&lt;f1&gt;; 位或  21 (A 将变成 23)&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f2&gt;#PB_AntialiasingMode_x4&lt;/f2&gt;  : x4 fullscreen antialiasing (FSAA).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010847Z" creationid="MysticBoy" creationdate="20160801T010847Z">
@@ -4181,6 +4189,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070736Z" creationid="lansn-lan" creationdate="20160729T070736Z">
         <seg>&lt;f2&gt;#PB_UTF8&lt;/f2&gt;    : 字符串将以 UTF8 格式写入.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f2&gt;; Bitwise And with 1 (A will become 1)&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012554Z" creationid="lansn-lan" creationdate="20160803T012554Z">
+        <seg>&lt;f2&gt;; 位与 1 (A 将变成 1)&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12091,6 +12107,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T075130Z" creationid="lansn-lan" creationdate="20160801T075130Z">
         <seg>用户指南导航</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using &lt;a0&gt;operators&lt;/a0&gt; on variables:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012444Z" creationid="lansn-lan" creationdate="20160803T012444Z">
+        <seg>在变量中使用 运算符 &lt;a0&gt;operators&lt;/a0&gt; :</seg>
       </tuv>
     </tu>
     <tu>
