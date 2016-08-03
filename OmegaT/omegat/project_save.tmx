@@ -9919,8 +9919,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The common &lt;a0&gt;arithmetic functions&lt;/a0&gt; (+, -, *, /, ...) can be combined with conditions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T015427Z" creationid="lansn-lan" creationdate="20160803T015427Z">
-        <seg>根据情况，常见的可以使用&lt;a0&gt;算术函数&lt;/a0&gt;(+，-，*，/...) 。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T015724Z" creationid="lansn-lan" creationdate="20160803T015427Z">
+        <seg>通常使用&lt;a0&gt;算术函数&lt;/a0&gt;(+，-，*，/...) 。</seg>
       </tuv>
     </tu>
     <tu>
