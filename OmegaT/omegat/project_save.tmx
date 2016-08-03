@@ -9917,6 +9917,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The common &lt;a0&gt;arithmetic functions&lt;/a0&gt; (+, -, *, /, ...) can be combined with conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T015427Z" creationid="lansn-lan" creationdate="20160803T015427Z">
+        <seg>根据情况，常见的可以使用&lt;a0&gt;算术函数&lt;/a0&gt;(+，-，*，/...) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The compiler menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T084356Z" creationid="plp" creationdate="20160730T084356Z">
@@ -11075,6 +11083,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071435Z" creationid="MysticBoy" creationdate="20160728T071435Z">
         <seg>也可以通过命令行选项直接编译PureBasic项目.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are different ways of processing data obtained from user input or other way (loading from a file, ...).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T015304Z" creationid="lansn-lan" creationdate="20160803T015304Z">
+        <seg>来自用户输入的或其他方式 （从文件中加载，...）得到的数据，通常我们需要使用不同的方式进行处理。</seg>
       </tuv>
     </tu>
     <tu>
