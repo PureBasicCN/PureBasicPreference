@@ -8028,6 +8028,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Predefined constants - provided either by PureBasic itself (all begin with &lt;f2&gt;#PB_&lt;/f2&gt;), or from the API for the operating system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T013858Z" creationid="lansn-lan" creationdate="20160803T013858Z">
+        <seg>PureBasic 本身预定义的常量（所有以&lt;f2&gt;#PB_&lt;/f2&gt;开头），或从 操作系统提供的API 常量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previously open source codes of the project will be opened as well, depending on the project configuration.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130416Z" creationid="漂流瓶儿" creationdate="20160801T130416Z">
