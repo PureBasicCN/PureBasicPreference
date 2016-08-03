@@ -11689,8 +11689,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>This loop will increment the variable B by a &lt;a0&gt;random&lt;/a0&gt; amount between 0 and 20 each time, until B exceeds 100.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T022552Z" creationid="lansn-lan" creationdate="20160803T022552Z">
-        <seg>这个循环，将变量 B 的值，每次加上一个0 到 20 之间的随机数&lt;a0&gt;random&lt;/a0&gt; ，直到 B 的值大于 100 。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T022647Z" creationid="lansn-lan" creationdate="20160803T022552Z">
+        <seg>这个循环，将变量 B 的值，每次加上一个0 到 20 之间的随机数&lt;a0&gt;random&lt;/a0&gt; ，直到 B 的值大于或等于 100 循环才结束 .</seg>
       </tuv>
     </tu>
     <tu>
