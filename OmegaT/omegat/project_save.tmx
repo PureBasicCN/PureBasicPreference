@@ -4267,8 +4267,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f3&gt;; Arithmetic shift left (A will become 2, that is 10 in binary).&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012754Z" creationid="lansn-lan" creationdate="20160803T012754Z">
-        <seg>&lt;f3&gt;; 左移位 shift left (A 将变成 2, that is 10 in binary).&lt;/f3&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012834Z" creationid="lansn-lan" creationdate="20160803T012754Z">
+        <seg>&lt;f3&gt;; 左移位 shift left (A 将变成 2, 二进制是 10 ).&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
