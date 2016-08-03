@@ -6787,6 +6787,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In fact it provides several.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T013556Z" creationid="lansn-lan" creationdate="20160803T013556Z">
+        <seg>实际上提供了不止一种方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to use local variables within a procedure, which have the same name as global variables, take a look at the &lt;a16&gt;Protected&lt;/a16&gt; and &lt;a17&gt;Static&lt;/a17&gt; keywords.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065655Z" creationid="MysticBoy" creationdate="20160801T065527Z">
