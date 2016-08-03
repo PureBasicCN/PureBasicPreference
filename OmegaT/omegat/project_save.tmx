@@ -5603,6 +5603,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data, Events or many other things can also be processed using loops, which are always checked for a specific condition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T021740Z" creationid="lansn-lan" creationdate="20160803T021740Z">
+        <seg>数据、 事件或许多其他的事情，可以使用循环来处理，不断检查是否满足执行条件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Database programming starts by initializing the database environment using &lt;a10&gt;UseODBCDatabase()&lt;/a10&gt;, &lt;a11&gt;UseSQLiteDatabase()&lt;/a11&gt;, and &lt;a12&gt;UsePostgreSQLDatabase()&lt;/a12&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T033154Z" creationid="MysticBoy" creationdate="20160726T033154Z">
