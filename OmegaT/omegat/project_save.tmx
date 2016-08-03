@@ -9565,6 +9565,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The IDE’s &lt;a3&gt;Structure Viewer&lt;/a3&gt; tool has a panel which shows all the predefined constants.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T013955Z" creationid="lansn-lan" creationdate="20160803T013955Z">
+        <seg>IDE 的&lt;a3&gt;Structure Viewer&lt;/a3&gt;结构查看器工具有一个面板，显示所有预定义的常量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Project menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130016Z" creationid="漂流瓶儿" creationdate="20160801T125234Z">
