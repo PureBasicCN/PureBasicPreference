@@ -6941,8 +6941,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>In this loop the counter A is increased by two each time, this loop will always perform the same number of iterations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T022107Z" creationid="lansn-lan" creationdate="20160803T022107Z">
-        <seg>在此计数器中  每次循环 A 将增加 2 ，这个循环将总是执行相同的迭代次数。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T022132Z" creationid="lansn-lan" creationdate="20160803T022107Z">
+        <seg>在此计数器中  每次循环 A 将增加 2 ，这个循环将总是执行相同数量的迭代次数。</seg>
       </tuv>
     </tu>
     <tu>
