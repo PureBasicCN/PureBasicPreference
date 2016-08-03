@@ -7379,6 +7379,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loops can be: &lt;a0&gt;Repeat : Until&lt;/a0&gt;, &lt;a1&gt;Repeat : Forever&lt;/a1&gt;, &lt;a2&gt;While : Wend&lt;/a2&gt;, &lt;a3&gt;For : Next&lt;/a3&gt;, &lt;a4&gt;ForEach : Next&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T021916Z" creationid="lansn-lan" creationdate="20160803T021916Z">
+        <seg>循环控制使用的关键词: &lt;a0&gt;Repeat : Until&lt;/a0&gt;, &lt;a1&gt;Repeat : Forever&lt;/a1&gt;, &lt;a2&gt;While : Wend&lt;/a2&gt;, &lt;a3&gt;For : Next&lt;/a3&gt;, &lt;a4&gt;ForEach : Next&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MacOS X: The icon must be in ICNS format (Macintosh Icon).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T112721Z" creationid="plp" creationdate="20160730T112721Z">
