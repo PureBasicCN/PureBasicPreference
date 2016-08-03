@@ -4789,8 +4789,16 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Add an element to the K list:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012953Z" creationid="lansn-lan" creationdate="20160803T012953Z">
-        <seg>将一个元素添加到 K 列表︰</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T013025Z" creationid="lansn-lan" creationdate="20160803T012953Z">
+        <seg>将一个元素添加到 K 列表(list)︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add an element to the M map:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T013016Z" creationid="lansn-lan" creationdate="20160803T013016Z">
+        <seg>将一个元素添加到 M 映射(map)︰</seg>
       </tuv>
     </tu>
     <tu>
