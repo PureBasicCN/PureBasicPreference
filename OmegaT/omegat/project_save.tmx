@@ -12847,6 +12847,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use the &lt;a1&gt;If : Else/ElseIf : EndIf&lt;/a1&gt; set of keywords or the &lt;a2&gt;Select : Case/Default : EndSelect&lt;/a2&gt; keywords, just use what is the best for your situation!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T015631Z" creationid="lansn-lan" creationdate="20160803T015631Z">
+        <seg>您可以使用&lt;a1&gt;If︰ Else/ElseIf: EndIf&lt;/a1&gt;组合的关键字或&lt;a2&gt;Select︰ Case/Default︰ EndSelect&lt;/a2&gt;关键字，只需根据最适合您的具体情况来使用 ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have to set the type after &lt;b22&gt;&lt;f23&gt;Procedure&lt;/f23&gt;&lt;/b22&gt; and use the &lt;b24&gt;&lt;f25&gt;ProcedureReturn&lt;/f25&gt;&lt;/b24&gt; keyword at any moment inside the procedure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050541Z" creationid="MysticBoy" creationdate="20160802T050541Z">
