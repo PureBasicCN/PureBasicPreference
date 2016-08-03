@@ -6763,6 +6763,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to &lt;a0&gt;variables&lt;/a0&gt; PureBasic provides a method to define &lt;a1&gt;constants&lt;/a1&gt; too.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T013431Z" creationid="lansn-lan" creationdate="20160803T013431Z">
+        <seg>除了&lt;a0&gt;变量&lt;/a0&gt;，PureBasic 也提供了一种方法来定义&lt;a1&gt;常量&lt;/a1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In buying PureBasic you will ensure that development will go further and faster.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T080901Z" creationid="MysticBoy" creationdate="20160725T080754Z">
