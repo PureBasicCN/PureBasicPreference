@@ -7627,6 +7627,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that unlike some other BASIC languages, PureBasic doesn't use the "Then" keyword and that there is no space in the ElseIf and EndIf keywords.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T020418Z" creationid="lansn-lan" creationdate="20160803T020418Z">
+        <seg>请注意，与其他一些BASIC语言不同的是， PureBasic 不使用"Then"关键字，且 EndIf 和 ElseIf 关键字中之间是没有空格的（其他BASIC语言是End If ，Else If）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that you can't use the alternative syntax of the &lt;a0&gt;Define&lt;/a0&gt; keyword with &lt;a1&gt;NewList&lt;/a1&gt; or &lt;a2&gt;NewMap&lt;/a2&gt; though.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T090204Z" creationid="lansn-lan" creationdate="20160802T090117Z">
