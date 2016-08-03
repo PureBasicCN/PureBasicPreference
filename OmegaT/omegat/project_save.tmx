@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;&lt; Previous: Constants&lt;/a0&gt; | &lt;a1&gt;Overview&lt;/a1&gt; | &lt;a2&gt;Next: Loops &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T021150Z" creationid="lansn-lan" creationdate="20160803T021150Z">
+        <seg>&lt;a0&gt;&lt; 上一篇: 常量&lt;/a0&gt; | &lt;a1&gt;用户指南 - 概述&lt;/a1&gt; | &lt;a2&gt;下一篇: 循环 &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;&lt; Previous: First steps&lt;/a0&gt; | &lt;a1&gt;Overview&lt;/a1&gt; | &lt;a2&gt;Next: Constants &gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T013205Z" creationid="lansn-lan" creationdate="20160803T013205Z">
