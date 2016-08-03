@@ -4265,6 +4265,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f3&gt;; Arithmetic shift left (A will become 2, that is 10 in binary).&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012754Z" creationid="lansn-lan" creationdate="20160803T012754Z">
+        <seg>&lt;f3&gt;; 左移位 shift left (A 将变成 2, that is 10 in binary).&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;&lt;b4&gt;PureBasic&lt;/b4&gt;&lt;/f3&gt; is a new "high level" &lt;f5&gt;&lt;b6&gt;programming language&lt;/b6&gt;&lt;/f5&gt; based on established &lt;f7&gt;&lt;b8&gt;BASIC&lt;/b8&gt;&lt;/f7&gt; rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174419Z" creationid="MysticBoy" creationdate="20160723T174419Z">
