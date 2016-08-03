@@ -3230,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b25&gt;&lt;f26&gt;Debug&lt;/f26&gt;&lt;/b25&gt; &lt;f27&gt;#MyConstantD&lt;/f27&gt;   &lt;f28&gt;; will be 10&lt;/f28&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T014635Z" creationid="lansn-lan" creationdate="20160803T014635Z">
+        <seg>&lt;b25&gt;&lt;f26&gt;Debug&lt;/f26&gt;&lt;/b25&gt; &lt;f27&gt;#MyConstantD&lt;/f27&gt;   &lt;f28&gt;; 常量值是 10&lt;/f28&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b25&gt;Compiler Options&lt;/b25&gt; &lt;br26&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T093623Z" creationid="plp" creationdate="20160730T093623Z">
@@ -3266,6 +3274,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143043Z" creationid="漂流瓶儿" creationdate="20160801T143043Z">
         <seg>&lt;b28&gt;打开项目目录&lt;/b28&gt;&lt;br29&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b29&gt;&lt;f30&gt;Debug&lt;/f30&gt;&lt;/b29&gt; &lt;f31&gt;#MyConstantE&lt;/f31&gt;   &lt;f32&gt;; will be 15&lt;/f32&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T014642Z" creationid="lansn-lan" creationdate="20160803T014642Z">
+        <seg>&lt;b29&gt;&lt;f30&gt;Debug&lt;/f30&gt;&lt;/b29&gt; &lt;f31&gt;#MyConstantE&lt;/f31&gt;   &lt;f32&gt;; 常量值是 15&lt;/f32&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3338,6 +3354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T084534Z" creationid="MysticBoy" creationdate="20160802T084534Z">
         <seg>&lt;b32&gt;&lt;f33&gt;Debug&lt;/f33&gt;&lt;/b32&gt; &lt;b34&gt;&lt;f35&gt;List&lt;/f35&gt;&lt;/b34&gt;()    &lt;f36&gt;; 将打印2, 因为列表被保护了.&lt;/f36&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b33&gt;&lt;f34&gt;Debug&lt;/f34&gt;&lt;/b33&gt; &lt;f35&gt;#MyConstantF&lt;/f35&gt;   &lt;f36&gt;; will be 20&lt;/f36&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T014648Z" creationid="lansn-lan" creationdate="20160803T014648Z">
+        <seg>&lt;b33&gt;&lt;f34&gt;Debug&lt;/f34&gt;&lt;/b33&gt; &lt;f35&gt;#MyConstantF&lt;/f35&gt;   &lt;f36&gt;; 常量值是 20&lt;/f36&gt;</seg>
       </tuv>
     </tu>
     <tu>
