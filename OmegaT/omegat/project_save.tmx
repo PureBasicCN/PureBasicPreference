@@ -11439,6 +11439,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This example shows the use of &lt;b0&gt;&lt;f1&gt;Select : Case : Default : EndSelect&lt;/f1&gt;&lt;/b0&gt; to categorize the first 127 &lt;a2&gt;ASCII&lt;/a2&gt; characters into groups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T020643Z" creationid="lansn-lan" creationdate="20160803T020643Z">
+        <seg>此示例演示如何使用 &lt;b0&gt;&lt;f1&gt;Select : Case : Default : EndSelect&lt;/f1&gt;&lt;/b0&gt; 将 127 个 &lt;a2&gt;ASCII&lt;/a2&gt; 码字符按组分类 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This example shows the use of &lt;b5&gt;&lt;f6&gt;If : ElseIf : Else : EndIf&lt;/f6&gt;&lt;/b5&gt; for creating a message, possibly for showing in the status bar of a form (&lt;a7&gt;GUI&lt;/a7&gt;) or something similar, based upon the number of items and filtered items in an, imaginary, list.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T020124Z" creationid="lansn-lan" creationdate="20160803T020124Z">
