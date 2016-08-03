@@ -11431,6 +11431,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This example shows the use of &lt;b5&gt;&lt;f6&gt;If : ElseIf : Else : EndIf&lt;/f6&gt;&lt;/b5&gt; for creating a message, possibly for showing in the status bar of a form (&lt;a7&gt;GUI&lt;/a7&gt;) or something similar, based upon the number of items and filtered items in an, imaginary, list.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T020124Z" creationid="lansn-lan" creationdate="20160803T020124Z">
+        <seg>此示例演示如何使用&lt;b5&gt;&lt;f6&gt;If︰ ElseIf︰ Else︰ EndIf&lt;/f6&gt;&lt;/b5&gt;创建一个消息，可能在窗体(&lt;a7&gt;GUI&lt;/a7&gt;) 的状态栏上显示或类似的东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This executes the last compiled source code once again.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T091103Z" creationid="plp" creationdate="20160730T091027Z">
