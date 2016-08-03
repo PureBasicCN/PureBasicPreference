@@ -12143,6 +12143,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User defined constants - by defining a constant name with the prefix # you can provide your own constants to make code more readable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T014152Z" creationid="lansn-lan" creationdate="20160803T014152Z">
+        <seg>为使代码更具可读性，您可以定义自己的常量，以# 号为前缀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User guide - Overview</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052320Z" creationid="MysticBoy" creationdate="20160802T052320Z">
