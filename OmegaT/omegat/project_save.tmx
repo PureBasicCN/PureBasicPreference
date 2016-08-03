@@ -13785,8 +13785,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>� &lt;f8&gt;; Q will be a static local.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T090423Z" creationid="lansn-lan" creationdate="20160802T090423Z">
-        <seg> &lt;f8&gt;; Q will be a static local.&lt;/f8&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T011945Z" creationid="lansn-lan" creationdate="20160802T090423Z">
+        <seg>&lt;f8&gt;;  Q 是静态局部变量。&lt;/f8&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
