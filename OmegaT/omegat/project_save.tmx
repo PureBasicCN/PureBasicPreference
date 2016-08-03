@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Enumerations&lt;/a0&gt; – PureBasic will automatically number a series of constants sequentially in an Enumeration, by default enumerations will begin from zero – but this can be altered, if desired.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T014433Z" creationid="lansn-lan" creationdate="20160803T014433Z">
+        <seg>&lt;a0&gt;Enumeration 枚举&lt;/a0&gt;— — 在一系列常量枚举中，PureBasic 将自动按顺序进行编号，默认情况下，枚举将从零开始 — — 但是如果需要的话也是可以改变的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Francais&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054518Z" creationid="MysticBoy" creationdate="20160726T054518Z">
