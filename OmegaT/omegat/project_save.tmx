@@ -3366,6 +3366,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b15&gt;&lt;f16&gt;ForEach&lt;/f16&gt;&lt;/b15&gt; &lt;f17&gt;Fruit&lt;/f17&gt;()
+?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052035Z" creationid="lansn-lan" creationdate="20160810T052035Z">
+        <seg>&lt;b15&gt;&lt;f16&gt;ForEach&lt;/f16&gt;&lt;/b15&gt; &lt;f17&gt;Fruit&lt;/f17&gt;()
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b15&gt;Save As...&lt;/b15&gt; &lt;br16&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023047Z" creationid="MysticBoy" creationdate="20160726T023047Z">
