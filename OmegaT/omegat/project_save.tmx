@@ -4903,6 +4903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f6&gt;; Shows "The brown dog."&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T053143Z" creationid="lansn-lan" creationdate="20160810T053143Z">
+        <seg>&lt;f6&gt;; 结果将输出 "The brown dog."&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f7&gt;#PB_PixelFormat_ReversedY&lt;/f7&gt;  : The Y-Coordinate of the output is reversed in memory (the bottom row is stored first).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043647Z" creationid="oSilas" creationdate="20150312T043647Z">
