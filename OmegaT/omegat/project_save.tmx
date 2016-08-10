@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;FindString()&lt;/a0&gt; - &lt;a1&gt;String Index&lt;/a1&gt; - &lt;a2&gt;InsertString()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015453Z" creationid="MysticBoy" creationdate="20160810T015453Z">
+        <seg>&lt;- &lt;a0&gt;FindString()&lt;/a0&gt; - &lt;a1&gt;String 索引&lt;/a1&gt; - &lt;a2&gt;InsertString()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;Input()&lt;/a0&gt; - &lt;a1&gt;Console Index&lt;/a1&gt; - &lt;a2&gt;Print()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082711Z" creationid="MysticBoy" creationdate="20160720T082711Z">
@@ -2590,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;RSet&lt;/f2&gt;(&lt;f3&gt;Hex&lt;/f3&gt;(12), 4, "0") &lt;f4&gt;; Will display "000C"&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015427Z" creationid="MysticBoy" creationdate="20160810T015427Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;RSet&lt;/f2&gt;(&lt;f3&gt;Hex&lt;/f3&gt;(12), 4, "0") &lt;f4&gt;; 将显示 "000C"&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Second&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(1970, 1, 1, 11, 3, 45))  &lt;f4&gt;; Outputs '45'.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T095109Z" creationid="blues" creationdate="20160730T095109Z">
@@ -3098,6 +3114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T110932Z" creationid="plp" creationdate="20160730T110932Z">
         <seg>&lt;b14&gt;使用图标&lt;/b14&gt; (仅限 Windows 和 MacOS X 系统) &lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b15&gt;&lt;f16&gt;Debug&lt;/f16&gt;&lt;/b15&gt; &lt;f17&gt;Hex&lt;/f17&gt;(-1, &lt;f18&gt;#PB_Quad&lt;/f18&gt;)    &lt;f19&gt;; quad value is the default&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015448Z" creationid="MysticBoy" creationdate="20160810T015448Z">
+        <seg>&lt;b15&gt;&lt;f16&gt;Debug&lt;/f16&gt;&lt;/b15&gt; &lt;f17&gt;Hex&lt;/f17&gt;(-1, &lt;f18&gt;#PB_Quad&lt;/f18&gt;)    &lt;f19&gt;; quad 值是默认的&lt;/f19&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4835,6 +4859,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new string with the inserted string at the specified position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015643Z" creationid="MysticBoy" creationdate="20160810T015643Z">
+        <seg>是一个指定位置处插入字符串的新字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A number of functions from older versions of PureBasic that have been removed from the package still exist for a while as a compatibility wrapper to allow older codes to be tested/ported more easily.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T083254Z" creationid="plp" creationdate="20160730T083254Z">
@@ -4903,6 +4935,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014716Z" creationid="MysticBoy" creationdate="20160810T014716Z">
         <seg>保存指定的值的二进制表示形式的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A string holding the hexadecimal representation of the specified value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015417Z" creationid="MysticBoy" creationdate="20160810T015417Z">
+        <seg>保存指定的值的十六进制表示形式字符串。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5639,6 +5679,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014304Z" creationid="MysticBoy" creationdate="20160810T014304Z">
         <seg>四数字转换为字符串，以二进制格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts a quad numeric number into a string, in hexadecimal format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015350Z" creationid="MysticBoy" creationdate="20160810T015350Z">
+        <seg>以十六进制格式将quad转换为字符串。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9548,6 +9596,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strings are the method used in order to store a list of characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015507Z" creationid="MysticBoy" creationdate="20160810T015507Z">
+        <seg>字符串是用来存储一个字符列表的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strings must be enclosed by inverted commas.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054344Z" creationid="漂流瓶儿" creationdate="20160802T054344Z">
@@ -10527,6 +10583,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first position index is 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015620Z" creationid="MysticBoy" creationdate="20160810T015620Z">
+        <seg>第一个的位置索引是 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following examples show how to handle the result:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043711Z" creationid="oSilas" creationdate="20150312T043711Z">
@@ -10903,6 +10967,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The position in the string to insert the new string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015611Z" creationid="MysticBoy" creationdate="20160810T015611Z">
+        <seg>要插入新的字符串的字符串中的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The position of the center pixel of the circle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041137Z" creationid="oSilas" creationdate="20141122T041137Z">
@@ -11207,10 +11279,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The string to insert.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015604Z" creationid="MysticBoy" creationdate="20160810T015604Z">
+        <seg>要插入的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The string to send.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141536Z">
         <seg>要发送的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The string to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015559Z" creationid="MysticBoy" creationdate="20160810T015559Z">
+        <seg>要使用的字符串。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13003,6 +13091,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034255Z" creationid="漂流瓶儿" creationdate="20160802T034159Z">
         <seg>没有这些参数选项，exe 将作为普通用户运行，但是虚拟化是打开的 （即注册表和文件重定向）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the functions supplied in this library, many essential actions may be performed upon strings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015551Z" creationid="MysticBoy" creationdate="20160810T015551Z">
+        <seg>在此库中提供的功能可以对字符串执行很多基本操作。</seg>
       </tuv>
     </tu>
     <tu>
