@@ -3783,6 +3783,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b3&gt;&lt;f4&gt;Repeat&lt;/f4&gt;&lt;/b3&gt;
+?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051441Z" creationid="lansn-lan" creationdate="20160810T051441Z">
+        <seg>&lt;b3&gt;&lt;f4&gt;Repeat&lt;/f4&gt;&lt;/b3&gt;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b41&gt;Build all Targets&lt;/b41&gt; &lt;br42&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T103220Z" creationid="plp" creationdate="20160730T103220Z">
