@@ -3646,6 +3646,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b2&gt;&lt;f3&gt;Repeat&lt;/f3&gt;&lt;/b2&gt;
+?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051605Z" creationid="lansn-lan" creationdate="20160810T051605Z">
+        <seg>&lt;b2&gt;&lt;f3&gt;Repeat&lt;/f3&gt;&lt;/b2&gt;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b2&gt;Project File&lt;/b2&gt; &lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143514Z" creationid="漂流瓶儿" creationdate="20160801T143514Z">
