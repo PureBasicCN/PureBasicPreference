@@ -7793,6 +7793,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It won't stop until you stop it (use the red X button on the IDE toolbar).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051554Z" creationid="lansn-lan" creationdate="20160810T051554Z">
+        <seg>它不会停止，直到您停止它 （IDE 工具栏上使用红色的 X 按钮）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's complementary to have finer change trace.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053828Z" creationid="MysticBoy" creationdate="20160726T053828Z">
