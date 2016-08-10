@@ -12563,8 +12563,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>This loop is very similar to the last except that the check is performed at the end of the loop.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051248Z" creationid="lansn-lan" creationdate="20160810T051248Z">
-        <seg>这种循环和上面的非常相似，只是在循环结束时执行检查。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051347Z" creationid="lansn-lan" creationdate="20160810T051248Z">
+        <seg>这种循环和上面的非常相似，只是在循环体结束时执行检查。</seg>
       </tuv>
     </tu>
     <tu>
