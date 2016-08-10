@@ -4647,6 +4647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;; Left returns a number of characters from the left hand end of a string.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052749Z" creationid="lansn-lan" creationdate="20160810T052749Z">
+        <seg>&lt;f2&gt;; Left 左从字符串的左边返回一个字符数.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;#PB_AntialiasingMode_x6&lt;/f3&gt;  : x6 fullscreen antialiasing (FSAA).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010858Z" creationid="MysticBoy" creationdate="20160801T010858Z">
