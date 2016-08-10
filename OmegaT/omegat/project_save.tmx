@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>'Character$' has to be a one character length string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020939Z" creationid="MysticBoy" creationdate="20160810T020939Z">
+        <seg>'Character$' 就是一个一个字符长度的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(*.* or an empty extension field searches all files).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121010Z" creationid="漂流瓶儿" creationdate="20160801T121010Z">
@@ -4931,6 +4939,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new string holding the original string padded with the specified character to fit the length.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020944Z" creationid="MysticBoy" creationdate="20160810T020944Z">
+        <seg>保持用指定的字符以适应长度填充原始字符串的新字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A new string with the inserted string at the specified position.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015643Z" creationid="MysticBoy" creationdate="20160810T015643Z">
@@ -5591,6 +5607,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065231Z" creationid="lansn-lan" creationdate="20160729T065231Z">
         <seg>更改指定串行端口状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Character$ (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020734Z" creationid="MysticBoy" creationdate="20160810T020734Z">
+        <seg>Character$ (可选)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7003,6 +7027,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the string is longer than the specified length, it will be truncated starting from the left side of the string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020950Z" creationid="MysticBoy" creationdate="20160810T020950Z">
+        <seg>如果字符串长度超过指定长度，则将其截断从字符串的左侧开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the value should be handled as another type, one of the following value can be specified:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014332Z" creationid="MysticBoy" creationdate="20160810T014332Z">
@@ -8400,6 +8432,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T113211Z">
         <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pads a string to the left by adding extra characters to fit the specified length.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020719Z" creationid="MysticBoy" creationdate="20160810T020719Z">
+        <seg>通过添加额外的字符，向左以适应指定的长度填充字符串。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10229,6 +10269,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character used to pad extra space in the new string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020812Z" creationid="MysticBoy" creationdate="20160810T020812Z">
+        <seg>用来填充字符串的字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014848Z" creationid="MysticBoy" creationdate="20160810T014848Z">
@@ -10546,6 +10594,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T023359Z" creationid="漂流瓶儿" creationdate="20160802T023359Z">
         <seg>调试器需要激活才产生影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default character is 'space'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020823Z" creationid="MysticBoy" creationdate="20160810T020823Z">
+        <seg>默认的字符是 'space'。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11431,6 +11487,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The string to pad.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020726Z" creationid="MysticBoy" creationdate="20160810T020726Z">
+        <seg>要填充的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The string to send.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141536Z">
@@ -11499,6 +11563,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140753Z" creationid="MysticBoy" creationdate="20160723T140753Z">
         <seg>此处显示的工具可以被配置，并且它甚至可以完全移除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The total length (in characters) of the new string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020733Z" creationid="MysticBoy" creationdate="20160810T020733Z">
+        <seg>总长度 （以字符为单位） 的新字符串。</seg>
       </tuv>
     </tu>
     <tu>
