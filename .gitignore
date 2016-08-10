@@ -6,3 +6,5 @@
 /source_dir/documentation/a.log
 /PureBasichelp
 /PureBasic.chm
+*.new
+*.old

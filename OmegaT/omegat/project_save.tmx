@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Red()&lt;/a0&gt;, &lt;a1&gt;Green()&lt;/a1&gt;, &lt;a2&gt;Blue()&lt;/a2&gt;, &lt;a3&gt;RGBA()&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080406Z" creationid="KKK" creationdate="20160810T080406Z">
+        <seg>&lt;a0&gt;Red()&lt;/a0&gt;, &lt;a1&gt;Green()&lt;/a1&gt;, &lt;a2&gt;Blue()&lt;/a2&gt;, &lt;a3&gt;RGBA()&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Reference manual&lt;/a0&gt; | &lt;a1&gt;Next: First steps &gt;&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T075227Z" creationid="lansn-lan" creationdate="20160801T075227Z">
@@ -5553,6 +5561,38 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alpha</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080235Z" creationid="KKK" creationdate="20160810T080200Z">
+        <seg>Alpha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alpha()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080247Z" creationid="KKK" creationdate="20160810T080213Z">
+        <seg>Alpha()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AlphaBlend</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080427Z" creationid="KKK" creationdate="20160810T080427Z">
+        <seg>AlphaBlend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AlphaBlend()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080432Z" creationid="KKK" creationdate="20160810T080432Z">
+        <seg>AlphaBlend()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also the shortcut keys Ctrl+Tab and Ctrl+Shift+Tab can be used to jump to the next or previous open source file, respectively.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020403Z" creationid="MysticBoy" creationdate="20160726T020403Z">
@@ -5687,6 +5727,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051048Z" creationid="lansn-lan" creationdate="20160810T051048Z">
         <seg>B +&lt;f5&gt; Random&lt;/f5&gt;(20)
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BackColor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080525Z" creationid="KKK" creationdate="20160810T080525Z">
+        <seg>设置背景色&lt;a4&gt;BackColor&lt;/a4&gt;&lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5949,10 +5997,50 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080335Z" creationid="KKK" creationdate="20160810T080335Z">
+        <seg>Color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color (optional)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135243Z" creationid="MysticBoy" creationdate="20160723T135243Z">
         <seg>Color (可选)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color = &lt;f0&gt;&lt;b1&gt;AlphaBlend&lt;/b1&gt;&lt;/f0&gt;(Color1, Color2)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080455Z" creationid="KKK" creationdate="20160810T080455Z">
+        <seg>颜色 = &lt;f0&gt;&lt;b1&gt;AlphaBlend&lt;/b1&gt;&lt;/f0&gt;(颜色1, 颜色2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T081722Z" creationid="KKK" creationdate="20160810T081722Z">
+        <seg>&lt;a7&gt;颜色表&lt;/a7&gt;&lt;br8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080500Z" creationid="KKK" creationdate="20160810T080500Z">
+        <seg>颜色1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080505Z" creationid="KKK" creationdate="20160810T080505Z">
+        <seg>颜色2</seg>
       </tuv>
     </tu>
     <tu>
@@ -6009,6 +6097,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105352Z" creationid="MysticBoy" creationdate="20160721T105352Z">
         <seg>编译时间真的很快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiler Directives</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T081726Z" creationid="KKK" creationdate="20160810T081726Z">
+        <seg>&lt;a12&gt;编译器指令&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiler Functions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T081729Z" creationid="KKK" creationdate="20160810T081729Z">
+        <seg>&lt;a14&gt;编译器功能&lt;/a14&gt;&lt;br15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6169,6 +6273,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T050955Z" creationid="oSilas" creationdate="20151013T050955Z">
         <seg>自定义 IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T081731Z" creationid="KKK" creationdate="20160810T081731Z">
+        <seg>&lt;a6&gt;数据&lt;/a6&gt;&lt;br7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9150,6 +9262,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RGBA()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080509Z" creationid="KKK" creationdate="20160810T080509Z">
+        <seg>RGBA()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RIT stands for 'ReadIntervalTimeout'.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T064038Z" creationid="lansn-lan" creationdate="20160729T063406Z">
@@ -9258,6 +9378,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063633Z" creationid="plp" creationdate="20160801T063633Z">
         <seg>继续按下快捷键会进一步扩大选择代码块的范围。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result = &lt;f0&gt;&lt;b1&gt;Alpha&lt;/b1&gt;&lt;/f0&gt;(Color)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080327Z" creationid="KKK" creationdate="20160810T080327Z">
+        <seg>结果 = &lt;f0&gt;&lt;b1&gt;Alpha&lt;/b1&gt;&lt;/f0&gt;(颜色)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14097,6 +14225,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>alpha.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080513Z" creationid="KKK" creationdate="20160810T080513Z">
+        <seg>alpha.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>alphablend.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080412Z" creationid="KKK" creationdate="20160810T080412Z">
+        <seg>alphablend.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>alphasnd@purebasic.com</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093301Z" creationid="MysticBoy" creationdate="20160725T092838Z">
@@ -14121,6 +14265,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>backcolor.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080519Z" creationid="KKK" creationdate="20160810T080519Z">
+        <seg>backcolor.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>based on established BASIC rules on &lt;a1&gt;spiderbasic.com&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084414Z" creationid="MysticBoy" creationdate="20160721T054811Z">
@@ -14133,6 +14285,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054714Z" creationid="MysticBoy" creationdate="20160721T054714Z">
         <seg>BASIC编程网络语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>blue.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080358Z" creationid="KKK" creationdate="20160810T080358Z">
+        <seg>blue.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -14329,6 +14489,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>green.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080357Z" creationid="KKK" creationdate="20160810T080357Z">
+        <seg>green.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://forums.purebasic.com</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084914Z" creationid="MysticBoy" creationdate="20160725T084914Z">
@@ -14365,6 +14533,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T083431Z" creationid="MysticBoy" creationdate="20160725T083431Z">
         <seg>http://www.spiderbasic.cn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080350Z" creationid="KKK" creationdate="20160810T080350Z">
+        <seg>index.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -14509,6 +14685,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20160723T165618Z" creationid="Administrator" creationdate="20160723T165618Z">
         <seg>PureBasic开发随感</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>red.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080355Z" creationid="KKK" creationdate="20160810T080355Z">
+        <seg>red.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rgba.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080347Z" creationid="KKK" creationdate="20160810T080347Z">
+        <seg>rgba.html</seg>
       </tuv>
     </tu>
     <tu>
