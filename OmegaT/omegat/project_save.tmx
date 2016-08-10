@@ -4601,14 +4601,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;f2&gt;; B = 100&lt;/f2&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T050935Z" creationid="lansn-lan" creationdate="20160810T050935Z">
-        <seg>&lt;f2&gt;  B = 100&lt;/f2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>&lt;f2&gt;; Bitwise And with 1 (A will become 1)&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012554Z" creationid="lansn-lan" creationdate="20160803T012554Z">
@@ -5599,6 +5591,16 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T074628Z" creationid="漂流瓶儿" creationdate="20160801T074628Z">
         <seg>自动完成：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B +&lt;f5&gt; Random&lt;/f5&gt;(20)
+?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051048Z" creationid="lansn-lan" creationdate="20160810T051048Z">
+        <seg>B +&lt;f5&gt; Random&lt;/f5&gt;(20)
+</seg>
       </tuv>
     </tu>
     <tu>
