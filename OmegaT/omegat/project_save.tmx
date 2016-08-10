@@ -8876,6 +8876,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic is a portable programming language which currently works on Linux, Mac OS X and Windows computer systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035105Z" creationid="MysticBoy" creationdate="20160810T035105Z">
+        <seg>PureBasic 是一种便携式的编程语言，目前在 Linux、 Mac OS X 和 Windows 计算机系统上都可以运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic is a programming language based on established BASIC rules</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054204Z" creationid="MysticBoy" creationdate="20160721T054204Z">
@@ -11687,6 +11695,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The syntax is easy and the possibilities are huge with the "advanced" functions that have been added to this language like pointers, structures, procedures, dynamic lists and much more.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035046Z" creationid="MysticBoy" creationdate="20160810T035046Z">
+        <seg>语法很简单，但具有无限可能的PureBasic的高级函数添加到这个语言中，比如指针，结构，程序，动态链接列表等等.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The syntax is simple but the possibilities are endless with PureBasic's advanced features, such as pointers, structures, procedures, dynamically linked lists and much more.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105844Z" creationid="MysticBoy" creationdate="20160721T105844Z">
@@ -12495,6 +12511,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means that the same code can be compiled natively for the OS and use the full power of each.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035132Z" creationid="MysticBoy" creationdate="20160810T035132Z">
+        <seg>这意味着，相同的代码可以在所有系统中本地编译并仍然能使用每个系统下的全部功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This message is also logged in the error log, and the line that caused the error is marked.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T082629Z" creationid="plp" creationdate="20160730T082629Z">
@@ -13131,6 +13155,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105534Z" creationid="MysticBoy" creationdate="20160721T105534Z">
         <seg>我们投入大量的精力来研发快速、 可靠的系统友好语言及其实现。.&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have put a lot of effort into its realization to produce a fast, reliable and system-friendly language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034904Z" creationid="MysticBoy" creationdate="20160810T034904Z">
+        <seg>我们有大量的精力投入研发了一种快速、 可靠和系统友好的语言及其实现。</seg>
       </tuv>
     </tu>
     <tu>
