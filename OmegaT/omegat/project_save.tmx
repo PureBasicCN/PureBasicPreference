@@ -8460,6 +8460,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Port Numbers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160810T021633Z" creationid="漂流瓶儿" creationdate="20160810T021633Z">
+        <seg>端口号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Possible tokens are:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094513Z" creationid="blues" creationdate="20160730T094513Z">
@@ -10795,6 +10803,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045410Z" creationid="oSilas" creationdate="20150312T045410Z">
         <seg>以下是一个示例，因为 XOR'ed 空心形状：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following nomination provides a list of the most important port numbers and their meaning.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160810T021727Z" creationid="漂流瓶儿" creationdate="20160810T021727Z">
+        <seg>下面提供的是非常重要的端口号和含义的列表。</seg>
       </tuv>
     </tu>
     <tu>
