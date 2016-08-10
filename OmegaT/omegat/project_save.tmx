@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;Hex()&lt;/a0&gt; - &lt;a1&gt;String Index&lt;/a1&gt; - &lt;a2&gt;LCase()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015700Z" creationid="MysticBoy" creationdate="20160810T015700Z">
+        <seg>&lt;- &lt;a0&gt;Hex()&lt;/a0&gt; - &lt;a1&gt;String 索引&lt;/a1&gt; - &lt;a2&gt;LCase()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;Input()&lt;/a0&gt; - &lt;a1&gt;Console Index&lt;/a1&gt; - &lt;a2&gt;Print()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082711Z" creationid="MysticBoy" creationdate="20160720T082711Z">
@@ -2566,6 +2574,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;InsertString&lt;/f2&gt;("Hello !", "World", 7)  &lt;f3&gt;; Will display "Hello World!"&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015651Z" creationid="MysticBoy" creationdate="20160810T015651Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;InsertString&lt;/f2&gt;("Hello !", "World", 7)  &lt;f3&gt;; 将显示 "Hello World!"&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;LCase&lt;/f2&gt;("This is Art") &lt;f3&gt;; Will display "this is art"&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015811Z" creationid="MysticBoy" creationdate="20160810T015811Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;LCase&lt;/f2&gt;("This is Art") &lt;f3&gt;; 将显示"this is art"&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Minute&lt;/f2&gt;(&lt;f3&gt;Date&lt;/f3&gt;(1970, 1, 1, 11, 3, 45))  &lt;f4&gt;; Outputs '3'.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T093553Z" creationid="blues" creationdate="20160730T093553Z">
@@ -3603,6 +3627,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T065414Z" creationid="blues" creationdate="20160730T065414Z">
         <seg>&lt;b4&gt;&lt;f5&gt;Debug&lt;/f5&gt;&lt;/b4&gt; &lt;f6&gt;Date&lt;/f6&gt;(1999, 12, 31, 23, 59, 59)  &lt;f7&gt;; 将输出 '946684799' ( 从 01/01/1970 0:00:00 到 12/31/1999 23:59:59 的秒数)&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b4&gt;&lt;f5&gt;Debug&lt;/f5&gt;&lt;/b4&gt; &lt;f6&gt;InsertString&lt;/f6&gt;("Hello !", "World", 1)  &lt;f7&gt;; Will display "WorldHello !"&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015657Z" creationid="MysticBoy" creationdate="20160810T015657Z">
+        <seg>&lt;b4&gt;&lt;f5&gt;Debug&lt;/f5&gt;&lt;/b4&gt; &lt;f6&gt;InsertString&lt;/f6&gt;("Hello !", "World", 1)  &lt;f7&gt;; 将显示"WorldHello !"&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9084,6 +9116,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the string converted into lower case characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015718Z" creationid="MysticBoy" creationdate="20160810T015718Z">
+        <seg>返回的字符串转换为小写字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the string value of specified object, or an empty string if not found.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090605Z" creationid="MysticBoy" creationdate="20160802T090605Z">
@@ -11247,6 +11287,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The string converted into lowercase.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015755Z" creationid="MysticBoy" creationdate="20160810T015755Z">
+        <seg>转换为小写后的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The string first character value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T013823Z" creationid="MysticBoy" creationdate="20160810T013823Z">
@@ -11267,6 +11315,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015314Z" creationid="MysticBoy" creationdate="20160810T015314Z">
         <seg>要将计数输入字符串中的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The string to convert into lowercase.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015723Z" creationid="MysticBoy" creationdate="20160810T015723Z">
+        <seg>要转换为小写的字符串。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11851,6 +11907,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T141250Z">
         <seg>此函数允许您更改光标的高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This function also supports accent letters, so if a upper 'É' is found, it will be transformed into 'é'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015803Z" creationid="MysticBoy" creationdate="20160810T015803Z">
+        <seg>此功能还支持重音字母，所以如果发现上部的 'É'，它将变成 'é'。</seg>
       </tuv>
     </tu>
     <tu>
