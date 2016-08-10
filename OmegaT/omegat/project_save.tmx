@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;String Index&lt;/a0&gt; - &lt;a1&gt;Bin()&lt;/a1&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014221Z" creationid="MysticBoy" creationdate="20160810T014221Z">
+        <seg>&lt;a0&gt;String 索引&lt;/a0&gt; - &lt;a1&gt;Bin()&lt;/a1&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Using the command line compiler&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T052347Z" creationid="MysticBoy" creationdate="20160802T052347Z">
@@ -3945,6 +3953,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_Quad&lt;/f0&gt;   : The value is handled as a quad number, ranging from 0 to 18446744073709551615 (default)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014342Z" creationid="MysticBoy" creationdate="20160810T014342Z">
+        <seg>&lt;f0&gt;#PB_Quad&lt;/f0&gt; ︰ 值处理为四数，范围从 0 到 18446744073709551615 （默认值）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_SerialPort_DTR&lt;/f0&gt;: set DTR signal status (value can be 0 or 1)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065311Z" creationid="lansn-lan" creationdate="20160729T065311Z">
@@ -4105,6 +4121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_Byte&lt;/f1&gt;   : The value is handled as a byte number, ranging from 0 to 255</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014347Z" creationid="MysticBoy" creationdate="20160810T014347Z">
+        <seg>&lt;f1&gt;#PB_Byte&lt;/f1&gt; ︰ 值处理为字节数，介于 0 到 255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;#PB_Date_Month&lt;/f1&gt;  : Will add 'Value' Months to the date</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063153Z" creationid="blues" creationdate="20160730T063111Z">
@@ -4189,6 +4213,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010847Z" creationid="MysticBoy" creationdate="20160801T010847Z">
         <seg>&lt;f2&gt;#PB_AntialiasingMode_x4&lt;/f2&gt;  : x4 全屏反锯齿 (FSAA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_Ascii&lt;/f2&gt;  : The value is handled as a ascii character, ranging from 0 to 255</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014353Z" creationid="MysticBoy" creationdate="20160810T014353Z">
+        <seg>&lt;f2&gt;#PB_Ascii&lt;/f2&gt; ︰ 价值作为 ascii 字符，从 0 到 255 的字符处理</seg>
       </tuv>
     </tu>
     <tu>
@@ -4799,6 +4831,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T081938Z" creationid="MysticBoy" creationdate="20160720T081938Z">
         <seg>ASCII码表点&lt;a2&gt;这里&lt;/a2&gt;查看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A table with all Ascii values and their relating figures may be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014216Z" creationid="MysticBoy" creationdate="20160810T014216Z">
+        <seg>所有的 Ascii 值与他们有关的数据的表可以&lt;a0&gt;在这里&lt;/a0&gt;查看。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5511,6 +5551,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022931Z" creationid="MysticBoy" creationdate="20160726T022931Z">
         <seg>"文件"菜单内容:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts a quad numeric number into a string, in binary format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014304Z" creationid="MysticBoy" creationdate="20160810T014304Z">
+        <seg>四数字转换为字符串，以二进制格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6739,6 +6787,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the value should be handled as another type, one of the following value can be specified:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014332Z" creationid="MysticBoy" creationdate="20160810T014332Z">
+        <seg>如果值应处理作为另一种类型，可以指定以下值之一︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the version does not match then the standalone debugger that comes with the selected compiler will be used for debugging to avoid version conflicts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T110635Z" creationid="plp" creationdate="20160730T110635Z">
@@ -7159,6 +7215,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T112500Z" creationid="plp" creationdate="20160730T112500Z">
         <seg>它正在你的程序窗口的标题栏和任务栏显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also possible to obtain a constant character value while placing it between apostrophes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014145Z" creationid="MysticBoy" creationdate="20160810T014145Z">
+        <seg>同样，也可用放在单引号之间获得一个常量字符值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10671,6 +10735,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number to convert.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014316Z" creationid="MysticBoy" creationdate="20160810T014316Z">
+        <seg>要转换的数字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The object number to bind the event to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160731T164548Z" creationid="MysticBoy" creationdate="20160731T164548Z">
@@ -12259,6 +12331,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094240Z" creationid="blues" creationdate="20160730T094240Z">
         <seg>将字符串日期转换为日期格式，然后其他日期函数可以使用它.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014318Z" creationid="MysticBoy" creationdate="20160810T014318Z">
+        <seg>Type (可选)</seg>
       </tuv>
     </tu>
     <tu>
