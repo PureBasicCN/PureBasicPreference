@@ -4601,6 +4601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;; B = 100&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T050935Z" creationid="lansn-lan" creationdate="20160810T050935Z">
+        <seg>&lt;f2&gt;  B = 100&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f2&gt;; Bitwise And with 1 (A will become 1)&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012554Z" creationid="lansn-lan" creationdate="20160803T012554Z">
@@ -10535,8 +10543,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The check is performed at the start of the loop - so if the condition is already true, zero iterations may be performed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T044745Z" creationid="lansn-lan" creationdate="20160810T044531Z">
-        <seg>在循环开始时会执行检查，当随机数为 0 ，If 条件为True，条件成立， 循环将结束.</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T050923Z" creationid="lansn-lan" creationdate="20160810T044531Z">
+        <seg>在循环开始时会执行检查，当随机数为 0 时 ，If 条件为True，条件成立， 循环将结束.</seg>
       </tuv>
     </tu>
     <tu>
