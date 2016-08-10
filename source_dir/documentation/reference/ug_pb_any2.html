@@ -4,20 +4,20 @@
 
 In the <a href="ug_pb_any1.html">previous article</a> we examined one way in which a program 
 can support multiple instances of a single type of <a href="../window/index.html">window</a>. In this 
-one we are going to extend this concept further – developing a program that can support 
+one we are going to extend this concept further ?developing a program that can support 
 multiple instances of several different types of window, in this case three: 
 <blockquote>
 
-- The Button window – contains a <a href="../gadget/listviewgadget.html">list view</a> and two 
+- The Button window ?contains a <a href="../gadget/listviewgadget.html">list view</a> and two 
 <a href="../gadget/buttongadget.html">buttons</a> labelled 'Add' and 'Remove'. When the 'Add' button 
 is clicked a <a href="../math/random.html">random</a> integer is added to the list view, when the 
 'Remove' button is clicked the currently highlighted entry in the list view is removed. 
 <br>
-- The Date window – contains a list view and two buttons in the same way as the Button 
+- The Date window ?contains a list view and two buttons in the same way as the Button 
 window but also contains a <a href="../gadget/calendargadget.html">calendar gadget</a> too, the 
 window layout is altered to accommodate this additional control. When the 'Add' button 
 is clicked, it is the currently selected date that is added to the list view. 
-- The Track window – contains two <a href="../gadget/trackbargadget.html">track bars</a>, with a 
+- The Track window ?contains two <a href="../gadget/trackbargadget.html">track bars</a>, with a 
 value between 0 and 100, and a <a href="../gadget/stringgadget.html">string gadget</a>. When the 
 track bars are moved the string gadget is updated with the value of the second track 
 bar subtracted from the first. 
@@ -32,7 +32,7 @@ Things to notice about this program are:
 <br>
 <br>
 In the Structures section 4 <a href="structures.html">structures</a> are defined. The 
-first, BASEWINDOW, defines a WindowClass value and a Menu value – these values are 
+first, BASEWINDOW, defines a WindowClass value and a Menu value ?these values are 
 common to each window type. 
 <br>
 <br>
@@ -43,7 +43,7 @@ unique controls that they require and which are not provided for by the BASEWIND
 In the <a href="variables.html">Variables</a> section note that again a <a href="newmap.html">map</a> 
 called ActiveWindows is created, however this time it is of integer type, it doesn’t use 
 any of the defined structures. There is a good reason for this, we need to store three 
-different structure types to make this program work – and we can’t do this in a single map. 
+different structure types to make this program work ?and we can’t do this in a single map. 
 <br>
 <br>
 Also notice that *EventGadgets is defined using the BASEWINDOW structure. 
@@ -62,11 +62,11 @@ able to store all three of the different structures in the same map.
 <br>
 <br>
 We also set the WindowClass value in the structure to #WindowClassButton to indicate which 
-type of window, and therefore which type of structure, has been created – we will need to 
+type of window, and therefore which type of structure, has been created ?we will need to 
 know this later on. 
 <br>
 <br>
-There are two more CreateWindow procedures this time – one for each class of the other 
+There are two more CreateWindow procedures this time ?one for each class of the other 
 window types. They work in a similar way to that described, differing only where the 
 window’s gadgets are different and setting a different value in WindowClass. 
 <br>
@@ -74,7 +74,7 @@ window’s gadgets are different and setting a different value in WindowClass.
 Similarly we provide DestroyWindow and ResizeWindow procedures to take care of these functions. 
 <br>
 <br>
-We also provide a new procedure – EventsButtonWindow. This procedure knows what to do when 
+We also provide a new procedure ?EventsButtonWindow. This procedure knows what to do when 
 any of the gadgets on the window are activated by the user. Similar procedures are provided 
 for the other window types too. 
 <br>
@@ -85,7 +85,7 @@ that we need to work with in each of these procedures:
 <pre><font face="Courier New, Courier, mono"size="2">  *ThisData =<font color="#3A3966"> ActiveWindows</font>(ThisKey)
   *ThisData\ListView ...
 </font></pre>
-Each procedure only knows how to handle one type of window – so before we start work we 
+Each procedure only knows how to handle one type of window ?so before we start work we 
 check the WindowClass value to make sure that a window of the correct type has been 
 supplied as the argument something like this: 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">If</font></b> *ThisData\WindowClass &lt;&gt; <font color="#924B72">#WindowClassButton</font>
@@ -101,8 +101,8 @@ it is defined as the BASEWINDOW type and BASEWINDOW is the ancestor structure to
 structures. 
 <br>
 <br>
-Providing we don’t attempt to change any of the stored values using *EventGadgets – and 
-we’ve no reason to do so – all should be well. 
+Providing we don’t attempt to change any of the stored values using *EventGadgets ?and 
+we’ve no reason to do so ?all should be well. 
 <br>
 <br>
 Finally, we despatch the recorded event values in EventWindow, EventGadget, EventType 
