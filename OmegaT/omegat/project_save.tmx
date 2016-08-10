@@ -5727,6 +5727,16 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C +&lt;f5&gt; Random&lt;/f5&gt;(20)
+?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051501Z" creationid="lansn-lan" creationdate="20160810T051501Z">
+        <seg>C +&lt;f5&gt; Random&lt;/f5&gt;(20)
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can I create commercial applications with PureBasic ?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091449Z" creationid="MysticBoy" creationdate="20160725T091449Z">
@@ -12567,6 +12577,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T033642Z" creationid="lansn-lan" creationdate="20160729T033642Z">
         <seg>此类库提供完全访问计算机上可用的串行端口的权限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This loop is infinite.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051522Z" creationid="lansn-lan" creationdate="20160810T051522Z">
+        <seg>这种循环是无限循环（死循环）。</seg>
       </tuv>
     </tu>
     <tu>
