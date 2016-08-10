@@ -3955,8 +3955,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_Quad&lt;/f0&gt;   : The value is handled as a quad number, ranging from 0 to 18446744073709551615 (default)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014342Z" creationid="MysticBoy" creationdate="20160810T014342Z">
-        <seg>&lt;f0&gt;#PB_Quad&lt;/f0&gt; ︰ 值处理为四数，范围从 0 到 18446744073709551615 （默认值）</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014514Z" creationid="MysticBoy" creationdate="20160810T014342Z">
+        <seg>&lt;f0&gt;#PB_Quad&lt;/f0&gt; ︰ 值作为Quad来处理，范围从 0 到 18446744073709551615 （默认值）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4123,8 +4123,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f1&gt;#PB_Byte&lt;/f1&gt;   : The value is handled as a byte number, ranging from 0 to 255</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014347Z" creationid="MysticBoy" creationdate="20160810T014347Z">
-        <seg>&lt;f1&gt;#PB_Byte&lt;/f1&gt; ︰ 值处理为字节数，介于 0 到 255</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014539Z" creationid="MysticBoy" creationdate="20160810T014347Z">
+        <seg>&lt;f1&gt;#PB_Byte&lt;/f1&gt; ︰ 值作为Byte来处理，介于 0 到 255</seg>
       </tuv>
     </tu>
     <tu>
@@ -4219,8 +4219,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f2&gt;#PB_Ascii&lt;/f2&gt;  : The value is handled as a ascii character, ranging from 0 to 255</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014353Z" creationid="MysticBoy" creationdate="20160810T014353Z">
-        <seg>&lt;f2&gt;#PB_Ascii&lt;/f2&gt; ︰ 价值作为 ascii 字符，从 0 到 255 的字符处理</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014606Z" creationid="MysticBoy" creationdate="20160810T014353Z">
+        <seg>&lt;f2&gt;#PB_Ascii&lt;/f2&gt; ︰ 值作为 ascii 字符来处理，范围从 0 到 255 </seg>
       </tuv>
     </tu>
     <tu>
@@ -4353,6 +4353,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f3&gt;#PB_Word&lt;/f3&gt;   : The value is handled as a word number, ranging from 0 to 65535</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014621Z" creationid="MysticBoy" creationdate="20160810T014416Z">
+        <seg>&lt;f3&gt;#PB_Word&lt;/f3&gt; ︰ 值作为word处理，范围从 0 到 65535 之间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;; Arithmetic shift left (A will become 2, that is 10 in binary).&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012834Z" creationid="lansn-lan" creationdate="20160803T012754Z">
@@ -4417,10 +4425,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f4&gt;#PB_Unicode&lt;/f4&gt;: The value is handled as a unicode character, ranging from 0 to 65535</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014631Z" creationid="MysticBoy" creationdate="20160810T014424Z">
+        <seg>&lt;f4&gt;#PB_Unicode&lt;/f4&gt;︰ 值作为一个 unicode 字符处理，从 0 到 65535 之间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f5&gt;#PB_Date_Minute&lt;/f5&gt; : Will add 'Value' Minutes to the date</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063240Z" creationid="blues" creationdate="20160730T063240Z">
         <seg>&lt;f5&gt;#PB_Date_Minute&lt;/f5&gt; : Will add 'Value' Minutes to the date【以&lt;分钟&gt;为单位添加到日期】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f5&gt;#PB_Long&lt;/f5&gt;   : The value is handled as a long number, ranging from 0 to 4294967296</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014653Z" creationid="MysticBoy" creationdate="20160810T014447Z">
+        <seg>&lt;f5&gt;#PB_Long&lt;/f5&gt; ︰ 值作为一个long 来处理，范围从 0 到 4294967296 </seg>
       </tuv>
     </tu>
     <tu>
