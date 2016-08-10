@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- &lt;b0&gt;Timo 'Fr34k' Harter&lt;/b0&gt;: For the IDE, Debugger, many commands and the great ideas.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163416Z" creationid="MysticBoy" creationdate="20160810T163416Z">
+        <seg>- &lt;b0&gt;Timo 'Fr34k' Harter&lt;/b0&gt;: IDE, 调试程序,以及一些命令和好主意.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- &lt;b2&gt;Return values&lt;/b2&gt; of commands are always &lt;a3&gt;Integer&lt;/a3&gt; if no other type is specified in the Syntax line of the command description.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055447Z" creationid="漂流瓶儿" creationdate="20160802T055447Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035645Z" creationid="MysticBoy" creationdate="20160810T035630Z">
         <seg>- 所有标准 &lt;f47&gt;&lt;b48&gt;BASIC 关键词: If-Else-EndIf, Repeat-Until, 等等....&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- All the registered users: To support this software...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163335Z" creationid="MysticBoy" creationdate="20160810T163335Z">
+        <seg>- 所有的用户: 支持此软件...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5345,6 +5361,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acknowledgements</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163153Z" creationid="MysticBoy" creationdate="20160810T163153Z">
+        <seg>鸣谢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add an amount of time to a date.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T062559Z" creationid="blues" creationdate="20160730T061805Z">
@@ -5993,6 +6017,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081237Z" creationid="lansn-lan" creationdate="20160729T081237Z">
         <seg>关闭先前使用函数 &lt;a0&gt;OpenSerialPort()&lt;/a0&gt;打开的串行端口.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coders</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163351Z" creationid="MysticBoy" creationdate="20160810T163351Z">
+        <seg>程序员</seg>
       </tuv>
     </tu>
     <tu>
@@ -8005,6 +8037,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It would not have been possible without them !</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163312Z" creationid="MysticBoy" creationdate="20160810T163312Z">
+        <seg>这个项目离不开他们！ !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's a good idea to consider adding the "PureBasic\Compilers\" directory to the PATH environment variable to make the compiler accessible from any directory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163013Z" creationid="MysticBoy" creationdate="20160810T163013Z">
@@ -8201,6 +8241,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T125954Z" creationid="漂流瓶儿" creationdate="20160801T121819Z">
         <seg>管理项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many Thanks !</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163343Z" creationid="MysticBoy" creationdate="20160810T163343Z">
+        <seg>很感谢你们!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9962,6 +10010,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110759Z">
         <seg>参阅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See also the chapter &lt;a4&gt;Using several PureBasic versions&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163139Z" creationid="MysticBoy" creationdate="20160810T163139Z">
+        <seg>请参阅&lt;a4&gt;使用多个 PureBasic 版本&lt;/a4&gt;章节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13661,6 +13717,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T071400Z" creationid="lansn-lan" creationdate="20160801T071252Z">
         <seg>我们开始使用PureBasic编程前，通过手册指导可以让你对PureBasic有个基本的了解.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We would like to thank the many people who have helped in this ambitious project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163200Z" creationid="MysticBoy" creationdate="20160810T163144Z">
+        <seg>我们要感谢那些帮助过这个雄心勃勃的项目中很多人。</seg>
       </tuv>
     </tu>
     <tu>
