@@ -7717,6 +7717,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T162647Z" creationid="MysticBoy" creationdate="20160810T162647Z">
+        <seg>安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internet TV</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091020Z" creationid="MysticBoy" creationdate="20160725T091020Z">
@@ -8818,6 +8826,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T090557Z" creationid="漂流瓶儿" creationdate="20160801T090557Z">
         <seg>或快速查看有多处折叠项的完整代码时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T162647Z" creationid="MysticBoy" creationdate="20160810T162647Z">
+        <seg>订单</seg>
       </tuv>
     </tu>
     <tu>
