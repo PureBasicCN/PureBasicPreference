@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;Bin()&lt;/a0&gt; - &lt;a1&gt;String Index&lt;/a1&gt; - &lt;a2&gt;CountString()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015136Z" creationid="MysticBoy" creationdate="20160810T015136Z">
+        <seg>&lt;- &lt;a0&gt;Bin()&lt;/a0&gt; - &lt;a1&gt;String 索引&lt;/a1&gt; - &lt;a2&gt;CountString()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;Blue()&lt;/a0&gt; - &lt;a1&gt;2DDrawing Index&lt;/a1&gt; - &lt;a2&gt;BoxedGradient()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T151533Z">
@@ -2502,6 +2510,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Chr&lt;/f2&gt;(33) &lt;f3&gt;; Will display "!"&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015146Z" creationid="MysticBoy" creationdate="20160810T015146Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Chr&lt;/f2&gt;(33) &lt;f3&gt;; 将显示 "!"&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Chr&lt;/f2&gt;(401) &lt;f3&gt;; will display "?"&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015126Z" creationid="MysticBoy" creationdate="20160810T015126Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Chr&lt;/f2&gt;(401) &lt;f3&gt;; 将显示 "?"&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;Date&lt;/f2&gt;() / (3600*24*365)  &lt;f3&gt;; will print the number of years since 01/01/1970 and now&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T065323Z" creationid="blues" creationdate="20160730T065323Z">
@@ -3539,6 +3563,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022232Z" creationid="MysticBoy" creationdate="20160726T022232Z">
         <seg>&lt;b49&gt;会话历史&lt;/b49&gt;&lt;br50&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b4&gt;&lt;f5&gt;Debug&lt;/f5&gt;&lt;/b4&gt; &lt;f6&gt;Chr&lt;/f6&gt;(956) &lt;f7&gt;; will display "¼"&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015133Z" creationid="MysticBoy" creationdate="20160810T015133Z">
+        <seg>&lt;b4&gt;&lt;f5&gt;Debug&lt;/f5&gt;&lt;/b4&gt; &lt;f6&gt;Chr&lt;/f6&gt;(956) &lt;f7&gt;; 将显示 "¼"&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10615,6 +10647,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The input string to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015245Z" creationid="MysticBoy" creationdate="20160810T015245Z">
+        <seg>要使用的传入字符串.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The key features of PureBasic are portability (Windows, Linux and MacOS X are currently supported), the production of very fast and highly optimized executables and, of course, the very simple BASIC syntax.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055114Z" creationid="MysticBoy" creationdate="20160721T055114Z">
@@ -11151,6 +11191,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The string to be counted in the input string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015314Z" creationid="MysticBoy" creationdate="20160810T015314Z">
+        <seg>要将计数输入字符串中的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The string to get the first character value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T013814Z" creationid="MysticBoy" creationdate="20160810T013814Z">
@@ -11619,6 +11667,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T151514Z">
         <seg>这种颜色可以使用&lt;a1&gt;RGB&lt;/a1&gt;或&lt;a2&gt;RGBA&lt;/a2&gt;格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This command also works in &lt;a3&gt;Unicode mode&lt;/a3&gt; and then returns the related characters associated to the given value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015104Z" creationid="MysticBoy" creationdate="20160810T015104Z">
+        <seg>此命令还可以在&lt;a3&gt;Unicode 模式下&lt;/a3&gt;工作，然后返回与指定值相关联的字符。</seg>
       </tuv>
     </tu>
     <tu>
