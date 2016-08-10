@@ -326,10 +326,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- All Standard BASIC keywords: If-Else-EndIf, Repeat-Until, etc &lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035645Z" creationid="MysticBoy" creationdate="20160810T035630Z">
+        <seg>- 所有标准 &lt;f47&gt;&lt;b48&gt;BASIC 关键词: If-Else-EndIf, Repeat-Until, 等等....&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Built-in arrays, dynamic lists, complex structures, pointers and variable definitions &lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035244Z" creationid="MysticBoy" creationdate="20160810T035244Z">
-        <seg>- 内置数组，动态链表，复杂结构，指针和变量自定义&lt;br37&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035712Z" creationid="MysticBoy" creationdate="20160810T035244Z">
+        <seg>- 内置数组，动态链表，复杂结构，指针和变量自定义&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Extremely fast compilation &lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035526Z" creationid="MysticBoy" creationdate="20160810T035526Z">
+        <seg>-极快速编译 &lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- In the PureBasic documentation are used the terms "commands" and "functions" as well - this is one and the same, independently of a return-value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055801Z" creationid="漂流瓶儿" creationdate="20160802T055801Z">
@@ -526,10 +542,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Procedure support for structured programming with local and global variables &lt;br10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035638Z" creationid="MysticBoy" creationdate="20160810T035619Z">
+        <seg>   - 过程支持本地和全局变量的结构编程&lt;br10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Specialized libraries are very optimized for maximum speed and compactness &lt;br13&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034716Z" creationid="MysticBoy" creationdate="20160810T034716Z">
         <seg>- 专业的库经过了高度优化为了最快速度和压缩度 &lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Specialized libraries to manipulate BMP pictures, windows, gadgets, DirectX, etc &lt;br12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035807Z" creationid="MysticBoy" creationdate="20160810T035807Z">
+        <seg>- 专业库来操纵 BMP 图片、 windows、 控件，DirectX，等 &lt;br12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Standard arithmetic support in respect of sign priority and parenthesis: +, -, /, *, and, or, &lt;&lt;, &gt;&gt; &lt;br8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035557Z" creationid="MysticBoy" creationdate="20160810T035557Z">
+        <seg>-标准算术支持标志优先和括号: +，-，/，*，and，or ，&lt; &lt;，&gt; &gt; &lt;br8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,8 +600,8 @@
       <tuv lang="EN-US">
         <seg>- Supported types: Byte (8-bit), Word (16-bit), Long (32-bit), Quad (64-bit), Float (32-bit), Double (64-bit) and Characters &lt;br2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035312Z" creationid="MysticBoy" creationdate="20160810T035312Z">
-        <seg>- 支持类型有: Byte (8-bit), Word (16-bit), Long (32-bit), Float (32-bit), Quad (64-bit), Double (64-bit) 和字符串&lt;br38&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035707Z" creationid="MysticBoy" creationdate="20160810T035312Z">
+        <seg>- 支持类型有: Byte (8-bit), Word (16-bit), Long (32-bit), Float (32-bit), Quad (64-bit), Double (64-bit) 和字符串&lt;br2&gt;&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6655,6 +6695,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T030109Z" creationid="漂流瓶儿" creationdate="20160802T030109Z">
         <seg>更多详情请查看 &lt;a28&gt;subsystems&lt;/a28&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the experienced coder, there are no problems gaining access to any of the legal OS structures or API objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035728Z" creationid="MysticBoy" creationdate="20160810T035728Z">
+        <seg>经验丰富的程序员可以毫不费力的使用OS中的结构或API对象。&lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
