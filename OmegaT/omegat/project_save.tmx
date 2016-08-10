@@ -11115,8 +11115,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The following example shows step by step the different commands of the &lt;a0&gt;string&lt;/a0&gt; library - their purpose and their correct use.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052415Z" creationid="lansn-lan" creationdate="20160810T052415Z">
-        <seg>下面的示例将一步一步演示&lt;a0&gt;string字符串&lt;/a0&gt;类库不同的命令，-他们的目的和其正确的使用不同的命令。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052501Z" creationid="lansn-lan" creationdate="20160810T052415Z">
+        <seg>下面的示例将一步一步演示使用&lt;a0&gt;string字符串&lt;/a0&gt;类库中各种命令对字符串的操作，-他们的目的和其正确的使用不同的命令。</seg>
       </tuv>
     </tu>
     <tu>
