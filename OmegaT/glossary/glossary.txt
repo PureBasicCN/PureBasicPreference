@@ -22,3 +22,4 @@ Introduction	简介
 Will print	将打印
 Define	Define	大写是关键词
 Will display 	将显示
+will display	将显示
