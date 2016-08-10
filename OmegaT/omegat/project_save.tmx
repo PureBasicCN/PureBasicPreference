@@ -4807,6 +4807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f4&gt;; Right returns a number of characters from the right hand end of a string.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052858Z" creationid="lansn-lan" creationdate="20160810T052858Z">
+        <seg>&lt;f4&gt;; Right 从字符串的右端返回一个字符.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f5&gt;#PB_Date_Minute&lt;/f5&gt; : Will add 'Value' Minutes to the date</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063240Z" creationid="blues" creationdate="20160730T063240Z">
