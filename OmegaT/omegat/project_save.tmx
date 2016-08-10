@@ -7883,6 +7883,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More information regarding "Internet Protocol Standards" may be found at: &lt;a1&gt;http://www.rfc-editor.org/rfcxx00.html&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160810T022009Z" creationid="漂流瓶儿" creationdate="20160810T022009Z">
+        <seg>关于"互联网协议标准"的详细信息可能会发现在︰ &lt;a1&gt;http://www.rfc-editor.org/rfcxx00.html&lt;/a1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most of the compiler settings will be taken from the main source file, so when setting this, they are disabled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T104841Z" creationid="plp" creationdate="20160730T104841Z">
@@ -13283,6 +13291,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T091250Z" creationid="plp" creationdate="20160730T091250Z">
         <seg>是否启用调试器依赖于上次编译器的设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While accessing the Internet, e.g. a FTP server using the PureBasic &lt;a0&gt;Network&lt;/a0&gt; commands (see for example "PureBasic/Examples/Atomic FTP Server"), the port number must be specified.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160810T021952Z" creationid="漂流瓶儿" creationdate="20160810T021952Z">
+        <seg>我们要访问互联网, 如 FTP 服务器全用到 PureBasic 的&lt;a0&gt;Network&lt;/a0&gt; 命令 (见示例： "PureBasic/Examples/Atomic FTP Server")，必须要指定端口号。</seg>
       </tuv>
     </tu>
     <tu>
