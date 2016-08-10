@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Built-in string types (characters), including ascii and unicode &lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034754Z" creationid="MysticBoy" creationdate="20160810T034754Z">
+        <seg>- 内置字符串类型 (字符数组),包括  ascii 和 unicode &lt;br4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Built-in string types (characters)&lt;br39&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175304Z" creationid="MysticBoy" creationdate="20160723T175304Z">
@@ -478,6 +486,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Precompiled structures with constants files for extra-fast compilation &lt;br16&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034427Z" creationid="MysticBoy" creationdate="20160810T034427Z">
+        <seg>-通过常量文件预编译来实现扩展快速编译 &lt;br16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Specialized libraries are very optimized for maximum speed and compactness &lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034716Z" creationid="MysticBoy" creationdate="20160810T034716Z">
+        <seg>- 专业的库经过了高度优化为了最快速度和压缩度 &lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Standard arithmetic support in respect of sign priority and parenthesis: +, -, /, *, and, or, lsl, asl, lsr, asr&lt;br19&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111805Z" creationid="MysticBoy" creationdate="20160721T111805Z">
@@ -518,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- System friendly, easy to install and easy to use &lt;br19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034235Z" creationid="MysticBoy" creationdate="20160810T034235Z">
+        <seg>-系统友好，易于安装和使用 &lt;br19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- System friendly, easy to install and use&lt;br30&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070129Z" creationid="MysticBoy" creationdate="20160728T070129Z">
@@ -530,6 +562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034153Z" creationid="MysticBoy" creationdate="20160810T034153Z">
         <seg>-Win32 API 是完全支持，就像他们是基本关键字一样 &lt;br14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- User defined types (structures) &lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034809Z" creationid="MysticBoy" creationdate="20160810T034809Z">
+        <seg>- 用户自定义类型 (结构) &lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175332Z" creationid="MysticBoy" creationdate="20160723T175332Z">
         <seg>- 编译速度超快&lt;br43&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Very high productivity, comprehensive keywords, online help &lt;br18&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034222Z" creationid="MysticBoy" creationdate="20160810T034222Z">
+        <seg>-非常高的生产力，全面关键词，联机帮助 &lt;br18&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11051,6 +11099,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135218Z" creationid="MysticBoy" creationdate="20160723T135218Z">
         <seg>线的起点的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main features of PureBasic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034814Z" creationid="MysticBoy" creationdate="20160810T034814Z">
+        <seg>PureBasic 的主要特点</seg>
       </tuv>
     </tu>
     <tu>
