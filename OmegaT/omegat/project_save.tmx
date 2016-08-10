@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Built-in arrays, dynamic lists, complex structures, pointers and variable definitions &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035244Z" creationid="MysticBoy" creationdate="20160810T035244Z">
+        <seg>- 内置数组，动态链表，复杂结构，指针和变量自定义&lt;br37&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Built-in arrays, dynamically linked lists, complex structures, pointers and variable definitions&lt;br37&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175228Z" creationid="MysticBoy" creationdate="20160723T175228Z">
@@ -406,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Constants, binary and hexadecimal numbers supported &lt;br6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035327Z" creationid="MysticBoy" creationdate="20160810T035327Z">
+        <seg>-常量，二进制和十六进制数字支持 &lt;br6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Constants, binary and hexadecimal numbers supported&lt;br17&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111321Z" creationid="MysticBoy" creationdate="20160721T111321Z">
@@ -434,6 +450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111746Z" creationid="MysticBoy" creationdate="20160721T111746Z">
         <seg>- 表达式reducer和优化（分组常量和显示的数字加在一起）&lt;br18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Expression reducer by grouping constants and numeric numbers together &lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035455Z" creationid="MysticBoy" creationdate="20160810T035455Z">
+        <seg>- 表达式减法器通过分组常量和数字编号在一起&lt;br7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175202Z" creationid="MysticBoy" creationdate="20160723T175202Z">
         <seg>- 支持Intel (x86 and x64) &lt;br36&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Powerful macro support &lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035319Z" creationid="MysticBoy" creationdate="20160810T035319Z">
+        <seg>-功能强大的宏支持 &lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175250Z" creationid="MysticBoy" creationdate="20160723T175250Z">
         <seg>- 支持类型有: Byte (8-bit), Word (16-bit), Long (32-bit), Float (32-bit), Quad (64-bit), Double (64-bit) 和用户自定义类型 (结构)&lt;br38&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Supported types: Byte (8-bit), Word (16-bit), Long (32-bit), Quad (64-bit), Float (32-bit), Double (64-bit) and Characters &lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035312Z" creationid="MysticBoy" creationdate="20160810T035312Z">
+        <seg>- 支持类型有: Byte (8-bit), Word (16-bit), Long (32-bit), Float (32-bit), Quad (64-bit), Double (64-bit) 和字符串&lt;br38&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -610,6 +650,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121710Z" creationid="漂流瓶儿" creationdate="20160801T121710Z">
         <seg>- Windows XP, Windows Vista, Windows 7, Windows 8 or Windows 10&lt;br36&gt;- Windows XP, Windows Vista, Windows 7, Windows 8 or Windows 10&lt;br36&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- x86 and x64 support &lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035228Z" creationid="MysticBoy" creationdate="20160810T035228Z">
+        <seg>- 支持x86 和 x64  &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11851,6 +11899,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T015304Z" creationid="lansn-lan" creationdate="20160803T015304Z">
         <seg>来自用户输入的或其他方式 （从文件中加载，...）得到的数据，通常我们需要使用不同的方式进行处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are no bottlenecks like a virtual machine or a code translator, the generated code produces an optimized executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035215Z" creationid="MysticBoy" creationdate="20160810T035215Z">
+        <seg>这样就没有类似虚拟机或者代码解释器之类的性能瓶颈，生成的代码都针对这个操作系统编译的高度优化后的可执行文件。</seg>
       </tuv>
     </tu>
     <tu>
