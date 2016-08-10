@@ -12583,8 +12583,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>This loop is infinite.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051522Z" creationid="lansn-lan" creationdate="20160810T051522Z">
-        <seg>这种循环是无限循环（死循环）。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051541Z" creationid="lansn-lan" creationdate="20160810T051522Z">
+        <seg>这种循环是无限循环。</seg>
       </tuv>
     </tu>
     <tu>
