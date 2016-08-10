@@ -12047,6 +12047,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is a special loop for working with &lt;a0&gt;lists&lt;/a0&gt; and &lt;a1&gt;maps&lt;/a1&gt;, it will iterate every member of the list (or map) in turn.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051636Z" creationid="lansn-lan" creationdate="20160810T051636Z">
+        <seg>还有一个特殊的循环，用于&lt;a0&gt;列出&lt;/a0&gt;与&lt;a1&gt;映射&lt;/a1&gt;工作，反过来，它将循环访问每个成员的列表 （或地图）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is an undo buffer, so several actions can be undone.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081931Z" creationid="漂流瓶儿" creationdate="20160801T081931Z">
