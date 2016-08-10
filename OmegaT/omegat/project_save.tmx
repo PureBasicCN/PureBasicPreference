@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;Asc()&lt;/a0&gt; - &lt;a1&gt;String Index&lt;/a1&gt; - &lt;a2&gt;Chr()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014815Z" creationid="MysticBoy" creationdate="20160810T014815Z">
+        <seg>&lt;- &lt;a0&gt;Asc()&lt;/a0&gt; - &lt;a1&gt;String 索引&lt;/a1&gt; - &lt;a2&gt;Chr()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;BackColor()&lt;/a0&gt; - &lt;a1&gt;2DDrawing Index&lt;/a1&gt; - &lt;a2&gt;Box()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T031309Z" creationid="oSilas" creationdate="20141128T031309Z">
@@ -2546,6 +2554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T094730Z" creationid="blues" creationdate="20160730T094730Z">
         <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;ParseDate&lt;/f2&gt;("%yy/%mm/%dd", "10/01/07")     &lt;f3&gt;; 返回日期格式 "10/01/07"&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;RSet&lt;/f2&gt;(&lt;f3&gt;Bin&lt;/f3&gt;(32), 16, "0") &lt;f4&gt;; Will display "0000000000100000"&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014810Z" creationid="MysticBoy" creationdate="20160810T014810Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Debug&lt;/f1&gt;&lt;/b0&gt; &lt;f2&gt;RSet&lt;/f2&gt;(&lt;f3&gt;Bin&lt;/f3&gt;(32), 16, "0") &lt;f4&gt;; 将显示 "0000000000100000"&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4851,6 +4867,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A string holding the binary representation of the specified value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014716Z" creationid="MysticBoy" creationdate="20160810T014716Z">
+        <seg>保存指定的值的二进制表示形式的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A table with ASCII codes is available &lt;a2&gt;here&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T081938Z" creationid="MysticBoy" creationdate="20160720T081938Z">
@@ -6691,6 +6715,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If leading zero are needed in the output string, use the &lt;a0&gt;RSet()&lt;/a0&gt; function as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014741Z" creationid="MysticBoy" creationdate="20160810T014741Z">
+        <seg>如果需要在输出字符串中前导零，使用&lt;a0&gt;RSet()&lt;/a0&gt;函数，如下所示︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no '.app' is set, then it will create a regular console-like executable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T102136Z" creationid="plp" creationdate="20160730T102136Z">
@@ -7143,6 +7175,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044908Z" creationid="oSilas" creationdate="20150312T044908Z">
         <seg>它可以是下列标志的组合：&lt;br0&gt;&lt;/br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be an ASCII value, or an unicode value if the program is compiled as &lt;a0&gt;Unicode mode&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014931Z" creationid="MysticBoy" creationdate="20160810T014931Z">
+        <seg>如果作为&lt;a0&gt;Unicode 模式&lt;/a0&gt;编译该程序，它可以是 ASCII 值或 unicode 值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8692,6 +8732,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns a string created with the given character value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014844Z" creationid="MysticBoy" creationdate="20160810T014844Z">
+        <seg>返回一个用指定字符创建的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns a string representation of the given Date.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070952Z" creationid="blues" creationdate="20160730T070952Z">
@@ -9969,6 +10017,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T034437Z" creationid="oSilas" creationdate="20141128T034437Z">
         <seg>锥形渐变的中心坐标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014848Z" creationid="MysticBoy" creationdate="20160810T014848Z">
+        <seg>字符的值。</seg>
       </tuv>
     </tu>
     <tu>
