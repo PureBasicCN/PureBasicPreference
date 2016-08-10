@@ -9894,6 +9894,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So one iteration, at least, will be performed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051314Z" creationid="lansn-lan" creationdate="20160810T051314Z">
+        <seg>所以至少，将执行一次循环。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So that you do not have to remember the exact name of every command, there is the Auto complete feature to make things easier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T074818Z" creationid="漂流瓶儿" creationdate="20160801T074818Z">
