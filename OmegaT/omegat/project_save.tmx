@@ -326,6 +326,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- All Standard BASIC keywords: If-Else-EndIf, Repeat-Until, etc &lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035645Z" creationid="MysticBoy" creationdate="20160810T035630Z">
+        <seg>- 所有标准 &lt;f47&gt;&lt;b48&gt;BASIC 关键词: If-Else-EndIf, Repeat-Until, 等等....&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Built-in arrays, dynamic lists, complex structures, pointers and variable definitions &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035712Z" creationid="MysticBoy" creationdate="20160810T035244Z">
+        <seg>- 内置数组，动态链表，复杂结构，指针和变量自定义&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Built-in arrays, dynamically linked lists, complex structures, pointers and variable definitions&lt;br37&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175228Z" creationid="MysticBoy" creationdate="20160723T175228Z">
@@ -346,6 +362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T111313Z" creationid="MysticBoy" creationdate="20160721T111313Z">
         <seg>- 内置字符串类型（字符）和透明的Unicode支持&lt;br16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Built-in string types (characters), including ascii and unicode &lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034754Z" creationid="MysticBoy" creationdate="20160810T034754Z">
+        <seg>- 内置字符串类型 (字符数组),包括  ascii 和 unicode &lt;br4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Configurable CLI compiler &lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034158Z" creationid="MysticBoy" creationdate="20160810T034158Z">
+        <seg>-可配置 CLI 编译器 &lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Configurable CLI compiler&lt;br29&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070106Z" creationid="MysticBoy" creationdate="20160728T070106Z">
@@ -386,6 +418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090539Z" creationid="MysticBoy" creationdate="20160802T090539Z">
         <seg>- Constant: 对象名称是 '#Constantame' (不区分大小写).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Constants, binary and hexadecimal numbers supported &lt;br6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035327Z" creationid="MysticBoy" creationdate="20160810T035327Z">
+        <seg>-常量，二进制和十六进制数字支持 &lt;br6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +462,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Expression reducer by grouping constants and numeric numbers together &lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035455Z" creationid="MysticBoy" creationdate="20160810T035455Z">
+        <seg>- 表达式减法器通过分组常量和数字编号在一起&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Extremely fast compilation &lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035526Z" creationid="MysticBoy" creationdate="20160810T035526Z">
+        <seg>-极快速编译 &lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- In the PureBasic documentation are used the terms "commands" and "functions" as well - this is one and the same, independently of a return-value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055801Z" creationid="漂流瓶儿" creationdate="20160802T055801Z">
@@ -434,6 +490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055247Z" creationid="漂流瓶儿" creationdate="20160802T055247Z">
         <seg>- 在本指南中，所有的主题都已经按字母顺序列出，以减少搜索时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Inline Assembler &lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034133Z" creationid="MysticBoy" creationdate="20160810T034133Z">
+        <seg>- 行内嵌汇编 &lt;br15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,10 +518,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Powerful macro support &lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035319Z" creationid="MysticBoy" creationdate="20160810T035319Z">
+        <seg>-功能强大的宏支持 &lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Powerful native IDE and debuggers&lt;br63&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175504Z" creationid="MysticBoy" creationdate="20160723T175504Z">
         <seg>- 强大的原生 IDE 和调试器&lt;br63&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Precompiled structures with constants files for extra-fast compilation &lt;br16&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034427Z" creationid="MysticBoy" creationdate="20160810T034427Z">
+        <seg>-通过常量文件预编译来实现扩展快速编译 &lt;br16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Procedure support for structured programming with local and global variables &lt;br10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035638Z" creationid="MysticBoy" creationdate="20160810T035619Z">
+        <seg>   - 过程支持本地和全局变量的结构编程&lt;br10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Specialized libraries are very optimized for maximum speed and compactness &lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034716Z" creationid="MysticBoy" creationdate="20160810T034716Z">
+        <seg>- 专业的库经过了高度优化为了最快速度和压缩度 &lt;br13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Specialized libraries to manipulate BMP pictures, windows, gadgets, DirectX, etc &lt;br12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035807Z" creationid="MysticBoy" creationdate="20160810T035807Z">
+        <seg>- 专业库来操纵 BMP 图片、 windows、 控件，DirectX，等 &lt;br12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Standard arithmetic support in respect of sign priority and parenthesis: +, -, /, *, and, or, &lt;&lt;, &gt;&gt; &lt;br8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035557Z" creationid="MysticBoy" creationdate="20160810T035557Z">
+        <seg>-标准算术支持标志优先和括号: +，-，/，*，and，or ，&lt; &lt;，&gt; &gt; &lt;br8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Supported types: Byte (8-bit), Word (16-bit), Long (32-bit), Quad (64-bit), Float (32-bit), Double (64-bit) and Characters &lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035707Z" creationid="MysticBoy" creationdate="20160810T035312Z">
+        <seg>- 支持类型有: Byte (8-bit), Word (16-bit), Long (32-bit), Float (32-bit), Quad (64-bit), Double (64-bit) 和字符串&lt;br2&gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- System friendly, &lt;f60&gt;&lt;b61&gt;easy&lt;/b61&gt;&lt;/f60&gt; to install and use&lt;br62&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T175448Z" creationid="MysticBoy" creationdate="20160723T175448Z">
@@ -502,10 +622,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- System friendly, easy to install and easy to use &lt;br19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034235Z" creationid="MysticBoy" creationdate="20160810T034235Z">
+        <seg>-系统友好，易于安装和使用 &lt;br19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- System friendly, easy to install and use&lt;br30&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070129Z" creationid="MysticBoy" creationdate="20160728T070129Z">
         <seg>- 系统方便，易于安装和使用&lt;br30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- The Win32 API is fully supported as if they were BASIC keywords &lt;br14&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034153Z" creationid="MysticBoy" creationdate="20160810T034153Z">
+        <seg>-Win32 API 是完全支持，就像他们是基本关键字一样 &lt;br14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- User defined types (structures) &lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034809Z" creationid="MysticBoy" creationdate="20160810T034809Z">
+        <seg>- 用户自定义类型 (结构) &lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,10 +678,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Very high productivity, comprehensive keywords, online help &lt;br18&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034222Z" creationid="MysticBoy" creationdate="20160810T034222Z">
+        <seg>-非常高的生产力，全面关键词，联机帮助 &lt;br18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Windows XP, Windows Vista, Windows 7, Windows 8 or Windows 10&lt;br36&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121710Z" creationid="漂流瓶儿" creationdate="20160801T121710Z">
         <seg>- Windows XP, Windows Vista, Windows 7, Windows 8 or Windows 10&lt;br36&gt;- Windows XP, Windows Vista, Windows 7, Windows 8 or Windows 10&lt;br36&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- x86 and x64 support &lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035228Z" creationid="MysticBoy" creationdate="20160810T035228Z">
+        <seg>- 支持x86 和 x64  &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1450,6 +1610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T021150Z" creationid="lansn-lan" creationdate="20160803T021150Z">
         <seg>&lt;a0&gt;&lt; 上一篇: 常量&lt;/a0&gt; | &lt;a1&gt;用户指南 - 概述&lt;/a1&gt; | &lt;a2&gt;下一篇: 循环 &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;&lt; Previous: Decisions &amp; Conditions&lt;/a0&gt; | &lt;a1&gt;Overview&lt;/a1&gt; | &lt;a2&gt;Next: String Manipulation &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052135Z" creationid="lansn-lan" creationdate="20160810T052135Z">
+        <seg>&lt;a0&gt;&lt; 上一篇: 判断 &amp; 条件&lt;/a0&gt; | &lt;a1&gt;用户指南 - 概述&lt;/a1&gt; | &lt;a2&gt;下一篇: 字符串操作 &gt;&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3206,6 +3374,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b15&gt;&lt;f16&gt;ForEach&lt;/f16&gt;&lt;/b15&gt; &lt;f17&gt;Fruit&lt;/f17&gt;()
+?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052035Z" creationid="lansn-lan" creationdate="20160810T052035Z">
+        <seg>&lt;b15&gt;&lt;f16&gt;ForEach&lt;/f16&gt;&lt;/b15&gt; &lt;f17&gt;Fruit&lt;/f17&gt;()
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b15&gt;Save As...&lt;/b15&gt; &lt;br16&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023047Z" creationid="MysticBoy" creationdate="20160726T023047Z">
@@ -3486,6 +3664,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b2&gt;&lt;f3&gt;Repeat&lt;/f3&gt;&lt;/b2&gt;
+?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051605Z" creationid="lansn-lan" creationdate="20160810T051605Z">
+        <seg>&lt;b2&gt;&lt;f3&gt;Repeat&lt;/f3&gt;&lt;/b2&gt;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b2&gt;Project File&lt;/b2&gt; &lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143514Z" creationid="漂流瓶儿" creationdate="20160801T143514Z">
@@ -3619,6 +3807,16 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T022337Z" creationid="MysticBoy" creationdate="20160726T022337Z">
         <seg>&lt;b39&gt;文件格式&lt;/b39&gt;&lt;br40&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b3&gt;&lt;f4&gt;Repeat&lt;/f4&gt;&lt;/b3&gt;
+?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051441Z" creationid="lansn-lan" creationdate="20160810T051441Z">
+        <seg>&lt;b3&gt;&lt;f4&gt;Repeat&lt;/f4&gt;&lt;/b3&gt;
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4449,6 +4647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;; Left returns a number of characters from the left hand end of a string.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T053053Z" creationid="lansn-lan" creationdate="20160810T052749Z">
+        <seg>&lt;f2&gt;; Left 左从字符串的左边返回一个字符.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;#PB_AntialiasingMode_x6&lt;/f3&gt;  : x6 fullscreen antialiasing (FSAA).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010858Z" creationid="MysticBoy" creationdate="20160801T010858Z">
@@ -4529,6 +4735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f3&gt;; Mid returns a number of characters from the given start location in the middle of a string.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052905Z" creationid="lansn-lan" creationdate="20160810T052814Z">
+        <seg>&lt;f3&gt;; Mid 在字符串的中间返回一个给定的起始位置的字符.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;&lt;b4&gt;PureBasic&lt;/b4&gt;&lt;/f3&gt; is a new "high level" &lt;f5&gt;&lt;b6&gt;programming language&lt;/b6&gt;&lt;/f5&gt; based on established &lt;f7&gt;&lt;b8&gt;BASIC&lt;/b8&gt;&lt;/f7&gt; rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174419Z" creationid="MysticBoy" creationdate="20160723T174419Z">
@@ -4593,6 +4807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f4&gt;; Right returns a number of characters from the right hand end of a string.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052858Z" creationid="lansn-lan" creationdate="20160810T052858Z">
+        <seg>&lt;f4&gt;; Right 从字符串的右端返回一个字符.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f5&gt;#PB_Date_Minute&lt;/f5&gt; : Will add 'Value' Minutes to the date</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063240Z" creationid="blues" creationdate="20160730T063240Z">
@@ -4641,6 +4863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f5&gt;; Space returns the specified number of space characters as a string.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T053111Z" creationid="lansn-lan" creationdate="20160810T053111Z">
+        <seg>&lt;f5&gt;; Space 返回指定数量的空格字符作为一个字符串.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f5&gt;; the form "Y=2010, M=01, D=07"&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071840Z" creationid="blues" creationdate="20160730T071840Z">
@@ -4669,6 +4899,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061022Z" creationid="lansn-lan" creationdate="20160729T061022Z">
         <seg>&lt;f6&gt;#PB_SerialPort_IOE&lt;/f6&gt; ︰ 与设备在通信期间出现 I/O 错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f6&gt;; Shows "The brown dog."&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T053143Z" creationid="lansn-lan" creationdate="20160810T053143Z">
+        <seg>&lt;f6&gt;; 结果将输出 "The brown dog."&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5195,6 +5433,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Again remove the ; from the second line to demonstrate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051844Z" creationid="lansn-lan" creationdate="20160810T051844Z">
+        <seg>再次删除 ; 分号，从第二行演示.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T111649Z">
@@ -5435,6 +5681,16 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>B +&lt;f5&gt; Random&lt;/f5&gt;(20)
+?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051048Z" creationid="lansn-lan" creationdate="20160810T051048Z">
+        <seg>B +&lt;f5&gt; Random&lt;/f5&gt;(20)
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic Keywords</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083303Z" creationid="MysticBoy" creationdate="20160720T083303Z">
@@ -5543,6 +5799,16 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T173727Z" creationid="MysticBoy" creationdate="20160721T054739Z">
         <seg>相同的作者,探索新的WEB前端编程语言&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C +&lt;f5&gt; Random&lt;/f5&gt;(20)
+?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051501Z" creationid="lansn-lan" creationdate="20160810T051501Z">
+        <seg>C +&lt;f5&gt; Random&lt;/f5&gt;(20)
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -5727,6 +5993,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050606Z" creationid="漂流瓶儿" creationdate="20160802T050606Z">
         <seg>注释的标志符为“ &lt;b0&gt;&lt;f1&gt;;&lt;/f1&gt;&lt;/b0&gt;”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compilation time is extremely fast.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034122Z" creationid="MysticBoy" creationdate="20160810T034122Z">
+        <seg>编译时间非常快。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6527,6 +6801,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T030109Z" creationid="漂流瓶儿" creationdate="20160802T030109Z">
         <seg>更多详情请查看 &lt;a28&gt;subsystems&lt;/a28&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the experienced coder, there are no problems gaining access to any of the legal OS structures or API objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035728Z" creationid="MysticBoy" creationdate="20160810T035728Z">
+        <seg>经验丰富的程序员可以毫不费力的使用OS中的结构或API对象。&lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7515,6 +7797,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is mostly compatible with any other "BASIC" compiler.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034015Z" creationid="MysticBoy" creationdate="20160810T034015Z">
+        <seg>它兼容于任何其它 "BASIC" 编译器.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended to use the /USER switch to turn of virtualization for all programs that comply to the standard user privileges, as it is only intended for compatibility for older programs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034353Z" creationid="漂流瓶儿" creationdate="20160802T034239Z">
@@ -7575,6 +7865,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T025918Z" creationid="MysticBoy" creationdate="20160801T025918Z">
         <seg>它将使用 PureBasic &lt;a0&gt;VectorDrawing 库&lt;/a0&gt;，并且只能使用在&lt;a1&gt;StartVectorDrawing()&lt;/a1&gt; / &lt;a2&gt;StopVectorDrawing()&lt;/a2&gt;之间的块中使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It won't stop until you stop it (use the red X button on the IDE toolbar).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051554Z" creationid="lansn-lan" creationdate="20160810T051554Z">
+        <seg>它不会停止，直到您停止它 （IDE 工具栏上使用红色的 X 按钮）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8748,6 +9046,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic has been created for beginners and experts alike.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034112Z" creationid="MysticBoy" creationdate="20160810T034112Z">
+        <seg>PureBasic 针对初学者创建并得到了他们和专家的一致好评。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic has been created for the beginner and expert alike.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055207Z" creationid="MysticBoy" creationdate="20160721T055207Z">
@@ -8780,10 +9086,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic is a portable programming language which currently works on Linux, Mac OS X and Windows computer systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035105Z" creationid="MysticBoy" creationdate="20160810T035105Z">
+        <seg>PureBasic 是一种便携式的编程语言，目前在 Linux、 Mac OS X 和 Windows 计算机系统上都可以运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic is a programming language based on established BASIC rules</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054204Z" creationid="MysticBoy" creationdate="20160721T054204Z">
         <seg>PureBasic 是一个基于BASIC规定的编程语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic is an "high-level" programming language based on established "BASIC" rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T033933Z" creationid="MysticBoy" creationdate="20160810T033933Z">
+        <seg>PureBasic 是基于既定的"BASIC"规则"高级别"的编程语言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9676,6 +9998,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So one iteration, at least, will be performed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051314Z" creationid="lansn-lan" creationdate="20160810T051314Z">
+        <seg>所以至少，将执行一次循环。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So that you do not have to remember the exact name of every command, there is the Auto complete feature to make things easier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T074818Z" creationid="漂流瓶儿" creationdate="20160801T074818Z">
@@ -9832,6 +10162,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061300Z" creationid="blues" creationdate="20160729T135944Z">
         <seg>Tab 制表符：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take the ; away from the second line to see this happen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052014Z" creationid="lansn-lan" creationdate="20160810T052014Z">
+        <seg>加上 ; 分号，从第二行开始演示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10325,6 +10663,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The check is performed at the start of the loop - so if the condition is already true, zero iterations may be performed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T050923Z" creationid="lansn-lan" creationdate="20160810T044531Z">
+        <seg>在循环开始时会执行检查，当随机数为 0 时 ，If 条件为True，条件成立， 循环将结束.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The checkboxes on the bottom specify the options for the files in the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145756Z" creationid="漂流瓶儿" creationdate="20160801T145712Z">
@@ -10807,6 +11153,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following example shows step by step the different commands of the &lt;a0&gt;string&lt;/a0&gt; library - their purpose and their correct use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052626Z" creationid="lansn-lan" creationdate="20160810T052415Z">
+        <seg>下面的示例将一步一步演示，&lt;a0&gt;string字符串&lt;/a0&gt;类库中各种命令，- 他们的用途和其正确的使用方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following examples show how to handle the result:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043711Z" creationid="oSilas" creationdate="20150312T043711Z">
@@ -10999,6 +11353,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The main features of PureBasic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034814Z" creationid="MysticBoy" creationdate="20160810T034814Z">
+        <seg>PureBasic 的主要特点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The mask used to format the date.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071033Z" creationid="blues" creationdate="20160730T071033Z">
@@ -11131,6 +11493,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020434Z" creationid="MysticBoy" creationdate="20160810T020434Z">
         <seg>要返回的字符数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of iterations actually performed in the loop will vary depending on the random numbers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T044212Z" creationid="lansn-lan" creationdate="20160810T044212Z">
+        <seg>实际执行循环中的迭代次数根据随机数字会有所不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11575,6 +11945,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The syntax is easy and the possibilities are huge with the "advanced" functions that have been added to this language like pointers, structures, procedures, dynamic lists and much more.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035046Z" creationid="MysticBoy" creationdate="20160810T035046Z">
+        <seg>语法很简单，但具有无限可能的PureBasic的高级函数添加到这个语言中，比如指针，结构，程序，动态链接列表等等.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The syntax is simple but the possibilities are endless with PureBasic's advanced features, such as pointers, structures, procedures, dynamically linked lists and much more.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105844Z" creationid="MysticBoy" creationdate="20160721T105844Z">
@@ -11727,6 +12105,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are no bottlenecks like a virtual machine or a code translator, the generated code produces an optimized executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035215Z" creationid="MysticBoy" creationdate="20160810T035215Z">
+        <seg>这样就没有类似虚拟机或者代码解释器之类的性能瓶颈，生成的代码都针对这个操作系统编译的高度优化后的可执行文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are no bottlenecks like a virtual machine or a code translator: the generated code produces highly optimized executables regardless of the OS on which it is compiled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T110839Z" creationid="MysticBoy" creationdate="20160721T110839Z">
@@ -11739,6 +12125,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T151957Z" creationid="漂流瓶儿" creationdate="20160801T151957Z">
         <seg>在边侧工具面板中的工程板块中会列出工程的所有文件，以方便访问。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is a special loop for working with &lt;a0&gt;lists&lt;/a0&gt; and &lt;a1&gt;maps&lt;/a1&gt;, it will iterate every member of the list (or map) in turn.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051721Z" creationid="lansn-lan" creationdate="20160810T051636Z">
+        <seg>还有一个特殊的循环，用于&lt;a0&gt;lists&lt;/a0&gt;与&lt;a1&gt;maps&lt;/a1&gt;，反过来，它将循环访问每个成员的列表list （或地图map）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12295,6 +12689,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This loop is infinite.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051541Z" creationid="lansn-lan" creationdate="20160810T051522Z">
+        <seg>这种循环是无限循环。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This loop is very similar to the last except that the check is performed at the end of the loop.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T051347Z" creationid="lansn-lan" creationdate="20160810T051248Z">
+        <seg>这种循环和上面的非常相似，只是在循环体结束时执行检查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This loop will increment the variable B by a &lt;a0&gt;random&lt;/a0&gt; amount between 0 and 20 each time, until B exceeds 100.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T022647Z" creationid="lansn-lan" creationdate="20160803T022552Z">
@@ -12378,6 +12788,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
         <seg>This means that the same code can be compiled natively for all systems and still use the full power of each.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T110535Z" creationid="MysticBoy" creationdate="20160721T110535Z">
+        <seg>这意味着，相同的代码可以在所有系统中本地编译并仍然能使用每个系统下的全部功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means that the same code can be compiled natively for the OS and use the full power of each.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035132Z" creationid="MysticBoy" creationdate="20160810T035132Z">
         <seg>这意味着，相同的代码可以在所有系统中本地编译并仍然能使用每个系统下的全部功能。</seg>
       </tuv>
     </tu>
@@ -12935,6 +13353,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UserGuide - String Manipulation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052249Z" creationid="lansn-lan" creationdate="20160810T052249Z">
+        <seg>用户指南 - 字符串操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UserGuide - Variables and Processing of variables</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T085710Z" creationid="lansn-lan" creationdate="20160801T085710Z">
@@ -13019,6 +13445,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105534Z" creationid="MysticBoy" creationdate="20160721T105534Z">
         <seg>我们投入大量的精力来研发快速、 可靠的系统友好语言及其实现。.&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have put a lot of effort into its realization to produce a fast, reliable and system-friendly language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034904Z" creationid="MysticBoy" creationdate="20160810T034904Z">
+        <seg>我们有大量的精力投入研发了一种快速、 可靠和系统友好的语言及其实现。</seg>
       </tuv>
     </tu>
     <tu>

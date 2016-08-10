@@ -1,0 +1,15 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling d:\Works\PureBasicPreference\target_dir\documentation\PureBasic_chs.chm
+
+HHC3004: Warning: xmlnodetype.html : The HTML tag "?php if (...) ... ?" is not a valid HTML tag (it does not begin with an alphanumeric character).
+
+Compile time: 0 minutes, 12 seconds
+2,033	Topics
+28,010	Local links
+120	Internet links
+0	Graphics
+
+
+Created d:\Works\PureBasicPreference\target_dir\documentation\PureBasic_chs.chm, 14,282,990 bytes
+Compression decreased file by 6,358,785 bytes.
