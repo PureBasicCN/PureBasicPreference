@@ -6723,6 +6723,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the program is compiled as &lt;a0&gt;unicode&lt;/a0&gt;, it will return an unicode character value, else it will return an ASCII character value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T013844Z" creationid="MysticBoy" creationdate="20160810T013844Z">
+        <seg>如果该程序被编译成&lt;a0&gt;unicode&lt;/a0&gt;，它将返回 unicode 字符的值，否则它将返回一个 ASCII 字符值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the project has many files it may make sense to hide some of them from the panel to have a better overview and faster access to the important files in the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T150837Z" creationid="漂流瓶儿" creationdate="20160801T150837Z">
@@ -8552,6 +8560,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T063633Z" creationid="plp" creationdate="20160801T063633Z">
         <seg>继续按下快捷键会进一步扩大选择代码块的范围。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return the first character value of the specified string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T013806Z" creationid="MysticBoy" creationdate="20160810T013806Z">
+        <seg>返回指定字符串的第一个字符值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10967,10 +10983,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The string first character value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T013823Z" creationid="MysticBoy" creationdate="20160810T013823Z">
+        <seg>字符串第一个字符值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The string format to use.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070458Z" creationid="lansn-lan" creationdate="20160729T070458Z">
         <seg>字符串格式.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The string to get the first character value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T013814Z" creationid="MysticBoy" creationdate="20160810T013814Z">
+        <seg>要获取的第一个字符值的字符串。</seg>
       </tuv>
     </tu>
     <tu>
