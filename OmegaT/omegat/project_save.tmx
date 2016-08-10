@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;LCase()&lt;/a0&gt; - &lt;a1&gt;String Index&lt;/a1&gt; - &lt;a2&gt;LTrim()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020953Z" creationid="MysticBoy" creationdate="20160810T020953Z">
+        <seg>&lt;- &lt;a0&gt;LCase()&lt;/a0&gt; - &lt;a1&gt;String 索引&lt;/a1&gt; - &lt;a2&gt;LTrim()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;LTrim()&lt;/a0&gt; - &lt;a1&gt;String Index&lt;/a1&gt; - &lt;a2&gt;Len()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020527Z" creationid="MysticBoy" creationdate="20160810T020527Z">
@@ -8872,6 +8880,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145227Z" creationid="漂流瓶儿" creationdate="20160801T145227Z">
         <seg>从项目中的文件列表中选定的文件删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removes all the specified characters located in the front of a string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T021135Z" creationid="MysticBoy" creationdate="20160810T021135Z">
+        <seg>删除位于前部一个字符串的所有指定的字符。</seg>
       </tuv>
     </tu>
     <tu>
