@@ -21,3 +21,4 @@ General	常规	常规
 Introduction	简介
 Will print	将打印
 Define	Define	大写是关键词
+Will display 	将显示
