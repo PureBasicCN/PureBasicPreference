@@ -1,3 +1,3 @@
-hhc.exe  help.hhp
+hhc.exe  PureBasic_chs.hhp
 pause
  
