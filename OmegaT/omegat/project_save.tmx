@@ -7885,8 +7885,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>More information regarding "Internet Protocol Standards" may be found at: &lt;a1&gt;http://www.rfc-editor.org/rfcxx00.html&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160810T022009Z" creationid="漂流瓶儿" creationdate="20160810T022009Z">
-        <seg>关于"互联网协议标准"的详细信息可能会发现在︰ &lt;a1&gt;http://www.rfc-editor.org/rfcxx00.html&lt;/a1&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160810T022119Z" creationid="漂流瓶儿" creationdate="20160810T022009Z">
+        <seg>关于"互联网协议标准"的详细信息可查询︰ &lt;a1&gt;http://www.rfc-editor.org/rfcxx00.html&lt;/a1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8039,6 +8039,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T073810Z" creationid="漂流瓶儿" creationdate="20160801T073349Z">
         <seg>注意：尽管这些代码以折叠状态保存且当你打开文件也会保持折叠状态，却依然是包含所有代码行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: Individual ports may be blocked by ISPs' (Internet Service Providers), firewalls or routers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160810T022102Z" creationid="漂流瓶儿" creationdate="20160810T022102Z">
+        <seg>注意︰ 单独的端口可能由互联网服务商  ISP（互联网服务提供商） 的防火墙或路由器阻止。</seg>
       </tuv>
     </tu>
     <tu>
