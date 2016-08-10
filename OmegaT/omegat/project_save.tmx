@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Configurable CLI compiler &lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034158Z" creationid="MysticBoy" creationdate="20160810T034158Z">
+        <seg>-可配置 CLI 编译器 &lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Configurable CLI compiler&lt;br29&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070106Z" creationid="MysticBoy" creationdate="20160728T070106Z">
@@ -434,6 +442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055247Z" creationid="漂流瓶儿" creationdate="20160802T055247Z">
         <seg>- 在本指南中，所有的主题都已经按字母顺序列出，以减少搜索时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Inline Assembler &lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034133Z" creationid="MysticBoy" creationdate="20160810T034133Z">
+        <seg>- 行内嵌汇编 &lt;br15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070129Z" creationid="MysticBoy" creationdate="20160728T070129Z">
         <seg>- 系统方便，易于安装和使用&lt;br30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- The Win32 API is fully supported as if they were BASIC keywords &lt;br14&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034153Z" creationid="MysticBoy" creationdate="20160810T034153Z">
+        <seg>-Win32 API 是完全支持，就像他们是基本关键字一样 &lt;br14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5731,6 +5755,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compilation time is extremely fast.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034122Z" creationid="MysticBoy" creationdate="20160810T034122Z">
+        <seg>编译时间非常快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compilation time is really fast.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105352Z" creationid="MysticBoy" creationdate="20160721T105352Z">
@@ -7515,6 +7547,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is mostly compatible with any other "BASIC" compiler.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034015Z" creationid="MysticBoy" creationdate="20160810T034015Z">
+        <seg>它兼容于任何其它 "BASIC" 编译器.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended to use the /USER switch to turn of virtualization for all programs that comply to the standard user privileges, as it is only intended for compatibility for older programs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T034353Z" creationid="漂流瓶儿" creationdate="20160802T034239Z">
@@ -8748,6 +8788,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic has been created for beginners and experts alike.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034112Z" creationid="MysticBoy" creationdate="20160810T034112Z">
+        <seg>PureBasic 针对初学者创建并得到了他们和专家的一致好评。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic has been created for the beginner and expert alike.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T055207Z" creationid="MysticBoy" creationdate="20160721T055207Z">
@@ -8784,6 +8832,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054204Z" creationid="MysticBoy" creationdate="20160721T054204Z">
         <seg>PureBasic 是一个基于BASIC规定的编程语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic is an "high-level" programming language based on established "BASIC" rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T033933Z" creationid="MysticBoy" creationdate="20160810T033933Z">
+        <seg>PureBasic 是基于既定的"BASIC"规则"高级别"的编程语言。</seg>
       </tuv>
     </tu>
     <tu>
