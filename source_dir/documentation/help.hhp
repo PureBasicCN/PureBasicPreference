@@ -1,7 +1,7 @@
 [OPTIONS]
-title=PureBasic 5.40 中文帮助文档
+title=PureBasic  中文帮助文档
 Compatibility=1.1 or later
-Compiled file=D:\html_JAVA_basic\hhptochm\pb54.chm
+Compiled file=PureBasic_chs.chm
 Contents file=Table of Contents.hhc
 Default topic=reference\reference.html
 Index file=Index.hhk
