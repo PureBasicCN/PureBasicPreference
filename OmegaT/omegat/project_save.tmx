@@ -7669,6 +7669,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If &lt;f0&gt;#PB_Any&lt;/f0&gt; was used for the #RegularExpression parameter then the generated number is returned on success.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064819Z" creationid="Morler" creationdate="20160811T064819Z">
+        <seg>如果&lt;f0&gt;#PB_Any&lt;/f0&gt;被用来作为 #RegularExpression 参数则成功时返回生成的数字.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If &lt;f0&gt;#PB_Any&lt;/f0&gt; was used for the #SerialPort parameter then the generated number is returned on success.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T055308Z" creationid="lansn-lan" creationdate="20160729T054952Z">
@@ -7737,6 +7745,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055827Z" creationid="漂流瓶儿" creationdate="20160802T055827Z">
         <seg>如果该命令或函数有返回值，你可以阅读相关的命令的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If an error has been detected in the pattern, the result will be zero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064853Z" creationid="Morler" creationdate="20160811T064853Z">
+        <seg>如果在当前模式中发生了错误, 则返回值为零.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10074,6 +10090,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070952Z" creationid="blues" creationdate="20160730T070952Z">
         <seg>返回给定日期，以字符串形式表示.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns nonzero if the regular expression was created successfully and zero if not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064650Z" creationid="Morler" creationdate="20160811T064650Z">
+        <seg>如果正则表达式成功创建则返回非零值,否则返回零.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14173,6 +14197,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T085047Z" creationid="lansn-lan" creationdate="20160801T084925Z">
         <seg>要强制编译器总是要求变量第一次使用前必须声明变量，只需使用关键字&lt;a0&gt;EnableExplicit&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To get more information about the error, see &lt;a1&gt;RegularExpressionError()&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T065015Z" creationid="Morler" creationdate="20160811T065015Z">
+        <seg>要了解关于出错的更多内容,请查阅 &lt;a1&gt;RegularExpressionError()&lt;/a1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
