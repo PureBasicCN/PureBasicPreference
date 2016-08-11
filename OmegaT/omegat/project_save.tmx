@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#RegularExpression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T015917Z" creationid="KKK" creationdate="20160811T015917Z">
+        <seg>#RegularExpression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%dd: Will be replaced by the day value, on 2 digits.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071335Z" creationid="blues" creationdate="20160730T071335Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163604Z" creationid="MysticBoy" creationdate="20160810T163604Z">
         <seg>(注释: Such orders are handled directly by Fred.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Note: These examples use the ^ symbol to mean 'raised to the power of' - this is only for convenience in this document, PureBasic does not currently have a power-of operator!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T064118Z" creationid="漂流瓶儿" creationdate="20160811T064118Z">
+        <seg>（注意：这些示例使用“^”符号，意思是 '幂函数' — — 这只是为了方便在此文档中，PureBasic 目前没有幂的运算符!</seg>
       </tuv>
     </tu>
     <tu>
@@ -970,6 +986,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T051630Z" creationid="漂流瓶儿" creationdate="20160802T051630Z">
         <seg>...         &lt;f3&gt;; 是一个表达式中使用的变量。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../reference/purebasic_objects.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020344Z" creationid="KKK" creationdate="20160811T020344Z">
+        <seg>../reference/purebasic_objects.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -1850,6 +1874,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T075227Z" creationid="lansn-lan" creationdate="20160801T075227Z">
         <seg>&lt;a0&gt;手册首页l&lt;/a0&gt; | &lt;a1&gt;下一篇：  第一步 &gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;RegularExpression Index&lt;/a0&gt; - &lt;a1&gt;CreateRegularExpression()&lt;/a1&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T021044Z" creationid="KKK" creationdate="20160811T020245Z">
+        <seg>&lt;a0&gt;正则表达式索引&lt;/a0&gt; - &lt;a1&gt;CreateRegularExpression()&lt;/a1&gt; -&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4423,6 +4455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_RegularExpression_DotAll&lt;/f0&gt;    : '.' matches anything including newlines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064223Z" creationid="Morler" creationdate="20160811T064223Z">
+        <seg>&lt;f0&gt;#PB_RegularExpression_DotAll&lt;/f0&gt;    : '.' 匹配任何包含换行符的文本.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#PB_SerialPort_DTR&lt;/f0&gt;: set DTR signal status (value can be 0 or 1)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T065311Z" creationid="lansn-lan" creationdate="20160729T065311Z">
@@ -4607,6 +4647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_RegularExpression_Extended&lt;/f1&gt;  : whitespace and '#' comments will be ignored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064253Z" creationid="Morler" creationdate="20160811T064253Z">
+        <seg>&lt;f1&gt;#PB_RegularExpression_Extended&lt;/f1&gt;  : 空格和 '#' 注释将会被忽略.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;#PB_SerialPort_DCD&lt;/f1&gt;: Get DCD signal status (0 or 1)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081901Z" creationid="lansn-lan" creationdate="20160729T081626Z">
@@ -4703,6 +4751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_RegularExpression_MultiLine&lt;/f2&gt; : '^' and '$' match newlines within data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064422Z" creationid="Morler" creationdate="20160811T064422Z">
+        <seg>&lt;f2&gt;#PB_RegularExpression_MultiLine&lt;/f2&gt; : '^' 和 '$' 匹配包含换行的文本.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f2&gt;#PB_SerialPort_DSR&lt;/f2&gt;: Get DSR signal status (0 or 1)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081905Z" creationid="lansn-lan" creationdate="20160729T081638Z">
@@ -4779,6 +4835,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043551Z" creationid="oSilas" creationdate="20150312T043551Z">
         <seg>&lt;f3&gt;#PB_PixelFormat_24Bits_RGB&lt;/f3&gt; ： 3 个字节，每个像素 （RRGGBB）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f3&gt;#PB_RegularExpression_AnyNewLine&lt;/f3&gt;: recognize 'CR', 'LF', and 'CRLF' as newline sequences.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064540Z" creationid="Morler" creationdate="20160811T064540Z">
+        <seg>&lt;f3&gt;#PB_RegularExpression_AnyNewLine&lt;/f3&gt;: 将 'CR', 'LF', 和 'CRLF' 识别为换行分隔.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4867,6 +4931,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043604Z" creationid="oSilas" creationdate="20150312T043604Z">
         <seg>&lt;f4&gt;#PB_PixelFormat_24Bits_BGR&lt;/f4&gt; ： 3 个字节，每个像素 （BBGGRR）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f4&gt;#PB_RegularExpression_NoCase&lt;/f4&gt;    : comparison and matching will be case-insensitive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064604Z" creationid="Morler" creationdate="20160811T064604Z">
+        <seg>&lt;f4&gt;#PB_RegularExpression_NoCase&lt;/f4&gt;    : 比较和匹配将大小写敏感</seg>
       </tuv>
     </tu>
     <tu>
@@ -5305,10 +5377,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A number base is a way of representing numbers, using a certain amount of possible symbols per digit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T064738Z" creationid="漂流瓶儿" creationdate="20160811T064738Z">
+        <seg>进制计数是可以用有限的数字符号代表所有的数值，是表示数字的一种记数方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A number of functions from older versions of PureBasic that have been removed from the package still exist for a while as a compatibility wrapper to allow older codes to be tested/ported more easily.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T083254Z" creationid="plp" creationdate="20160730T083254Z">
         <seg>为了方便对程序进行测试、移植更容易，已经从PureBasic中移除的旧版本的一些功能函数为了兼容将仍然可用一段时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A number to identify the new regular expression.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020415Z" creationid="KKK" creationdate="20160811T020415Z">
+        <seg>一个用来识别这个新生成的正则表达式的数字.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5325,6 +5413,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160729T111532Z" creationid="MysticBoy" creationdate="20160729T111532Z">
         <seg>标识新窗口的编码.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A placeholder character used to indicate that a character has been substituted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053559Z" creationid="漂流瓶儿" creationdate="20160811T053559Z">
+        <seg>用来表示一个字符已被取代的占位符字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5437,6 +5533,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T032928Z" creationid="MysticBoy" creationdate="20160726T032928Z">
         <seg>访问和更新数据使用 SQL 查询，因此它完成的是必须了解 SQL 语法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acknowledge.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043947Z" creationid="漂流瓶儿" creationdate="20160811T043947Z">
+        <seg>确认。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5745,6 +5849,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another situation-dependant device control character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052912Z" creationid="漂流瓶儿" creationdate="20160811T052912Z">
+        <seg>另一种情况依赖设备控制字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any characters printed after calling this function will use the new colors.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112201Z">
@@ -5801,6 +5913,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the name implies, a signal which was sent synchronously (at periodic times) to indicate that the communications channel is idle, but still active.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053115Z" creationid="漂流瓶儿" creationdate="20160811T053115Z">
+        <seg>顾名思义，信号发送了同步(在定期时间) 以指示通信信道是空闲的但是仍然活跃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As with "Find/Replace", there are checkboxes to make the search more specific.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121042Z" creationid="漂流瓶儿" creationdate="20160801T121042Z">
@@ -5843,10 +5963,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backspace.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044210Z" creationid="漂流瓶儿" creationdate="20160811T044210Z">
+        <seg>退格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic Keywords</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083303Z" creationid="MysticBoy" creationdate="20160720T083303Z">
         <seg>基本关键词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bell.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054123Z" creationid="漂流瓶儿" creationdate="20160811T044140Z">
+        <seg>报警.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5981,6 +6117,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053222Z" creationid="漂流瓶儿" creationdate="20160811T053222Z">
+        <seg>取消。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Carriage return.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054405Z" creationid="漂流瓶儿" creationdate="20160811T052330Z">
+        <seg>回车符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the colors used by the text display.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112047Z">
@@ -6101,6 +6253,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Closes the transmission of the above type of block.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052535Z" creationid="漂流瓶儿" creationdate="20160811T052535Z">
+        <seg>关闭上述类型的块的传输。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coders</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163351Z" creationid="MysticBoy" creationdate="20160810T163351Z">
@@ -6193,6 +6353,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050606Z" creationid="漂流瓶儿" creationdate="20160802T050606Z">
         <seg>注释的标志符为“ &lt;b0&gt;&lt;f1&gt;;&lt;/f1&gt;&lt;/b0&gt;”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commonly means that previously sent data should be ignored, although specifics are application dependant.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053323Z" creationid="漂流瓶儿" creationdate="20160811T053323Z">
+        <seg>通常是指以前发送的数据应该忽略，虽然具体的应用取决于应用程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6333,6 +6501,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CountRegularExpressionGroups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T015642Z" creationid="KKK" creationdate="20160811T015642Z">
+        <seg>CountRegularExpressionGroups</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CountRegularExpressionGroups()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T015649Z" creationid="KKK" creationdate="20160811T015649Z">
+        <seg>CountRegularExpressionGroups()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Country</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054640Z" creationid="MysticBoy" creationdate="20160721T054640Z">
@@ -6345,6 +6529,30 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023004Z" creationid="MysticBoy" creationdate="20160726T023004Z">
         <seg>创建新的空源代码文件.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new regular expression using the specified pattern.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020337Z" creationid="KKK" creationdate="20160811T020337Z">
+        <seg>使用指定的模式创建一个新的正则表达式.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CreateRegularExpression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020249Z" creationid="KKK" creationdate="20160811T020249Z">
+        <seg>CreateRegularExpression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CreateRegularExpression()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020253Z" creationid="KKK" creationdate="20160811T020253Z">
+        <seg>CreateRegularExpression()</seg>
       </tuv>
     </tu>
     <tu>
@@ -6393,6 +6601,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T081731Z" creationid="KKK" creationdate="20160810T081731Z">
         <seg>&lt;a6&gt;数据&lt;/a6&gt;&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data Link Escape.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052559Z" creationid="漂流瓶儿" creationdate="20160811T052559Z">
+        <seg>数据链路转义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6529,6 +6745,38 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110627Z">
         <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Device control 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052641Z" creationid="漂流瓶儿" creationdate="20160811T052641Z">
+        <seg>设备控制 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Device control 2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052647Z" creationid="漂流瓶儿" creationdate="20160811T052647Z">
+        <seg>设备控制 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Device control 3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052651Z" creationid="漂流瓶儿" creationdate="20160811T052651Z">
+        <seg>设备控制 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Device control 4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052710Z" creationid="漂流瓶儿" creationdate="20160811T052710Z">
+        <seg>设备控制 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6749,6 +6997,54 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End of heading.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043813Z" creationid="漂流瓶儿" creationdate="20160811T043813Z">
+        <seg>标题结尾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of medium.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054716Z" creationid="漂流瓶儿" creationdate="20160811T053330Z">
+        <seg>纸尽、媒体结束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054107Z" creationid="漂流瓶儿" creationdate="20160811T043743Z">
+        <seg>正文末尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of transmission block.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053123Z" creationid="漂流瓶儿" creationdate="20160811T053123Z">
+        <seg>传输块结束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043843Z" creationid="漂流瓶儿" creationdate="20160811T043843Z">
+        <seg>查询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Escape character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053629Z" creationid="漂流瓶儿" creationdate="20160811T053629Z">
+        <seg>转义字符、换码、退出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Escape closes the auto complete list at any time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T080747Z" creationid="漂流瓶儿" creationdate="20160801T080747Z">
@@ -6829,6 +7125,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extended descriptions of the common uses of the control characters (ASCII characters 0 to 31)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043513Z" creationid="漂流瓶儿" creationdate="20160811T043513Z">
+        <seg>控制字符的常见用途扩展（ASCII 码 0到31）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fantaisie Software</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090658Z" creationid="MysticBoy" creationdate="20160725T090658Z">
@@ -6841,6 +7145,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091936Z" creationid="MysticBoy" creationdate="20160721T053654Z">
         <seg>PureBasic.CN 官方网站.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File separator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053700Z" creationid="漂流瓶儿" creationdate="20160811T053700Z">
+        <seg>文件分隔符</seg>
       </tuv>
     </tu>
     <tu>
@@ -7045,6 +7357,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form feed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054237Z" creationid="漂流瓶儿" creationdate="20160811T052234Z">
+        <seg>走纸控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>French Pure Basic forum</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174955Z" creationid="MysticBoy" creationdate="20160723T174955Z">
@@ -7189,6 +7509,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Group separator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053706Z" creationid="漂流瓶儿" creationdate="20160811T053706Z">
+        <seg>组分隔符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Groups in a regular expression are defined by surrounding a sub-expression with braces "(" and ")".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020133Z" creationid="KKK" creationdate="20160811T020133Z">
+        <seg>在正则表达式中的分组由包围在表达式左右的括号 "(" 和 ")" 定义.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Having a &lt;b43&gt;&lt;f44&gt;DeclareModule&lt;/f44&gt;&lt;/b43&gt; section make the module pretty much self-documented for use when reusing and sharing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T141711Z" creationid="漂流瓶儿" creationdate="20160801T141711Z">
@@ -7277,6 +7613,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Horizontal tab, typically used to format text based tables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044330Z" creationid="漂流瓶儿" creationdate="20160811T044330Z">
+        <seg>水平制表符，通常用于设置文本格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However in some cases, double-clicking has a special meaning: &lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064142Z" creationid="blues" creationdate="20160730T095848Z">
@@ -7321,6 +7665,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081349Z" creationid="lansn-lan" creationdate="20160729T081349Z">
         <seg>如果参数 &lt;f0&gt;#PB_All&lt;/f0&gt; 被指定, 所有剩余的串行端口都被释放.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If &lt;f0&gt;#PB_Any&lt;/f0&gt; was used for the #RegularExpression parameter then the generated number is returned on success.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064819Z" creationid="Morler" creationdate="20160811T064819Z">
+        <seg>如果&lt;f0&gt;#PB_Any&lt;/f0&gt;被用来作为 #RegularExpression 参数则成功时返回生成的数字.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7393,6 +7745,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T055827Z" creationid="漂流瓶儿" creationdate="20160802T055827Z">
         <seg>如果该命令或函数有返回值，你可以阅读相关的命令的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If an error has been detected in the pattern, the result will be zero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064853Z" creationid="Morler" creationdate="20160811T064853Z">
+        <seg>如果在当前模式中发生了错误, 则返回值为零.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7845,6 +8205,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indicates the start of a block of data, or the header portion of a block of data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043645Z" creationid="漂流瓶儿" creationdate="20160811T043645Z">
+        <seg>表示数据块或数据块的标头部分的开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert the content of the Clipboard at the current position in the code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083357Z" creationid="漂流瓶儿" creationdate="20160801T083357Z">
@@ -7929,6 +8297,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044908Z" creationid="oSilas" creationdate="20150312T044908Z">
         <seg>它可以是下列标志的组合：&lt;br0&gt;&lt;/br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be a combination of the following values:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064153Z" creationid="Morler" creationdate="20160811T064153Z">
+        <seg>可以是下列值的组合︰</seg>
       </tuv>
     </tu>
     <tu>
@@ -8285,6 +8661,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linefeed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044340Z" creationid="漂流瓶儿" creationdate="20160811T044340Z">
+        <seg>换行符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Links</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054624Z" creationid="MysticBoy" creationdate="20160721T054624Z">
@@ -8337,6 +8721,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T011705Z" creationid="MysticBoy" creationdate="20160725T084628Z">
         <seg>语言包翻译、文档翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Makes an audible noise (typically makes the PC speaker 'beep')</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044155Z" creationid="漂流瓶儿" creationdate="20160811T044155Z">
+        <seg>发出噪音（通常是PC扬声器“滴”声）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8485,10 +8877,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves the cursor one position to the left (might also delete the character to the left before the move)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044237Z" creationid="漂流瓶儿" creationdate="20160811T044237Z">
+        <seg>将光标向左移动一个位置（也可能删除左侧的一个字符）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves the cursor to the given position, in character coordinates.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T134709Z" creationid="oSilas" creationdate="20141124T134709Z">
         <seg>使用字符坐标移动光标到指定的位置。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negative acknowledge.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054530Z" creationid="漂流瓶儿" creationdate="20160811T052959Z">
+        <seg>否定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8770,6 +9178,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T081150Z" creationid="lansn-lan" creationdate="20160802T081150Z">
         <seg>这里 H 是一个长度为 25 的字符串型数组.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Null-character, typically (and especially in PureBasic) used to indicate the end of the string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043605Z" creationid="漂流瓶儿" creationdate="20160811T043605Z">
+        <seg>空字符，通常 （特别是在 PureBasic） 用于指示字符串的结尾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9066,6 +9482,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110938Z">
         <seg>参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pattern$</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020424Z" creationid="KKK" creationdate="20160811T020424Z">
+        <seg>Pattern$</seg>
       </tuv>
     </tu>
     <tu>
@@ -9494,6 +9918,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Record separator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054729Z" creationid="漂流瓶儿" creationdate="20160811T053752Z">
+        <seg>请求发送、记录分隔符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Redo the last action undone by the undo function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T082003Z" creationid="漂流瓶儿" creationdate="20160801T082003Z">
@@ -9514,6 +9946,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084318Z" creationid="漂流瓶儿" creationdate="20160801T084318Z">
         <seg>重新根据 &lt;a30&gt;关键字 keywords&lt;/a30&gt; 及代码结构对选中行进行自动缩进操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RegularExpressionGroup()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020232Z" creationid="KKK" creationdate="20160811T020232Z">
+        <seg>RegularExpressionGroup()</seg>
       </tuv>
     </tu>
     <tu>
@@ -9582,6 +10022,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Result = &lt;f0&gt;&lt;b1&gt;CountRegularExpressionGroups&lt;/b1&gt;&lt;/f0&gt;(#RegularExpression)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T015711Z" creationid="KKK" creationdate="20160811T015711Z">
+        <seg>结果 = &lt;f0&gt;&lt;b1&gt;CountRegularExpressionGroups&lt;/b1&gt;&lt;/f0&gt;(#RegularExpression)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result = &lt;f0&gt;&lt;b1&gt;CreateRegularExpression&lt;/b1&gt;&lt;/f0&gt;(#RegularExpression, Pattern$ [, Flags])</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020310Z" creationid="KKK" creationdate="20160811T020310Z">
+        <seg>结果 = &lt;f0&gt;&lt;b1&gt;CreateRegularExpression&lt;/b1&gt;&lt;/f0&gt;(#RegularExpression, Pattern$ [, Flags])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return the first character value of the specified string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T013806Z" creationid="MysticBoy" creationdate="20160810T013806Z">
@@ -9634,6 +10090,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T070952Z" creationid="blues" creationdate="20160730T070952Z">
         <seg>返回给定日期，以字符串形式表示.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns nonzero if the regular expression was created successfully and zero if not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064650Z" creationid="Morler" creationdate="20160811T064650Z">
+        <seg>如果正则表达式成功创建则返回非零值,否则返回零.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9818,6 +10282,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064214Z" creationid="blues" creationdate="20160730T064214Z">
         <seg>返回一个被添加值后的新日期.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns the number of groups defined in the #RegularExpression.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T015751Z" creationid="KKK" creationdate="20160811T015751Z">
+        <seg>返回 #RegularExpression 中定义的分组数量.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10054,6 +10526,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Same as (horizontal) tab, but moves down one row rather than across one column.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052212Z" creationid="漂流瓶儿" creationdate="20160811T052212Z">
+        <seg>与（水平）标签类似，但它是向下移动一行，而不是水平移动一列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save the currently active source to a different location than it was saved before.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053015Z" creationid="MysticBoy" creationdate="20160726T053015Z">
@@ -10190,6 +10670,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sent by a receiver to show that it has received and/or understood the request.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044131Z" creationid="漂流瓶儿" creationdate="20160811T044131Z">
+        <seg>由一个接收器发送，表示它已经收到或理解查询请求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sent to a receiver in order to get a response.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043937Z" creationid="漂流瓶儿" creationdate="20160811T043937Z">
+        <seg>为了得到一个响应发送一请求查询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Session history is a powerful tool which regularly records changes made to any files in a database.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053539Z" creationid="MysticBoy" creationdate="20160726T053539Z">
@@ -10250,6 +10746,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T052249Z" creationid="lansn-lan" creationdate="20160729T052249Z">
         <seg>设置停止位 （1、 1.5 或 2）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift in.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054435Z" creationid="漂流瓶儿" creationdate="20160811T052513Z">
+        <seg>移位输入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054426Z" creationid="漂流瓶儿" creationdate="20160811T052422Z">
+        <seg>移位输出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10438,6 +10950,30 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start of a block of characters whose meaning is implementation dependant.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052453Z" creationid="漂流瓶儿" creationdate="20160811T052453Z">
+        <seg>其含义是字符块的开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start of heading.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043618Z" creationid="漂流瓶儿" creationdate="20160811T043618Z">
+        <seg>标题开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start of text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054007Z" creationid="漂流瓶儿" creationdate="20160811T043656Z">
+        <seg>正文开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>String concatenation:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012925Z" creationid="lansn-lan" creationdate="20160803T012925Z">
@@ -10462,6 +10998,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Substitute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053543Z" creationid="漂流瓶儿" creationdate="20160811T053543Z">
+        <seg>换置、替补。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Support</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054613Z" creationid="MysticBoy" creationdate="20160721T054613Z">
@@ -10478,6 +11022,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Synchronous idle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054618Z" creationid="漂流瓶儿" creationdate="20160811T053030Z">
+        <seg>闲置同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Syntax</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110618Z">
@@ -10490,6 +11042,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061300Z" creationid="blues" creationdate="20160729T135944Z">
         <seg>Tab 制表符：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054149Z" creationid="漂流瓶儿" creationdate="20160811T044254Z">
+        <seg>水平制表符.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table with ASCII-Codes their depending figures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043301Z" creationid="漂流瓶儿" creationdate="20160811T043301Z">
+        <seg>ASCII码表(按数字顺序)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10659,6 +11227,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160801T143823Z" creationid="jane" creationdate="20160801T143823Z">
         <seg> &lt;b20&gt;&lt;f21&gt;Step&lt;/f21&gt;&lt;/b20&gt; 常量也可以是负数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ASCII-Codes 0 to 255 and their depending figures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053851Z" creationid="漂流瓶儿" creationdate="20160811T043446Z">
+        <seg>ASCII 码 0-255 的 ASCII 对应表</seg>
       </tuv>
     </tu>
     <tu>
@@ -10983,10 +11559,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character used to represent the function of moving forward one line on a typewriter or text mode printer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044902Z" creationid="漂流瓶儿" creationdate="20160811T044902Z">
+        <seg>用来表示在打字机或文本模式打印或显示跳转到新的一行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014848Z" creationid="MysticBoy" creationdate="20160810T014848Z">
         <seg>字符的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character which represents moving the head of a typewriter or printer back to the start of the line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052347Z" creationid="漂流瓶儿" creationdate="20160811T052347Z">
+        <seg>它表示的打字机或打印机头搬回行的起始处的字符。通常用作行尾的字符。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -11481,6 +12073,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first group has index 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020221Z" creationid="KKK" creationdate="20160811T020221Z">
+        <seg>第一组被分组为序列 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first position index is 1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015620Z" creationid="MysticBoy" creationdate="20160810T015620Z">
@@ -11601,6 +12201,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The groups are numbered as they appear in the regular expression from left to right.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020203Z" creationid="KKK" creationdate="20160811T020203Z">
+        <seg>这些分组的排序由它们在正则表达式中出现的顺序决定.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The handshake mode.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T052814Z" creationid="lansn-lan" creationdate="20160729T052814Z">
@@ -11705,6 +12313,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The matches of regular expression groups can be accessed with functions like &lt;a0&gt;RegularExpressionGroup()&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T021201Z" creationid="KKK" creationdate="20160811T021201Z">
+        <seg>被匹配的正则表达式分组可以通过函数例如 &lt;a0&gt;RegularExpressionGroup()&lt;/a0&gt; 访问.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The memory address to use to put the read data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060129Z" creationid="lansn-lan" creationdate="20160729T055930Z">
@@ -11749,6 +12365,30 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153503Z" creationid="jane" creationdate="20160728T153503Z">
         <seg>此模式用于计算窗口的Y位置.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most common use today is as the XOFF character in software flow controlled serial communications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052953Z" creationid="漂流瓶儿" creationdate="20160811T052953Z">
+        <seg>最常见的用途是作为软件流控制的串行通信中XOFF字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most common use today is as the XON character in software flow controlled serial communications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052903Z" creationid="漂流瓶儿" creationdate="20160811T052746Z">
+        <seg>最常见的用途在软件流控制串行通信中表示 XON 字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most common you will know is base 10 (a.k.a.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T064832Z" creationid="漂流瓶儿" creationdate="20160811T064832Z">
+        <seg>最常见的你会知道是十进制，</seg>
       </tuv>
     </tu>
     <tu>
@@ -11829,6 +12469,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020434Z" creationid="MysticBoy" creationdate="20160810T020434Z">
         <seg>要返回的字符数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of groups defined in the regular expression.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020023Z" creationid="KKK" creationdate="20160811T020023Z">
+        <seg>在正则表达式中定义的分组数量.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12013,6 +12661,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041245Z" creationid="oSilas" creationdate="20141122T041245Z">
         <seg>圆的半径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The regular expression to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020005Z" creationid="KKK" creationdate="20160811T020005Z">
+        <seg>要使用的正则表达式.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The regular expression which will be applied to the string to match, extract or replace.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064150Z" creationid="Morler" creationdate="20160811T064150Z">
+        <seg>用来识别要进行匹配, 提取或替换的文本的正则表达式.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12953,6 +13617,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is not the same as EOT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053212Z" creationid="漂流瓶儿" creationdate="20160811T053212Z">
+        <seg>这不与 EOT 相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is really useful only together with the "Replace All" button, in which case it will replace any found match, but only inside the selected region.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T113408Z" creationid="漂流瓶儿" creationdate="20160801T113408Z">
@@ -13529,6 +14201,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To get more information about the error, see &lt;a1&gt;RegularExpressionError()&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T065015Z" creationid="Morler" creationdate="20160811T065015Z">
+        <seg>要了解关于出错的更多内容,请查阅 &lt;a1&gt;RegularExpressionError()&lt;/a1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To install PureBasic, just click on the install wizard, follow the steps, and then click on the PureBasic icon (found on the desktop or in the start-menu) to launch PureBasic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T162824Z" creationid="MysticBoy" creationdate="20160810T162824Z">
@@ -13625,6 +14305,62 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typically sent as the first character in a block of text, during communications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043727Z" creationid="漂流瓶儿" creationdate="20160811T043727Z">
+        <seg>通常情况下在通信过程中发送的文本块的第一个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically sent as the last character in a block of text, during communications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043802Z" creationid="漂流瓶儿" creationdate="20160811T043802Z">
+        <seg>通常情况下在通信过程中发送的文本块的最后一个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically used as the character to tell a (text mode) printer to move onto the next page (form)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054328Z" creationid="漂流瓶儿" creationdate="20160811T052314Z">
+        <seg>通常用此字符告诉 打印机(文本模式) 向下移动一个页面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically used as the, or part of the, end of line characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T045301Z" creationid="漂流瓶儿" creationdate="20160811T045301Z">
+        <seg>通常用作文本行的结尾部分.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically used to indicate not-received or not understood (errored) data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054554Z" creationid="漂流瓶儿" creationdate="20160811T053014Z">
+        <seg>通常用来表示未接收到的或不确定（错误的）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically used to turn off a piece of equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052921Z" creationid="漂流瓶儿" creationdate="20160811T052921Z">
+        <seg>通常用于关闭一台设备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically used to turn on a piece of equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052807Z" creationid="漂流瓶儿" creationdate="20160811T052807Z">
+        <seg>通常用来打开一个设备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Under Windows, the console title is also the text shown in the start bar and in the task manager representing your console application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T135911Z" creationid="oSilas" creationdate="20141124T135911Z">
@@ -13649,10 +14385,58 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unit separator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053832Z" creationid="漂流瓶儿" creationdate="20160811T053832Z">
+        <seg>单元分隔符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use any of the supported credit cards by Paypal or PaySite Cash</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081649Z" creationid="MysticBoy" creationdate="20160725T081649Z">
         <seg>通过Paypal或PaySite现金使用任何支持的信用卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the PureBasic command Pow() from the "Math" Library instead.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T064235Z" creationid="漂流瓶儿" creationdate="20160811T064235Z">
+        <seg>使用数学 "Math" 库中的 PureBasic 命令 Pow()作为替代。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used to control transmission of data by indicating an end of block.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053156Z" creationid="漂流瓶儿" creationdate="20160811T053156Z">
+        <seg>用来控制数据的传输通过指示块的结尾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used to indicate that the following control character should be interpreted as data rather than a control character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052632Z" creationid="漂流瓶儿" creationdate="20160811T052632Z">
+        <seg>用于指示以下控制字符应被解释为数据，而不是控制字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used to indicate the end of a transmission.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043831Z" creationid="漂流瓶儿" creationdate="20160811T043831Z">
+        <seg>用于表示传输结束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used to indicate the end of some media, for example the end of a tape drive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053424Z" creationid="漂流瓶儿" creationdate="20160811T053424Z">
+        <seg>用于表示一些媒体，例如磁带驱动器播放结束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13761,10 +14545,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Usually the character produced by pressing the 'Esc' key on your keyboard, used in "escape sequences" to provide formatting information to text based displays (consoles, printers, etc)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053647Z" creationid="漂流瓶儿" creationdate="20160811T053647Z">
+        <seg>字符键盘上用"转义序列"中按 Esc 键的制作通常提供的基于文本的格式设置信息显示（控制台、 打印机等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Various Topics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083431Z" creationid="MysticBoy" creationdate="20160720T083431Z">
         <seg>各种主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical tab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052149Z" creationid="漂流瓶儿" creationdate="20160811T052149Z">
+        <seg>垂直制表符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14217,6 +15017,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Working with different number bases</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T063846Z" creationid="漂流瓶儿" creationdate="20160811T063846Z">
+        <seg>不同的进制数使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Working with source files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T020211Z" creationid="MysticBoy" creationdate="20160726T020211Z">
@@ -14537,6 +15345,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>createregularexpression.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020238Z" creationid="KKK" creationdate="20160811T020238Z">
+        <seg>createregularexpression.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d / c      &lt;f1&gt;; we directly use the value of 'd' (= 12) divided by the value of 'c' (= 3) and save the result in 'd'&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T083231Z" creationid="lansn-lan" creationdate="20160801T083140Z">
@@ -14549,6 +15365,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T082833Z" creationid="lansn-lan" creationdate="20160801T082833Z">
         <seg>d = a + b  &lt;f0&gt;; 将变量  'a' 加 'b' 的和存储到变量 'd'&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>decimal), because there are 10 digits used (0 to 9), and is the one most humans can deal with most easily.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T064926Z" creationid="漂流瓶儿" creationdate="20160811T064926Z">
+        <seg>因为有 10 位数 （0 到 9），并且是大多数人类可以轻松处理运用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14581,6 +15405,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093242Z" creationid="MysticBoy" creationdate="20160725T093242Z">
         <seg>waitfordawn@qq.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>freeregularexpression.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T065029Z" creationid="Morler" creationdate="20160811T065029Z">
+        <seg>freeregularexpression.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -14933,6 +15765,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080355Z" creationid="KKK" creationdate="20160810T080355Z">
         <seg>red.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>regularexpressionerror.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064609Z" creationid="Morler" creationdate="20160811T064609Z">
+        <seg>regularexpressionerror.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>regularexpressiongroup.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T015716Z" creationid="KKK" creationdate="20160811T015716Z">
+        <seg>regularexpressiongroup.html</seg>
       </tuv>
     </tu>
     <tu>
