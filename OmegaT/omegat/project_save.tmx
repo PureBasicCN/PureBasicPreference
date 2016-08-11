@@ -5329,6 +5329,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A placeholder character used to indicate that a character has been substituted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053559Z" creationid="漂流瓶儿" creationdate="20160811T053559Z">
+        <seg>用来表示一个字符已被取代的占位符字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A powerful Visual Designer is included in the PureBasic package, and allows to build easily any kind of applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091725Z" creationid="MysticBoy" creationdate="20160725T091725Z">
@@ -6901,6 +6909,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Escape character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053629Z" creationid="漂流瓶儿" creationdate="20160811T053629Z">
+        <seg>转义字符、换码、退出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Escape closes the auto complete list at any time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T080747Z" creationid="漂流瓶儿" creationdate="20160801T080747Z">
@@ -7001,6 +7017,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091936Z" creationid="MysticBoy" creationdate="20160721T053654Z">
         <seg>PureBasic.CN 官方网站.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File separator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053700Z" creationid="漂流瓶儿" creationdate="20160811T053700Z">
+        <seg>文件分隔符</seg>
       </tuv>
     </tu>
     <tu>
@@ -7353,6 +7377,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135748Z" creationid="MysticBoy" creationdate="20160723T135748Z">
         <seg>入门指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group separator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053706Z" creationid="漂流瓶儿" creationdate="20160811T053706Z">
+        <seg>组分隔符</seg>
       </tuv>
     </tu>
     <tu>
@@ -9718,6 +9750,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Record separator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053752Z" creationid="漂流瓶儿" creationdate="20160811T053752Z">
+        <seg>记录分隔符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Redo the last action undone by the undo function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T082003Z" creationid="漂流瓶儿" creationdate="20160801T082003Z">
@@ -10746,6 +10786,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054344Z" creationid="漂流瓶儿" creationdate="20160802T054344Z">
         <seg>字符串必须用引号括住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Substitute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053543Z" creationid="漂流瓶儿" creationdate="20160811T053543Z">
+        <seg>换置、替补。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14205,6 +14253,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T091413Z" creationid="MysticBoy" creationdate="20160802T091413Z">
         <seg>使用调试器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usually the character produced by pressing the 'Esc' key on your keyboard, used in "escape sequences" to provide formatting information to text based displays (consoles, printers, etc)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053647Z" creationid="漂流瓶儿" creationdate="20160811T053647Z">
+        <seg>字符键盘上用"转义序列"中按 Esc 键的制作通常提供的基于文本的格式设置信息显示（控制台、 打印机等）。</seg>
       </tuv>
     </tu>
     <tu>
