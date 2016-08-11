@@ -6829,6 +6829,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extended descriptions of the common uses of the control characters (ASCII characters 0 to 31)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043513Z" creationid="漂流瓶儿" creationdate="20160811T043513Z">
+        <seg>控制字符的常见用途扩展（ASCII 码 0到31）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fantaisie Software</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090658Z" creationid="MysticBoy" creationdate="20160725T090658Z">
@@ -7845,6 +7853,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indicates the start of a block of data, or the header portion of a block of data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043645Z" creationid="漂流瓶儿" creationdate="20160811T043645Z">
+        <seg>表示数据块或数据块的标头部分的开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert the content of the Clipboard at the current position in the code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083357Z" creationid="漂流瓶儿" creationdate="20160801T083357Z">
@@ -8770,6 +8786,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T081150Z" creationid="lansn-lan" creationdate="20160802T081150Z">
         <seg>这里 H 是一个长度为 25 的字符串型数组.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Null-character, typically (and especially in PureBasic) used to indicate the end of the string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043605Z" creationid="漂流瓶儿" creationdate="20160811T043605Z">
+        <seg>空字符，通常 （特别是在 PureBasic） 用于指示字符串的结尾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10438,6 +10462,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start of heading.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043618Z" creationid="漂流瓶儿" creationdate="20160811T043618Z">
+        <seg>标题开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start of text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043656Z" creationid="漂流瓶儿" creationdate="20160811T043656Z">
+        <seg>文本开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>String concatenation:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012925Z" creationid="lansn-lan" creationdate="20160803T012925Z">
@@ -10667,6 +10707,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160801T143823Z" creationid="jane" creationdate="20160801T143823Z">
         <seg> &lt;b20&gt;&lt;f21&gt;Step&lt;/f21&gt;&lt;/b20&gt; 常量也可以是负数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ASCII-Codes 0 to 255 and their depending figures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043446Z" creationid="漂流瓶儿" creationdate="20160811T043446Z">
+        <seg>ASCII-Codes 0-255 的ASCII对应表</seg>
       </tuv>
     </tu>
     <tu>
