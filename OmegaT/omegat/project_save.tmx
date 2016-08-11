@@ -11143,6 +11143,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character used to represent the function of moving forward one line on a typewriter or text mode printer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044902Z" creationid="漂流瓶儿" creationdate="20160811T044902Z">
+        <seg>用来表示在打字机或文本模式打印或显示跳转到新的一行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014848Z" creationid="MysticBoy" creationdate="20160810T014848Z">
