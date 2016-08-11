@@ -6005,6 +6005,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carriage return.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052330Z" creationid="漂流瓶儿" creationdate="20160811T052330Z">
+        <seg>行首。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the colors used by the text display.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T112047Z">
@@ -7097,6 +7105,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T050812Z" creationid="MysticBoy" creationdate="20160802T050751Z">
         <seg>因此数组、 列表或地图通过作为参数传递给过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Form feed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052234Z" creationid="漂流瓶儿" creationdate="20160811T052234Z">
+        <seg>跳页。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10158,6 +10174,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Same as (horizontal) tab, but moves down one row rather than across one column.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052212Z" creationid="漂流瓶儿" creationdate="20160811T052212Z">
+        <seg>与（水平）标签类似，但它是向下移动一行，而不是水平移动一列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save the currently active source to a different location than it was saved before.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053015Z" creationid="MysticBoy" creationdate="20160726T053015Z">
@@ -11155,6 +11179,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014848Z" creationid="MysticBoy" creationdate="20160810T014848Z">
         <seg>字符的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character which represents moving the head of a typewriter or printer back to the start of the line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052347Z" creationid="漂流瓶儿" creationdate="20160811T052347Z">
+        <seg>它表示的打字机或打印机头搬回行的起始处的字符。通常用作行尾的字符。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -13809,6 +13841,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typically used as the character to tell a (text mode) printer to move onto the next page (form)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052314Z" creationid="漂流瓶儿" creationdate="20160811T052314Z">
+        <seg>通常作为字符用来告诉 (文本模式) 打印机移动到下一个页面（窗体）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Typically used as the, or part of the, end of line characters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T045301Z" creationid="漂流瓶儿" creationdate="20160811T045301Z">
@@ -13965,6 +14005,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083431Z" creationid="MysticBoy" creationdate="20160720T083431Z">
         <seg>各种主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical tab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052149Z" creationid="漂流瓶儿" creationdate="20160811T052149Z">
+        <seg>垂直制表符。</seg>
       </tuv>
     </tu>
     <tu>
