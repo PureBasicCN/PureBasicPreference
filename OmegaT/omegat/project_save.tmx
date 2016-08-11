@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#RegularExpression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T015917Z" creationid="Morler" creationdate="20160811T015917Z">
+        <seg>#RegularExpression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%dd: Will be replaced by the day value, on 2 digits.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071335Z" creationid="blues" creationdate="20160730T071335Z">
@@ -974,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>../reference/purebasic_objects.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020344Z" creationid="Morler" creationdate="20160811T020344Z">
+        <seg>../reference/purebasic_objects.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/A &lt;tools file&gt;          loads/saves the configuration of the external tool from/to this file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071727Z" creationid="MysticBoy" creationdate="20160728T071727Z">
@@ -1840,7 +1856,7 @@
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;Red()&lt;/a0&gt;, &lt;a1&gt;Green()&lt;/a1&gt;, &lt;a2&gt;Blue()&lt;/a2&gt;, &lt;a3&gt;RGBA()&lt;/a3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080406Z" creationid="KKK" creationdate="20160810T080406Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080406Z" creationid="Morler" creationdate="20160810T080406Z">
         <seg>&lt;a0&gt;Red()&lt;/a0&gt;, &lt;a1&gt;Green()&lt;/a1&gt;, &lt;a2&gt;Blue()&lt;/a2&gt;, &lt;a3&gt;RGBA()&lt;/a3&gt;</seg>
       </tuv>
     </tu>
@@ -1850,6 +1866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T075227Z" creationid="lansn-lan" creationdate="20160801T075227Z">
         <seg>&lt;a0&gt;手册首页l&lt;/a0&gt; | &lt;a1&gt;下一篇：  第一步 &gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;RegularExpression Index&lt;/a0&gt; - &lt;a1&gt;CreateRegularExpression()&lt;/a1&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T021044Z" creationid="Morler" creationdate="20160811T020245Z">
+        <seg>&lt;a0&gt;正则表达式索引&lt;/a0&gt; - &lt;a1&gt;CreateRegularExpression()&lt;/a1&gt; -&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5313,6 +5337,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A number to identify the new regular expression.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020415Z" creationid="Morler" creationdate="20160811T020415Z">
+        <seg>一个用来识别这个新生成的正则表达式的数字.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A number to identify the new serial port.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T045052Z" creationid="lansn-lan" creationdate="20160729T044732Z">
@@ -5667,7 +5699,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Alpha</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080235Z" creationid="KKK" creationdate="20160810T080200Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080235Z" creationid="Morler" creationdate="20160810T080200Z">
         <seg>Alpha</seg>
       </tuv>
     </tu>
@@ -5675,7 +5707,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Alpha()</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080247Z" creationid="KKK" creationdate="20160810T080213Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080247Z" creationid="Morler" creationdate="20160810T080213Z">
         <seg>Alpha()</seg>
       </tuv>
     </tu>
@@ -5683,7 +5715,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>AlphaBlend</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080427Z" creationid="KKK" creationdate="20160810T080427Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080427Z" creationid="Morler" creationdate="20160810T080427Z">
         <seg>AlphaBlend</seg>
       </tuv>
     </tu>
@@ -5691,7 +5723,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>AlphaBlend()</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080432Z" creationid="KKK" creationdate="20160810T080432Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080432Z" creationid="Morler" creationdate="20160810T080432Z">
         <seg>AlphaBlend()</seg>
       </tuv>
     </tu>
@@ -5837,7 +5869,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>BackColor</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080525Z" creationid="KKK" creationdate="20160810T080525Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080525Z" creationid="Morler" creationdate="20160810T080525Z">
         <seg>设置背景色&lt;a4&gt;BackColor&lt;/a4&gt;&lt;br5&gt;</seg>
       </tuv>
     </tu>
@@ -6111,7 +6143,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Color</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080335Z" creationid="KKK" creationdate="20160810T080335Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080335Z" creationid="Morler" creationdate="20160810T080335Z">
         <seg>Color</seg>
       </tuv>
     </tu>
@@ -6127,7 +6159,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Color = &lt;f0&gt;&lt;b1&gt;AlphaBlend&lt;/b1&gt;&lt;/f0&gt;(Color1, Color2)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080455Z" creationid="KKK" creationdate="20160810T080455Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080455Z" creationid="Morler" creationdate="20160810T080455Z">
         <seg>颜色 = &lt;f0&gt;&lt;b1&gt;AlphaBlend&lt;/b1&gt;&lt;/f0&gt;(颜色1, 颜色2)</seg>
       </tuv>
     </tu>
@@ -6135,7 +6167,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Color table</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T081722Z" creationid="KKK" creationdate="20160810T081722Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T081722Z" creationid="Morler" creationdate="20160810T081722Z">
         <seg>&lt;a7&gt;颜色表&lt;/a7&gt;&lt;br8&gt;</seg>
       </tuv>
     </tu>
@@ -6143,7 +6175,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Color1</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080500Z" creationid="KKK" creationdate="20160810T080500Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080500Z" creationid="Morler" creationdate="20160810T080500Z">
         <seg>颜色1</seg>
       </tuv>
     </tu>
@@ -6151,7 +6183,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Color2</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080505Z" creationid="KKK" creationdate="20160810T080505Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080505Z" creationid="Morler" creationdate="20160810T080505Z">
         <seg>颜色2</seg>
       </tuv>
     </tu>
@@ -6215,7 +6247,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Compiler Directives</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T081726Z" creationid="KKK" creationdate="20160810T081726Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T081726Z" creationid="Morler" creationdate="20160810T081726Z">
         <seg>&lt;a12&gt;编译器指令&lt;/a12&gt;&lt;br13&gt;</seg>
       </tuv>
     </tu>
@@ -6223,7 +6255,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Compiler Functions</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T081729Z" creationid="KKK" creationdate="20160810T081729Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T081729Z" creationid="Morler" creationdate="20160810T081729Z">
         <seg>&lt;a14&gt;编译器功能&lt;/a14&gt;&lt;br15&gt;</seg>
       </tuv>
     </tu>
@@ -6333,6 +6365,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CountRegularExpressionGroups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T015642Z" creationid="Morler" creationdate="20160811T015642Z">
+        <seg>CountRegularExpressionGroups</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CountRegularExpressionGroups()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T015649Z" creationid="Morler" creationdate="20160811T015649Z">
+        <seg>CountRegularExpressionGroups()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Country</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054640Z" creationid="MysticBoy" creationdate="20160721T054640Z">
@@ -6345,6 +6393,30 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023004Z" creationid="MysticBoy" creationdate="20160726T023004Z">
         <seg>创建新的空源代码文件.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new regular expression using the specified pattern.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020337Z" creationid="Morler" creationdate="20160811T020337Z">
+        <seg>使用指定的模式创建一个新的正则表达式.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CreateRegularExpression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020249Z" creationid="Morler" creationdate="20160811T020249Z">
+        <seg>CreateRegularExpression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CreateRegularExpression()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020253Z" creationid="Morler" creationdate="20160811T020253Z">
+        <seg>CreateRegularExpression()</seg>
       </tuv>
     </tu>
     <tu>
@@ -6391,7 +6463,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Data</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T081731Z" creationid="KKK" creationdate="20160810T081731Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T081731Z" creationid="Morler" creationdate="20160810T081731Z">
         <seg>&lt;a6&gt;数据&lt;/a6&gt;&lt;br7&gt;</seg>
       </tuv>
     </tu>
@@ -7189,6 +7261,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Groups in a regular expression are defined by surrounding a sub-expression with braces "(" and ")".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020133Z" creationid="Morler" creationdate="20160811T020133Z">
+        <seg>在正则表达式中的分组由包围在表达式左右的括号 "(" 和 ")" 定义.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Having a &lt;b43&gt;&lt;f44&gt;DeclareModule&lt;/f44&gt;&lt;/b43&gt; section make the module pretty much self-documented for use when reusing and sharing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T141711Z" creationid="漂流瓶儿" creationdate="20160801T141711Z">
@@ -7321,6 +7401,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081349Z" creationid="lansn-lan" creationdate="20160729T081349Z">
         <seg>如果参数 &lt;f0&gt;#PB_All&lt;/f0&gt; 被指定, 所有剩余的串行端口都被释放.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If &lt;f0&gt;#PB_Any&lt;/f0&gt; was used for the #RegularExpression parameter then the generated number is returned on success.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T062943Z" creationid="Morler" creationdate="20160811T062943Z">
+        <seg>如果&lt;f0&gt;#PB_Any&lt;/f0&gt;被用于#Window参数在成功时则返回生成数字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7929,6 +8017,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T044908Z" creationid="oSilas" creationdate="20150312T044908Z">
         <seg>它可以是下列标志的组合：&lt;br0&gt;&lt;/br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be a combination of the following values:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T062937Z" creationid="Morler" creationdate="20160811T062937Z">
+        <seg>可以是下列值的组合︰</seg>
       </tuv>
     </tu>
     <tu>
@@ -9070,6 +9166,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pattern$</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020424Z" creationid="Morler" creationdate="20160811T020424Z">
+        <seg>Pattern$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Payment online (&lt;a0&gt;www.purebasic.com&lt;/a0&gt;) is available and very secure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163557Z" creationid="MysticBoy" creationdate="20160810T163557Z">
@@ -9456,7 +9560,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>RGBA()</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080509Z" creationid="KKK" creationdate="20160810T080509Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080509Z" creationid="Morler" creationdate="20160810T080509Z">
         <seg>RGBA()</seg>
       </tuv>
     </tu>
@@ -9514,6 +9618,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084318Z" creationid="漂流瓶儿" creationdate="20160801T084318Z">
         <seg>重新根据 &lt;a30&gt;关键字 keywords&lt;/a30&gt; 及代码结构对选中行进行自动缩进操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RegularExpressionGroup()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020232Z" creationid="Morler" creationdate="20160811T020232Z">
+        <seg>RegularExpressionGroup()</seg>
       </tuv>
     </tu>
     <tu>
@@ -9576,8 +9688,24 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Result = &lt;f0&gt;&lt;b1&gt;Alpha&lt;/b1&gt;&lt;/f0&gt;(Color)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080327Z" creationid="KKK" creationdate="20160810T080327Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080327Z" creationid="Morler" creationdate="20160810T080327Z">
         <seg>结果 = &lt;f0&gt;&lt;b1&gt;Alpha&lt;/b1&gt;&lt;/f0&gt;(颜色)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result = &lt;f0&gt;&lt;b1&gt;CountRegularExpressionGroups&lt;/b1&gt;&lt;/f0&gt;(#RegularExpression)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T015711Z" creationid="Morler" creationdate="20160811T015711Z">
+        <seg>结果 = &lt;f0&gt;&lt;b1&gt;CountRegularExpressionGroups&lt;/b1&gt;&lt;/f0&gt;(#RegularExpression)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result = &lt;f0&gt;&lt;b1&gt;CreateRegularExpression&lt;/b1&gt;&lt;/f0&gt;(#RegularExpression, Pattern$ [, Flags])</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020310Z" creationid="Morler" creationdate="20160811T020310Z">
+        <seg>结果 = &lt;f0&gt;&lt;b1&gt;CreateRegularExpression&lt;/b1&gt;&lt;/f0&gt;(#RegularExpression, Pattern$ [, Flags])</seg>
       </tuv>
     </tu>
     <tu>
@@ -9818,6 +9946,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T064214Z" creationid="blues" creationdate="20160730T064214Z">
         <seg>返回一个被添加值后的新日期.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns the number of groups defined in the #RegularExpression.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T015751Z" creationid="Morler" creationdate="20160811T015751Z">
+        <seg>返回 #RegularExpression 中定义的分组数量.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10442,6 +10578,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012925Z" creationid="lansn-lan" creationdate="20160803T012925Z">
         <seg>字符串连接︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>String$</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T062956Z" creationid="Morler" creationdate="20160811T062956Z">
+        <seg>要使用的字符串。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11481,6 +11625,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first group has index 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020221Z" creationid="Morler" creationdate="20160811T020221Z">
+        <seg>第一组被分组为序列 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first position index is 1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015620Z" creationid="MysticBoy" creationdate="20160810T015620Z">
@@ -11601,6 +11753,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The groups are numbered as they appear in the regular expression from left to right.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020203Z" creationid="Morler" creationdate="20160811T020203Z">
+        <seg>这些分组的排序由它们在正则表达式中出现的顺序决定.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The handshake mode.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T052814Z" creationid="lansn-lan" creationdate="20160729T052814Z">
@@ -11701,6 +11861,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071033Z" creationid="blues" creationdate="20160730T071033Z">
         <seg>用于格式化日期的掩码.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The matches of regular expression groups can be accessed with functions like &lt;a0&gt;RegularExpressionGroup()&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T021201Z" creationid="Morler" creationdate="20160811T021201Z">
+        <seg>被匹配的正则表达式分组可以通过函数例如 &lt;a0&gt;RegularExpressionGroup()&lt;/a0&gt; 访问.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11829,6 +11997,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020434Z" creationid="MysticBoy" creationdate="20160810T020434Z">
         <seg>要返回的字符数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of groups defined in the regular expression.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020023Z" creationid="Morler" creationdate="20160811T020023Z">
+        <seg>在正则表达式中定义的分组数量.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12013,6 +12189,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041245Z" creationid="oSilas" creationdate="20141122T041245Z">
         <seg>圆的半径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The regular expression to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020005Z" creationid="Morler" creationdate="20160811T020005Z">
+        <seg>要使用的正则表达式.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14467,7 +14651,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>alpha.html</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080513Z" creationid="KKK" creationdate="20160810T080513Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080513Z" creationid="Morler" creationdate="20160810T080513Z">
         <seg>alpha.html</seg>
       </tuv>
     </tu>
@@ -14475,7 +14659,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>alphablend.html</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080412Z" creationid="KKK" creationdate="20160810T080412Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080412Z" creationid="Morler" creationdate="20160810T080412Z">
         <seg>alphablend.html</seg>
       </tuv>
     </tu>
@@ -14507,7 +14691,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>backcolor.html</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080519Z" creationid="KKK" creationdate="20160810T080519Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080519Z" creationid="Morler" creationdate="20160810T080519Z">
         <seg>backcolor.html</seg>
       </tuv>
     </tu>
@@ -14531,8 +14715,16 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>blue.html</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080358Z" creationid="KKK" creationdate="20160810T080358Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080358Z" creationid="Morler" creationdate="20160810T080358Z">
         <seg>blue.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>createregularexpression.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T020238Z" creationid="Morler" creationdate="20160811T020238Z">
+        <seg>createregularexpression.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -14731,7 +14923,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>green.html</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080357Z" creationid="KKK" creationdate="20160810T080357Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080357Z" creationid="Morler" creationdate="20160810T080357Z">
         <seg>green.html</seg>
       </tuv>
     </tu>
@@ -14779,7 +14971,7 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>index.html</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080350Z" creationid="KKK" creationdate="20160810T080350Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080350Z" creationid="Morler" creationdate="20160810T080350Z">
         <seg>index.html</seg>
       </tuv>
     </tu>
@@ -14931,15 +15123,23 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>red.html</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080355Z" creationid="KKK" creationdate="20160810T080355Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080355Z" creationid="Morler" creationdate="20160810T080355Z">
         <seg>red.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>regularexpressiongroup.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T015716Z" creationid="Morler" creationdate="20160811T015716Z">
+        <seg>regularexpressiongroup.html</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>rgba.html</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080347Z" creationid="KKK" creationdate="20160810T080347Z">
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160810T080347Z" creationid="Morler" creationdate="20160810T080347Z">
         <seg>rgba.html</seg>
       </tuv>
     </tu>
