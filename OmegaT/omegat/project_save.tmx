@@ -5441,6 +5441,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acknowledge.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043947Z" creationid="漂流瓶儿" creationdate="20160811T043947Z">
+        <seg>确认。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163153Z" creationid="MysticBoy" creationdate="20160810T163153Z">
@@ -6745,6 +6753,30 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045256Z" creationid="oSilas" creationdate="20150312T045256Z">
         <seg>启用 XOR 模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of heading.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043813Z" creationid="漂流瓶儿" creationdate="20160811T043813Z">
+        <seg>标题结尾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043743Z" creationid="漂流瓶儿" creationdate="20160811T043743Z">
+        <seg>文本末尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043843Z" creationid="漂流瓶儿" creationdate="20160811T043843Z">
+        <seg>查询。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10210,6 +10242,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T130603Z" creationid="漂流瓶儿" creationdate="20160801T130603Z">
         <seg>点击选择其中一项将调用打开项目命令载入此工程项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sent to a receiver in order to get a response.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043937Z" creationid="漂流瓶儿" creationdate="20160811T043937Z">
+        <seg>为了得到一个响应发送一请求查询。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13681,6 +13721,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typically sent as the first character in a block of text, during communications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043727Z" creationid="漂流瓶儿" creationdate="20160811T043727Z">
+        <seg>通常情况下在通信过程中发送的文本块的第一个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically sent as the last character in a block of text, during communications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043802Z" creationid="漂流瓶儿" creationdate="20160811T043802Z">
+        <seg>通常情况下在通信过程中发送的文本块的最后一个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Under Windows, the console title is also the text shown in the start bar and in the task manager representing your console application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T135911Z" creationid="oSilas" creationdate="20141124T135911Z">
@@ -13709,6 +13765,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081649Z" creationid="MysticBoy" creationdate="20160725T081649Z">
         <seg>通过Paypal或PaySite现金使用任何支持的信用卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used to indicate the end of a transmission.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043831Z" creationid="漂流瓶儿" creationdate="20160811T043831Z">
+        <seg>用于表示传输结束。</seg>
       </tuv>
     </tu>
     <tu>
