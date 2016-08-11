@@ -5817,6 +5817,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the name implies, a signal which was sent synchronously (at periodic times) to indicate that the communications channel is idle, but still active.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053115Z" creationid="漂流瓶儿" creationdate="20160811T053115Z">
+        <seg>顾名思义，信号发送了同步(在定期时间) 以指示通信信道是空闲的但是仍然活跃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As with "Find/Replace", there are checkboxes to make the search more specific.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T121042Z" creationid="漂流瓶儿" creationdate="20160801T121042Z">
@@ -6009,6 +6017,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060632Z" creationid="lansn-lan" creationdate="20160729T060632Z">
         <seg>可以是下列值的组合︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053222Z" creationid="漂流瓶儿" creationdate="20160811T053222Z">
+        <seg>取消。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6241,6 +6257,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050606Z" creationid="漂流瓶儿" creationdate="20160802T050606Z">
         <seg>注释的标志符为“ &lt;b0&gt;&lt;f1&gt;;&lt;/f1&gt;&lt;/b0&gt;”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commonly means that previously sent data should be ignored, although specifics are application dependant.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053323Z" creationid="漂流瓶儿" creationdate="20160811T053323Z">
+        <seg>通常是指以前发送的数据应该忽略，虽然具体的应用取决于应用程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6845,10 +6869,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End of medium.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053330Z" creationid="漂流瓶儿" creationdate="20160811T053330Z">
+        <seg>媒体结束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End of text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043743Z" creationid="漂流瓶儿" creationdate="20160811T043743Z">
         <seg>文本末尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of transmission block.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053123Z" creationid="漂流瓶儿" creationdate="20160811T053123Z">
+        <seg>传输块结束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13265,6 +13305,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is not the same as EOT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053212Z" creationid="漂流瓶儿" creationdate="20160811T053212Z">
+        <seg>这不与 EOT 相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is really useful only together with the "Replace All" button, in which case it will replace any found match, but only inside the selected region.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T113408Z" creationid="漂流瓶儿" creationdate="20160801T113408Z">
@@ -14025,6 +14073,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Used to control transmission of data by indicating an end of block.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053156Z" creationid="漂流瓶儿" creationdate="20160811T053156Z">
+        <seg>用来控制数据的传输通过指示块的结尾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Used to indicate that the following control character should be interpreted as data rather than a control character.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052632Z" creationid="漂流瓶儿" creationdate="20160811T052632Z">
@@ -14037,6 +14093,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043831Z" creationid="漂流瓶儿" creationdate="20160811T043831Z">
         <seg>用于表示传输结束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used to indicate the end of some media, for example the end of a tape drive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053424Z" creationid="漂流瓶儿" creationdate="20160811T053424Z">
+        <seg>用于表示一些媒体，例如磁带驱动器播放结束。</seg>
       </tuv>
     </tu>
     <tu>
