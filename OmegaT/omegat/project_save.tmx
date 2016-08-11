@@ -6879,8 +6879,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>End of medium.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053330Z" creationid="漂流瓶儿" creationdate="20160811T053330Z">
-        <seg>媒体结束。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054716Z" creationid="漂流瓶儿" creationdate="20160811T053330Z">
+        <seg>纸尽、媒体结束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8735,8 +8735,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Negative acknowledge.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052959Z" creationid="漂流瓶儿" creationdate="20160811T052959Z">
-        <seg>反确认。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054530Z" creationid="漂流瓶儿" creationdate="20160811T052959Z">
+        <seg>否定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9752,8 +9752,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Record separator</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053752Z" creationid="漂流瓶儿" creationdate="20160811T053752Z">
-        <seg>记录分隔符</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054729Z" creationid="漂流瓶儿" creationdate="20160811T053752Z">
+        <seg>请求发送、记录分隔符</seg>
       </tuv>
     </tu>
     <tu>
@@ -10816,8 +10816,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Synchronous idle.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053030Z" creationid="漂流瓶儿" creationdate="20160811T053030Z">
-        <seg>同步空闲。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054618Z" creationid="漂流瓶儿" creationdate="20160811T053030Z">
+        <seg>闲置同步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14067,8 +14067,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Typically used to indicate not-received or not understood (errored) data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053014Z" creationid="漂流瓶儿" creationdate="20160811T053014Z">
-        <seg>通常用来表示未接收到的或不理解的（错误的）数据。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054554Z" creationid="漂流瓶儿" creationdate="20160811T053014Z">
+        <seg>通常用来表示未接收到的或不确定（错误的）。</seg>
       </tuv>
     </tu>
     <tu>
