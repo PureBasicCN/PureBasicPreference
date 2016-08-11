@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Note: These examples use the ^ symbol to mean 'raised to the power of' - this is only for convenience in this document, PureBasic does not currently have a power-of operator!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T064118Z" creationid="漂流瓶儿" creationdate="20160811T064118Z">
+        <seg>（注意：这些示例使用“^”符号，意思是 '幂函数' — — 这只是为了方便在此文档中，PureBasic 目前没有幂的运算符!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The compiler replaces all constant names with their corresponding values when compiling the executable.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052851Z" creationid="漂流瓶儿" creationdate="20160802T052851Z">
@@ -14733,6 +14741,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054939Z" creationid="漂流瓶儿" creationdate="20160802T054939Z">
         <seg>使用的词语︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working with different number bases</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T063846Z" creationid="漂流瓶儿" creationdate="20160811T063846Z">
+        <seg>不同的进制数使用</seg>
       </tuv>
     </tu>
     <tu>
