@@ -5851,10 +5851,26 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backspace.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044210Z" creationid="漂流瓶儿" creationdate="20160811T044210Z">
+        <seg>退格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic Keywords</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083303Z" creationid="MysticBoy" creationdate="20160720T083303Z">
         <seg>基本关键词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bell.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044140Z" creationid="漂流瓶儿" creationdate="20160811T044140Z">
+        <seg>铃声.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7317,6 +7333,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Horizontal tab, typically used to format text based tables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044330Z" creationid="漂流瓶儿" creationdate="20160811T044330Z">
+        <seg>水平制表符，通常用于设置文本格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However in some cases, double-clicking has a special meaning: &lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T064142Z" creationid="blues" creationdate="20160730T095848Z">
@@ -8333,6 +8357,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linefeed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044340Z" creationid="漂流瓶儿" creationdate="20160811T044340Z">
+        <seg>换行符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Links</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T054624Z" creationid="MysticBoy" creationdate="20160721T054624Z">
@@ -8385,6 +8417,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T011705Z" creationid="MysticBoy" creationdate="20160725T084628Z">
         <seg>语言包翻译、文档翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Makes an audible noise (typically makes the PC speaker 'beep')</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044155Z" creationid="漂流瓶儿" creationdate="20160811T044155Z">
+        <seg>发出噪音（通常是PC扬声器“滴”声）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8529,6 +8569,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T104841Z" creationid="plp" creationdate="20160730T104841Z">
         <seg>大多数的编译器设置将从主源文件中取出，所以在设置这个程序时，他们是禁用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves the cursor one position to the left (might also delete the character to the left before the move)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044237Z" creationid="漂流瓶儿" creationdate="20160811T044237Z">
+        <seg>将光标向左移动一个位置（也可能删除左侧的一个字符）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10246,6 +10294,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sent by a receiver to show that it has received and/or understood the request.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044131Z" creationid="漂流瓶儿" creationdate="20160811T044131Z">
+        <seg>由一个接收器发送，表示它已经收到或理解查询请求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sent to a receiver in order to get a response.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043937Z" creationid="漂流瓶儿" creationdate="20160811T043937Z">
@@ -10570,6 +10626,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T061300Z" creationid="blues" creationdate="20160729T135944Z">
         <seg>Tab 制表符：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044254Z" creationid="漂流瓶儿" creationdate="20160811T044254Z">
+        <seg>制表符.</seg>
       </tuv>
     </tu>
     <tu>
