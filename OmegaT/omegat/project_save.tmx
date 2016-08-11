@@ -4751,6 +4751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_RegularExpression_MultiLine&lt;/f2&gt; : '^' and '$' match newlines within data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064422Z" creationid="Morler" creationdate="20160811T064422Z">
+        <seg>&lt;f2&gt;#PB_RegularExpression_MultiLine&lt;/f2&gt; : '^' 和 '$' 匹配包含换行的文本.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f2&gt;#PB_SerialPort_DSR&lt;/f2&gt;: Get DSR signal status (0 or 1)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081905Z" creationid="lansn-lan" creationdate="20160729T081638Z">
@@ -4827,6 +4835,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043551Z" creationid="oSilas" creationdate="20150312T043551Z">
         <seg>&lt;f3&gt;#PB_PixelFormat_24Bits_RGB&lt;/f3&gt; ： 3 个字节，每个像素 （RRGGBB）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f3&gt;#PB_RegularExpression_AnyNewLine&lt;/f3&gt;: recognize 'CR', 'LF', and 'CRLF' as newline sequences.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064540Z" creationid="Morler" creationdate="20160811T064540Z">
+        <seg>&lt;f3&gt;#PB_RegularExpression_AnyNewLine&lt;/f3&gt;: 将 'CR', 'LF', 和 'CRLF' 识别为换行分隔.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4915,6 +4931,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043604Z" creationid="oSilas" creationdate="20150312T043604Z">
         <seg>&lt;f4&gt;#PB_PixelFormat_24Bits_BGR&lt;/f4&gt; ： 3 个字节，每个像素 （BBGGRR）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f4&gt;#PB_RegularExpression_NoCase&lt;/f4&gt;    : comparison and matching will be case-insensitive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064604Z" creationid="Morler" creationdate="20160811T064604Z">
+        <seg>&lt;f4&gt;#PB_RegularExpression_NoCase&lt;/f4&gt;    : 比较和匹配将大小写敏感</seg>
       </tuv>
     </tu>
     <tu>
@@ -15669,6 +15693,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080355Z" creationid="KKK" creationdate="20160810T080355Z">
         <seg>red.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>regularexpressionerror.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064609Z" creationid="Morler" creationdate="20160811T064609Z">
+        <seg>regularexpressionerror.html</seg>
       </tuv>
     </tu>
     <tu>
