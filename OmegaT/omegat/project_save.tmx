@@ -13809,6 +13809,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typically used as the, or part of the, end of line characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T045301Z" creationid="漂流瓶儿" creationdate="20160811T045301Z">
+        <seg>通常用作文本行的结尾部分.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Under Windows, the console title is also the text shown in the start bar and in the task manager representing your console application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T135911Z" creationid="oSilas" creationdate="20141124T135911Z">
