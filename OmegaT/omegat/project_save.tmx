@@ -15409,6 +15409,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>freeregularexpression.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T065029Z" creationid="Morler" creationdate="20160811T065029Z">
+        <seg>freeregularexpression.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>french/changes.htm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T090527Z" creationid="MysticBoy" creationdate="20160725T090527Z">
