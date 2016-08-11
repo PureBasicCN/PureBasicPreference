@@ -5893,8 +5893,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Bell.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044140Z" creationid="漂流瓶儿" creationdate="20160811T044140Z">
-        <seg>铃声.</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054123Z" creationid="漂流瓶儿" creationdate="20160811T044140Z">
+        <seg>报警.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6887,8 +6887,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>End of text.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043743Z" creationid="漂流瓶儿" creationdate="20160811T043743Z">
-        <seg>文本末尾</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054107Z" creationid="漂流瓶儿" creationdate="20160811T043743Z">
+        <seg>正文末尾</seg>
       </tuv>
     </tu>
     <tu>
@@ -10760,8 +10760,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Start of text.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043656Z" creationid="漂流瓶儿" creationdate="20160811T043656Z">
-        <seg>文本开始。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054007Z" creationid="漂流瓶儿" creationdate="20160811T043656Z">
+        <seg>正文开始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11025,8 +11025,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>The ASCII-Codes 0 to 255 and their depending figures</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043446Z" creationid="漂流瓶儿" creationdate="20160811T043446Z">
-        <seg>ASCII-Codes 0-255 的ASCII对应表</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053851Z" creationid="漂流瓶儿" creationdate="20160811T043446Z">
+        <seg>ASCII 码 0-255 的 ASCII 对应表</seg>
       </tuv>
     </tu>
     <tu>
@@ -14109,6 +14109,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T030024Z" creationid="MysticBoy" creationdate="20160801T030024Z">
         <seg>单位 (可选)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit separator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053832Z" creationid="漂流瓶儿" creationdate="20160811T053832Z">
+        <seg>单元分隔符</seg>
       </tuv>
     </tu>
     <tu>
