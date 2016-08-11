@@ -6133,6 +6133,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Closes the transmission of the above type of block.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052535Z" creationid="漂流瓶儿" creationdate="20160811T052535Z">
+        <seg>关闭上述类型的块的传输。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coders</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163351Z" creationid="MysticBoy" creationdate="20160810T163351Z">
@@ -6429,6 +6437,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data Link Escape.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052559Z" creationid="漂流瓶儿" creationdate="20160811T052559Z">
+        <seg>数据链路转义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data, Events or many other things can also be processed using loops, which are always checked for a specific condition.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T021740Z" creationid="lansn-lan" creationdate="20160803T021740Z">
@@ -6561,6 +6577,38 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110627Z">
         <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Device control 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052641Z" creationid="漂流瓶儿" creationdate="20160811T052641Z">
+        <seg>设备控制 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Device control 2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052647Z" creationid="漂流瓶儿" creationdate="20160811T052647Z">
+        <seg>设备控制 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Device control 3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052651Z" creationid="漂流瓶儿" creationdate="20160811T052651Z">
+        <seg>设备控制 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Device control 4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052710Z" creationid="漂流瓶儿" creationdate="20160811T052710Z">
+        <seg>设备控制 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10398,6 +10446,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shift in.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052513Z" creationid="漂流瓶儿" creationdate="20160811T052513Z">
+        <seg>切换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052422Z" creationid="漂流瓶儿" creationdate="20160811T052422Z">
+        <seg>移出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shows a file requester to select a filename for a new source file to create.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145324Z" creationid="漂流瓶儿" creationdate="20160801T145324Z">
@@ -10578,6 +10642,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T030033Z" creationid="MysticBoy" creationdate="20160801T030033Z">
         <seg>指定用于在绘图输出的测量距离的单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start of a block of characters whose meaning is implementation dependant.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052453Z" creationid="漂流瓶儿" creationdate="20160811T052453Z">
+        <seg>其含义是字符块的开始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13885,6 +13957,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T081649Z" creationid="MysticBoy" creationdate="20160725T081649Z">
         <seg>通过Paypal或PaySite现金使用任何支持的信用卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used to indicate that the following control character should be interpreted as data rather than a control character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052632Z" creationid="漂流瓶儿" creationdate="20160811T052632Z">
+        <seg>用于指示以下控制字符应被解释为数据，而不是控制字符。</seg>
       </tuv>
     </tu>
     <tu>
