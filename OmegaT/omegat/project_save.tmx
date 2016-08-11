@@ -5377,6 +5377,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A number base is a way of representing numbers, using a certain amount of possible symbols per digit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T064738Z" creationid="漂流瓶儿" creationdate="20160811T064738Z">
+        <seg>进制计数是可以用有限的数字符号代表所有的数值，是表示数字的一种记数方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A number of functions from older versions of PureBasic that have been removed from the package still exist for a while as a compatibility wrapper to allow older codes to be tested/ported more easily.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T083254Z" creationid="plp" creationdate="20160730T083254Z">
@@ -12353,6 +12361,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most common you will know is base 10 (a.k.a.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T064832Z" creationid="漂流瓶儿" creationdate="20160811T064832Z">
+        <seg>最常见的你会知道是十进制，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The name of the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143553Z" creationid="漂流瓶儿" creationdate="20160801T143553Z">
@@ -14353,6 +14369,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the PureBasic command Pow() from the "Math" Library instead.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T064235Z" creationid="漂流瓶儿" creationdate="20160811T064235Z">
+        <seg>使用数学 "Math" 库中的 PureBasic 命令 Pow()作为替代。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Used to control transmission of data by indicating an end of block.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053156Z" creationid="漂流瓶儿" creationdate="20160811T053156Z">
@@ -15309,6 +15333,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T082833Z" creationid="lansn-lan" creationdate="20160801T082833Z">
         <seg>d = a + b  &lt;f0&gt;; 将变量  'a' 加 'b' 的和存储到变量 'd'&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>decimal), because there are 10 digits used (0 to 9), and is the one most humans can deal with most easily.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T064926Z" creationid="漂流瓶儿" creationdate="20160811T064926Z">
+        <seg>因为有 10 位数 （0 到 9），并且是大多数人类可以轻松处理运用。</seg>
       </tuv>
     </tu>
     <tu>
