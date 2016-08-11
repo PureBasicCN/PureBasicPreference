@@ -2,6 +2,7 @@
 /OmegaT/omegat/last_entry.properties
 /OmegaT/omegat/*.tmp
 /OmegaT/omegat/*.bak
+/OmegaT/dictionary/ignore.txt
 /source_dir/documentation/PureBasic_chs.chm
 /source_dir/documentation/a.log
 /PureBasichelp
