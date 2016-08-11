@@ -6039,8 +6039,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Carriage return.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052330Z" creationid="漂流瓶儿" creationdate="20160811T052330Z">
-        <seg>行首。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054405Z" creationid="漂流瓶儿" creationdate="20160811T052330Z">
+        <seg>回车符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7231,8 +7231,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Form feed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052234Z" creationid="漂流瓶儿" creationdate="20160811T052234Z">
-        <seg>跳页。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054237Z" creationid="漂流瓶儿" creationdate="20160811T052234Z">
+        <seg>走纸控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10544,16 +10544,16 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Shift in.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052513Z" creationid="漂流瓶儿" creationdate="20160811T052513Z">
-        <seg>切换。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054435Z" creationid="漂流瓶儿" creationdate="20160811T052513Z">
+        <seg>移位输入。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Shift out.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052422Z" creationid="漂流瓶儿" creationdate="20160811T052422Z">
-        <seg>移出。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054426Z" creationid="漂流瓶儿" creationdate="20160811T052422Z">
+        <seg>移位输出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10840,8 +10840,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Tab.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044254Z" creationid="漂流瓶儿" creationdate="20160811T044254Z">
-        <seg>制表符.</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054149Z" creationid="漂流瓶儿" creationdate="20160811T044254Z">
+        <seg>水平制表符.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14051,8 +14051,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>Typically used as the character to tell a (text mode) printer to move onto the next page (form)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052314Z" creationid="漂流瓶儿" creationdate="20160811T052314Z">
-        <seg>通常作为字符用来告诉 (文本模式) 打印机移动到下一个页面（窗体）。</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054328Z" creationid="漂流瓶儿" creationdate="20160811T052314Z">
+        <seg>通常用此字符告诉 打印机(文本模式) 向下移动一个页面。</seg>
       </tuv>
     </tu>
     <tu>
