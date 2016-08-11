@@ -10494,6 +10494,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table with ASCII-Codes their depending figures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T043301Z" creationid="漂流瓶儿" creationdate="20160811T043301Z">
+        <seg>ASCII码表(按数字顺序)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take the ; away from the second line to see this happen.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052014Z" creationid="lansn-lan" creationdate="20160810T052014Z">
