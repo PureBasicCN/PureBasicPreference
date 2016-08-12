@@ -5071,6 +5071,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f45&gt;; ReplaceString can be used to change the occurrence of a substring within another string.&lt;/f45&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T031750Z" creationid="漂流瓶儿" creationdate="20160812T031750Z">
+        <seg>&lt;f45&gt;; ‘ReplaceString’用于替换字符串中内容。&lt;/f45&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f46&gt;; Shows The quick brown fox jumps over the sleeping dog.&lt;/f46&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T031801Z" creationid="漂流瓶儿" creationdate="20160812T031801Z">
+        <seg>&lt;f46&gt;; 显示 The quick brown fox jumps over the sleeping dog.&lt;/f46&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f4&gt;#PB_Date_Hour&lt;/f4&gt;   : Will add 'Value' Hours to the date</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063223Z" creationid="blues" creationdate="20160730T063223Z">
