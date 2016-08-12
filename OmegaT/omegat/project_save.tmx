@@ -4543,6 +4543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;; This expression will match every word of 3 letter which begin by a lower case letter,&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013106Z" creationid="Morler" creationdate="20160812T013106Z">
+        <seg>&lt;f0&gt;; 这条表达式将匹配所有以小写字母开头的三字母单词, &lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;b1&gt;FANTAISIE SOFTWARE&lt;/b1&gt;&lt;/f0&gt; &lt;br2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T084518Z" creationid="MysticBoy" creationdate="20160725T084518Z">
@@ -7713,6 +7721,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T060358Z" creationid="lansn-lan" creationdate="20160729T060358Z">
         <seg>如果出现读取错误，它将返回零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a regular expression isn't used anymore, use &lt;a0&gt;FreeRegularExpression()&lt;/a0&gt; to free up some resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T012943Z" creationid="Morler" creationdate="20160812T012943Z">
+        <seg>如果一个正则表达式不再被使用, 则 &lt;a0&gt;FreeRegularExpression()&lt;/a0&gt; 命令可以释放一些资源.</seg>
       </tuv>
     </tu>
     <tu>
