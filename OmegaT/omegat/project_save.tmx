@@ -10142,6 +10142,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Result = &lt;f0&gt;&lt;b1&gt;ExamineRegularExpression&lt;/b1&gt;&lt;/f0&gt;(#RegularExpression, String$)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013445Z" creationid="Morler" creationdate="20160812T013445Z">
+        <seg>结果 = &lt;f0&gt;&lt;b1&gt;ExamineRegularExpression&lt;/b1&gt;&lt;/f0&gt;(#RegularExpression, String$)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return the first character value of the specified string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T013806Z" creationid="MysticBoy" creationdate="20160810T013806Z">
@@ -15813,6 +15821,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093757Z" creationid="MysticBoy" creationdate="20160725T084844Z">
         <seg>http://jq.qq.com/?_wv=1027&amp;k=2GmwtDv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>nextregularexpressionmatch.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013447Z" creationid="Morler" creationdate="20160812T013447Z">
+        <seg>nextregularexpressionmatch.html</seg>
       </tuv>
     </tu>
     <tu>
