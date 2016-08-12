@@ -5159,6 +5159,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f52&gt;; StringByteLength returns the length of a string in bytes in the specified format, or the current default&lt;/f52&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T032044Z" creationid="漂流瓶儿" creationdate="20160812T032044Z">
+        <seg>&lt;f52&gt;;‘StringByteLength’返回以字节为单位的字符串长度。&lt;/f52&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f53&gt;; if one is not specified (excluding the terminating null).&lt;/f53&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T032224Z" creationid="漂流瓶儿" creationdate="20160812T032224Z">
+        <seg>&lt;f53&gt;; 如果不指定编码(不包含：null).&lt;/f53&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f56&gt;; Shows 44.&lt;/f56&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T032231Z" creationid="漂流瓶儿" creationdate="20160812T032231Z">
+        <seg>&lt;f56&gt;; 显示 44.&lt;/f56&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f5&gt;#PB_Date_Minute&lt;/f5&gt; : Will add 'Value' Minutes to the date</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063240Z" creationid="blues" creationdate="20160730T063240Z">
@@ -5219,6 +5243,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071840Z" creationid="blues" creationdate="20160730T071840Z">
         <seg>&lt;f5&gt;; 输出： "Y=2010, M=01, D=07"&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f61&gt;; Shows 88.&lt;/f61&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T032244Z" creationid="漂流瓶儿" creationdate="20160812T032244Z">
+        <seg>&lt;f61&gt;; 显示 88.&lt;/f61&gt;</seg>
       </tuv>
     </tu>
     <tu>
