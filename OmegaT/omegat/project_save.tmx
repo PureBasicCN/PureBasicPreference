@@ -4823,6 +4823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f24&gt;; Shows 2&lt;/f24&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T031342Z" creationid="漂流瓶儿" creationdate="20160812T031342Z">
+        <seg>&lt;f24&gt;; 输出显示 2&lt;/f24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f2&gt;#PB_AntialiasingMode_x4&lt;/f2&gt;  : x4 fullscreen antialiasing (FSAA).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010847Z" creationid="MysticBoy" creationdate="20160801T010847Z">
@@ -4923,6 +4931,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T030324Z" creationid="lansn-lan" creationdate="20160810T052749Z">
         <seg>&lt;f2&gt;; ‘Left’从字符串的左边返回指定字长度的字符串.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f31&gt;; FindString can be used to find the location of one string within another.&lt;/f31&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T031440Z" creationid="漂流瓶儿" creationdate="20160812T031440Z">
+        <seg>&lt;f31&gt;; ‘FindString’命令用来在一个字符串中搜索另一个字符串的位置.&lt;/f31&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f32&gt;; Shows 17.&lt;/f32&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T031457Z" creationid="漂流瓶儿" creationdate="20160812T031457Z">
+        <seg>&lt;f32&gt;; 输出显示 17.&lt;/f32&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f38&gt;; RemoveString can be used to remove one string from within another.&lt;/f38&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T031544Z" creationid="漂流瓶儿" creationdate="20160812T031544Z">
+        <seg>&lt;f38&gt;; ‘RemoveString’用来删除字符串中指定的字串.&lt;/f38&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f39&gt;; Shows The quick fox jumps over the lazy dog.&lt;/f39&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T031625Z" creationid="漂流瓶儿" creationdate="20160812T031625Z">
+        <seg>&lt;f39&gt;;显示：The quick fox jumps over the lazy dog.&lt;/f39&gt;</seg>
       </tuv>
     </tu>
     <tu>
