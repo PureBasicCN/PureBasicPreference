@@ -11671,6 +11671,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The PureBasic &lt;a23&gt;XML library&lt;/a23&gt; uses the &lt;a24&gt;expat&lt;/a24&gt; XML parser.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T113200Z" creationid="MysticBoy" creationdate="20160812T113200Z">
+        <seg> PureBasic &lt;a23&gt;XML 库&lt;/a23&gt;使用了 &lt;a24&gt;expat&lt;/a24&gt; XML 分析程序.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The PureBasic IDE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151007T141326Z" creationid="oSilas" creationdate="20151007T141326Z">
