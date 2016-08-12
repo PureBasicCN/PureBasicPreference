@@ -4679,6 +4679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f16&gt;; CountString returns the number of instances of the second string in the first string, it is case sensitive.&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T031023Z" creationid="漂流瓶儿" creationdate="20160812T031023Z">
+        <seg>&lt;f16&gt;;‘CountString’返回在第一个字符串中搜索到的第二个字符串的数量，区分大小写。&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f19&gt;; 32-bit RGB, with or without reversed Y coordinate&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043805Z" creationid="oSilas" creationdate="20150312T043805Z">
@@ -5129,8 +5137,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f5&gt;; Space returns the specified number of space characters as a string.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T053111Z" creationid="lansn-lan" creationdate="20160810T053111Z">
-        <seg>&lt;f5&gt;; Space 返回指定数量的空格字符作为一个字符串.&lt;/f5&gt;</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T030721Z" creationid="lansn-lan" creationdate="20160810T053111Z">
+        <seg>&lt;f5&gt;; ‘Space’返回指定数量的空格字符组成的字符串.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
