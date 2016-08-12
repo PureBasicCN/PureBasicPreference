@@ -1534,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;CountRegularExpressionGroups()&lt;/a0&gt; - &lt;a1&gt;RegularExpression Index&lt;/a1&gt; - &lt;a2&gt;ExamineRegularExpression()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013430Z" creationid="Morler" creationdate="20160812T013430Z">
+        <seg>&lt;- &lt;a0&gt;CountRegularExpressionGroups()&lt;/a0&gt; - &lt;a1&gt;正则表达式索引&lt;/a1&gt; - &lt;a2&gt;ExamineRegularExpression()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;CustomFilterCallback()&lt;/a0&gt; - &lt;a1&gt;2DDrawing Index&lt;/a1&gt; - &lt;a2&gt;DrawAlphaImage()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T041443Z" creationid="oSilas" creationdate="20141128T041443Z">
@@ -1882,6 +1890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T021044Z" creationid="KKK" creationdate="20160811T020245Z">
         <seg>&lt;a0&gt;正则表达式索引&lt;/a0&gt; - &lt;a1&gt;CreateRegularExpression()&lt;/a1&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;RegularExpressionError()&lt;/a0&gt;, &lt;a1&gt;FreeRegularExpression()&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013403Z" creationid="Morler" creationdate="20160812T013403Z">
+        <seg>&lt;a0&gt;RegularExpressionError()&lt;/a0&gt;, &lt;a1&gt;FreeRegularExpression()&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3390,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b10&gt;&lt;f11&gt;Debug&lt;/f11&gt;&lt;/b10&gt; &lt;f12&gt;MatchRegularExpression&lt;/f12&gt;(0, "abc") &lt;f13&gt;; Will print 0&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013350Z" creationid="Morler" creationdate="20160812T013350Z">
+        <seg>&lt;b10&gt;&lt;f11&gt;Debug&lt;/f11&gt;&lt;/b10&gt; &lt;f12&gt;MatchRegularExpression&lt;/f12&gt;(0, "abc") &lt;f13&gt;; Will print 0&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b10&gt;&lt;f11&gt;Debug&lt;/f11&gt;&lt;/b10&gt; a &lt;f12&gt;; Will print 10, as the variable has been protected.&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T083941Z" creationid="MysticBoy" creationdate="20160802T083941Z">
@@ -3486,6 +3510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b14&gt;&lt;f15&gt;Else&lt;/f15&gt;&lt;/b14&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013352Z" creationid="Morler" creationdate="20160812T013352Z">
+        <seg>&lt;b14&gt;&lt;f15&gt;Else&lt;/f15&gt;&lt;/b14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b14&gt;Set as default project&lt;/b14&gt; &lt;br15&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T143720Z" creationid="漂流瓶儿" creationdate="20160801T143720Z">
@@ -3524,6 +3556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T023047Z" creationid="MysticBoy" creationdate="20160726T023047Z">
         <seg>&lt;b15&gt;另存为...&lt;/b15&gt; &lt;br16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b16&gt;&lt;f17&gt;Debug&lt;/f17&gt;&lt;/b16&gt; &lt;f18&gt;RegularExpressionError&lt;/f18&gt;()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013354Z" creationid="Morler" creationdate="20160812T013354Z">
+        <seg>&lt;b16&gt;&lt;f17&gt;Debug&lt;/f17&gt;&lt;/b16&gt; &lt;f18&gt;RegularExpressionError&lt;/f18&gt;()</seg>
       </tuv>
     </tu>
     <tu>
@@ -3596,6 +3636,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090255Z" creationid="MysticBoy" creationdate="20160802T090255Z">
         <seg>&lt;b19&gt;&lt;f20&gt;Debug&lt;/f20&gt;&lt;/b19&gt; "In Procedure: "+&lt;f21&gt;Str&lt;/f21&gt;(&lt;b22&gt;&lt;f23&gt;Array&lt;/f23&gt;&lt;/b22&gt;(0)) &lt;f24&gt;; 将打印 1, 2, 3 因为在每次调用后数组字段会递增.&lt;/f24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b19&gt;&lt;f20&gt;EndIf&lt;/f20&gt;&lt;/b19&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013356Z" creationid="Morler" creationdate="20160812T013356Z">
+        <seg>&lt;b19&gt;&lt;f20&gt;&lt;/f20&gt;&lt;/b19&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3947,6 +3995,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b3&gt;&lt;f4&gt;If&lt;/f4&gt;&lt;/b3&gt; &lt;f5&gt;CreateRegularExpression&lt;/f5&gt;(0, "[a-z]b[A-Z]")</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013343Z" creationid="Morler" creationdate="20160812T013343Z">
+        <seg>&lt;b3&gt;&lt;f4&gt;If&lt;/f4&gt;&lt;/b3&gt; &lt;f5&gt;CreateRegularExpression&lt;/f5&gt;(0, "[a-z]b[A-Z]")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b3&gt;&lt;f4&gt;Repeat&lt;/f4&gt;&lt;/b3&gt;
 ?</seg>
       </tuv>
@@ -4202,6 +4258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T071919Z" creationid="blues" creationdate="20160730T071919Z">
         <seg>&lt;b6&gt;&lt;f7&gt;Debug&lt;/f7&gt;&lt;/b6&gt; &lt;f8&gt;FormatDate&lt;/f8&gt;("%mm/%dd/%yyyy",&lt;f9&gt; Date&lt;/f9&gt;()) &lt;f10&gt;; 将显示当前系统日期&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b6&gt;&lt;f7&gt;Debug&lt;/f7&gt;&lt;/b6&gt; &lt;f8&gt;MatchRegularExpression&lt;/f8&gt;(0, "abC") &lt;f9&gt;; Will print 1&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013347Z" creationid="Morler" creationdate="20160812T013347Z">
+        <seg>&lt;b6&gt;&lt;f7&gt;Debug&lt;/f7&gt;&lt;/b6&gt; &lt;f8&gt;MatchRegularExpression&lt;/f8&gt;(0, "abC") &lt;f9&gt;; Will print 1&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4545,8 +4609,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;; This expression will match every word of 3 letter which begin by a lower case letter,&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013106Z" creationid="Morler" creationdate="20160812T013106Z">
-        <seg>&lt;f0&gt;; 这条表达式将匹配所有以小写字母开头的三字母单词, &lt;/f0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013314Z" creationid="Morler" creationdate="20160812T013106Z">
+        <seg>&lt;f0&gt;; 这条表达式将匹配所有以小写字母开头, &lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4727,6 +4791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;; followed with the character 'b' and which ends with an uppercase letter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013304Z" creationid="Morler" creationdate="20160812T013304Z">
+        <seg>&lt;f1&gt;; 同时以字母 'b' 连接然后以一个大写字母结束的三字母单词.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f2&gt;#PB_AntialiasingMode_x4&lt;/f2&gt;  : x4 fullscreen antialiasing (FSAA).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010847Z" creationid="MysticBoy" creationdate="20160801T010847Z">
@@ -4803,6 +4875,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070736Z" creationid="lansn-lan" creationdate="20160729T070736Z">
         <seg>&lt;f2&gt;#PB_UTF8&lt;/f2&gt;    : 字符串将以 UTF8 格式写入.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f2&gt;;    &lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013339Z" creationid="Morler" creationdate="20160812T013339Z">
+        <seg>&lt;f2&gt;;    &lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7089,6 +7169,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T142108Z" creationid="漂流瓶儿" creationdate="20160801T142108Z">
         <seg>其外部即使重名，也不会引起冲突。&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ExamineRegularExpression()</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013433Z" creationid="Morler" creationdate="20160812T013433Z">
+        <seg>ExamineRegularExpression()</seg>
       </tuv>
     </tu>
     <tu>
@@ -15361,6 +15449,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>countregularexpressiongroups.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013411Z" creationid="Morler" creationdate="20160812T013411Z">
+        <seg>countregularexpressiongroups.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>createregularexpression.html</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T020238Z" creationid="KKK" creationdate="20160811T020238Z">
@@ -15397,6 +15493,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T071554Z" creationid="MysticBoy" creationdate="20160728T071554Z">
         <seg>显示的命令行参数的描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ex: abC&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013335Z" creationid="Morler" creationdate="20160812T013335Z">
+        <seg>例如: abC&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>examineregularexpression.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013414Z" creationid="Morler" creationdate="20160812T013414Z">
+        <seg>examineregularexpression.html</seg>
       </tuv>
     </tu>
     <tu>
