@@ -5921,6 +5921,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All components, libraries, and binaries are copyrighted by Fantaisie Software.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T110845Z" creationid="MysticBoy" creationdate="20160812T110845Z">
+        <seg>所有组件，库和二进制版权归 Fantaisie Software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All constants are preceded by &lt;b0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/b0&gt;#.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052704Z" creationid="漂流瓶儿" creationdate="20160802T052704Z">
@@ -10046,6 +10054,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic has an user-based license.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T110746Z" creationid="MysticBoy" creationdate="20160812T110746Z">
+        <seg>PureBasic 具有基于用户的许可.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PureBasic has been created for beginners and experts alike.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T034112Z" creationid="MysticBoy" creationdate="20160810T034112Z">
@@ -14121,6 +14137,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means you can install it on every computer you need but you can't share it between two or more people.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T110806Z" creationid="MysticBoy" creationdate="20160812T110806Z">
+        <seg>这意味着你可以在你需要的每台计算机上安装它，但你不能两个或更多的人之间共享它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This message is also logged in the error log, and the line that caused the error is marked.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T082629Z" creationid="plp" creationdate="20160730T082629Z">
@@ -15501,6 +15525,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T120726Z" creationid="漂流瓶儿" creationdate="20160801T120726Z">
         <seg>你必须指定一个搜索关键字，以及一个搜索目录（“根目录”）来进行搜索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may not modify, or change, the contents of the original archive without express written consent from Fantaisie Software.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T110726Z" creationid="MysticBoy" creationdate="20160812T110726Z">
+        <seg>未经Fantaisie Software明确的书面同意,你不能修改或更改原始文档的内容。</seg>
       </tuv>
     </tu>
     <tu>
