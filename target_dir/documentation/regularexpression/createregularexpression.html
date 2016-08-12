@@ -3,17 +3,12 @@
 <body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
 <font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">CreateRegularExpression()</font></b></p>
 <p><b>语法</b></p><blockquote>
-
-Result = <font color="#3A3966"><b>CreateRegularExpression</b></font>(#RegularExpression, Pattern$ [, Flags])</blockquote>
+结果 = <font color="#3A3966"><b>CreateRegularExpression</b></font>(#RegularExpression, Pattern$ [, Flags])</blockquote>
 
 </blockquote>
 <b>概要</b><br><blockquote>
 
-
-
-Create a new regular expression using the specified pattern. 
-
- 
+使用指定的模式创建一个新的正则表达式. 
 
 </blockquote><p><b>参数</b></p><blockquote>
 <style type="text/css">
@@ -23,61 +18,45 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <table width="90%" class="parameters">
 <tr><td width="10%"><i>#RegularExpression</i></td>
 <td width="90%"> 
-A number to identify the new regular expression. <a href="../reference/purebasic_objects.html">#PB_Any</a> 可以用来自动生成这个编码. 
+一个用来识别这个新生成的正则表达式的数字. <a href="../reference/purebasic_objects.html">#PB_Any</a> 可以用来自动生成这个编码. 
 
 </td></tr>
 <tr><td><i>Pattern$</i></td>
 <td> 
- 
-The regular expression which will be applied to the string to match, extract or replace. 
-
- 
+用来识别要进行匹配, 提取或替换的文本的正则表达式. 
 
 </td></tr>
 <tr><td><i>Flags (可选)</i></td>
 <td> 
- 
-It can be a combination of the following values: 
- 
-<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_RegularExpression_DotAll</font>    : '.' matches anything including newlines.
-  <font color="#924B72">#PB_RegularExpression_Extended</font>  : whitespace and '#' comments will be ignored.
-  <font color="#924B72">#PB_RegularExpression_MultiLine</font> : '^' and '$' match newlines within data.
-  <font color="#924B72">#PB_RegularExpression_AnyNewLine</font>: recognize 'CR', 'LF', and 'CRLF' as newline sequences.
-  <font color="#924B72">#PB_RegularExpression_NoCase</font>    : comparison and matching will be case-insensitive
+可以是下列值的组合︰ 
+<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_RegularExpression_DotAll</font>    : '.' 匹配任何包含换行符的文本.
+  <font color="#924B72">#PB_RegularExpression_Extended</font>  : 空格和 '#' 注释将会被忽略.
+  <font color="#924B72">#PB_RegularExpression_MultiLine</font> : '^' 和 '$' 匹配包含换行的文本.
+  <font color="#924B72">#PB_RegularExpression_AnyNewLine</font>: 将 'CR', 'LF', 和 'CRLF' 识别为换行分隔.
+  <font color="#924B72">#PB_RegularExpression_NoCase</font>    : 比较和匹配将大小写敏感
 </font></pre>
 
 </td></tr>
 </table>
 </blockquote><p><b>返回值</b></p><blockquote>
 
-
-
-Returns nonzero if the regular expression was created successfully and zero if not. If <font color="#924B72">#PB_Any</font> was used 
-for the #RegularExpression parameter then the generated number is returned on success. 
-If an error has been detected in the pattern, the result will be zero. To get more 
-information about the error, see <a href="regularexpressionerror.html">RegularExpressionError()</a>. 
-
- 
+如果正则表达式成功创建则返回非零值,否则返回零. 如果<font color="#924B72">#PB_Any</font>被用来作为 #RegularExpression 参数则成功时返回生成的数字. 如果在当前模式中发生了错误, 则返回值为零. 要了解关于出错的更多内容,请查阅 <a href="regularexpressionerror.html">RegularExpressionError()</a> . 
 
 </blockquote><p><b>备注</b></p><blockquote>
 
-
-
-If a regular expression isn't used anymore, use <a href="freeregularexpression.html">FreeRegularExpression()</a> to free up some resources. 
-
- 
+如果一个正则表达式不再被使用, 则 <a href="freeregularexpression.html">FreeRegularExpression()</a> 命令可以释放一些资源. 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
-<pre><font face="Courier New, Courier, mono"size="2">  <font color="#3A3966">; This expression will match every word of 3 letter which begin by a lower case letter,</font>
-  <font color="#3A3966">; followed with the character 'b' and which ends with an uppercase letter. ex: abC</font>
+<pre><font face="Courier New, Courier, mono"size="2">  <font color="#3A3966">; 这条表达式将匹配所有以小写字母开头, </font>
+  <font color="#3A3966">; 同时以字母 'b' 连接然后以一个大写字母结束的三字母单词. 例如: abC</font>
   <font color="#3A3966">;    </font>
   <b><font color="#3A3966">If</font></b> <font color="#3A3966">CreateRegularExpression</font>(0, "[a-z]b[A-Z]")
     <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">MatchRegularExpression</font>(0, "abC") <font color="#3A3966">; Will print 1</font>
     <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">MatchRegularExpression</font>(0, "abc") <font color="#3A3966">; Will print 0</font>
   <b><font color="#3A3966">Else</font></b>
     <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">RegularExpressionError</font>()
-  <b><font color="#3A3966">EndIf</font></b>
+  <b><font color="#3A3966"></font></b>
 
 </font></pre>
 
@@ -85,6 +64,6 @@ If a regular expression isn't used anymore, use <a href="freeregularexpression.h
 
 <a href="regularexpressionerror.html">RegularExpressionError()</a>, <a href="freeregularexpression.html">FreeRegularExpression()</a> 
 
-</Blockquote><p><b>已支持操作系统 </b><Blockquote>所有</Blockquote></p><center>&lt;- <a href=countregularexpressiongroups.html>CountRegularExpressionGroups()</a> - <a href="index.html">RegularExpression Index</a> - <a href="examineregularexpression.html">ExamineRegularExpression()</a> -&gt;<br><br>
+</Blockquote><p><b>已支持操作系统 </b><Blockquote>所有</Blockquote></p><center>&lt;- <a href=countregularexpressiongroups.html>CountRegularExpressionGroups()</a> - <a href="index.html">正则表达式索引</a> - <a href="examineregularexpression.html">ExamineRegularExpression()</a> -&gt;<br><br>
 
 </body></html>

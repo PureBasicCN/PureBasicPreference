@@ -58,19 +58,19 @@
 <br>
 请注意，您不能使用  <a href="define.html">Define</a> 关键词来定义  <a href="newlist.html">NewList</a> 或 <a href="newmap.html">NewMap</a> . 否则，将导致编译器报错. <br><br>在过程函数中: 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Procedure</font></b> <font color="#3A3966">TestVariables</font>()
-    
-  <font color="#3A3966">; N 和 P 是局部变量。</font>
-   <b><font color="#3A3966">Define</font></b>.l N
-   <b><font color="#3A3966">Protected</font></b>.l P
-    
-  <font color="#3A3966">;  Q 是静态局部变量。</font>
-   <b><font color="#3A3966">Static</font></b>.l Q
-    
-   <font color="#3A3966">; The main scope variable F and the string list K will be available within this procedure.</font>
-   <b><font color="#3A3966">Shared</font></b> F,<font color="#3A3966"> K</font>()
-    
-   <font color="#3A3966">; The global scope variable J will be available here implicitly.</font>
-    
+  ?
+  ?<font color="#3A3966">N 和 P 是局部变量。</font>
+  ?<b><font color="#3A3966">Define</font></b>.l N
+  ?<b><font color="#3A3966">Protected</font></b>.l P
+  ?
+  ?<font color="#3A3966">; Q 是静态局部变量。</font>
+  ?<b><font color="#3A3966">Static</font></b>.l Q
+  ?
+  ?<font color="#3A3966">; 主作用域变量F和字符串列表将在这个过程中可用。</font>
+  ?<b><font color="#3A3966">Shared</font></b> F,<font color="#3A3966"> K</font>()
+  ?
+  ?<font color="#3A3966">; 全球范围内变量 j 会在这里被忽略。</font>
+  ?
   <b><font color="#3A3966">EndProcedure</font></b>
 </font></pre>
 

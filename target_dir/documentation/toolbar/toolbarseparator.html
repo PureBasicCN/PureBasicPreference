@@ -33,13 +33,13 @@ called before to use this function.
 <font color="#3A3966">      ToolBarStandardButton</font>(2, <font color="#924B72">#PB_ToolBarIcon_Save</font>)
 <font color="#3A3966">      ToolBarSeparator</font>()
 <font color="#3A3966">      ToolBarSeparator</font>()
-    <b><font color="#3A3966">EndIf</font></b>
+    <b><font color="#3A3966"></font></b>
     <b><font color="#3A3966">Repeat</font></b>
       Event =<font color="#3A3966"> WaitWindowEvent</font>()
       <b><font color="#3A3966">If</font></b> Event = <font color="#924B72">#PB_Event_Menu</font>
         <b><font color="#3A3966">Debug</font></b> "ToolBar ID: "+<font color="#3A3966">Str</font>(<font color="#3A3966">EventMenu</font>())
       <b><font color="#3A3966">EndIf</font></b>
-    <b><font color="#3A3966">Until</font></b> Event = <font color="#924B72">#PB_Event_CloseWindow</font> 
+    <b><font color="#3A3966">Until</font></b> Event = <font color="#924B72">#PB_Event_CloseWindow</font>
   <b><font color="#3A3966">EndIf</font></b>
 </font></pre>
 <br>

@@ -9,11 +9,7 @@ Result$ = <font color="#3A3966"><b>Hex</b></font>(Value.q [, Type])</blockquote>
 </blockquote>
 <b>概要</b><br><blockquote>
 
-
-
-Converts a quad numeric number into a string, in hexadecimal format. 
-
- 
+以十六进制格式将quad转换为字符串。 
 
 </blockquote><p><b>参数</b></p><blockquote>
 <style type="text/css">
@@ -23,34 +19,25 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <table width="90%" class="parameters">
 <tr><td width="10%"><i>Value.q</i></td>
 <td width="90%"> 
- 
-The number to convert. 
-
- 
+要转换的数字。 
 
 </td></tr>
-<tr><td><i>Type (optional)</i></td>
+<tr><td><i>Type (可选)</i></td>
 <td> 
- 
-If the value should be handled as another type, one of the following value can be specified: 
- 
-<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_Quad</font>   : The value is handled as a quad number, ranging from 0 to 18446744073709551615 (default)
-  <font color="#924B72">#PB_Byte</font>   : The value is handled as a byte number, ranging from 0 to 255
-  <font color="#924B72">#PB_Ascii</font>  : The value is handled as a ascii character, ranging from 0 to 255
-  <font color="#924B72">#PB_Word</font>   : The value is handled as a word number, ranging from 0 to 65535
-  <font color="#924B72">#PB_Unicode</font>: The value is handled as a unicode character, ranging from 0 to 65535
-  <font color="#924B72">#PB_Long</font>   : The value is handled as a long number, ranging from 0 to 4294967296
+如果值应处理作为另一种类型，可以指定以下值之一︰ 
+<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_Quad</font> ︰ 值作为Quad来处理，范围从 0 到 18446744073709551615 （默认值）
+  <font color="#924B72">#PB_Byte</font> ︰ 值作为Byte来处理，介于 0 到 255
+  <font color="#924B72">#PB_Ascii</font> ︰ 值作为 ascii 字符来处理，范围从 0 到 255 
+  <font color="#924B72">#PB_Word</font> ︰ 值作为word处理，范围从 0 到 65535 之间
+  <font color="#924B72">#PB_Unicode</font>︰ 值作为一个 unicode 字符处理，从 0 到 65535 之间
+  <font color="#924B72">#PB_Long</font> ︰ 值作为一个long 来处理，范围从 0 到 4294967296 
 </font></pre>
 
 </td></tr>
 </table>
 </blockquote><p><b>返回值</b></p><blockquote>
 
-
-
-A string holding the hexadecimal representation of the specified value. 
-
- 
+保存指定的值的十六进制表示形式字符串。 
 
 </blockquote><p><b>示例</b></p><blockquote>
 
@@ -60,13 +47,9 @@ A string holding the hexadecimal representation of the specified value.
 
 </blockquote><p><b>备注</b></p><blockquote>
 
+如果需要在输出字符串中前导零，使用<a href="rset.html">RSet()</a>函数，如下所示︰ 
 
-
-If leading zero are needed in the output string, use the <a href="rset.html">RSet()</a> function as follows: 
-
- 
-
-<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">RSet</font>(<font color="#3A3966">Hex</font>(12), 4, "0") <font color="#3A3966">; Will display "000C"</font>
+<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">RSet</font>(<font color="#3A3966">Hex</font>(12), 4, "0") <font color="#3A3966">; 将显示 "000C"</font>
 </font></pre>
 
 </blockquote><p><b>示例</b></p><blockquote>
@@ -75,13 +58,13 @@ If leading zero are needed in the output string, use the <a href="rset.html">RSe
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Hex</font>(-1, <font color="#924B72">#PB_Byte</font>)
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Hex</font>(-1, <font color="#924B72">#PB_Word</font>)
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Hex</font>(-1, <font color="#924B72">#PB_Long</font>)
-  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Hex</font>(-1, <font color="#924B72">#PB_Quad</font>)    <font color="#3A3966">; quad value is the default</font>
+  <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Hex</font>(-1, <font color="#924B72">#PB_Quad</font>)    <font color="#3A3966">; quad 值是默认的</font>
 </font></pre>
 
 </blockquote><p><b>参阅</b></p><blockquote>
 
 <a href="str.html">Str()</a>, <a href="val.html">Val()</a>, <a href="bin.html">Bin()</a> 
 
-</Blockquote><p><b>已支持操作系统 </b><Blockquote>所有</Blockquote></p><center>&lt;- <a href=findstring.html>FindString()</a> - <a href="index.html">String Index</a> - <a href="insertstring.html">InsertString()</a> -&gt;<br><br>
+</Blockquote><p><b>已支持操作系统 </b><Blockquote>所有</Blockquote></p><center>&lt;- <a href=findstring.html>FindString()</a> - <a href="index.html">String 索引</a> - <a href="insertstring.html">InsertString()</a> -&gt;<br><br>
 
 </body></html>

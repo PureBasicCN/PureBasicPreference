@@ -38,40 +38,40 @@ Add this new procedure to the implementation section.
     Result = ""
     
     <b><font color="#3A3966">CompilerIf</font></b> <font color="#924B72">#PB_Compiler_OS</font> = <font color="#924B72">#PB_OS_Windows</font>
-      � �
-      � � <font color="#3A3966">; These are the attributes for Windows systems.</font>
-      � � <font color="#3A3966">; A logical-and of the attribute with each constant filters out that bit and can then be used for comparison.</font>
+      ??
+      ??<font color="#3A3966">; These are the attributes for Windows systems.</font>
+      ??<font color="#3A3966">; A logical-and of the attribute with each constant filters out that bit and can then be used for comparison.</font>
       
-      � � <b><font color="#3A3966">If</font></b> Attributes &amp; <font color="#924B72">#PB_FileSystem_Archive</font>
-        � � � Result + "A"
-      � � <b><font color="#3A3966">Else</font></b>
-        � � � Result + " "
-      � � <b><font color="#3A3966">EndIf</font></b>
-      � �
-      � � <b><font color="#3A3966">If</font></b> Attributes &amp; <font color="#924B72">#PB_FileSystem_Compressed</font>
-        � � � Result + "C"
-      � � <b><font color="#3A3966">Else</font></b>
-        � � � Result + " "
-      � � <b><font color="#3A3966">EndIf</font></b>
-      � �
-      � � <b><font color="#3A3966">If</font></b> Attributes &amp; <font color="#924B72">#PB_FileSystem_Hidden</font>
-        � � � Result + "H"
-      � � <b><font color="#3A3966">Else</font></b>
-        � � � Result + " "
-      � � <b><font color="#3A3966">EndIf</font></b>
-      � �
-      � � <b><font color="#3A3966">If</font></b> Attributes &amp; <font color="#924B72">#PB_FileSystem_ReadOnly</font>
-        � � � Result + "R"
-      � � <b><font color="#3A3966">Else</font></b>
-        � � � Result + " "
-      � � <b><font color="#3A3966">EndIf</font></b>
-      � �
-      � � <b><font color="#3A3966">If</font></b> Attributes &amp; <font color="#924B72">#PB_FileSystem_System</font>
-        � � � Result + "S"
-      � � <b><font color="#3A3966">Else</font></b>
-        � � � Result + " "
-      � � <b><font color="#3A3966">EndIf</font></b>
-      � �
+      ??<b><font color="#3A3966">If</font></b> Attributes &amp; <font color="#924B72">#PB_FileSystem_Archive</font>
+        ???Result + "A"
+      ??<b><font color="#3A3966">Else</font></b>
+        ???Result + " "
+      ??<b><font color="#3A3966">EndIf</font></b>
+      ??
+      ??<b><font color="#3A3966">If</font></b> Attributes &amp; <font color="#924B72">#PB_FileSystem_Compressed</font>
+        ???Result + "C"
+      ??<b><font color="#3A3966">Else</font></b>
+        ???Result + " "
+      ??<b><font color="#3A3966">EndIf</font></b>
+      ??
+      ??<b><font color="#3A3966">If</font></b> Attributes &amp; <font color="#924B72">#PB_FileSystem_Hidden</font>
+        ???Result + "H"
+      ??<b><font color="#3A3966">Else</font></b>
+        ???Result + " "
+      ??<b><font color="#3A3966">EndIf</font></b>
+      ??
+      ??<b><font color="#3A3966">If</font></b> Attributes &amp; <font color="#924B72">#PB_FileSystem_ReadOnly</font>
+        ???Result + "R"
+      ??<b><font color="#3A3966">Else</font></b>
+        ???Result + " "
+      ??<b><font color="#3A3966">EndIf</font></b>
+      ??
+      ??<b><font color="#3A3966">If</font></b> Attributes &amp; <font color="#924B72">#PB_FileSystem_System</font>
+        ???Result + "S"
+      ??<b><font color="#3A3966">Else</font></b>
+        ???Result + " "
+      ??<b><font color="#3A3966">EndIf</font></b>
+      ??
     <b><font color="#3A3966">CompilerElse</font></b>
       
       <font color="#3A3966">; These are the attributes for Mac and Linux systems.</font>
@@ -79,7 +79,7 @@ Add this new procedure to the implementation section.
       <b><font color="#3A3966">If</font></b> Attributes &amp; <font color="#924B72">#PB_FileSystem_Link</font>
         Result + "L "
       <b><font color="#3A3966">Else</font></b>
-        Result + "� "
+        Result + "?"
       <b><font color="#3A3966">EndIf</font></b>
       
       <font color="#3A3966">; User attributes.</font>
@@ -98,7 +98,7 @@ Add this new procedure to the implementation section.
       <b><font color="#3A3966">If</font></b> Attributes &amp; <font color="#924B72">#PB_FileSystem_ExecUser</font>
         Result + "X "
       <b><font color="#3A3966">Else</font></b>
-        Result + "� "
+        Result + "?"
       <b><font color="#3A3966">EndIf</font></b>
       
       <font color="#3A3966">; Group attributes.</font>
@@ -117,7 +117,7 @@ Add this new procedure to the implementation section.
       <b><font color="#3A3966">If</font></b> Attributes &amp; <font color="#924B72">#PB_FileSystem_ExecGroup</font>
         Result + "X "
       <b><font color="#3A3966">Else</font></b>
-        Result + "� "
+        Result + "?"
       <b><font color="#3A3966">EndIf</font></b>
       
       <font color="#3A3966">; All attributes.</font>

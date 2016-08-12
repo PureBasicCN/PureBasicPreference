@@ -431,7 +431,7 @@
   <param name="Local" value="SerialPort/AvailableSerialPortOutput.html">
   </OBJECT>
   </LI><LI> <OBJECT type="text/sitemap">
-  <param name="Name" value="BackColor">
+  <param name="Name" value="设置背景色&lt;a4&gt;BackColor&lt;/a4&gt;&lt;br5&gt;">
   <param name="Local" value="2DDrawing/BackColor.html">
   </OBJECT>
   </LI><LI> <OBJECT type="text/sitemap">
@@ -991,7 +991,7 @@
   <param name="Local" value="System/CocoaMessage.html">
   </OBJECT>
   </LI><LI> <OBJECT type="text/sitemap">
-  <param name="Name" value="Color table">
+  <param name="Name" value="&lt;a7&gt;颜色表&lt;/a7&gt;&lt;br8&gt;">
   <param name="Local" value="Reference/colortable.html">
   </OBJECT>
   </LI><LI> <OBJECT type="text/sitemap">
@@ -1023,11 +1023,11 @@
   <param name="Local" value="Memory/CompareMemoryString.html">
   </OBJECT>
   </LI><LI> <OBJECT type="text/sitemap">
-  <param name="Name" value="Compiler Directives">
+  <param name="Name" value="&lt;a12&gt;编译器指令&lt;/a12&gt;&lt;br13&gt;">
   <param name="Local" value="Reference/compilerdirectives.html">
   </OBJECT>
   </LI><LI> <OBJECT type="text/sitemap">
-  <param name="Name" value="Compiler Functions">
+  <param name="Name" value="&lt;a14&gt;编译器功能&lt;/a14&gt;&lt;br15&gt;">
   <param name="Local" value="Reference/compilerfunctions.html">
   </OBJECT>
   </LI><LI> <OBJECT type="text/sitemap">
@@ -1559,7 +1559,7 @@
   <param name="Local" value="VectorDrawing/DashPath.html">
   </OBJECT>
   </LI><LI> <OBJECT type="text/sitemap">
-  <param name="Name" value="Data">
+  <param name="Name" value="&lt;a6&gt;数据&lt;/a6&gt;&lt;br7&gt;">
   <param name="Local" value="Reference/data.html">
   </OBJECT>
   </LI><LI> <OBJECT type="text/sitemap">

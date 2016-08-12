@@ -74,13 +74,13 @@ member related functions to treat keys in this object as case insensitive.
 
 </blockquote><p><b>示例</b></p><blockquote>
 
-<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">If</font></b> <font color="#3A3966">ParseJSON</font>(0, "[1, 2, 3, 4, 5]")    
+<pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">If</font></b> <font color="#3A3966">ParseJSON</font>(0, "[1, 2, 3, 4, 5]")
     <b><font color="#3A3966">For</font></b> i = 0 <b><font color="#3A3966">To</font></b> <font color="#3A3966">JSONArraySize</font>(<font color="#3A3966">JSONValue</font>(0)) - 1
       <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">GetJSONInteger</font>(<font color="#3A3966">GetJSONElement</font>(<font color="#3A3966">JSONValue</font>(0), i))
     <b><font color="#3A3966">Next</font></b> i
   <b><font color="#3A3966">Else</font></b>
 <font color="#3A3966">    JSONErrorMessage</font>()
-  <b><font color="#3A3966">EndIf</font></b>
+  <b><font color="#3A3966"></font></b>
 </font></pre>
 
 </blockquote><p><b>参阅</b></p><blockquote>

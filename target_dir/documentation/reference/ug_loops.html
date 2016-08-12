@@ -6,53 +6,38 @@
 数据、 事件或许多其他的事情，可以使用循环来处理，不断检查是否满足执行条件。循环控制使用的关键词: <a href="repeat_until.html">Repeat : Until</a>, <a href="repeat_until.html">Repeat : Forever</a>, <a href="while_wend.html">While : Wend</a>, <a href="for_next.html">For : Next</a>, <a href="foreach_next.html">ForEach : Next</a>. <br><br>在此计数器中  每次循环 A 将增加 2 ，这个循环将总是执行相同数量的迭代次数。 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Define</font></b>.i A
   <b><font color="#3A3966">For</font></b> A = 0 <b><font color="#3A3966">To</font></b> 10 <b><font color="#3A3966">Step</font></b> 2
-     <b><font color="#3A3966">Debug</font></b> A
+  ?<b><font color="#3A3966">Debug</font></b> A
   <b><font color="#3A3966">Next</font></b> A
 </font></pre>
 
-这个循环，将变量 B 的值，每次加上一个0 到 20 之间的随机数<a href="../math/random.html">random</a> ，直到 B 的值大于或等于 100 循环才结束 . The number of iterations actually performed in the loop will vary depending on the random numbers. The check is performed at the start of the loop - so if the condition is already true, zero iterations may be performed. Take the ; away from the second line to see this happen. 
+这个循环，将变量 B 的值，每次加上用<a href="../math/random.html">random</a>产生的一个0 到 20 之间的随机数，直到 B 的值大于或等于 100 循环才结束。实际执行循环中的迭代次数根据随机数字会有所不同。在循环开始时会执行检查，当随机数为 0 时 ，If 条件为True，条件成立， 循环将结束. 加上 ; 分号，从第二行开始演示。 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Define</font></b>.i B
   <font color="#3A3966">; B = 100</font>
   <b><font color="#3A3966">While</font></b> B &lt; 100
-�   B +<font color="#3A3966"> Random</font>(20)
-�   <b><font color="#3A3966">Debug</font></b> B
+?B +<font color="#3A3966"> Random</font>(20)
+<b><font color="#3A3966">Debug</font></b> B
   <b><font color="#3A3966">Wend</font></b>
 </font></pre>
 
-
-
-This loop is very similar to the last except that the check is performed at the end 
-of the loop. So one iteration, at least, will be performed. Again remove the ; from 
-the second line to demonstrate. 
- 
+这种循环和上面的非常相似，只是在循环体结束时执行检查。所以至少，将执行一次循环。再次删除 ; 分号，从第二行演示. 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Define</font></b>.i C
   <font color="#3A3966">; C = 100</font>
   <b><font color="#3A3966">Repeat</font></b>
-�   C +<font color="#3A3966"> Random</font>(20)
-�   <b><font color="#3A3966">Debug</font></b> C
+C +<font color="#3A3966"> Random</font>(20)
+<b><font color="#3A3966">Debug</font></b> C
   <b><font color="#3A3966">Until</font></b> C &gt; 99
 </font></pre>
 
 
-
-
-
-This loop is infinite. It won't stop until you stop it (use the red X button on the 
-IDE toolbar). 
- 
+这种循环是无限循环。它不会停止，直到您停止它 （IDE 工具栏上使用红色的 X 按钮）。 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">Define</font></b>.i D
   <b><font color="#3A3966">Repeat</font></b>
-�   <b><font color="#3A3966">Debug</font></b> D
+<b><font color="#3A3966">Debug</font></b> D
   <b><font color="#3A3966">ForEver</font></b>
 </font></pre>
 
 
-
-
-
-There is a special loop for working with <a href="newlist.html">lists</a> and 
-<a href="newmap.html">maps</a>, it will iterate every member of the list (or map) in turn. 
- 
+还有一个特殊的循环，用于<a href="newlist.html">lists</a>与<a href="newmap.html">maps</a>，反过来，它将循环访问每个成员的列表list （或地图map）。 
 <pre><font face="Courier New, Courier, mono"size="2">  <b><font color="#3A3966">NewList</font></b> <font color="#3A3966">Fruit</font>.s()
   
 <font color="#3A3966">  AddElement</font>(<font color="#3A3966">Fruit</font>())
@@ -68,12 +53,12 @@ There is a special loop for working with <a href="newlist.html">lists</a> and
 <font color="#3A3966">  Fruit</font>() = "Orange"
   
   <b><font color="#3A3966">ForEach</font></b> <font color="#3A3966">Fruit</font>()
-�   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Fruit</font>()
+<b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Fruit</font>()
   <b><font color="#3A3966">Next</font></b> <font color="#3A3966">Fruit</font>()
 </font></pre>
 
 
 <p><b>用户指南导航</b></p><blockquote>
 
-<a href="ug_decisions.html">&lt; Previous: Decisions &amp; Conditions</a> | <a href="ug_overview.html">Overview</a> | <a href="ug_string.html">Next: String Manipulation &gt;</a> 
+<a href="ug_decisions.html">&lt; 上一篇: 判断 &amp; 条件</a> | <a href="ug_overview.html">用户指南 - 概述</a> | <a href="ug_string.html">下一篇: 字符串操作 &gt;</a> 
 </body></html>
