@@ -4687,6 +4687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f17&gt;; Shows 1.&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T031036Z" creationid="漂流瓶儿" creationdate="20160812T031036Z">
+        <seg>&lt;f17&gt;; 输出显示 1.&lt;/f17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f19&gt;; 32-bit RGB, with or without reversed Y coordinate&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043805Z" creationid="oSilas" creationdate="20150312T043805Z">
@@ -4803,6 +4811,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Morler" changedate="20160812T013304Z" creationid="Morler" creationdate="20160812T013304Z">
         <seg>&lt;f1&gt;; 同时以字母 'b' 连接然后以一个大写字母结束的三字母单词.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f23&gt;; However the LCase (and UCase) functions can be used to switch a string to all lower (or upper) case&lt;/f23&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T031326Z" creationid="漂流瓶儿" creationdate="20160812T031326Z">
+        <seg>&lt;f23&gt;; 使用‘LCase’ (和‘UCase’)命令对指定字符串进行大（小）写转换。&lt;/f23&gt;</seg>
       </tuv>
     </tu>
     <tu>
