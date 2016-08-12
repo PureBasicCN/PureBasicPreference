@@ -10166,6 +10166,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic uses the &lt;a19&gt;Scintilla&lt;/a19&gt; editing component and its related license can be consulted &lt;a20&gt;here&lt;/a20&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T111136Z" creationid="MysticBoy" creationdate="20160812T111136Z">
+        <seg>PureBasic 使用的 &lt;a19&gt;Scintilla&lt;/a19&gt; 编辑组件机器相关许可可以&lt;a20&gt;在这里&lt;/a20&gt;查看.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic uses the OnError library, written and (c) 2003 by Siegfried Rings and Sebastian Lackner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T111103Z" creationid="MysticBoy" creationdate="20160812T111103Z">
+        <seg>PureBasic 使用的 OnError 库, 编写和版权归(c) 2003 Siegfried Rings 和 Sebastian Lackner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Purebasic user account</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082559Z" creationid="MysticBoy" creationdate="20160723T173845Z">
@@ -11683,6 +11699,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160728T070601Z" creationid="MysticBoy" creationdate="20160728T070601Z">
         <seg>PureBasic IDE允许你在命令行修改要使用的路径和文件.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The PureBasic license explicitly forbids the creation of DLLs whose primary function is to serve as a 'wrapper' for PureBasic functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T111008Z" creationid="MysticBoy" creationdate="20160812T111008Z">
+        <seg>  PureBasic 的许可证明确禁止创建一个封装了PureBasic主要功能函数的DLL.</seg>
       </tuv>
     </tu>
     <tu>
