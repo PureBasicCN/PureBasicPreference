@@ -4897,8 +4897,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f2&gt;; Left returns a number of characters from the left hand end of a string.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T053053Z" creationid="lansn-lan" creationdate="20160810T052749Z">
-        <seg>&lt;f2&gt;; Left 左从字符串的左边返回一个字符.&lt;/f2&gt;</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T030324Z" creationid="lansn-lan" creationdate="20160810T052749Z">
+        <seg>&lt;f2&gt;; ‘Left’从字符串的左边返回指定字长度的字符串.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4993,8 +4993,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f3&gt;; Mid returns a number of characters from the given start location in the middle of a string.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052905Z" creationid="lansn-lan" creationdate="20160810T052814Z">
-        <seg>&lt;f3&gt;; Mid 在字符串的中间返回一个给定的起始位置的字符.&lt;/f3&gt;</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T030449Z" creationid="lansn-lan" creationdate="20160810T052814Z">
+        <seg>&lt;f3&gt;; ‘Mid’返回字符串的中间起始位置开始，指定长度的字符串.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5073,8 +5073,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f4&gt;; Right returns a number of characters from the right hand end of a string.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160810T052858Z" creationid="lansn-lan" creationdate="20160810T052858Z">
-        <seg>&lt;f4&gt;; Right 从字符串的右端返回一个字符.&lt;/f4&gt;</seg>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T030511Z" creationid="lansn-lan" creationdate="20160810T052858Z">
+        <seg>&lt;f4&gt;; ‘Right’从字符串的右端返回指定长度的字符串.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
