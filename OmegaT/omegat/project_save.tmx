@@ -5353,6 +5353,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>?&lt;f11&gt;; The main scope variable F and the string list K will be available within this procedure.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160812T022405Z" creationid="漂流瓶儿" creationdate="20160812T022405Z">
+        <seg>?&lt;f11&gt;; 主作用域变量F和字符串列表将在这个过程中可用。&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A "block mode" is also available where the new line simply gets the same indentation as the previous one.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160801T060458Z" creationid="blues" creationdate="20160729T135606Z">
