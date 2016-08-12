@@ -7389,6 +7389,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fantaisie Software reserves all rights to this program and all original archives and contents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T110351Z" creationid="MysticBoy" creationdate="20160812T110351Z">
+        <seg>Fantaisie Software 保留此程序和所有原始文档和内容的所有权利.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File separator</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T053700Z" creationid="漂流瓶儿" creationdate="20160811T053700Z">
@@ -10134,6 +10142,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic uses the &lt;a11&gt;OGRE OpenSource 3D-Engine&lt;/a11&gt; and its licence can be consulted &lt;a12&gt;here&lt;/a12&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T110304Z" creationid="MysticBoy" creationdate="20160812T110304Z">
+        <seg>PureBasic 使用了 &lt;a11&gt;OGRE OpenSource 3D-Engine&lt;/a11&gt; ，他的许可证可以  &lt;a12&gt;在这里&lt;/a12&gt;查看.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Purebasic user account</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082559Z" creationid="MysticBoy" creationdate="20160723T173845Z">
@@ -12236,6 +12252,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053408Z" creationid="MysticBoy" creationdate="20160726T053408Z">
         <seg>新建源码文件的默认值可以在&lt;a41&gt;首选项&lt;/a41&gt;中设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The demo version of this program may be freely distributed provided all contents, of the original archive, remain intact.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T110553Z" creationid="MysticBoy" creationdate="20160812T110553Z">
+        <seg>该程序的演示版本可以自由分发提供的原始档案，所有内容都保持不变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15363,8 +15387,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>You are warned that you use PureBasic at your own risk.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T110138Z" creationid="MysticBoy" creationdate="20160812T110138Z">
-        <seg>You are warned that you use PureBasic at your own 风险.</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T110526Z" creationid="MysticBoy" creationdate="20160812T110138Z">
+        <seg>任何您使用PureBasic后造成的风险自行承担.</seg>
       </tuv>
     </tu>
     <tu>
