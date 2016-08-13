@@ -26,3 +26,6 @@ will display	将显示
 Fantaisie Software	Fantaisie Software	原公司名称
 Added	已添加
 Updated	已更新
+Changed	已更改
+Removed	已移除
+Fixed	已修正
