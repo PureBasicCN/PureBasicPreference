@@ -7613,6 +7613,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more details just take a look &lt;a2&gt;here&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T152015Z" creationid="MysticBoy" creationdate="20160813T152015Z">
+        <seg>要了解更多的信息请查看这里&lt;a2&gt;这里&lt;/a2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information about the runtime concept, see &lt;a0&gt;Runtime&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160802T090438Z" creationid="MysticBoy" creationdate="20160802T090438Z">
@@ -7665,6 +7673,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054237Z" creationid="漂流瓶儿" creationdate="20160811T052234Z">
         <seg>走纸控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>France</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T152155Z" creationid="MysticBoy" creationdate="20160813T152155Z">
+        <seg>法国</seg>
       </tuv>
     </tu>
     <tu>
@@ -8113,6 +8129,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T014741Z" creationid="MysticBoy" creationdate="20160810T014741Z">
         <seg>如果需要在输出字符串中前导零，使用&lt;a0&gt;RSet()&lt;/a0&gt;函数，如下所示︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If needed you can also get an invoice from him.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T151936Z" creationid="MysticBoy" creationdate="20160813T151936Z">
+        <seg>如果需要你环可以从他那里拿发票。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8953,6 +8977,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="plp" changedate="20160730T080553Z" creationid="plp" creationdate="20160728T111413Z">
         <seg>只要在菜单中选择“编译/运行”（快捷键默认为F5），你的程序将会被编译并进行一次测试运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just write an email with your full address (for the registration) to him.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T151907Z" creationid="MysticBoy" creationdate="20160813T151907Z">
+        <seg>只是给他写一封电子邮件与您的详细地址 （注册信息）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9902,8 +9934,8 @@ OR 性能 OF THIS SOFTWARE.</seg>
       <tuv lang="EN-US">
         <seg>Please send bug reports, suggestions, improvements, examples of source coding, or if you just want to talk to us, to any of the following addresses:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T151733Z" creationid="MysticBoy" creationdate="20160813T151733Z">
-        <seg>Please 发送 bug 报表, suggestions, improvements, examples of 源 coding, or if you just want to talk to us, to any of the following addresses:</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T152115Z" creationid="MysticBoy" creationdate="20160813T151733Z">
+        <seg>请发送错误报告，建议，改进，例子的源码，或者如果你只是想与我们交谈，请访问下列地址：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10160,6 +10192,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T101413Z" creationid="MysticBoy" creationdate="20160721T101413Z">
         <seg>PureBasic 团队博客  » Feed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PureBasic can be ordered in Germany also directly at him.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T151844Z" creationid="MysticBoy" creationdate="20160813T151844Z">
+        <seg>PureBasic 也可以在德国订购可以直接联系他们.</seg>
       </tuv>
     </tu>
     <tu>
