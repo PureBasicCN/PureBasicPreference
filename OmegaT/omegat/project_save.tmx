@@ -4623,6 +4623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;removed&lt;/f0&gt;: UseImage() - change UseImage(#Image) to ImageID(#Image) where just the ID is needed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T151719Z" creationid="MysticBoy" creationdate="20160813T151719Z">
+        <seg>&lt;f0&gt;removed&lt;/f0&gt;: UseImage() - 更改 UseImage(#图像) to ImageID(#图像) where just the ID is needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f10&gt;#PB_SerialPort_XoffReceived&lt;/f10&gt;: Specifies whether transmission is waiting because the XOFF character was received.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061801Z" creationid="lansn-lan" creationdate="20160729T061801Z">
@@ -5977,6 +5985,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All suggestions, bug reports, etc. should be sent to him at either address shown below:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T151739Z" creationid="MysticBoy" creationdate="20160813T151739Z">
+        <seg>All suggestions, bug 报表, etc. should be sent to him at either 寻址 shown below:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All text entered after &lt;b2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/b2&gt;; is ignored by the compiler.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T050817Z" creationid="漂流瓶儿" creationdate="20160802T050817Z">
@@ -6381,6 +6397,22 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T151653Z" creationid="MysticBoy" creationdate="20160813T151653Z">
+        <seg>变更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changes by libraries from v3.94 to v4.00</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T151711Z" creationid="MysticBoy" creationdate="20160813T151711Z">
+        <seg>库从 v3.94 to v4.00的变更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changes the angular factor of the #Entity.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T081709Z" creationid="MysticBoy" creationdate="20160720T081709Z">
@@ -6673,6 +6705,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T052627Z" creationid="漂流瓶儿" creationdate="20160802T052627Z">
         <seg>常量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T151719Z" creationid="MysticBoy" creationdate="20160813T151719Z">
+        <seg>联系人</seg>
       </tuv>
     </tu>
     <tu>
@@ -8309,6 +8349,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T151713Z" creationid="MysticBoy" creationdate="20160813T151713Z">
+        <seg>图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import/Export</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Silas" changedate="20160720T080512Z" creationid="Silas" creationdate="20160720T080512Z">
@@ -9221,6 +9269,28 @@ supporting documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NEIL HODGSON DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS 
+SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY 
+AND FITNESS, IN NO EVENT SHALL NEIL HODGSON BE LIABLE FOR ANY 
+SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES 
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, 
+WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER 
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE 
+OR PERFORMANCE OF THIS SOFTWARE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T151535Z" creationid="MysticBoy" creationdate="20160813T151535Z">
+        <seg>NEIL HODGSON DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS 
+SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY 
+AND FITNESS, IN NO 事件 SHALL NEIL HODGSON BE LIABLE FOR ANY 
+SPECIAL, 间接 OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES 
+WHATSOEVER RESULTING FROM LOSS OF USE, 数据 OR PROFITS, 
+WHETHER IN AN 操作 OF 协定, NEGLIGENCE OR 其他 
+TORTIOUS 操作, ARISING OUT OF OR IN 连接 WITH THE USE 
+OR 性能 OF THIS SOFTWARE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Negative acknowledge.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T054530Z" creationid="漂流瓶儿" creationdate="20160811T052959Z">
@@ -9826,6 +9896,14 @@ supporting documentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163557Z" creationid="MysticBoy" creationdate="20160810T163557Z">
         <seg>付款 联机 (&lt;a0&gt;www.purebasic.com&lt;/a0&gt;) is 可用的 and very secure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please send bug reports, suggestions, improvements, examples of source coding, or if you just want to talk to us, to any of the following addresses:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T151733Z" creationid="MysticBoy" creationdate="20160813T151733Z">
+        <seg>Please 发送 bug 报表, suggestions, improvements, examples of 源 coding, or if you just want to talk to us, to any of the following addresses:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16149,14 +16227,6 @@ supporting documentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T092826Z" creationid="MysticBoy" creationdate="20160725T092826Z">
         <seg>mailto:100860505@qq.com</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>mailto:andre@purebasic.com</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093359Z" creationid="MysticBoy" creationdate="20160725T093359Z">
-        <seg> tsliuhaitao@qq.com</seg>
       </tuv>
     </tu>
     <tu>
