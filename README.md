@@ -16,6 +16,8 @@
 
  - 小半头砖 waitfordawn@qq.com   《PureBasic入门与提高》作者 ， 帮助文档翻译
  - 漂流瓶儿 tsliuhaitao@qq.com   《PureBasic入门与提高》 筹备人  帮助文档翻译 
- - 麦壳饼 qq 100860505     网站管理员 文档翻译协调
  - 布鲁斯兰  QQ 173654757  帮助文档翻译
- - 迷路仟   QQ: 714095563  其它
+ - Morler   morler@qq.com        帮助文档翻译
+ -  杨亮  QQ:44609242<no9242@qq.com>    PureBasicCMS 模板制作人
+ - 麦壳饼 qq 100860505     网站管理员 文档翻译协调
+
