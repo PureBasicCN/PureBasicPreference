@@ -24,3 +24,5 @@ Define	Define	大写是关键词
 Will display 	将显示
 will display	将显示
 Fantaisie Software	Fantaisie Software	原公司名称
+Added	已添加
+Updated	已更新
