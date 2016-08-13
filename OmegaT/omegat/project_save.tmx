@@ -366,10 +366,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- &lt;f2&gt;Fixed&lt;/f2&gt;: Some compiler and libraries related bugs &lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T152605Z" creationid="MysticBoy" creationdate="20160813T152605Z">
+        <seg>- &lt;f2&gt;Fixed&lt;/f2&gt;: Some 编译程序 and libraries related bugs &lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- &lt;f34&gt;Updated&lt;/f34&gt;: SQLite version 3.13.0 &lt;br35&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T152508Z" creationid="MysticBoy" creationdate="20160813T152508Z">
         <seg>- &lt;f34&gt;Updated&lt;/f34&gt;: SQLite 版本 3.13.0 &lt;br35&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- &lt;f37&gt;Changed&lt;/f37&gt;: ParticleVelocity() to support current velocity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T152511Z" creationid="MysticBoy" creationdate="20160813T152511Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- &lt;f39&gt;Removed&lt;/f39&gt;: ASCII mode for internal PureBasic string representation, PureBasic is now unicode only.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T152536Z" creationid="MysticBoy" creationdate="20160813T152536Z">
+        <seg>- &lt;f39&gt;Removed&lt;/f39&gt;: ASCII 模式 for internal PureBasic 字符串 representation, PureBasic is now Unicode only.</seg>
       </tuv>
     </tu>
     <tu>
