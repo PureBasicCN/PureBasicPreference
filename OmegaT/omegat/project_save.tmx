@@ -8485,6 +8485,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Individual matches can be iterated using the &lt;a0&gt;NextRegularExpressionMatch()&lt;/a0&gt; function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160813T084322Z" creationid="Morler" creationdate="20160813T084322Z">
+        <seg>单独的匹配可以使用函数 &lt;a0&gt;NextRegularExpressionMatch()&lt;/a0&gt; 进行迭代调用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert the content of the Clipboard at the current position in the code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T083357Z" creationid="漂流瓶儿" creationdate="20160801T083357Z">
