@@ -7637,6 +7637,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From each match, the matching string, its position/length and any groups within the match can be extracted with the appropriate function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160813T084741Z" creationid="Morler" creationdate="20160813T084741Z">
+        <seg>每个匹配, 匹配的字符串, 它的位置/长度和任何在匹配中的分组都可以通过适当的函数被提取出来.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frédéric Laboureur</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093008Z" creationid="MysticBoy" creationdate="20160725T084638Z">
@@ -10430,6 +10438,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns non-zero if the matching was started successfully.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160813T084823Z" creationid="Morler" creationdate="20160813T084823Z">
+        <seg>如果匹配启动成功则返回一个非零值.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns nonzero if the regular expression was created successfully and zero if not.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064650Z" creationid="Morler" creationdate="20160811T064650Z">
@@ -11322,6 +11338,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012925Z" creationid="lansn-lan" creationdate="20160803T012925Z">
         <seg>字符串连接︰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>String$</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160813T084748Z" creationid="Morler" creationdate="20160813T084748Z">
+        <seg>String$</seg>
       </tuv>
     </tu>
     <tu>
@@ -13245,6 +13269,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070458Z" creationid="lansn-lan" creationdate="20160729T070458Z">
         <seg>字符串格式.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The string to apply the regular expression on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160813T084803Z" creationid="Morler" creationdate="20160813T084803Z">
+        <seg>要提交给正则表达式进行匹配的字符串.</seg>
       </tuv>
     </tu>
     <tu>
