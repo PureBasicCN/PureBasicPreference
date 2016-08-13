@@ -2407,7 +2407,7 @@
   <param name="Local" value="Preference/ExaminePreferenceKeys.html">
   </OBJECT>
   </LI><LI> <OBJECT type="text/sitemap">
-  <param name="Name" value="ExamineRegularExpression">
+  <param name="Name" value="ExamineRegularExpression()">
   <param name="Local" value="RegularExpression/ExamineRegularExpression.html">
   </OBJECT>
   </LI><LI> <OBJECT type="text/sitemap">
