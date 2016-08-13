@@ -8957,6 +8957,30 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>License for Scintilla and SciTE
+
+Copyright 1998-2003 by Neil Hodgson &lt;neilh@scintilla.org&gt;
+
+All Rights Reserved 
+
+Permission to use, copy, modify, and distribute this software and its 
+documentation for any purpose and without fee is hereby granted, 
+provided that the above copyright notice appear in all copies and that 
+both that copyright notice and this permission notice appear in 
+supporting documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T151427Z" creationid="MysticBoy" creationdate="20160813T151427Z">
+        <seg> Scintilla 和 SciTE的许可
+
+版权所有 1998-2003 by Neil Hodgson &lt;neilh@scintilla.org&gt;
+
+保留所有权 
+
+以使用，复制，修改和分发本软件及其任何目的免费文档特此授予，前提是上述版权声明出现在所有副本中，无论该版权声明和本许可声明出现在支持文档。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Line continuation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T054606Z" creationid="漂流瓶儿" creationdate="20160802T054606Z">
