@@ -11302,6 +11302,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starts matching the #RegularExpression against the given String$.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Morler" changedate="20160813T084222Z" creationid="Morler" creationdate="20160813T084222Z">
+        <seg>在给定的字符串 String$ 中匹配正则表达式 #RegularExpression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>String concatenation:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T012925Z" creationid="lansn-lan" creationdate="20160803T012925Z">
