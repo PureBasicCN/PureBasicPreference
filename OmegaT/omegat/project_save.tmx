@@ -1774,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;&lt; Previous: Loops&lt;/a0&gt; | &lt;a1&gt;Overview&lt;/a1&gt; | &lt;a2&gt;Next: Storing data in memory &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T013320Z" creationid="漂流瓶儿" creationdate="20160814T013320Z">
+        <seg>&lt;a0&gt;&lt; 上一页: 循环&lt;/a0&gt; | &lt;a1&gt;概述&lt;/a1&gt; | &lt;a2&gt;下一页: 内存数据存储&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;&lt; Previous: Variables&lt;/a0&gt; | &lt;a1&gt;Overview&lt;/a1&gt; | &lt;a2&gt;Next: Decisions &amp; Conditions &gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T014827Z" creationid="lansn-lan" creationdate="20160803T014827Z">
