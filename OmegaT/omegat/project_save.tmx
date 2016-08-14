@@ -4671,6 +4671,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f104&gt;; LSet sets a string to be a specific length from the left hand end, padding with spaces, &lt;/f104&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014214Z" creationid="漂流瓶儿" creationdate="20160814T014214Z">
+        <seg>&lt;f104&gt;; 'LSet '将字符串设置成为从左端开始指定长度的字符串，不足时用空格填充&lt;/f104&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f105&gt;; or other specified character, as necessary.&lt;/f105&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014235Z" creationid="漂流瓶儿" creationdate="20160814T014235Z">
+        <seg>&lt;f105&gt;; 或用其他指定的字符填充.&lt;/f105&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f106&gt;; If the string is already longer than the specified length it will be truncated.&lt;/f106&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014243Z" creationid="漂流瓶儿" creationdate="20160814T014243Z">
+        <seg>&lt;f106&gt;;如果字符串已经超过指定长度，则将其截断。&lt;/f106&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f10&gt;#PB_SerialPort_XoffReceived&lt;/f10&gt;: Specifies whether transmission is waiting because the XOFF character was received.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061801Z" creationid="lansn-lan" creationdate="20160729T061801Z">
@@ -5303,6 +5327,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f66&gt;; StringField can be used to obtain an indexed substring from a target string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014017Z" creationid="漂流瓶儿" creationdate="20160814T014017Z">
+        <seg>&lt;f66&gt;; 'StringField'返回指定索引处的字符串字段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f67&gt;; Useful for converting strings to lists for example.&lt;/f67&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014042Z" creationid="漂流瓶儿" creationdate="20160814T014042Z">
+        <seg>&lt;f67&gt;; 此命令很有用，如将字符串转换为列表等等。&lt;/f67&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f68&gt;; StringField will work with space as a delimiter too &lt;/f68&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014104Z" creationid="漂流瓶儿" creationdate="20160814T014104Z">
+        <seg>&lt;f68&gt;; 'StringField'可以将空格作为分隔符 &lt;/f68&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f69&gt;; but hopefully this example makes the functions behaviour more apparent.&lt;/f69&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014111Z" creationid="漂流瓶儿" creationdate="20160814T014111Z">
+        <seg>&lt;f69&gt;; 但本示例中使用更明显的'\'来作为分隔符。&lt;/f69&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f6&gt;#PB_Date_Second&lt;/f6&gt; : Will add 'Value' Seconds to the date</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="blues" changedate="20160730T063251Z" creationid="blues" creationdate="20160730T063251Z">
@@ -5335,6 +5391,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f70&gt;; Shows jumps.&lt;/f70&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014120Z" creationid="漂流瓶儿" creationdate="20160814T014120Z">
+        <seg>&lt;f70&gt;; 显示 jumps.&lt;/f70&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f79&gt;; Trim removes white space characters from the start and end of a given string.&lt;/f79&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014147Z" creationid="漂流瓶儿" creationdate="20160814T014147Z">
+        <seg>&lt;f79&gt;;  'Trim'将指定字符串中不必要的空格删除掉。&lt;/f79&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f7&gt;#PB_PixelFormat_ReversedY&lt;/f7&gt;  : The Y-Coordinate of the output is reversed in memory (the bottom row is stored first).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043647Z" creationid="oSilas" creationdate="20150312T043647Z">
@@ -5347,6 +5419,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061354Z" creationid="lansn-lan" creationdate="20160729T061139Z">
         <seg>&lt;f7&gt;#PB_SerialPort_WaitingCTS&lt;/f7&gt; ︰ 指定传输是否正在等待发送 CTS （清除发送） 信号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f80&gt;; Similarly, LTrim acts on the left hand end (start) of a string and RTrim the right hand end.&lt;/f80&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014153Z" creationid="漂流瓶儿" creationdate="20160814T014153Z">
+        <seg>&lt;f80&gt;; 同样，'LTrim'、'RTrim'分别删除指定字符串左（开头）侧或右侧（结尾）部分的多余的空格符。&lt;/f80&gt;</seg>
       </tuv>
     </tu>
     <tu>
