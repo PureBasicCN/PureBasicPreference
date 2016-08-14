@@ -4711,6 +4711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f118&gt;; Similarly RSet pads a string from its right hand end.&lt;/f118&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014256Z" creationid="漂流瓶儿" creationdate="20160814T014256Z">
+        <seg>&lt;f118&gt;; 同样，'RSet'是从字符串右侧开始向左指定长度。&lt;/f118&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f11&gt;#PB_SerialPort_XoffSent&lt;/f11&gt;    : Specifies whether transmission is waiting because the XOFF character was transmitted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T061850Z" creationid="lansn-lan" creationdate="20160729T061850Z">
@@ -4739,6 +4747,62 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043813Z" creationid="oSilas" creationdate="20150312T043727Z">
         <seg>&lt;f12&gt;;32 位 RGB 不颠倒Y 坐标&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f130&gt;; Str converts a signed quad value to a string, similarly StrF converts floats, &lt;/f130&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014313Z" creationid="漂流瓶儿" creationdate="20160814T014313Z">
+        <seg>&lt;f130&gt;; 'Str'将quad 型值转换成为字符型, 同样，'StrF'是转换浮点 floats型值,  &lt;/f130&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f131&gt;; StrD converts doubles and StrU converts unsigned values, these two function have an optional &lt;/f131&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014319Z" creationid="漂流瓶儿" creationdate="20160814T014319Z">
+        <seg>&lt;f131&gt;; 'StrD'是转换 doubles 型，'StrU'转换 unsigned 型, 这些函数都有可选参数 &lt;/f131&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f132&gt;; parameter to specify the number of decimal places to show.&lt;/f132&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014334Z" creationid="漂流瓶儿" creationdate="20160814T014334Z">
+        <seg>&lt;f132&gt;; 用来指定要显示的十进制位数。&lt;/f132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f144&gt;; Val will convert a string value into its numeric (quad) equivalent.&lt;/f144&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014404Z" creationid="漂流瓶儿" creationdate="20160814T014404Z">
+        <seg>&lt;f144&gt;;  'Val'将字符型值转换成数值型 (quad) .&lt;/f144&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f145&gt;; ValD and ValF perform the same function for floats and doubles.&lt;/f145&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014351Z" creationid="漂流瓶儿" creationdate="20160814T014351Z">
+        <seg>&lt;f145&gt; 'ValD'和'ValF' 同样是将字符串转换成数值，但类型是浮点 floats型和 doubles型.&lt;/f145&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f151&gt;; Bin will convert a numeric value into its binary equivalent.&lt;/f151&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014423Z" creationid="漂流瓶儿" creationdate="20160814T014423Z">
+        <seg>&lt;f151&gt;; 'Bin' 将数值转换成二进制型。&lt;/f151&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f152&gt;; Hex will convert one into its hexadecimal equivalent.&lt;/f152&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160814T014446Z" creationid="漂流瓶儿" creationdate="20160814T014446Z">
+        <seg>&lt;f152&gt;;  'Hex'将数值转换成十六进制型。&lt;/f152&gt;</seg>
       </tuv>
     </tu>
     <tu>
