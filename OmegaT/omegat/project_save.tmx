@@ -16143,6 +16143,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>b) the interaction of the PureBasic application with the user, when user-input will be taken and the results will be outputted again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T005803Z" creationid="lansn-lan" creationdate="20160816T005803Z">
+        <seg>b)PureBasic应用与用户的交互，当用户输入后将结果再次输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>backcolor.html</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080519Z" creationid="KKK" creationdate="20160810T080519Z">
