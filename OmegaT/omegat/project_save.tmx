@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- &lt;a21&gt;Screen&lt;/a21&gt; (Output of text and graphics directly on the screen, e.g. for games) &lt;br22&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T011530Z" creationid="lansn-lan" creationdate="20160816T011530Z">
+        <seg>- &lt;a21&gt;Screen&lt;/a21&gt; (文本和图形直接输出在屏幕上，例如游戏) &lt;br22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- &lt;a22&gt;Structuring code in Procedures&lt;/a22&gt; &lt;br23&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T074611Z" creationid="lansn-lan" creationdate="20160801T074611Z">
