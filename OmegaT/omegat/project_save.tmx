@@ -848,8 +848,8 @@
       <tuv lang="EN-US">
         <seg>- in the &lt;a35&gt;graphics screen&lt;/a35&gt; using the &lt;a36&gt;keyboard&lt;/a36&gt; &lt;br37&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T012548Z" creationid="lansn-lan" creationdate="20160816T012548Z">
-        <seg>- 在 &lt;a35&gt;graphics screen&lt;/a35&gt; 图形屏幕中使 &lt;a36&gt;keyboard&lt;/a36&gt; &lt;br37&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T012640Z" creationid="lansn-lan" creationdate="20160816T012548Z">
+        <seg>- 在 &lt;a35&gt;graphics screen&lt;/a35&gt; 图形屏幕中使用 &lt;a36&gt;keyboard&lt;/a36&gt; &lt;br37&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,6 +874,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163532Z" creationid="MysticBoy" creationdate="20160810T163532Z">
         <seg>-外部库 &lt;br2&gt;没有开发工具包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- there is as well the possibility to get user-input using the &lt;a38&gt;InputRequester()&lt;/a38&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T012635Z" creationid="lansn-lan" creationdate="20160816T012635Z">
+        <seg>-以及还有可能获取用户输入的&lt;a38&gt;InputRequester()&lt;/a38&gt;</seg>
       </tuv>
     </tu>
     <tu>
