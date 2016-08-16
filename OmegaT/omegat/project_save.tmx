@@ -15065,8 +15065,8 @@ OR 性能 OF THIS SOFTWARE.</seg>
       <tuv lang="EN-US">
         <seg>Today such a GUI is always present, when you use an actual OS like Windows, Mac OSX or Linux.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T010553Z" creationid="lansn-lan" creationdate="20160816T010553Z">
-        <seg>但是，今天当你使用像 Windows、 Mac OSX 或 Linux 操作系统时，这种 GUI 是总是存在，此时再使用简单的“PRINT”输出到屏幕是不行的。</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T010710Z" creationid="lansn-lan" creationdate="20160816T010553Z">
+        <seg>但是，今天当你使用像 Windows、 Mac OSX 或 Linux 操作系统时，这种 GUI 是总是存在，此时再使用简单的“PRINT”输出是不行的。</seg>
       </tuv>
     </tu>
     <tu>
