@@ -9135,8 +9135,8 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       <tuv lang="EN-US">
         <seg>It's not possible anymore, to use a simple "PRINT" command to output some things on the screen, like it was possible on DOS operating systems (OS) without a graphical user interface (GUI) years ago.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T010343Z" creationid="lansn-lan" creationdate="20160816T010343Z">
-        <seg>很多年前，在没有图型用户接口(GUI)的DOS操作系统中，可以使用一个简单的“PRINT”命令向屏幕输出一些信息，但是.</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T010351Z" creationid="lansn-lan" creationdate="20160816T010343Z">
+        <seg>很多年前，在没有图型用户接口(GUI)的DOS操作系统中，可以使用一个简单的“PRINT”命令向屏幕输出一些信息.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15059,6 +15059,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T162907Z" creationid="MysticBoy" creationdate="20160810T162907Z">
         <seg>要使用 命令 行 编译程序, 开启 一个标准 命令 行 窗口 (CMD)并且在 "Compilers\" 子目录 查找 PBCompiler.exe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Today such a GUI is always present, when you use an actual OS like Windows, Mac OSX or Linux.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T010553Z" creationid="lansn-lan" creationdate="20160816T010553Z">
+        <seg>但是，今天当你使用像 Windows、 Mac OSX 或 Linux 操作系统时，这种 GUI 是总是存在，此时再使用简单的“PRINT”输出到屏幕是不行的。</seg>
       </tuv>
     </tu>
     <tu>
