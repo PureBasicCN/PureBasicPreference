@@ -7549,6 +7549,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every PureBasic application can communicate and interact with the user on different ways.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T005034Z" creationid="lansn-lan" creationdate="20160816T005034Z">
+        <seg>每个 PureBasic 应用程序都可以用不同的方式对用户进行交互。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every command switch which starts with '/' are Windows only.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T022650Z" creationid="漂流瓶儿" creationdate="20160802T022650Z">
