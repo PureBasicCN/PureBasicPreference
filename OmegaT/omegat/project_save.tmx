@@ -14985,8 +14985,8 @@ OR 性能 OF THIS SOFTWARE.</seg>
       <tuv lang="EN-US">
         <seg>To be able to &lt;b24&gt;record and process input by the user&lt;/b24&gt; of the PureBasic application, the three last-mentioned output options have also the possibility to get user-input: &lt;br25&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T011846Z" creationid="lansn-lan" creationdate="20160816T011846Z">
-        <seg>PureBasic应用程序能够&lt;b24&gt;记录和处理用户的输入&lt;/b24&gt; , the three last-mentioned output options have also the possibility to get user-input: &lt;br25&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T012041Z" creationid="lansn-lan" creationdate="20160816T011846Z">
+        <seg>PureBasic应用程序能够&lt;b24&gt;记录和处理用户的输入&lt;/b24&gt; , 这三个最后提到的输出选项也有可能获得用户输入: &lt;br25&gt;</seg>
       </tuv>
     </tu>
     <tu>
