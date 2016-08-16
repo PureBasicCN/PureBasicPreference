@@ -14983,6 +14983,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To be able to &lt;b24&gt;record and process input by the user&lt;/b24&gt; of the PureBasic application, the three last-mentioned output options have also the possibility to get user-input: &lt;br25&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T011846Z" creationid="lansn-lan" creationdate="20160816T011846Z">
+        <seg>PureBasic应用程序能够&lt;b24&gt;记录和处理用户的输入&lt;/b24&gt; , the three last-mentioned output options have also the possibility to get user-input: &lt;br25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To check how much data is available in the output buffer, use &lt;a0&gt;AvailableSerialPortOutput()&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070150Z" creationid="lansn-lan" creationdate="20160729T070150Z">
