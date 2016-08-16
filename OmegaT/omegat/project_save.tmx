@@ -1862,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;&lt; Previous: Storing data in memory&lt;/a0&gt; | &lt;a1&gt;Overview&lt;/a1&gt; | &lt;a2&gt;Next: Displaying text output (Console) &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T012838Z" creationid="lansn-lan" creationdate="20160816T012838Z">
+        <seg>&lt;a0&gt;&lt; 上一篇: 内存存储数据&lt;/a0&gt; | &lt;a1&gt;用户指南 - 概述&lt;/a1&gt; | &lt;a2&gt;下一篇: (Console) 控制台显示输出文本&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;&lt; Previous: String Manipulation&lt;/a0&gt; | &lt;a1&gt;Overview&lt;/a1&gt; | &lt;a2&gt;Next: Input &amp; Output &gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T004827Z" creationid="lansn-lan" creationdate="20160816T004827Z">
