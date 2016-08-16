@@ -838,6 +838,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- in the &lt;a26&gt;console&lt;/a26&gt; using &lt;a27&gt;Input()&lt;/a27&gt; &lt;br28&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T012115Z" creationid="lansn-lan" creationdate="20160816T012115Z">
+        <seg>- 在控制台 &lt;a26&gt;console&lt;/a26&gt; 使用 &lt;a27&gt;Input()&lt;/a27&gt; &lt;br28&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- in the window using &lt;a29&gt;WaitWindowEvent()&lt;/a29&gt; / &lt;a30&gt;WindowEvent()&lt;/a30&gt;, which can get the events occurred in the &lt;a31&gt;window&lt;/a31&gt;, like clicking on a &lt;a32&gt;button&lt;/a32&gt; or the entered text in a &lt;a33&gt;StringGadget()&lt;/a33&gt; &lt;br34&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T012132Z" creationid="lansn-lan" creationdate="20160816T012132Z">
+        <seg>- 在 window 使用 &lt;a29&gt;WaitWindowEvent()&lt;/a29&gt; / &lt;a30&gt;WindowEvent()&lt;/a30&gt;, which can get the events occurred in the &lt;a31&gt;window&lt;/a31&gt;, like clicking on a &lt;a32&gt;button&lt;/a32&gt; or the entered text in a &lt;a33&gt;StringGadget()&lt;/a33&gt; &lt;br34&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- maximum number of source lines: 800 &lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163527Z" creationid="MysticBoy" creationdate="20160810T163527Z">
