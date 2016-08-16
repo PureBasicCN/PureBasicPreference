@@ -846,10 +846,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- in the &lt;a35&gt;graphics screen&lt;/a35&gt; using the &lt;a36&gt;keyboard&lt;/a36&gt; &lt;br37&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T012548Z" creationid="lansn-lan" creationdate="20160816T012548Z">
+        <seg>- 在 &lt;a35&gt;graphics screen&lt;/a35&gt; 图形屏幕中使 &lt;a36&gt;keyboard&lt;/a36&gt; &lt;br37&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- in the window using &lt;a29&gt;WaitWindowEvent()&lt;/a29&gt; / &lt;a30&gt;WindowEvent()&lt;/a30&gt;, which can get the events occurred in the &lt;a31&gt;window&lt;/a31&gt;, like clicking on a &lt;a32&gt;button&lt;/a32&gt; or the entered text in a &lt;a33&gt;StringGadget()&lt;/a33&gt; &lt;br34&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T012437Z" creationid="lansn-lan" creationdate="20160816T012132Z">
-        <seg>- 在 window 窗口使用 &lt;a29&gt;WaitWindowEvent()&lt;/a29&gt; / &lt;a30&gt;WindowEvent()&lt;/a30&gt;, 可以获取&lt;a31&gt;window&lt;/a31&gt;窗口中发生的事件 , 例如点击一个 &lt;a32&gt;button&lt;/a32&gt;按钮 或者  在  &lt;a33&gt;StringGadget()&lt;/a33&gt;字符串组件中输入文本 &lt;br34&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T012500Z" creationid="lansn-lan" creationdate="20160816T012132Z">
+        <seg>- 在 window 窗口使用 &lt;a29&gt;WaitWindowEvent()&lt;/a29&gt; / &lt;a30&gt;WindowEvent()&lt;/a30&gt;, 可以获取&lt;a31&gt;window&lt;/a31&gt;窗口中发生的事件 , 例如点击一个 &lt;a32&gt;button&lt;/a32&gt;按钮 或者  在  &lt;a33&gt;StringGadget()&lt;/a33&gt;字符串组件中输入文本. &lt;br34&gt;</seg>
       </tuv>
     </tu>
     <tu>
