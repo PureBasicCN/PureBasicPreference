@@ -4423,6 +4423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b8&gt;For the output of information we have different possibilities:&lt;/b8&gt; &lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T010836Z" creationid="lansn-lan" creationdate="20160816T010836Z">
+        <seg>&lt;b8&gt;不同的输出情形我们有不同的输出方法:&lt;/b8&gt; &lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b8&gt;New&lt;/b8&gt; &lt;br9&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T145235Z" creationid="漂流瓶儿" creationdate="20160801T145235Z">
