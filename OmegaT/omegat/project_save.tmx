@@ -224,8 +224,8 @@
       <tuv lang="EN-US">
         <seg>- &lt;a16&gt;Console&lt;/a16&gt; (for simple and almost non-graphic text output, most similar to earlier DOS times) &lt;br17&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T011318Z" creationid="lansn-lan" creationdate="20160816T011318Z">
-        <seg>- &lt;a16&gt;Console&lt;/a16&gt; (用于简单和几乎无图形的文本输出，非常类似于早些时候的DOS 时代.) &lt;br17&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T011334Z" creationid="lansn-lan" creationdate="20160816T011318Z">
+        <seg>- &lt;a16&gt;Console&lt;/a16&gt;控制台 (用于简单和几乎无图形的文本输出，非常类似于早些时候的DOS 时代.) &lt;br17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +242,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T073914Z" creationid="lansn-lan" creationdate="20160801T073914Z">
         <seg>- &lt;a18&gt;建立图形用户界面（GUI）&lt;/a18&gt;&lt;br19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- &lt;a18&gt;Windows&lt;/a18&gt; and &lt;a19&gt;gadgets&lt;/a19&gt; (standard windows with GUI elements on the desktop of the OS, e.g. for applications) &lt;br20&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T011421Z" creationid="lansn-lan" creationdate="20160816T011421Z">
+        <seg>- &lt;a18&gt;Windows&lt;/a18&gt; and &lt;a19&gt;gadgets&lt;/a19&gt; (标准的 windows 桌面操作系统，例如应用程序的 GUI 元素) &lt;br20&gt;</seg>
       </tuv>
     </tu>
     <tu>
