@@ -9133,6 +9133,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's not possible anymore, to use a simple "PRINT" command to output some things on the screen, like it was possible on DOS operating systems (OS) without a graphical user interface (GUI) years ago.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T010343Z" creationid="lansn-lan" creationdate="20160816T010343Z">
+        <seg>很多年前，在没有图型用户接口(GUI)的DOS操作系统中，可以使用一个简单的“PRINT”命令向屏幕输出一些信息，但是.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's possible to specify only one resource, but this file can include other resource script if needed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T033613Z" creationid="漂流瓶儿" creationdate="20160802T033613Z">
