@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- &lt;a16&gt;Console&lt;/a16&gt; (for simple and almost non-graphic text output, most similar to earlier DOS times) &lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T011318Z" creationid="lansn-lan" creationdate="20160816T011318Z">
+        <seg>- &lt;a16&gt;Console&lt;/a16&gt; (用于简单和几乎无图形的文本输出，非常类似于早些时候的DOS 时代.) &lt;br17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- &lt;a16&gt;Displaying text output (Console)&lt;/a16&gt; &lt;br17&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T073853Z" creationid="lansn-lan" creationdate="20160801T073759Z">
