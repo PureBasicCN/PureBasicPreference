@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- &lt;a14&gt;Files&lt;/a14&gt; (for saving the results in a text-file, etc.) &lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T011146Z" creationid="lansn-lan" creationdate="20160816T011146Z">
+        <seg>- &lt;a14&gt;Files&lt;/a14&gt; (用于将结果保存在一个文本文件中，等等.) &lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- &lt;a14&gt;Input &amp; Output&lt;/a14&gt; &lt;br15&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T073833Z" creationid="lansn-lan" creationdate="20160801T073817Z">
