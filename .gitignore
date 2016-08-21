@@ -11,3 +11,4 @@
 *.new
 *.old
 /target_dir/documentation/hhp
+/target_dir/documentation/PureBasic_chs.chm
