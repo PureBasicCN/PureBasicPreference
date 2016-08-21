@@ -54,19 +54,19 @@
   <font color="#3A3966">; 显示 88.</font>
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">StringByteLength</font>(String1, <font color="#924B72">#PB_Unicode</font>)
   
-  <font color="#3A3966">; StringField can be used to obtain an indexed substring from a target string. </font>
-  <font color="#3A3966">; Useful for converting strings to lists for example.</font>
-  <font color="#3A3966">; StringField will work with space as a delimiter too </font>
-  <font color="#3A3966">; but hopefully this example makes the functions behaviour more apparent.</font>
-  <font color="#3A3966">; Shows jumps.</font>
+  <font color="#3A3966">; 'StringField'返回指定索引处的字符串字段。</font>
+  <font color="#3A3966">; 此命令很有用，如将字符串转换为列表等等。</font>
+  <font color="#3A3966">; 'StringField'可以将空格作为分隔符 </font>
+  <font color="#3A3966">; 但本示例中使用更明显的'\'来作为分隔符。</font>
+  <font color="#3A3966">; 显示 jumps.</font>
   <b><font color="#3A3966">Debug</font></b> "* StringField"
   String2 =<font color="#3A3966"> ReplaceString</font>(String1, " ", "\")
   <b><font color="#3A3966">Debug</font></b> String2
   String3 =<font color="#3A3966"> StringField</font>(String2, 5, "\")
   <b><font color="#3A3966">Debug</font></b> String3
   
-  <font color="#3A3966">; Trim removes white space characters from the start and end of a given string.</font>
-  <font color="#3A3966">; Similarly, LTrim acts on the left hand end (start) of a string and RTrim the right hand end.</font>
+  <font color="#3A3966">;  'Trim'将指定字符串中不必要的空格删除掉。</font>
+  <font color="#3A3966">; 同样，'LTrim'、'RTrim'分别删除指定字符串左（开头）侧或右侧（结尾）部分的多余的空格符。</font>
   <b><font color="#3A3966">Debug</font></b> "* Trim, LTrim and RTrim"
   String2 =<font color="#3A3966"> Space</font>(10) + String1 +<font color="#3A3966"> Space</font>(8)
   <b><font color="#3A3966">Debug</font></b> <font color="#924B72">#DQUOTE$</font> + String2 + <font color="#924B72">#DQUOTE$</font>
@@ -77,35 +77,35 @@
   String3 =<font color="#3A3966"> RTrim</font>(String2)
   <b><font color="#3A3966">Debug</font></b> <font color="#924B72">#DQUOTE$</font> + String3 + <font color="#924B72">#DQUOTE$</font>
   
-  <font color="#3A3966">; LSet sets a string to be a specific length from the left hand end, padding with spaces, </font>
-  <font color="#3A3966">; or other specified character, as necessary.</font>
-  <font color="#3A3966">; If the string is already longer than the specified length it will be truncated.</font>
+  <font color="#3A3966">; 'LSet '将字符串设置成为从左端开始指定长度的字符串，不足时用空格填充</font>
+  <font color="#3A3966">; 或用其他指定的字符填充.</font>
+  <font color="#3A3966">;如果字符串已经超过指定长度，则将其截断。</font>
   <b><font color="#3A3966">Debug</font></b> "*LSet"
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">LSet</font>("Abc", 10, "*")
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">LSet</font>("Abcd", 10, "*")
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">LSet</font>("Abcde", 10, "*")
   
-  <font color="#3A3966">; Similarly RSet pads a string from its right hand end.</font>
+  <font color="#3A3966">; 同样，'RSet'是从字符串右侧开始向左指定长度。</font>
   <b><font color="#3A3966">Debug</font></b> "* RSet"
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">RSet</font>("1.23", 10, "0")
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">RSet</font>("10.23", 10, "0")
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">RSet</font>("100.23", 10, "0")
   
-  <font color="#3A3966">; Str converts a signed quad value to a string, similarly StrF converts floats, </font>
-  <font color="#3A3966">; StrD converts doubles and StrU converts unsigned values, these two function have an optional </font>
-  <font color="#3A3966">; parameter to specify the number of decimal places to show.</font>
+  <font color="#3A3966">; 'Str'将quad 型值转换成为字符型, 同样，'StrF'是转换浮点 floats型值,  </font>
+  <font color="#3A3966">; 'StrD'是转换 doubles 型，'StrU'转换 unsigned 型, 这些函数都有可选参数 </font>
+  <font color="#3A3966">; 用来指定要显示的十进制位数。</font>
   <b><font color="#3A3966">Debug</font></b> "* Str, StrF and StrD"
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Str</font>(100)
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">StrF</font>(1.234, 3)
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">StrD</font>(123456.789, 3)
   
-  <font color="#3A3966">; Val will convert a string value into its numeric (quad) equivalent.</font>
-  <font color="#3A3966">; ValD and ValF perform the same function for floats and doubles.</font>
+  <font color="#3A3966">;  'Val'将字符型值转换成数值型 (quad) .</font>
+  <font color="#3A3966"> 'ValD'和'ValF' 同样是将字符串转换成数值，但类型是浮点 floats型和 doubles型.</font>
   <b><font color="#3A3966">Debug</font></b> "* Val"
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Val</font>("123")
   
-  <font color="#3A3966">; Bin will convert a numeric value into its binary equivalent.</font>
-  <font color="#3A3966">; Hex will convert one into its hexadecimal equivalent.</font>
+  <font color="#3A3966">; 'Bin' 将数值转换成二进制型。</font>
+  <font color="#3A3966">;  'Hex'将数值转换成十六进制型。</font>
   <b><font color="#3A3966">Debug</font></b> "* Bin and Hex"
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Bin</font>(19)
   <b><font color="#3A3966">Debug</font></b> <font color="#3A3966">Hex</font>(19)
@@ -113,5 +113,5 @@
 
 <p><b>用户指南导航</b></p><blockquote>
 
-<a href="ug_loops.html">&lt; Previous: Loops</a> | <a href="ug_overview.html">Overview</a> | <a href="ug_data.html">Next: Storing data in memory &gt;</a> 
+<a href="ug_loops.html">&lt; 上一页: 循环</a> | <a href="ug_overview.html">概述</a> | <a href="ug_data.html">下一页: 内存数据存储&gt;</a> 
 </body></html>
