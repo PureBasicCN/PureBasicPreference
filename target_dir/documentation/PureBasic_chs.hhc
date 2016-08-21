@@ -13,147 +13,147 @@
      <param name="ExWindow Styles" value="0x0">
    </OBJECT>
 <UL><LI><OBJECT type="text/sitemap">
-<param name="Name" value="Introduction">
+<param name="Name" value="简介">
 <param name="Local" value="MainGuide/intro.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Terms &amp; Conditions">
+<param name="Name" value="条款和条件">
 <param name="Local" value="MainGuide/avertis.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Requirements">
+<param name="Name" value="系统必备">
 <param name="Local" value="MainGuide/system.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Installation">
+<param name="Name" value="安装">
 <param name="Local" value="MainGuide/install.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="The PureBasic IDE">
+<param name="Name" value=" PureBasic IDE">
 <param name="Local" value="Reference/ide_start.html">
-<param name="ImageNumber" value="1">
+<param name="ImageNumber" value="2">
 </OBJECT>
 <UL><LI><OBJECT type="text/sitemap">
-<param name="Name" value="Working with files">
+<param name="Name" value="文件处理">
 <param name="Local" value="Reference/ide_files.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Editing features">
+<param name="Name" value="编辑特性">
 <param name="Local" value="Reference/ide_editing.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Managing projects">
+<param name="Name" value="管理项目">
 <param name="Local" value="Reference/ide_projects.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Compiling your programs">
+<param name="Name" value="编译您的程序">
 <param name="Local" value="Reference/ide_compiler.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Using the debugger">
+<param name="Name" value="使用调试器">
 <param name="Local" value="Reference/ide_debugger.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Using the debugging tools">
+<param name="Name" value="使用调试工具">
 <param name="Local" value="Reference/ide_debugtools.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Built-in Tools">
+<param name="Name" value="内置工具">
 <param name="Local" value="Reference/ide_tools.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="External tools">
+<param name="Name" value="外部工具">
 <param name="Local" value="Reference/ide_externaltools.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Getting help">
+<param name="Name" value="寻求帮助">
 <param name="Local" value="Reference/ide_help.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Customizing the IDE">
+<param name="Name" value="自定义IDE">
 <param name="Local" value="Reference/ide_preferences.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Commandline options">
+<param name="Name" value="命令行选项">
 <param name="Local" value="Reference/ide_commandline.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 </UL><LI><OBJECT type="text/sitemap">
-<param name="Name" value="Reference Manual">
+<param name="Name" value="参考手册">
 <param name="Local" value="Reference/reference.html">
-<param name="ImageNumber" value="1">
+<param name="ImageNumber" value="2">
 </OBJECT>
 <UL><LI><OBJECT type="text/sitemap">
-<param name="Name" value="General Topics">
+<param name="Name" value="常规主题">
 <param name="Local" value="Reference/reference.html#A">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Basic Keywords">
+<param name="Name" value="基本关键词">
 <param name="Local" value="Reference/reference.html#B">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Arrays, Lists &amp; Structures">
+<param name="Name" value="数组、列表和结构">
 <param name="Local" value="Reference/reference.html#C">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Procedure Support">
+<param name="Name" value="过程支持">
 <param name="Local" value="Reference/reference.html#D">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Advanced Keywords">
+<param name="Name" value="高级关键词">
 <param name="Local" value="Reference/reference.html#E">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Various Topics">
+<param name="Name" value="其他主题">
 <param name="Local" value="Reference/reference.html#F">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Additional Informations">
+<param name="Name" value="附加信息">
 <param name="Local" value="Reference/reference.html#G">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="General Libraries">
+<param name="Name" value="常规库">
 <param name="Local" value="Reference/reference.html#H">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="2D Games Libraries">
+<param name="Name" value="2D游戏库">
 <param name="Local" value="Reference/reference.html#I">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="3D Games Libraries">
+<param name="Name" value="3D游戏库">
 <param name="Local" value="Reference/reference.html#J">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Commands Index">
+<param name="Name" value="命令索引">
 <param name="Local" value="Reference/commandindex.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="PureBasic Constants">
+<param name="Name" value="PureBasic 常量">
 <param name="Local" value="Reference/pbconstants.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
@@ -9218,22 +9218,22 @@
 <param name="ImageNumber" value="11">
 </OBJECT>
 </UL></UL><LI><OBJECT type="text/sitemap">
-<param name="Name" value="Ordering">
+<param name="Name" value="订购">
 <param name="Local" value="MainGuide/order.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Contact Us">
+<param name="Name" value="联系我们">
 <param name="Local" value="MainGuide/contact.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="Acknowledgements">
+<param name="Name" value="鸣谢">
 <param name="Local" value="MainGuide/greats.html">
 <param name="ImageNumber" value="11">
 </OBJECT>
 <LI><OBJECT type="text/sitemap">
-<param name="Name" value="History">
+<param name="Name" value="历史">
 <param name="Local" value="MainGuide/history.html">
 <param name="ImageNumber" value="11">
 </OBJECT>

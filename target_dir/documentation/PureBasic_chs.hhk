@@ -3082,47 +3082,47 @@
 <param name="Local" value="Gadget/HyperLinkGadget.html">
 </OBJECT><LI><OBJECT type="text/sitemap">
 <param name="Name" value="IDE Commandline">
-<param name="Name" value="Commandline options">
+<param name="Name" value="命令行选项">
 <param name="Local" value="Reference/ide_commandline.html">
 </OBJECT><LI><OBJECT type="text/sitemap">
 <param name="Name" value="IDE Compiler">
-<param name="Name" value="Compiling your programs">
+<param name="Name" value="编译您的程序">
 <param name="Local" value="Reference/ide_compiler.html">
 </OBJECT><LI><OBJECT type="text/sitemap">
 <param name="Name" value="IDE Debugger">
-<param name="Name" value="Using the debugger">
+<param name="Name" value="使用调试器">
 <param name="Local" value="Reference/ide_debugger.html">
 </OBJECT><LI><OBJECT type="text/sitemap">
 <param name="Name" value="IDE Debugging tools">
-<param name="Name" value="Using the debugging tools">
+<param name="Name" value="使用调试工具">
 <param name="Local" value="Reference/ide_debugtools.html">
 </OBJECT><LI><OBJECT type="text/sitemap">
 <param name="Name" value="IDE Editing">
-<param name="Name" value="Editing features">
+<param name="Name" value="编辑特性">
 <param name="Local" value="Reference/ide_editing.html">
 </OBJECT><LI><OBJECT type="text/sitemap">
 <param name="Name" value="IDE External tools">
-<param name="Name" value="External tools">
+<param name="Name" value="外部工具">
 <param name="Local" value="Reference/ide_externaltools.html">
 </OBJECT><LI><OBJECT type="text/sitemap">
 <param name="Name" value="IDE Files">
-<param name="Name" value="Working with files">
+<param name="Name" value="文件处理">
 <param name="Local" value="Reference/ide_files.html">
 </OBJECT><LI><OBJECT type="text/sitemap">
 <param name="Name" value="IDE Getting started">
-<param name="Name" value="The PureBasic IDE">
+<param name="Name" value=" PureBasic IDE">
 <param name="Local" value="Reference/ide_start.html">
 </OBJECT><LI><OBJECT type="text/sitemap">
 <param name="Name" value="IDE Help">
-<param name="Name" value="Getting help">
+<param name="Name" value="寻求帮助">
 <param name="Local" value="Reference/ide_help.html">
 </OBJECT><LI><OBJECT type="text/sitemap">
 <param name="Name" value="IDE Preferences">
-<param name="Name" value="Customizing the IDE">
+<param name="Name" value="自定义IDE">
 <param name="Local" value="Reference/ide_preferences.html">
 </OBJECT><LI><OBJECT type="text/sitemap">
 <param name="Name" value="IDE Tools">
-<param name="Name" value="Built-in Tools">
+<param name="Name" value="内置工具">
 <param name="Local" value="Reference/ide_tools.html">
 </OBJECT><LI><OBJECT type="text/sitemap">
 <param name="Name" value="ImageDepth">
