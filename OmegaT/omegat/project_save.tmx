@@ -838,6 +838,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- gcc correctly installed &lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T110752Z" creationid="MysticBoy" creationdate="20160821T110752Z">
+        <seg>- gcc 已正确安装 &lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- gtk 2+ (For GUI programs) &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T110809Z" creationid="MysticBoy" creationdate="20160821T110809Z">
+        <seg>- gtk 2+ (针对 GUI 程序) &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- in the &lt;a26&gt;console&lt;/a26&gt; using &lt;a27&gt;Input()&lt;/a27&gt; &lt;br28&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160816T012115Z" creationid="lansn-lan" creationdate="20160816T012115Z">
@@ -862,6 +878,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- iodbc and iodbc-devel to be able to use the &lt;a5&gt;Database&lt;/a5&gt; commands (see &lt;a6&gt;www.iodbc.org&lt;/a6&gt;) &lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T110846Z" creationid="MysticBoy" creationdate="20160821T110846Z">
+        <seg>- iodbc 和 iodbc-devel 用于&lt;a5&gt;Database&lt;/a5&gt; 命令 (参见 &lt;a6&gt;www.iodbc.org&lt;/a6&gt;) &lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- libwebkit should be installed to have the &lt;a9&gt;WebGadget()&lt;/a9&gt; working.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T110947Z" creationid="MysticBoy" creationdate="20160821T110947Z">
+        <seg>- libwebkit 在用到 &lt;a9&gt;WebGadget()&lt;/a9&gt; 时也应该安装.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- maximum number of source lines: 800 &lt;br3&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163527Z" creationid="MysticBoy" creationdate="20160810T163527Z">
@@ -874,6 +906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163532Z" creationid="MysticBoy" creationdate="20160810T163532Z">
         <seg>-外部库 &lt;br2&gt;没有开发工具包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- sdl 1.2 devel (For games) &lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T110816Z" creationid="MysticBoy" creationdate="20160821T110816Z">
+        <seg>- sdl 1.2 devel (针对游戏) &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10836,6 +10876,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required packages to use PureBasic:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T110720Z" creationid="MysticBoy" creationdate="20160821T110720Z">
+        <seg>使用PureBasic所需的软件包：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Result = &lt;f0&gt;&lt;b1&gt;Alpha&lt;/b1&gt;&lt;/f0&gt;(Color)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="KKK" changedate="20160810T080327Z" creationid="KKK" creationdate="20160810T080327Z">
@@ -16075,6 +16123,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T120755Z" creationid="漂流瓶儿" creationdate="20160801T120755Z">
         <seg>您可以通过指定扩展名过滤器设定搜索的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can download and install it via the "DirectX End-User Runtime Web Installer" here: &lt;a4&gt;http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&amp;id=35&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T110657Z" creationid="MysticBoy" creationdate="20160821T110657Z">
+        <seg>你可以点这里 &lt;a4&gt;http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&amp;amp;id=35&lt;/a4&gt;下载和安装"DirectX 最终用户运行时 Web 安装程序" ，。</seg>
       </tuv>
     </tu>
     <tu>
