@@ -8589,6 +8589,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there are any problems, please contact us.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T110221Z" creationid="MysticBoy" creationdate="20160821T110221Z">
+        <seg>如果有任何问题，请与我们联系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is a mismatch in the keywords it will be underlined in red.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T070008Z" creationid="漂流瓶儿" creationdate="20160801T070008Z">
@@ -10668,6 +10676,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PureBasic will run on Windows XP, Windows Vista, Windows 7, Windows 8 and Windows 10 (in both 32-bit and 64-bit edition), Linux (kernel 2.2 or above) and MacOS X (10.6 or above).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T110212Z" creationid="MysticBoy" creationdate="20160821T110212Z">
+        <seg>PureBasic  可以运行在 Windows XP、 Windows Vista、 Windows 7，Windows 8 和 Windows 10 （ 32 位和 64 位版本）、 Linux (内核 2.2 或以上) 和 MacOS X （10.6 或以上）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Purebasic user account</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T082559Z" creationid="MysticBoy" creationdate="20160723T173845Z">
@@ -11872,6 +11888,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T110618Z">
         <seg>语法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System requirements</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T110134Z" creationid="MysticBoy" creationdate="20160821T110113Z">
+        <seg>系统必备</seg>
       </tuv>
     </tu>
     <tu>
