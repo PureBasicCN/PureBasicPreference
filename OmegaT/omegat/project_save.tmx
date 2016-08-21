@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- xine and xine-devel for the &lt;a12&gt;Movie&lt;/a12&gt; commands Check the INSTALL and README file for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T111042Z" creationid="MysticBoy" creationdate="20160821T111042Z">
+        <seg>- xine 和 xine-devel 针对 &lt;a12&gt;Movie&lt;/a12&gt; 命令检查 INSTALL 和 README文件查看更多信息.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- you can't use the whole external Win32 API support &lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T163536Z" creationid="MysticBoy" creationdate="20160810T163536Z">
@@ -6567,6 +6575,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T083303Z" creationid="MysticBoy" creationdate="20160720T083303Z">
         <seg>基本关键词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be aware to use the latest version of the tools (e.g. XCode), which is needed for your OS version!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T111252Z" creationid="MysticBoy" creationdate="20160821T111252Z">
+        <seg>应有意识地使用最新版本的工具 (例如 XCode)，根据你的操作系统版本的需要 ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -13943,6 +13959,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tools can be found either on one of the install CDs or on the Apple web site: &lt;a0&gt;http://developer.apple.com/&lt;/a0&gt; &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T111155Z" creationid="MysticBoy" creationdate="20160821T111155Z">
+        <seg>这些工具可以在安装CD或者苹果公司的官网上可以找到： &lt;a0&gt;http://developer.apple.com/&lt;/a0&gt; &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tools displayed here can be configured, and it can even be completely removed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T140753Z" creationid="MysticBoy" creationdate="20160723T140753Z">
@@ -16219,6 +16243,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160812T110726Z" creationid="MysticBoy" creationdate="20160812T110726Z">
         <seg>未经Fantaisie Software明确的书面同意,你不能修改或更改原始文档的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to install the Apple developer tools to be able to use PureBasic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T111109Z" creationid="MysticBoy" creationdate="20160821T111109Z">
+        <seg>您需要安装苹果的开发工具，以便能够使用PureBasic。.</seg>
       </tuv>
     </tu>
     <tu>
