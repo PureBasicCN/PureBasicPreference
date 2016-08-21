@@ -12645,6 +12645,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The commandline tools needs to be installed from XCode once installed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160821T111432Z" creationid="MysticBoy" creationdate="20160821T111432Z">
+        <seg>命令行工具需要在XCode安装后安装.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The common &lt;a0&gt;arithmetic functions&lt;/a0&gt; (+, -, *, /, ...) can be combined with conditions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T015724Z" creationid="lansn-lan" creationdate="20160803T015427Z">
