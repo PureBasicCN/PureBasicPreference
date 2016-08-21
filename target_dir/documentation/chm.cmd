@@ -1,2 +1,0 @@
-hhc.exe  help.hhp
- 
