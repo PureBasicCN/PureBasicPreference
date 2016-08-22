@@ -1878,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;&lt; Previous: Compiler directives&lt;/a0&gt; | &lt;a1&gt;Overview&lt;/a1&gt; | &lt;a2&gt;Next: Memory access &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160822T043350Z" creationid="MysticBoy" creationdate="20160822T043350Z">
+        <seg>&lt;a0&gt;&lt; 上一篇: 编译器指令&lt;/a0&gt; | &lt;a1&gt;概述&lt;/a1&gt; | &lt;a2&gt;下一篇: 内存访问 &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;&lt; Previous: Constants&lt;/a0&gt; | &lt;a1&gt;Overview&lt;/a1&gt; | &lt;a2&gt;Next: Loops &gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T021150Z" creationid="lansn-lan" creationdate="20160803T021150Z">
@@ -15551,6 +15559,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UserGuide - Building a graphical user interface (GUI)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160822T043358Z" creationid="MysticBoy" creationdate="20160822T043358Z">
+        <seg>UserGuide - Building a graphical 用户 界面 (GUI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UserGuide - Compiler directives (for different behavior on different OS)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160822T043100Z" creationid="MysticBoy" creationdate="20160822T043015Z">
@@ -15575,6 +15591,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UserGuide - Displaying text output (Console)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160822T043353Z" creationid="MysticBoy" creationdate="20160822T043353Z">
+        <seg>UserGuide - Displaying 文本 输出 (控制台)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UserGuide - First steps with the Debug output (variables &amp; operators)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T081618Z" creationid="lansn-lan" creationdate="20160801T081339Z">
@@ -15595,6 +15619,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160801T070414Z" creationid="lansn-lan" creationdate="20160801T070414Z">
         <seg>用户指南 - 概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UserGuide - Reading and writing files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160822T043316Z" creationid="MysticBoy" creationdate="20160822T043316Z">
+        <seg>用户指南- 文件的读取与写入</seg>
       </tuv>
     </tu>
     <tu>
