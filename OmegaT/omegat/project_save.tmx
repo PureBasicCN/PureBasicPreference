@@ -1934,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;&lt; Previous: Structuring code in Procedures&lt;/a0&gt; | &lt;a1&gt;Overview&lt;/a1&gt; | &lt;a2&gt;Next: Reading and writing files &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160822T043242Z" creationid="MysticBoy" creationdate="20160822T043242Z">
+        <seg>&lt;a0&gt;&lt; 上一篇: 过程中使用结构化代码&lt;/a0&gt; | &lt;a1&gt;概述&lt;/a1&gt; | &lt;a2&gt;下一篇: 文件的读取与写入 &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;&lt; Previous: Variables&lt;/a0&gt; | &lt;a1&gt;Overview&lt;/a1&gt; | &lt;a2&gt;Next: Decisions &amp; Conditions &gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T014827Z" creationid="lansn-lan" creationdate="20160803T014827Z">
@@ -8033,6 +8041,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160802T030109Z" creationid="漂流瓶儿" creationdate="20160802T030109Z">
         <seg>更多详情请查看 &lt;a28&gt;subsystems&lt;/a28&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For now the output isn't very exciting but we will come back to this example later on and make it a bit more friendly in several different ways.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160822T043011Z" creationid="MysticBoy" creationdate="20160822T043011Z">
+        <seg>现在输出不是很刺激，但我们将稍后回到本示例，让它在几个不同的方式有点更友好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14167,6 +14183,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is one limitation discussed previously to overcome and we've left it until now because it is a special case.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160822T043134Z" creationid="MysticBoy" creationdate="20160822T043134Z">
+        <seg>还有一个先前讨论克服的局限性，我们已经将它直到现在，因为它是一种特殊情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There presence is indicated by a little arrow next to the line numbers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T110331Z" creationid="漂流瓶儿" creationdate="20160801T110331Z">
@@ -14483,6 +14507,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T053141Z" creationid="MysticBoy" creationdate="20160726T053141Z">
         <seg>这将放弃所做的任何更改。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This example gathers information about the &lt;a0&gt;files&lt;/a0&gt; in the logged on user's home directory into a &lt;a1&gt;structured&lt;/a1&gt; &lt;a2&gt;list&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160822T042949Z" creationid="MysticBoy" creationdate="20160822T042949Z">
+        <seg>本示例&lt;a1&gt;结构化&lt;/a1&gt;&lt;a2&gt;列表&lt;/a2&gt;收集有关登录的用户的主目录中的&lt;a0&gt;文件&lt;/a0&gt;信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15103,6 +15135,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will be our last visit to the File Properties program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160822T043118Z" creationid="MysticBoy" creationdate="20160822T043118Z">
+        <seg>这将是我们最后一次访问文件属性程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This won't work.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T080003Z" creationid="lansn-lan" creationdate="20160802T075937Z">
@@ -15507,6 +15547,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160822T042511Z" creationid="MysticBoy" creationdate="20160822T042511Z">
         <seg>用户指南-高级功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UserGuide - Compiler directives (for different behavior on different OS)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160822T043100Z" creationid="MysticBoy" creationdate="20160822T043015Z">
+        <seg>用户指南 - 编译程序指令 (针对不同操作系统的不同行为)</seg>
       </tuv>
     </tu>
     <tu>
