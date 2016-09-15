@@ -1798,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;GetWindowTitle()&lt;/a0&gt; - &lt;a1&gt;Window Index&lt;/a1&gt; - &lt;a2&gt;IsWindow()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053351Z" creationid="MysticBoy" creationdate="20160915T053351Z">
+        <seg>&lt;- &lt;a0&gt;GetWindowTitle()&lt;/a0&gt; - &lt;a1&gt;Windows 索引&lt;/a1&gt; - &lt;a2&gt;IsWindow()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;Hex()&lt;/a0&gt; - &lt;a1&gt;String Index&lt;/a1&gt; - &lt;a2&gt;LCase()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015700Z" creationid="MysticBoy" creationdate="20160810T015700Z">
@@ -4823,10 +4831,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#PB_Window_NoActivate&lt;/f0&gt;    : the window will be shown but not activated (only valid when un-hiding the window).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053331Z" creationid="MysticBoy" creationdate="20160915T053331Z">
+        <seg>&lt;f0&gt;#PB_Window_NoActivate&lt;/f0&gt; : 窗口将会显示，但不是激活 (仅在未隐藏时有效窗口)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;#True&lt;/f0&gt; : the window is disabled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052901Z" creationid="MysticBoy" creationdate="20160915T052901Z">
         <seg>&lt;f0&gt;#True&lt;/f0&gt; ︰ 禁用窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#True&lt;/f0&gt; : the window is hidden.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053233Z" creationid="MysticBoy" creationdate="20160915T053233Z">
+        <seg>&lt;f0&gt;#True&lt;/f0&gt; : 隐藏窗口.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5055,6 +5079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#False&lt;/f1&gt;: the window is shown.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053241Z" creationid="MysticBoy" creationdate="20160915T053241Z">
+        <seg>&lt;f1&gt;#False&lt;/f1&gt;: 显示窗口.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;#PB_AntialiasingMode_x2&lt;/f1&gt;  : x2 fullscreen antialiasing (FSAA).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T010830Z" creationid="MysticBoy" creationdate="20160801T010830Z">
@@ -5147,6 +5179,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jane" changedate="20160728T153549Z" creationid="jane" creationdate="20160728T153549Z">
         <seg>&lt;f1&gt;#PB_Window_InnerCoordinate&lt;/f1&gt;: y 位置的窗口内区域 （在这里可以添加小工具），</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#PB_Window_ScreenCentered&lt;/f1&gt;: the window will be screen centered (only valid when un-hiding the window).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053335Z" creationid="MysticBoy" creationdate="20160915T053335Z">
+        <seg>&lt;f1&gt;#PB_Window_ScreenCentered&lt;/f1&gt;︰ 窗外将是屏幕居中 (仅在未隐藏时有效窗口)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5259,6 +5299,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T070736Z" creationid="lansn-lan" creationdate="20160729T070736Z">
         <seg>&lt;f2&gt;#PB_UTF8&lt;/f2&gt;    : 字符串将以 UTF8 格式写入.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f2&gt;#PB_Window_WindowCentered&lt;/f2&gt;: the window will be window centered (only valid when un-hiding the window).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053343Z" creationid="MysticBoy" creationdate="20160915T053343Z">
+        <seg>&lt;f2&gt;#PB_Window_WindowCentered&lt;/f2&gt;︰ 窗外将是中心的窗口 (仅当未隐藏时有效窗口)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14223,6 +14271,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The window is automatically activated (gets the focus),</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053300Z" creationid="MysticBoy" creationdate="20160915T053300Z">
+        <seg>自动激活窗口 （在获得焦点时），</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The window to close.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052735Z" creationid="MysticBoy" creationdate="20160915T052735Z">
@@ -17187,6 +17243,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T174208Z" creationid="MysticBoy" creationdate="20160723T174208Z">
         <seg>软件,计算机,编程,编译器,语言,basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unless the &lt;f2&gt;#PB_Window_NoActivate&lt;/f2&gt; flag is set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053318Z" creationid="MysticBoy" creationdate="20160915T053318Z">
+        <seg>除非设置了 &lt;f2&gt;#PB_Window_NoActivate&lt;/f2&gt; 标志.</seg>
       </tuv>
     </tu>
     <tu>
