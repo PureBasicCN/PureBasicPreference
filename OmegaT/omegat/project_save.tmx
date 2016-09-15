@@ -1838,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;Plot()&lt;/a0&gt; - &lt;a1&gt;2DDrawing Index&lt;/a1&gt; - &lt;a2&gt;RGB()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052642Z" creationid="MysticBoy" creationdate="20160915T052642Z">
+        <seg>&lt;- &lt;a0&gt;Plot()&lt;/a0&gt; - &lt;a1&gt;2DDrawing 索引&lt;/a1&gt; - &lt;a2&gt;RGB()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;WindowOutput()&lt;/a0&gt; - &lt;a1&gt;Window Index&lt;/a1&gt; - &lt;a2&gt;WindowWidth()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T030103Z" creationid="MysticBoy" creationdate="20160801T030103Z">
@@ -8061,6 +8069,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For performance reasons there are no bounds checks performed on these coordinates, the specified coordinates must be inside the current drawing area.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052651Z" creationid="MysticBoy" creationdate="20160915T052651Z">
+        <seg>出于性能的原因有没有界限检查这些坐标上执行，指定的坐标必须在当前绘图区域内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the experienced coder, there are no problems gaining access to any of the legal OS structures or API objects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T035728Z" creationid="MysticBoy" creationdate="20160810T035728Z">
@@ -9851,6 +9867,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that PureBasic provides a far easier way of getting this particular job done already - the &lt;a3&gt;ExplorerListGadget()&lt;/a3&gt;; but, as the example is intended to introduce managing GUI elements, using that gadget would defeat this object a bit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052412Z" creationid="MysticBoy" creationdate="20160915T052412Z">
+        <seg>注释 that PureBasic provides a far easier way of getting this particular 作业 done already - the &lt;a3&gt;ExplorerListGadget()&lt;/a3&gt;; but, as the example is intended to introduce managing GUI elements, using that 小工具 would defeat this 对象 a 比特.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that many of the Edit menu items are also accessible by right clicking on the source code, which opens a popup menu.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T081705Z" creationid="漂流瓶儿" creationdate="20160801T081705Z">
@@ -10308,6 +10332,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise the alpha component of the color is set to 0.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052615Z" creationid="MysticBoy" creationdate="20160915T052615Z">
+        <seg>否则将颜色的 alpha 分量设置为 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Otherwise the code will be saved in the file it was saved in before.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160726T054835Z" creationid="MysticBoy" creationdate="20160726T054311Z">
@@ -10368,6 +10400,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T152357Z" creationid="MysticBoy" creationdate="20160813T151733Z">
         <seg>关于中文帮助，请访问 http://www.purebasic.cn   请发送错误报告，建议，改进，例子的源码，或者如果你只是想与我们交谈，请访问下列地址：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Point</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052417Z" creationid="MysticBoy" creationdate="20160915T052417Z">
+        <seg>点</seg>
       </tuv>
     </tu>
     <tu>
@@ -10972,6 +11012,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return the color of a pixel in the current output.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052522Z" creationid="MysticBoy" creationdate="20160915T052522Z">
+        <seg>返回当前输出中指定的某个像素的颜色.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return the first character value of the specified string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T013806Z" creationid="MysticBoy" creationdate="20160810T013806Z">
@@ -11104,6 +11152,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T020540Z" creationid="MysticBoy" creationdate="20160810T020540Z">
         <seg>返回字符串的字符长度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns the color of the specified pixel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052555Z" creationid="MysticBoy" creationdate="20160915T052555Z">
+        <seg>返回指定像素的颜色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13303,6 +13359,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The location of the pixel in the output.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052545Z" creationid="MysticBoy" creationdate="20160915T052545Z">
+        <seg>在输出中像素的位置.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The location of the startpoint of the line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160723T135218Z" creationid="MysticBoy" creationdate="20160723T135218Z">
@@ -14471,10 +14535,34 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This color will only contain alpha information if the output has a 32-bit color depth and the current &lt;a2&gt;DrawingMode()&lt;/a2&gt; is set to one of the alpha channel modes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052602Z" creationid="MysticBoy" creationdate="20160915T052602Z">
+        <seg>如果输出具有 32 位颜色深度和当前的&lt;a2&gt;DrawingMode()&lt;/a2&gt;设置为 alpha 通道模式之一，这种颜色将只包含 alpha 信息.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This command also works in &lt;a3&gt;Unicode mode&lt;/a3&gt; and then returns the related characters associated to the given value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160810T015104Z" creationid="MysticBoy" creationdate="20160810T015104Z">
         <seg>此命令还可以在&lt;a3&gt;Unicode 模式下&lt;/a3&gt;工作，然后返回与指定值相关联的字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This command does not work with &lt;a0&gt;PrinterOutput()&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052639Z" creationid="MysticBoy" creationdate="20160915T052639Z">
+        <seg>此命令不能与&lt;a0&gt;PrinterOutput()&lt;/a0&gt;同时使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This command is also not affected by calls to &lt;a4&gt;ClipOutput()&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052702Z" creationid="MysticBoy" creationdate="20160915T052702Z">
+        <seg>通过对&lt;a4&gt;ClipOutput()&lt;/a4&gt;的调用此命令也不受影响。</seg>
       </tuv>
     </tu>
     <tu>
