@@ -3992,6 +3992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b25&gt;&lt;f26&gt;Debug&lt;/f26&gt;&lt;/b25&gt; "Window is visible."</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053411Z" creationid="MysticBoy" creationdate="20160915T053411Z">
+        <seg>&lt;b25&gt;&lt;f26&gt;Debug&lt;/f26&gt;&lt;/b25&gt; "窗口是可见的."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b25&gt;&lt;f26&gt;Debug&lt;/f26&gt;&lt;/b25&gt; &lt;f27&gt;#MyConstantD&lt;/f27&gt;   &lt;f28&gt;; will be 10&lt;/f28&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160803T014635Z" creationid="lansn-lan" creationdate="20160803T014635Z">
