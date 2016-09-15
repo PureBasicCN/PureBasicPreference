@@ -1798,10 +1798,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;GetWindowState()&lt;/a0&gt; - &lt;a1&gt;Window Index&lt;/a1&gt; - &lt;a2&gt;HideWindow()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053943Z" creationid="MysticBoy" creationdate="20160915T053943Z">
+        <seg>&lt;- &lt;a0&gt;GetWindowState()&lt;/a0&gt; - &lt;a1&gt;Window 索引&lt;/a1&gt; - &lt;a2&gt;HideWindow()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;GetWindowTitle()&lt;/a0&gt; - &lt;a1&gt;Window Index&lt;/a1&gt; - &lt;a2&gt;IsWindow()&lt;/a2&gt; -&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053351Z" creationid="MysticBoy" creationdate="20160915T053351Z">
-        <seg>&lt;- &lt;a0&gt;GetWindowTitle()&lt;/a0&gt; - &lt;a1&gt;Windows 索引&lt;/a1&gt; - &lt;a2&gt;IsWindow()&lt;/a2&gt; -&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053857Z" creationid="MysticBoy" creationdate="20160915T053351Z">
+        <seg>&lt;- &lt;a0&gt;GetWindowTitle()&lt;/a0&gt; - &lt;a1&gt;Windows 索引 &lt;/a1&gt; - &lt;a2&gt;IsWindow()&lt;/a2&gt; -&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1816,8 +1824,8 @@
       <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;HideWindow()&lt;/a0&gt; - &lt;a1&gt;Window Index&lt;/a1&gt; - &lt;a2&gt;OpenWindow()&lt;/a2&gt; -&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053801Z" creationid="MysticBoy" creationdate="20160915T053801Z">
-        <seg>&lt;- &lt;a0&gt;HideWindow()&lt;/a0&gt; - &lt;a1&gt;Windows 索引&lt;/a1&gt; - &lt;a2&gt;OpenWindow()&lt;/a2&gt; -&gt;</seg>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053837Z" creationid="MysticBoy" creationdate="20160915T053801Z">
+        <seg>&lt;- &lt;a0&gt;HideWindow()&lt;/a0&gt; - &lt;a1&gt;Window 索引&lt;/a1&gt; - &lt;a2&gt;OpenWindow()&lt;/a2&gt; -&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11540,6 +11548,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the text currently displayed in the specified window's title bar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053909Z" creationid="MysticBoy" creationdate="20160915T053909Z">
+        <seg>返回当前在指定的窗口的标题栏中显示的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the unique system identifier of the serial port.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T062837Z" creationid="lansn-lan" creationdate="20160729T062837Z">
@@ -14179,6 +14195,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160721T105844Z" creationid="MysticBoy" creationdate="20160721T105844Z">
         <seg>语法很简单，但具有无限可能的PureBasic的高级功能，如指针，结构，程序，动态链接列表等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The text currently displayed in the specified window's title bar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053929Z" creationid="MysticBoy" creationdate="20160915T053929Z">
+        <seg>目前在指定的窗口的标题栏中显示的文本。</seg>
       </tuv>
     </tu>
     <tu>
