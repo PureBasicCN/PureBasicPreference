@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;BindEvent()&lt;/a0&gt; - &lt;a1&gt;Window Index&lt;/a1&gt; - &lt;a2&gt;DisableWindow()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052832Z" creationid="MysticBoy" creationdate="20160915T052832Z">
+        <seg>&lt;- &lt;a0&gt;BindEvent()&lt;/a0&gt; - &lt;a1&gt;Windows 索引&lt;/a1&gt; - &lt;a2&gt;DisableWindow()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;Blue()&lt;/a0&gt; - &lt;a1&gt;2DDrawing Index&lt;/a1&gt; - &lt;a2&gt;BoxedGradient()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T151533Z">
@@ -6361,6 +6369,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All remaining opened windows are automatically closed when the program ends.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052825Z" creationid="MysticBoy" creationdate="20160915T052825Z">
+        <seg>所有剩余的已打开窗口在程序结束时自动关闭.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All suggestions, bug reports, etc. should be sent to him at either address shown below:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160813T152241Z" creationid="MysticBoy" creationdate="20160813T151739Z">
@@ -6881,6 +6897,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141121T111814Z">
         <seg>使用&lt;a0&gt;OpenConsole()&lt;/a0&gt;打开控制台窗口前请先关闭先前的控制台窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close the specified window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052726Z" creationid="MysticBoy" creationdate="20160915T052726Z">
+        <seg>关闭指定的窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8417,6 +8441,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081349Z" creationid="lansn-lan" creationdate="20160729T081349Z">
         <seg>如果参数 &lt;f0&gt;#PB_All&lt;/f0&gt; 被指定, 所有剩余的串行端口都被释放.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If &lt;f0&gt;#PB_All&lt;/f0&gt; is specified, all the remaining windows are closed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052759Z" creationid="MysticBoy" creationdate="20160915T052759Z">
+        <seg>如果指定&lt;f0&gt;#PB_All&lt;/f0&gt; ，则所有剩余的窗口都将关闭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14163,6 +14195,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141124T134911Z" creationid="oSilas" creationdate="20141124T134911Z">
         <seg>控制太重的垂直位置（从0开始）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The window to close.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052735Z" creationid="MysticBoy" creationdate="20160915T052735Z">
+        <seg>将要关闭的窗口.</seg>
       </tuv>
     </tu>
     <tu>
