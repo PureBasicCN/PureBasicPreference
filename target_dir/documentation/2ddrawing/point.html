@@ -1,5 +1,5 @@
 <html><head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Point</title></head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>点</title></head>
 <body bgcolor="#EFF1F0" link="#3A3966" vlink="#000000" alink="#000000">
 <font face="Verdana, sans-serif" size="2"><p align="center"><b><font size="4">Point()</font></b></p>
 <p><b>语法</b></p><blockquote>
@@ -9,11 +9,7 @@ Color = <font color="#3A3966"><b>Point</b></font>(x, y)</blockquote>
 </blockquote>
 <b>概要</b><br><blockquote>
 
-
-
-Return the color of a pixel in the current output. 
-
- 
+返回当前输出中指定的某个像素的颜色. 
 
 </blockquote><p><b>参数</b></p><blockquote>
 <style type="text/css">
@@ -23,45 +19,23 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <table width="90%" class="parameters">
 <tr><td width="10%"><i>x, y</i></td>
 <td width="90%"> 
- 
-The location of the pixel in the output. 
-<br>
-<br>
-For performance reasons there are no bounds checks performed on these coordinates, the specified 
-coordinates must be inside the current drawing area. <a href="outputwidth.html">OutputWidth()</a> and 
-<a href="outputheight.html">OutputHeight()</a> can be used to verify that. This command is also not affected by calls to 
-<a href="clipoutput.html">ClipOutput()</a>. 
-
- 
+在输出中像素的位置. <br><br>出于性能的原因有没有界限检查这些坐标上执行，指定的坐标必须在当前绘图区域内。<a href="outputwidth.html">OutputWidth()</a> and <a href="outputheight.html">OutputHeight()</a> can be used to verify that. 通过对<a href="clipoutput.html">ClipOutput()</a>的调用此命令也不受影响。 
 
 </td></tr>
 </table>
 </blockquote><p><b>返回值</b></p><blockquote>
 
-
-
-Returns the color of the specified pixel. 
-<br>
-<br>
-This color will only contain alpha information if the output has a 32-bit color depth and the 
-current <a href="drawingmode.html">DrawingMode()</a> is set to one of the alpha channel modes. Otherwise the alpha component 
-of the color is set to 0. 
-
- 
+返回指定像素的颜色。<br><br>如果输出具有 32 位颜色深度和当前的<a href="drawingmode.html">DrawingMode()</a>设置为 alpha 通道模式之一，这种颜色将只包含 alpha 信息. 否则将颜色的 alpha 分量设置为 0. 
 
 </blockquote><p><b>备注</b></p><blockquote>
 
-
-
-This command does not work with <a href="../printer/printeroutput.html">PrinterOutput()</a>. 
-
- 
+此命令不能与<a href="../printer/printeroutput.html">PrinterOutput()</a>同时使用。 
 
 </blockquote><p><b>参阅</b></p><blockquote>
 
 <a href="plot.html">Plot()</a>, <a href="red.html">Red()</a>, <a href="green.html">Green()</a>, 
 <a href="blue.html">Blue()</a>, <a href="alpha.html">Alpha()</a> 
 
-</Blockquote><p><b>已支持操作系统 </b><Blockquote>所有</Blockquote></p><center>&lt;- <a href=plot.html>Plot()</a> - <a href="index.html">2DDrawing Index</a> - <a href="rgb.html">RGB()</a> -&gt;<br><br>
+</Blockquote><p><b>已支持操作系统 </b><Blockquote>所有</Blockquote></p><center>&lt;- <a href=plot.html>Plot()</a> - <a href="index.html">2DDrawing 索引</a> - <a href="rgb.html">RGB()</a> -&gt;<br><br>
 
 </body></html>

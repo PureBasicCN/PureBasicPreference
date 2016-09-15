@@ -28,18 +28,18 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 <tr><td><i>State</i></td>
 <td> 
 它可以是下列值之一︰ 
-<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#True</font> : the window is hidden.
-  <font color="#924B72">#False</font>: the window is shown. The window is automatically activated (gets the focus),
-          unless the <font color="#924B72">#PB_Window_NoActivate</font> flag is set.
+<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#True</font> : 隐藏窗口.
+  <font color="#924B72">#False</font>: 显示窗口. 自动激活窗口 （在获得焦点时），
+          除非设置了 <font color="#924B72">#PB_Window_NoActivate</font> 标志.
 </font></pre>
 
 </td></tr>
 <tr><td><i>Flags</i></td>
 <td> 
 可以是下列值的组合︰ 
-<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_Window_NoActivate</font>    : the window will be shown but not activated (only valid when un-hiding the window).
-  <font color="#924B72">#PB_Window_ScreenCentered</font>: the window will be screen centered (only valid when un-hiding the window).
-  <font color="#924B72">#PB_Window_WindowCentered</font>: the window will be window centered (only valid when un-hiding the window).
+<pre><font face="Courier New, Courier, mono"size="2">  <font color="#924B72">#PB_Window_NoActivate</font> : 窗口将会显示，但不是激活 (仅在未隐藏时有效窗口)。
+  <font color="#924B72">#PB_Window_ScreenCentered</font>︰ 窗外将是屏幕居中 (仅在未隐藏时有效窗口)。
+  <font color="#924B72">#PB_Window_WindowCentered</font>︰ 窗外将是中心的窗口 (仅当未隐藏时有效窗口)。
 </font></pre>
 
 </td></tr>
@@ -67,7 +67,7 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
              <b><font color="#3A3966">Debug</font></b> "Window hidden."
 <font color="#3A3966">             MessageRequester</font>("Info", "Press OK to show the window")
 <font color="#3A3966">             HideWindow</font>(0, <font color="#924B72">#False</font>)
-             <b><font color="#3A3966">Debug</font></b> "Window is visible."
+             <b><font color="#3A3966">Debug</font></b> "窗口是可见的."
                               
            <b><font color="#3A3966">EndSelect</font></b>
             
@@ -80,6 +80,6 @@ table.parameters td { border-width: 1px; padding: 6px; border-style: solid; bord
 
 <a href="openwindow.html">OpenWindow()</a> 
 
-</Blockquote><p><b>已支持操作系统 </b><Blockquote>所有</Blockquote></p><center>&lt;- <a href=getwindowtitle.html>GetWindowTitle()</a> - <a href="index.html">Window Index</a> - <a href="iswindow.html">IsWindow()</a> -&gt;<br><br>
+</Blockquote><p><b>已支持操作系统 </b><Blockquote>所有</Blockquote></p><center>&lt;- <a href=getwindowtitle.html>GetWindowTitle()</a> - <a href="index.html">Windows 索引 </a> - <a href="iswindow.html">IsWindow()</a> -&gt;<br><br>
 
 </body></html>
