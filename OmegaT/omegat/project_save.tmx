@@ -4823,6 +4823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;#True&lt;/f0&gt; : the window is disabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052901Z" creationid="MysticBoy" creationdate="20160915T052901Z">
+        <seg>&lt;f0&gt;#True&lt;/f0&gt; ︰ 禁用窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;; 'Angle' and 'Position' will be a float, as they didn't have a specified type&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160801T065759Z" creationid="MysticBoy" creationdate="20160801T065759Z">
@@ -5035,6 +5043,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043805Z" creationid="oSilas" creationdate="20150312T043805Z">
         <seg>&lt;f19&gt;;32 位 RGB，有或无颠倒的 Y 坐标&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;#False&lt;/f1&gt;: The window is enabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052904Z" creationid="MysticBoy" creationdate="20160915T052904Z">
+        <seg>&lt;f1&gt;#False&lt;/f1&gt;︰ 已启用的窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7681,6 +7697,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20151013T052154Z" creationid="oSilas" creationdate="20151013T052154Z">
         <seg>编辑器 - 折叠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables or disables user input to the specified Window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052853Z" creationid="MysticBoy" creationdate="20160915T052853Z">
+        <seg>启用或禁用指定窗口的用户输入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14203,6 +14227,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052735Z" creationid="MysticBoy" creationdate="20160915T052735Z">
         <seg>将要关闭的窗口.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The window to disable or enable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T052857Z" creationid="MysticBoy" creationdate="20160915T052857Z">
+        <seg>要启用或禁用窗口。</seg>
       </tuv>
     </tu>
     <tu>
