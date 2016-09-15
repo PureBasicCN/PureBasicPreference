@@ -11196,6 +11196,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns nonzero if #Window is a valid window and zero otherwise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053524Z" creationid="MysticBoy" creationdate="20160915T053524Z">
+        <seg>返回非零值，如果 #Window 是一个有效的窗口，否则为返回零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns nonzero if the regular expression was created successfully and zero if not.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Morler" changedate="20160811T064650Z" creationid="Morler" creationdate="20160811T064650Z">
@@ -14823,6 +14831,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This function is bulletproof and can be used with any value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053703Z" creationid="MysticBoy" creationdate="20160915T053703Z">
+        <seg>此函数是保险的并且可以与任何值一起使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This function is bulletproof and may be used with any value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044047Z" creationid="lansn-lan" creationdate="20160729T043745Z">
@@ -16291,6 +16307,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T091833Z" creationid="MysticBoy" creationdate="20160725T091833Z">
         <seg>为什么 Windows API 说明不包含在 PureBasic 文档中 ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053415Z" creationid="MysticBoy" creationdate="20160915T053415Z">
+        <seg>窗口</seg>
       </tuv>
     </tu>
     <tu>
