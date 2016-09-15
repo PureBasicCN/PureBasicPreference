@@ -1814,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;HideWindow()&lt;/a0&gt; - &lt;a1&gt;Window Index&lt;/a1&gt; - &lt;a2&gt;OpenWindow()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053801Z" creationid="MysticBoy" creationdate="20160915T053801Z">
+        <seg>&lt;- &lt;a0&gt;HideWindow()&lt;/a0&gt; - &lt;a1&gt;Windows 索引&lt;/a1&gt; - &lt;a2&gt;OpenWindow()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;Input()&lt;/a0&gt; - &lt;a1&gt;Console Index&lt;/a1&gt; - &lt;a2&gt;Print()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160720T082711Z" creationid="MysticBoy" creationdate="20160720T082711Z">
@@ -8709,6 +8717,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the 'Result' is not zero then the object is valid and initialized, otherwise it will equal zero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053742Z" creationid="MysticBoy" creationdate="20160915T053742Z">
+        <seg>如果 'Result'是非零则对象 是 有效的 并初始化了的，否则它将等于零.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the array is resized larger, its original contents will be preserved.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160802T081445Z" creationid="lansn-lan" creationdate="20160802T081342Z">
@@ -14931,6 +14947,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T044302Z" creationid="lansn-lan" creationdate="20160729T044001Z">
         <seg>这是确保串口可用的正确方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the correct way to ensure a window is ready to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053755Z" creationid="MysticBoy" creationdate="20160915T053755Z">
+        <seg>这是确保一个窗口是准备好要使用的正确途径。</seg>
       </tuv>
     </tu>
     <tu>
