@@ -29,3 +29,4 @@ Updated	已更新
 Changed	已更改
 Removed	已移除
 Fixed	已修正
+Window Index	Windows 索引
