@@ -3,7 +3,7 @@
 pages:
   stage: deploy
   script:
-  - target_dir\documentation\PureBasic_chs.cmd
+  - target_dir\documentation\hhc.exe  PureBasic_chs.hhp
   - cp target_dir\documentation\PureBasic_chs.chm   PureBasic_chs.chm
   artifacts:
     paths:
