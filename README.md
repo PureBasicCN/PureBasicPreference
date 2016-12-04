@@ -13,7 +13,7 @@
  -  原始视频也可以从 项目附件中下载 https://git.oschina.net/PureBasic/PureBasicPreference/attach_files 一共有三个压缩包！
 
 
-###   翻译结果    [点这里下载 ](https://gitclub.cn/purebasic/PureBasicPreference/builds/artifacts/master/download?job=pages)
+###   翻译结果 [![build status](https://gitclub.cn/purebasic/PureBasicPreference/badges/master/build.svg)](https://gitclub.cn/purebasic/PureBasicPreference/commits/master)     [点这里下载 ](https://gitclub.cn/purebasic/PureBasicPreference/builds/artifacts/master/download?job=pages)
 
 # 致谢： 
 
