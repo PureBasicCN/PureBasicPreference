@@ -12,6 +12,9 @@
  -  腾讯视频教程       [http://v.qq.com/x/page/u0316s3ctnr.html](http://v.qq.com/x/page/u0316s3ctnr.html)
  -  原始视频也可以从 项目附件中下载 https://git.oschina.net/PureBasic/PureBasicPreference/attach_files 一共有三个压缩包！
 
+
+###   翻译结果    [点这里下载 ](https://gitclub.cn/purebasic/PureBasicPreference/builds/artifacts/master/download?job=pages)
+
 # 致谢： 
 
  - 小半头砖 waitfordawn@qq.com   《PureBasic入门与提高》作者 ， 帮助文档翻译
