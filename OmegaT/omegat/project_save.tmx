@@ -6337,6 +6337,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adds a new timer to the specified window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20161205T071726Z" creationid="MysticBoy" creationdate="20161205T071726Z">
+        <seg>添加一个新计时器到指定窗口.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adds the currently active source code to the current project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T142840Z" creationid="漂流瓶儿" creationdate="20160801T142840Z">
@@ -7593,6 +7601,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T052710Z" creationid="漂流瓶儿" creationdate="20160811T052710Z">
         <seg>设备控制 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display the given string on the current output at the given x,y position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20161205T071556Z" creationid="MysticBoy" creationdate="20161205T071556Z">
+        <seg>将指定的字符串显示在当前输出上指定的位置.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13082,6 +13098,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T041436Z" creationid="oSilas" creationdate="20141128T041436Z">
         <seg>此坐标不受调用 &lt;a2&gt;SetOrigin()&lt;/a2&gt; 或 &lt;a3&gt;ClipOutput()&lt;/a3&gt;的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current output is set with &lt;a0&gt;StartDrawing()&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20161205T071623Z" creationid="MysticBoy" creationdate="20161205T071623Z">
+        <seg>当前输出使用 &lt;a0&gt;StartDrawing()&lt;/a0&gt;设置.</seg>
       </tuv>
     </tu>
     <tu>
