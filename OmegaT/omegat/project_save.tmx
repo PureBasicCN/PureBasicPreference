@@ -1742,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;- &lt;a0&gt;DrawRotatedText()&lt;/a0&gt; - &lt;a1&gt;2DDrawing Index&lt;/a1&gt; - &lt;a2&gt;DrawingBuffer()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20161205T071038Z" creationid="MysticBoy" creationdate="20161205T071038Z">
+        <seg>&lt;- &lt;a0&gt;DrawRotatedText()&lt;/a0&gt; - &lt;a1&gt;2DDrawing 索引&lt;/a1&gt; - &lt;a2&gt;DrawingBuffer()&lt;/a2&gt; -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;- &lt;a0&gt;DrawText()&lt;/a0&gt; - &lt;a1&gt;2DDrawing Index&lt;/a1&gt; - &lt;a2&gt;DrawingBufferPitch()&lt;/a2&gt; -&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T043150Z" creationid="oSilas" creationdate="20150312T043150Z">
@@ -8261,6 +8269,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FrontColor (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20161205T070927Z" creationid="MysticBoy" creationdate="20161205T070927Z">
+        <seg>FrontColor (可选)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frédéric Laboureur</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160725T093008Z" creationid="MysticBoy" creationdate="20160725T084638Z">
@@ -11444,6 +11460,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Returns the new x position of the text cursor (ie the location just after the printed text).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20161205T071033Z" creationid="MysticBoy" creationdate="20161205T071033Z">
+        <seg>返回最新的文本光标X位置 (即已打印文本后面的位置).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns the number of groups defined in the #RegularExpression.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="KKK" changedate="20160811T015751Z" creationid="KKK" creationdate="20160811T015751Z">
@@ -12845,6 +12869,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The color to be used for the background.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20161205T071048Z" creationid="MysticBoy" creationdate="20161205T071048Z">
+        <seg>要用于背景的颜色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The color to be used for the box.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141128T031701Z" creationid="oSilas" creationdate="20141128T031701Z">
@@ -13507,6 +13539,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20141122T041759Z" creationid="oSilas" creationdate="20141122T041759Z">
         <seg>在该位置应用当前&lt;a0&gt;背景颜色&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The location at which to draw the text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20161205T070910Z" creationid="MysticBoy" creationdate="20161205T070910Z">
+        <seg>用来绘制文本的位置.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14219,6 +14259,14 @@ OR 性能 OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20160915T053929Z" creationid="MysticBoy" creationdate="20160915T053929Z">
         <seg>目前在指定的窗口的标题栏中显示的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The text to draw.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20161205T070920Z" creationid="MysticBoy" creationdate="20161205T070920Z">
+        <seg>要绘制的文本。.</seg>
       </tuv>
     </tu>
     <tu>
