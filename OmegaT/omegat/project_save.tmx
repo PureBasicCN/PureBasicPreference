@@ -6715,6 +6715,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BackColor (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20161205T071258Z" creationid="MysticBoy" creationdate="20161205T071258Z">
+        <seg>BackColor (可选)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Backspace.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160811T044210Z" creationid="漂流瓶儿" creationdate="20160811T044210Z">
@@ -8565,6 +8573,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If &lt;a0&gt;DrawingMode()&lt;/a0&gt; is set to non-transparent background and the current drawing mode uses the alpha channel then the text is first blended onto the background and then applied to the drawing output.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20161205T071505Z" creationid="MysticBoy" creationdate="20161205T071505Z">
+        <seg>如果If &lt;a0&gt;DrawingMode()&lt;/a0&gt; 设置为不透明背景并且当前绘制模式使用Alpha 通道那么文本将首先混合到背景上然后应用到绘制输出.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If &lt;f0&gt;#PB_All&lt;/f0&gt; is specified, all the remaining serial ports are freed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lansn-lan" changedate="20160729T081349Z" creationid="lansn-lan" creationdate="20160729T081349Z">
@@ -8781,6 +8797,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the current &lt;a3&gt;DrawingMode()&lt;/a3&gt; includes the &lt;f4&gt;#PB_2DDrawing_Transparent&lt;/f4&gt; flag, then this parameter is ignored and the background is transparent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20161205T071345Z" creationid="MysticBoy" creationdate="20161205T071345Z">
+        <seg>如果当前 &lt;a3&gt;DrawingMode()&lt;/a3&gt; 包含 &lt;f4&gt;#PB_2DDrawing_Transparent&lt;/f4&gt; 标志,那么次参数将会忽略并且背景是透明的.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the cursor is currently on a keyword such as "If" this menu option jumps directly to the keyword that matches it (in this case "EndIf").</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="漂流瓶儿" changedate="20160801T084858Z" creationid="漂流瓶儿" creationdate="20160801T084827Z">
@@ -8937,6 +8961,14 @@ PureBasic 是一个原生 32 位 和 64 位 BASIC 编译器.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="oSilas" changedate="20150312T045239Z" creationid="oSilas" creationdate="20150312T045239Z">
         <seg>如果设置了此标志&lt;a0&gt;DrawText()&lt;/a0&gt;函数输出的背景将透明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this parameter is not specified, the default color set with &lt;a0&gt;BackColor()&lt;/a0&gt; will be used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="MysticBoy" changedate="20161205T071254Z" creationid="MysticBoy" creationdate="20161205T071254Z">
+        <seg>如果未指定此参数，j将使用&lt;a0&gt;BackColor()&lt;/a0&gt;作为默认颜色。</seg>
       </tuv>
     </tu>
     <tu>
